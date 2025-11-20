@@ -54,7 +54,7 @@ jobs:
             --inplace \
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
-            "notebooks/parlay helper.ipynb"
+              "notebooks/parlay helper.ipynb"
 
 
 
