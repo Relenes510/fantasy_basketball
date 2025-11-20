@@ -4,10 +4,10 @@ permissions:
   contents: write
 
 on:
-  workflow_dispatch:  
-  schedule:
-    - cron: '5 * * * *' 
-
+  workflow_dispatch:  # manual trigger
+  repository_dispatch:  # triggered by API
+    types: [update-tables]
+    
 jobs:
   execute-notebook:
     runs-on: ubuntu-latest
