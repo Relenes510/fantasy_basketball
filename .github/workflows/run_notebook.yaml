@@ -35,6 +35,7 @@ jobs:
             --inplace \
             --ExecutePreprocessor.timeout=600 \
             "notebooks/parlay helper.ipynb"
+	    --ExecutePreprocessor.kernel_name=python3
 
       # 5. Upload executed notebook as artifact
       - name: Upload executed notebook
