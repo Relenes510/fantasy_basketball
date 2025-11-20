@@ -79,7 +79,7 @@ jobs:
           git push
 
       # 8. Clean up artifacts
-      - name: Delete artifacts
-        uses: jimschubert/delete-artifacts-action@v1
+      - uses: geekyeggo/delete-artifact@v5
         with:
-          run_id: ${{ github.run_id }}
+          name: |
+            tables/2025/*.csv
