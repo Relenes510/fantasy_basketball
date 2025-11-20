@@ -24,7 +24,7 @@ jobs:
 
       - name: Execute notebook
         run: |
-          jupyter nbconvert --to notebook --execute parlay helper.ipynb --output output.ipynb
+          jupyter nbconvert --to notebook --execute "notebooks/parlay helper.ipynb" --output output.ipynb
 
       - name: Upload executed notebook
         uses: actions/upload-artifact@v3
