@@ -68,6 +68,7 @@ jobs:
           path: |
             tables/2025/parlay_lines.csv
             tables/2025/parlay_stats.csv
+            tables/2025/*_season_gamelogs.csv
 
       # 8. Commit & push CSV updates back to repo
       - name: Commit updated CSVs back to repository
