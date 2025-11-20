@@ -41,6 +41,7 @@ jobs:
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/gamelog_retriever.ipynb"
+        continue-on-error: true
 
       # 5. Run the parlay notebook
       - name: Execute parlay notebook
