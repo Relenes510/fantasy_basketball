@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:  
   schedule:
-    - cron: '22 21 * * *' 
+    - cron: '23 21 * * *' 
 
 jobs:
   execute-notebook:
