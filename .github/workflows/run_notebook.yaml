@@ -80,6 +80,6 @@ jobs:
 
       # 8. Clean up artifacts
       - name: Delete artifacts
-        uses: dawidd6/action-delete-artifacts@v2
+        uses: jimschubert/delete-artifacts-action@v1
         with:
-          workflow_run_id: ${{ github.run_id }}
+          run_id: ${{ github.run_id }}
