@@ -1,12 +1,12 @@
 name: Run Jupyter Notebook
 
 permissions:
-  contents: write    # REQUIRED so workflow can push commits
+  contents: write
 
 on:
-  workflow_dispatch:       # Allows manual triggering from GitHub UI
+  workflow_dispatch:  
   schedule:
-    - cron: '20 21 * * *'  # Runs every day at 12:00 UTC; adjust as needed
+    - cron: '22 21 * * *' 
 
 jobs:
   execute-notebook:
