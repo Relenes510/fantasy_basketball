@@ -29,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install jupyter pandas numpy requests nbainjuries duckdb lxml html5lib bs4
+          pip install jupyter pandas numpy requests nbainjuries duckdb lxml html5lib bs4 cloudscraper
 
       # 4. Run the gamelog_retriever notebook
       - name: Execute gamelog notebook
