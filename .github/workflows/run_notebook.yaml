@@ -46,9 +46,15 @@ jobs:
 
 
       # 6. Upload output csv files as artifact
-      - name: Upload tables
-        uses: actions/upload-artifact@v4
-        with:
-          name: tables
-          path: tables/**/*.csv
+      - name: Execute notebook
+        run: |
+          jupyter nbconvert \
+            --to notebook \
+            --execute \
+            --inplace \
+            --ExecutePreprocessor.timeout=600 \
+            --ExecutePreprocessor.kernel_name=python3 \
+            "notebooks/parlay helper.ipynb"
+
+
 
