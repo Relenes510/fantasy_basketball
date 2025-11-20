@@ -64,6 +64,7 @@ jobs:
             tables/2025/parlay_stats.csv
             tables/2025/nba_schedule.csv
             tables/2025/*_season_gamelogs.csv
+        retention-days: 1
 
       # 7. Commit & push CSV updates back to repo
       - name: Commit updated CSVs back to repository
