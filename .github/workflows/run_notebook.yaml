@@ -1,33 +1,44 @@
-name: Run Fantasy Notebook
+name: Run Jupyter Notebook
 
 on:
+  workflow_dispatch:       # Allows manual triggering from GitHub UI
   schedule:
-    - cron: '23 8 * * *'
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 12 * * *'  # Runs every day at 12:00 UTC; adjust as needed
 
 jobs:
-  run-notebook:
+  execute-notebook:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout the repository
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
+      # 2. Set up Python
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
+      # 3. Install dependencies
       - name: Install dependencies
         run: |
-          pip install pandas numpy requests nbformat nbconvert jupyter nbainjuries
+          python -m pip install --upgrade pip
+          pip install jupyter pandas numpy requests nbainjuries
 
+      # 4. Run the notebook
       - name: Execute notebook
         run: |
-          jupyter nbconvert --to notebook --execute "notebooks/parlay helper.ipynb" --output output.ipynb
+          jupyter nbconvert \
+            --to notebook \
+            --execute \
+            --inplace \
+            --ExecutePreprocessor.timeout=600 \
+            "notebooks/parlay helper.ipynb"
 
+      # 5. Upload executed notebook as artifact
       - name: Upload executed notebook
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: executed-notebook
-          path: output.ipynb
+          path: "notebooks/parlay helper.ipynb"
