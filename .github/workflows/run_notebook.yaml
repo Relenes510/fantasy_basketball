@@ -29,18 +29,18 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install jupyter pandas numpy requests nbainjuries duckdb
+          pip install jupyter pandas numpy requests nbainjuries duckdb lxml bs4
 
       # 4. Run the gamelog_retriever notebook
-      # - name: Execute gamelog notebook
-      #   run: |
-      #     jupyter nbconvert \
-      #       --to notebook \
-      #       --execute \
-      #       --inplace \
-      #       --ExecutePreprocessor.timeout=600 \
-      #       --ExecutePreprocessor.kernel_name=python3 \
-      #       "notebooks/gamelog_retriever.ipynb"
+      - name: Execute gamelog notebook
+        run: |
+          jupyter nbconvert \
+            --to notebook \
+            --execute \
+            --inplace \
+            --ExecutePreprocessor.timeout=600 \
+            --ExecutePreprocessor.kernel_name=python3 \
+            "notebooks/gamelog_retriever.ipynb"
 
       # 5. Run the parlay notebook
       - name: Execute parlay notebook
