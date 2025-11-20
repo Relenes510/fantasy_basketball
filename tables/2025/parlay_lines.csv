@@ -54,7 +54,7 @@ Date,Team,Player,Pos,PTS_line,AST_line,REB_line,TPM_line,PA_line,PR_line,RA_line
 11/20/2025,ATL,Zaccharie Risacher,SF,11.5,1.5,2.5,1.5,13.5,14.5,4.5,16.5,,,
 11/20/2025,MEM,Zach Edey,C,12.5,,9.5,,,22.5,,,,1.5,
 11/20/2025,SAC,Zach LaVine,SG,18.5,2.5,3.5,2.5,21.5,22.5,5.5,25.5,,,
-11/21/2025,MIL,AJ Green,SG,9.5,2.5,2.5,2.5,12.5,13.5,5.5,15.5,,,
+11/21/2025,MIL,AJ Green,SG,10.5,2.5,2.5,2.5,12.5,13.5,5.5,15.5,,,
 11/21/2025,PHI,Andre Drummond,C,11.5,,12.5,,,24.5,,,,,
 11/21/2025,ORL,Anthony Black,PG,11.5,2.5,3.5,0.5,13.5,14.5,5.5,17.5,,,
 11/21/2025,MIL,Bobby Portis,PF,14.5,,7.5,1.5,,22.5,,,,,
@@ -74,7 +74,7 @@ Date,Team,Player,Pos,PTS_line,AST_line,REB_line,TPM_line,PA_line,PR_line,RA_line
 11/21/2025,LAC,Ivica Zubac,C,15.5,2.5,10.5,,18.5,26.5,12.5,29.5,0.5,0.5,1.5
 11/21/2025,ATL,Jalen Johnson,SF,22.5,6.5,9.5,1.5,29.5,31.5,16.5,38.5,1.5,0.5,1.5
 11/21/2025,ORL,Jalen Suggs,PG,14.5,4.5,4.5,1.5,19.5,18.5,9.5,23.5,1.5,,
-11/21/2025,LAC,James Harden,PG,27.5,8.5,6.5,3.5,35.5,33.5,14.5,41.5,0.5,,
+11/21/2025,LAC,James Harden,PG,27.5,7.5,6.5,3.5,35.5,33.5,14.5,41.5,0.5,,
 11/21/2025,MEM,Jaylen Wells,SG,12.5,1.5,3.5,1.5,14.5,15.5,5.5,17.5,,,
 11/21/2025,SAS,Jeremy Sochan,PF,8.5,2.5,5.5,,11.5,14.5,7.5,16.5,,,
 11/21/2025,MEM,Jock Landale,C,9.5,,5.5,,,14.5,,,,,
@@ -87,7 +87,7 @@ Date,Team,Player,Pos,PTS_line,AST_line,REB_line,TPM_line,PA_line,PR_line,RA_line
 11/21/2025,MEM,Kentavious Caldwell-Pope,SG,8.5,2.5,,1.5,11.5,,,,,,
 11/21/2025,LAC,Kris Dunn,PG,7.5,2.5,2.5,0.5,9.5,10.5,5.5,12.5,1.5,,
 11/21/2025,ATL,Kristaps Porzingis,C,16.5,2.5,5.5,1.5,19.5,22.5,8.5,25.5,0.5,1.5,1.5
-11/21/2025,MIL,Kyle Kuzma,PF,15.5,2.5,5.5,1.5,17.5,21.5,8.5,23.5,,,
+11/21/2025,MIL,Kyle Kuzma,PF,15.5,2.5,5.5,1.5,17.5,21.5,8.5,24.5,,,
 11/21/2025,SAS,Luke Kornet,C,9.5,2.5,8.5,,11.5,17.5,10.5,20.5,,1.5,
 11/21/2025,SAC,Malik Monk,SG,13.5,2.5,,1.5,15.5,,,18.5,0.5,,
 11/21/2025,MIL,Myles Turner,C,16.5,,7.5,2.5,,23.5,9.5,25.5,,1.5,
@@ -96,7 +96,7 @@ Date,Team,Player,Pos,PTS_line,AST_line,REB_line,TPM_line,PA_line,PR_line,RA_line
 11/21/2025,ATL,Onyeka Okongwu,C,14.5,2.5,7.5,1.5,16.5,21.5,9.5,24.5,,,
 11/21/2025,PHI,Paul George,PF,11.5,2.5,3.5,1.5,14.5,15.5,6.5,18.5,0.5,,
 11/21/2025,SAC,Precious Achiuwa,C,,,4.5,,,,,,,,
-11/21/2025,PHI,Quentin Grimes,SG,15.5,3.5,3.5,2.5,18.5,19.5,7.5,22.5,,,
+11/21/2025,PHI,Quentin Grimes,SG,15.5,3.5,3.5,2.5,18.5,18.5,7.5,22.5,,,
 11/21/2025,SAC,Russell Westbrook,SF,13.5,6.5,7.5,1.5,20.5,21.5,14.5,28.5,,,
 11/21/2025,MIL,Ryan Rollins,PG,20.5,5.5,4.5,2.5,26.5,24.5,10.5,30.5,1.5,,
 11/21/2025,MEM,Santi Aldama,PF,16.5,3.5,7.5,2.5,20.5,24.5,10.5,27.5,,,
