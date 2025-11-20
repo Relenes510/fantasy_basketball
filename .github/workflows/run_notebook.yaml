@@ -1,0 +1,33 @@
+name: Run Fantasy Notebook
+
+on:
+  schedule:
+    - cron: '23 8 * * *'
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  run-notebook:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas numpy requests nbformat nbconvert jupyter
+
+      - name: Execute notebook
+        run: |
+          jupyter nbconvert --to notebook --execute your_notebook.ipynb --output output.ipynb
+
+      - name: Upload executed notebook
+        uses: actions/upload-artifact@v3
+        with:
+          name: executed-notebook
+          path: output.ipynb
