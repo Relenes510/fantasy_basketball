@@ -7,7 +7,7 @@ on:
   workflow_dispatch:  # manual trigger
   repository_dispatch:  # triggered by API
     types: [update-tables]
-    
+
 jobs:
   execute-notebook:
     runs-on: ubuntu-latest
@@ -80,6 +80,6 @@ jobs:
 
       # 8. Clean up artifacts
       - name: Delete artifacts
-        uses: dawidd6/action-delete-artifacts@v3
+        uses: dawidd6/action-delete-artifacts@v2
         with:
           workflow_run_id: ${{ github.run_id }}
