@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:       # Allows manual triggering from GitHub UI
   schedule:
-    - cron: '0 12 * * *'  # Runs every day at 12:00 UTC; adjust as needed
+    - cron: '18 21 * * *'  # Runs every day at 12:00 UTC; adjust as needed
 
 jobs:
   execute-notebook:
@@ -54,14 +54,7 @@ jobs:
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/parlay helper.ipynb"
 
-      # 6. Upload executed notebook as artifact
-      - name: Upload executed notebook
-        uses: actions/upload-artifact@v4
-        with:
-          name: executed-notebook
-          path: "notebooks/parlay helper.ipynb"
-
-      # 7. Upload output csv files as artifact
+      # 6. Upload output csv files as artifact
       - name: Upload parlay outputs
         uses: actions/upload-artifact@v4
         with:
@@ -72,7 +65,7 @@ jobs:
             tables/2025/nba_schedule.csv
             tables/2025/*_season_gamelogs.csv
 
-      # 8. Commit & push CSV updates back to repo
+      # 7. Commit & push CSV updates back to repo
       - name: Commit updated CSVs back to repository
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -84,3 +77,9 @@ jobs:
           git diff --cached --quiet || git commit -m "Auto-update parlay CSV tables (GitHub Actions)"
 
           git push
+
+      # 8. Clean up artifacts
+      - name: Delete artifacts
+        uses: dawidd6/action-delete-artifacts@v3
+        with:
+          workflow_run_id: ${{ github.run_id }}
