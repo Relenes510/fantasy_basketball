@@ -26,14 +26,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install jupyter pandas numpy requests nbainjuries duckdb
 
-      - name: Debug — list all files
-        run: |
-          echo "Current directory:"
-          pwd
-          echo ""
-          echo "Files in repo:"
-          find . -type f | sort
-
       # 4. Run the notebook
       - name: Execute notebook
         run: |
@@ -52,9 +44,10 @@ jobs:
           path: "notebooks/parlay helper.ipynb"
 
 
-      - name: Upload CSV
+      # 6. Upload output csv files as artifact
+      - name: Upload tables
         uses: actions/upload-artifact@v4
         with:
-          name: parlay-lines
-          path: tables/**.csv
+          name: tables
+          path: tables/**/*.csv
 
