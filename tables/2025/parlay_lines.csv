@@ -73,7 +73,7 @@ Date,Team,Player,Pos,PTS_line,AST_line,REB_line,TPM_line,PA_line,PR_line,RA_line
 11/21/2025,GSW,Al Horford,C,7.5,,5.5,1.5,,12.5,,,,,
 11/21/2025,,Alexandre Sarr,,18.5,2.5,8.5,1.5,21.5,26.5,11.5,29.5,,,
 11/21/2025,HOU,Alperen Sengun,C,22.5,6.5,10.5,0.5,29.5,33.5,17.5,40.5,1.5,0.5,1.5
-11/21/2025,HOU,Amen Thompson,SF,16.5,5.5,6.5,0.5,22.5,23.5,11.5,28.5,1.5,0.5,2.5
+11/21/2025,HOU,Amen Thompson,SF,17.5,5.5,6.5,,22.5,23.5,11.5,28.5,1.5,0.5,2.5
 11/21/2025,IND,Andrew Nembhard,PG,16.5,6.5,2.5,1.5,23.5,19.5,9.5,25.5,,,
 11/21/2025,BOS,Anfernee Simons,SG,13.5,3.5,2.5,2.5,16.5,15.5,5.5,19.5,,,
 11/21/2025,MIN,Anthony Edwards,SG,28.5,4.5,4.5,3.5,32.5,33.5,9.5,37.5,1.5,0.5,1.5
@@ -117,7 +117,7 @@ Date,Team,Player,Pos,PTS_line,AST_line,REB_line,TPM_line,PA_line,PR_line,RA_line
 11/21/2025,OKC,Isaiah Hartenstein,C,11.5,2.5,9.5,,14.5,21.5,12.5,24.5,,,
 11/21/2025,IND,Isaiah Jackson,C,,,6.5,,,,,,,,
 11/21/2025,OKC,Isaiah Joe,SG,11.5,,2.5,2.5,,14.5,,,,,
-11/21/2025,HOU,Jabari Smith Jr.,PF,12.5,,6.5,1.5,14.5,19.5,7.5,20.5,,,
+11/21/2025,HOU,Jabari Smith Jr.,PF,12.5,,6.5,1.5,14.5,18.5,7.5,20.5,,,
 11/21/2025,MIN,Jaden McDaniels,PF,14.5,2.5,4.5,1.5,17.5,19.5,7.5,21.5,0.5,0.5,1.5
 11/21/2025,MIA,Jaime Jaquez Jr.,SF,19.5,5.5,6.5,0.5,25.5,26.5,12.5,32.5,,,
 11/21/2025,TOR,Jakob Poeltl,C,13.5,,9.5,,,23.5,,,,,
@@ -127,9 +127,9 @@ Date,Team,Player,Pos,PTS_line,AST_line,REB_line,TPM_line,PA_line,PR_line,RA_line
 11/21/2025,IND,Jarace Walker,PF,,,4.5,1.5,,,,,,,
 11/21/2025,CLE,Jarrett Allen,C,14.5,,8.5,,,22.5,,,,,
 11/21/2025,BOS,Jaylen Brown,SF,26.5,4.5,5.5,1.5,31.5,32.5,10.5,37.5,,,
-11/21/2025,CLE,Jaylon Tyson,SG,8.5,,4.5,1.5,,,,,,,
+11/21/2025,CLE,Jaylon Tyson,SG,8.5,,3.5,1.5,,,,,,,
 11/21/2025,POR,Jerami Grant,PF,19.5,,,2.5,,,,,,,
-11/21/2025,NOP,Jeremiah Fears,PG,15.5,2.5,3.5,1.5,17.5,18.5,5.5,20.5,,,
+11/21/2025,NOP,Jeremiah Fears,PG,15.5,2.5,3.5,1.5,17.5,18.5,5.5,21.5,,,
 11/21/2025,GSW,Jimmy Butler,SF,22.5,4.5,6.5,0.5,27.5,28.5,11.5,34.5,1.5,0.5,1.5
 11/21/2025,BOS,Jordan Walsh,PF,5.5,,,,,,,,,,
 11/21/2025,NOP,Jose Alvarado,PG,6.5,2.5,,1.5,9.5,,,,,,
@@ -179,6 +179,6 @@ Date,Team,Player,Pos,PTS_line,AST_line,REB_line,TPM_line,PA_line,PR_line,RA_line
 11/21/2025,BRK,Terance Mann,SG,9.5,3.5,3.5,0.5,12.5,12.5,6.5,15.5,,,
 11/21/2025,POR,Toumani Camara,PF,12.5,2.5,5.5,1.5,15.5,18.5,8.5,21.5,1.5,0.5,1.5
 11/21/2025,CHI,Tre Jones,PG,8.5,,,,,,,,,,
-11/21/2025,NOP,Trey Murphy III,SF,19.5,3.5,5.5,2.5,23.5,25.5,8.5,28.5,1.5,,
+11/21/2025,NOP,Trey Murphy III,SF,19.5,3.5,5.5,2.5,22.5,25.5,8.5,28.5,1.5,,
 11/21/2025,GSW,Will Richard,SG,7.5,1.5,2.5,,8.5,10.5,,11.5,,,
 11/21/2025,NOP,Zion Williamson,PF,22.5,4.5,6.5,,26.5,28.5,10.5,32.5,1.5,,
