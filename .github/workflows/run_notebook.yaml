@@ -4,8 +4,8 @@ permissions:
   contents: write
 
 on:
-  workflow_dispatch:  # manual trigger
-  repository_dispatch:  # triggered by API
+  workflow_dispatch:
+  repository_dispatch:
     types: [update-tables]
 
 jobs:
@@ -13,26 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # allows pushing
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # 3. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install jupyter pandas numpy requests nbainjuries duckdb lxml html5lib bs4 cloudscraper
 
-      # 4. Run the gamelog_retriever notebook
-      - name: Execute gamelog notebook
+      - name: Execute gamelog_retriever notebook
         run: |
           jupyter nbconvert \
             --to notebook \
@@ -43,8 +39,7 @@ jobs:
             "notebooks/gamelog_retriever.ipynb"
         continue-on-error: true
 
-      # 5. Run the parlay notebook
-      - name: Execute parlay notebook
+      - name: Execute parlay helper notebook
         run: |
           jupyter nbconvert \
             --to notebook \
@@ -54,19 +49,16 @@ jobs:
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/parlay helper.ipynb"
 
-      # 6. Upload output csv files as artifact
-      - name: Upload parlay outputs
-        uses: actions/upload-artifact@v4
-        with:
-          name: parlay-tables
-          path: |
-            tables/2025/parlay_lines.csv
-            tables/2025/parlay_stats.csv
-            tables/2025/nba_schedule.csv
-            tables/2025/*_season_gamelogs.csv
-          retention-days: 1
+      - name: Execute parlay actuals notebook
+        run: |
+          jupyter nbconvert \
+            --to notebook \
+            --execute \
+            --inplace \
+            --ExecutePreprocessor.timeout=600 \
+            --ExecutePreprocessor.kernel_name=python3 \
+            "notebooks/parlay actuals.ipynb"
 
-      # 7. Commit & push CSV updates back to repo
       - name: Commit updated CSVs back to repository
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -81,9 +73,3 @@ jobs:
           git diff --cached --quiet || git commit -m "Auto-update parlay CSV tables (GitHub Actions)"
 
           git push
-
-      # 8. Clean up artifacts
-      - uses: geekyeggo/delete-artifact@v5
-        with:
-          name: |
-            tables/2025/*.csv
