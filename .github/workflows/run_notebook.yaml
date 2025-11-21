@@ -28,16 +28,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install jupyter pandas numpy requests nbainjuries duckdb lxml html5lib bs4 cloudscraper nbdime
 
-      # - name: Execute gamelog_retriever notebook
-      #   run: |
-      #     jupyter nbconvert \
-      #       --to notebook \
-      #       --execute \
-      #       --inplace \
-      #       --ExecutePreprocessor.timeout=600 \
-      #       --ExecutePreprocessor.kernel_name=python3 \
-      #       "notebooks/gamelog_retriever.ipynb"
-      #   continue-on-error: true
+      - name: Execute gamelog_retriever notebook
+        run: |
+          jupyter nbconvert \
+            --to notebook \
+            --execute \
+            --inplace \
+            --ExecutePreprocessor.timeout=600 \
+            --ExecutePreprocessor.kernel_name=python3 \
+            "notebooks/gamelog_retriever.ipynb"
+        continue-on-error: true
 
       - name: Execute parlay helper notebook
         run: |
@@ -64,12 +64,10 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
 
-          git checkout main
-
           git add tables/2025/*.csv
 
           git status
 
           git diff --cached --quiet || git commit -m "Auto-update parlay CSV tables (GitHub Actions)"
 
-          git push origin main
+          git push origin HEAD:main
