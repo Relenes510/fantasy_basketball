@@ -68,7 +68,6 @@ jobs:
           git checkout main
 
           git add tables/2025/*.csv
-          git add src/2025_nfl_schedule.csv
 
           git status
 
