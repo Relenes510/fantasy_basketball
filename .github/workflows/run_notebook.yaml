@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install jupyter pandas numpy requests nbainjuries duckdb lxml html5lib bs4 cloudscraper
+          pip install jupyter pandas numpy requests nbainjuries duckdb lxml html5lib bs4 cloudscraper nbdime
 
       - name: Execute gamelog_retriever notebook
         run: |
@@ -58,6 +58,21 @@ jobs:
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/parlay actuals.ipynb"
+
+      - name: Show notebook diffs
+        run: |
+          # List changed notebooks compared to main branch
+          CHANGED_NOTEBOOKS=$(git diff --name-only origin/main...HEAD | grep '\.ipynb$' || true)
+          if [ -z "$CHANGED_NOTEBOOKS" ]; then
+            echo "No notebook changes detected."
+          else
+            echo "Notebook changes detected:"
+            for nb in $CHANGED_NOTEBOOKS; do
+              echo "=== Diff for $nb ==="
+              nbdiff --color origin/main "$nb"
+              echo "===================="
+            done
+          fi
 
       - name: Commit updated CSVs back to repository
         run: |
