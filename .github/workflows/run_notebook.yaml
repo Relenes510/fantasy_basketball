@@ -66,8 +66,8 @@ jobs:
 
           git add tables/2025/*.csv
 
-          git status
+          # git status
 
           git diff --cached --quiet || git commit -m "Auto-update parlay CSV tables (GitHub Actions)"
 
-          git push origin HEAD:main
+          git push origin main
