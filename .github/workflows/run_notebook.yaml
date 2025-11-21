@@ -61,8 +61,8 @@ jobs:
 
       - name: Show notebook diffs
         run: |
-          # List changed notebooks compared to main branch
-          CHANGED_NOTEBOOKS=$(git diff --name-only origin/main...HEAD | grep '\.ipynb$' || true)
+          git fetch origin main
+          CHANGED_NOTEBOOKS=$(git diff --name-only origin/main HEAD | grep '\.ipynb$' || true)
           if [ -z "$CHANGED_NOTEBOOKS" ]; then
             echo "No notebook changes detected."
           else
