@@ -49,30 +49,15 @@ jobs:
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/parlay helper.ipynb"
 
-      - name: Execute parlay actuals notebook
-        run: |
-          jupyter nbconvert \
-            --to notebook \
-            --execute \
-            --inplace \
-            --ExecutePreprocessor.timeout=600 \
-            --ExecutePreprocessor.kernel_name=python3 \
-            "notebooks/parlay actuals.ipynb"
-
-      - name: Show notebook diffs
-        run: |
-          git fetch origin main
-          CHANGED_NOTEBOOKS=$(git diff --name-only origin/main HEAD | grep '\.ipynb$' || true)
-          if [ -z "$CHANGED_NOTEBOOKS" ]; then
-            echo "No notebook changes detected."
-          else
-            echo "Notebook changes detected:"
-            for nb in $CHANGED_NOTEBOOKS; do
-              echo "=== Diff for $nb ==="
-              nbdiff --color origin/main "$nb"
-              echo "===================="
-            done
-          fi
+      # - name: Execute parlay actuals notebook
+      #   run: |
+      #     jupyter nbconvert \
+      #       --to notebook \
+      #       --execute \
+      #       --inplace \
+      #       --ExecutePreprocessor.timeout=600 \
+      #       --ExecutePreprocessor.kernel_name=python3 \
+      #       "notebooks/parlay actuals.ipynb"
 
       - name: Commit updated CSVs back to repository
         run: |
