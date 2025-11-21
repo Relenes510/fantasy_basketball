@@ -221,10 +221,10 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-11-19,8:00p,Sacramento Kings,SAC,Oklahoma City Thunder,OKC,Paycom Center,0,0,1
 2025-11-19,9:30p,New York Knicks,NYK,Dallas Mavericks,DAL,American Airlines Center,0,0,1
 2025-11-19,10:00p,Chicago Bulls,CHI,Portland Trail Blazers,POR,Moda Center,0,1,1
-2025-11-20,7:00p,Los Angeles Clippers,LAC,Orlando Magic,ORL,Kia Center,0,0,0
-2025-11-20,8:00p,Sacramento Kings,SAC,Memphis Grizzlies,MEM,FedExForum,1,0,0
-2025-11-20,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,0
-2025-11-20,8:00p,Atlanta Hawks,ATL,San Antonio Spurs,SAS,Frost Bank Center,0,0,0
+2025-11-20,7:00p,Los Angeles Clippers,LAC,Orlando Magic,ORL,Kia Center,0,0,1
+2025-11-20,8:00p,Sacramento Kings,SAC,Memphis Grizzlies,MEM,FedExForum,1,0,1
+2025-11-20,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,1
+2025-11-20,8:00p,Atlanta Hawks,ATL,San Antonio Spurs,SAS,Frost Bank Center,0,0,1
 2025-11-21,7:00p,Indiana Pacers,IND,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0
 2025-11-21,7:30p,Brooklyn Nets,BRK,Boston Celtics,BOS,TD Garden,0,0,0
 2025-11-21,7:30p,Washington Wizards,WAS,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
