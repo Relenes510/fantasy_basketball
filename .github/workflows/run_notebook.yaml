@@ -61,16 +61,15 @@ jobs:
 
       - name: Commit updated CSVs back to repository
         run: |
-          # Configure Git user
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
 
           git checkout main
+          git pull origin main --rebase
 
           git add tables/2025/*.csv
 
-          git status
-
+          # Commit only if there are changes
           git diff --cached --quiet || git commit -m "Auto-update parlay CSV tables (GitHub Actions)"
 
-          git push origin main
+          git push
