@@ -225,15 +225,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-11-20,8:00p,Sacramento Kings,SAC,Memphis Grizzlies,MEM,FedExForum,1,0,1
 2025-11-20,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,1
 2025-11-20,8:00p,Atlanta Hawks,ATL,San Antonio Spurs,SAS,Frost Bank Center,0,0,1
-2025-11-21,7:00p,Indiana Pacers,IND,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0
-2025-11-21,7:30p,Brooklyn Nets,BRK,Boston Celtics,BOS,TD Garden,0,0,0
-2025-11-21,7:30p,Washington Wizards,WAS,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
-2025-11-21,8:00p,Miami Heat,MIA,Chicago Bulls,CHI,United Center,0,0,0
-2025-11-21,8:30p,New Orleans Pelicans,NOP,Dallas Mavericks,DAL,American Airlines Center,0,0,0
-2025-11-21,9:00p,Minnesota Timberwolves,MIN,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0
-2025-11-21,9:30p,Denver Nuggets,DEN,Houston Rockets,HOU,Toyota Center,0,0,0
-2025-11-21,10:00p,Portland Trail Blazers,POR,Golden State Warriors,GSW,Chase Center,0,0,0
-2025-11-21,10:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,0
+2025-11-21,7:00p,Indiana Pacers,IND,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1
+2025-11-21,7:30p,Brooklyn Nets,BRK,Boston Celtics,BOS,TD Garden,0,0,1
+2025-11-21,7:30p,Washington Wizards,WAS,Toronto Raptors,TOR,Scotiabank Arena,0,0,1
+2025-11-21,8:00p,Miami Heat,MIA,Chicago Bulls,CHI,United Center,0,0,1
+2025-11-21,8:30p,New Orleans Pelicans,NOP,Dallas Mavericks,DAL,American Airlines Center,0,0,1
+2025-11-21,9:00p,Minnesota Timberwolves,MIN,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1
+2025-11-21,9:30p,Denver Nuggets,DEN,Houston Rockets,HOU,Toyota Center,0,0,1
+2025-11-21,10:00p,Portland Trail Blazers,POR,Golden State Warriors,GSW,Chase Center,0,0,1
+2025-11-21,10:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,1
 2025-11-22,1:00p,Los Angeles Clippers,LAC,Charlotte Hornets,CHO,Spectrum Center,0,0,0
 2025-11-22,5:00p,New York Knicks,NYK,Orlando Magic,ORL,Kia Center,0,0,0
 2025-11-22,7:00p,Atlanta Hawks,ATL,New Orleans Pelicans,NOP,Smoothie King Center,0,1,0
