@@ -234,13 +234,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-11-21,9:30p,Denver Nuggets,DEN,Houston Rockets,HOU,Toyota Center,0,0,1
 2025-11-21,10:00p,Portland Trail Blazers,POR,Golden State Warriors,GSW,Chase Center,0,0,1
 2025-11-21,10:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,1
-2025-11-22,1:00p,Los Angeles Clippers,LAC,Charlotte Hornets,CHO,Spectrum Center,0,0,0
-2025-11-22,5:00p,New York Knicks,NYK,Orlando Magic,ORL,Kia Center,0,0,0
-2025-11-22,7:00p,Atlanta Hawks,ATL,New Orleans Pelicans,NOP,Smoothie King Center,0,1,0
-2025-11-22,8:00p,Washington Wizards,WAS,Chicago Bulls,CHI,United Center,1,1,0
-2025-11-22,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0
-2025-11-22,8:30p,Memphis Grizzlies,MEM,Dallas Mavericks,DAL,American Airlines Center,0,1,0
-2025-11-22,10:00p,Sacramento Kings,SAC,Denver Nuggets,DEN,Ball Arena,0,1,0
+2025-11-22,1:00p,Los Angeles Clippers,LAC,Charlotte Hornets,CHO,Spectrum Center,0,0,1
+2025-11-22,5:00p,New York Knicks,NYK,Orlando Magic,ORL,Kia Center,0,0,1
+2025-11-22,7:00p,Atlanta Hawks,ATL,New Orleans Pelicans,NOP,Smoothie King Center,0,1,1
+2025-11-22,8:00p,Washington Wizards,WAS,Chicago Bulls,CHI,United Center,1,1,1
+2025-11-22,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1
+2025-11-22,8:30p,Memphis Grizzlies,MEM,Dallas Mavericks,DAL,American Airlines Center,0,1,1
+2025-11-22,10:00p,Sacramento Kings,SAC,Denver Nuggets,DEN,Ball Arena,0,1,1
 2025-11-23,1:00p,Miami Heat,MIA,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0
 2025-11-23,6:00p,Charlotte Hornets,CHO,Atlanta Hawks,ATL,State Farm Arena,1,1,0
 2025-11-23,6:00p,Orlando Magic,ORL,Boston Celtics,BOS,TD Garden,1,0,0
