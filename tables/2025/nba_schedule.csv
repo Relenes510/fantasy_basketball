@@ -241,14 +241,14 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-11-22,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1
 2025-11-22,8:30p,Memphis Grizzlies,MEM,Dallas Mavericks,DAL,American Airlines Center,0,1,1
 2025-11-22,10:00p,Sacramento Kings,SAC,Denver Nuggets,DEN,Ball Arena,0,1,1
-2025-11-23,1:00p,Miami Heat,MIA,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0
-2025-11-23,6:00p,Charlotte Hornets,CHO,Atlanta Hawks,ATL,State Farm Arena,1,1,0
-2025-11-23,6:00p,Orlando Magic,ORL,Boston Celtics,BOS,TD Garden,1,0,0
-2025-11-23,6:00p,Los Angeles Clippers,LAC,Cleveland Cavaliers,CLE,Rocket Arena,1,0,0
-2025-11-23,6:00p,Brooklyn Nets,BRK,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
-2025-11-23,7:00p,Portland Trail Blazers,POR,Oklahoma City Thunder,OKC,Paycom Center,0,0,0
-2025-11-23,8:00p,San Antonio Spurs,SAS,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0
-2025-11-23,8:00p,Los Angeles Lakers,LAL,Utah Jazz,UTA,Delta Center,0,0,0
+2025-11-23,1:00p,Miami Heat,MIA,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1
+2025-11-23,6:00p,Charlotte Hornets,CHO,Atlanta Hawks,ATL,State Farm Arena,1,1,1
+2025-11-23,6:00p,Orlando Magic,ORL,Boston Celtics,BOS,TD Garden,1,0,1
+2025-11-23,6:00p,Los Angeles Clippers,LAC,Cleveland Cavaliers,CLE,Rocket Arena,1,0,1
+2025-11-23,6:00p,Brooklyn Nets,BRK,Toronto Raptors,TOR,Scotiabank Arena,0,0,1
+2025-11-23,7:00p,Portland Trail Blazers,POR,Oklahoma City Thunder,OKC,Paycom Center,0,0,1
+2025-11-23,8:00p,San Antonio Spurs,SAS,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1
+2025-11-23,8:00p,Los Angeles Lakers,LAL,Utah Jazz,UTA,Delta Center,0,0,1
 2025-11-24,7:00p,Detroit Pistons,DET,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
 2025-11-24,7:00p,Cleveland Cavaliers,CLE,Toronto Raptors,TOR,Scotiabank Arena,1,1,0
 2025-11-24,7:30p,New York Knicks,NYK,Brooklyn Nets,BRK,Barclays Center,0,1,0
