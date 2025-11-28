@@ -262,15 +262,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-11-25,7:00p,Atlanta Hawks,ATL,Washington Wizards,WAS,Capital One Arena,0,0,1
 2025-11-25,8:00p,Orlando Magic,ORL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1
 2025-11-25,11:00p,Los Angeles Clippers,LAC,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1
-2025-11-26,5:00p,Detroit Pistons,DET,Boston Celtics,BOS,TD Garden,0,0,0
-2025-11-26,7:00p,New York Knicks,NYK,Charlotte Hornets,CHO,Spectrum Center,0,0,0
-2025-11-26,7:30p,Milwaukee Bucks,MIL,Miami Heat,MIA,Kaseya Center,0,0,0
-2025-11-26,7:30p,Minnesota Timberwolves,MIN,Oklahoma City Thunder,OKC,Paycom Center,0,0,0
-2025-11-26,7:30p,Indiana Pacers,IND,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
-2025-11-26,8:00p,Memphis Grizzlies,MEM,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0
-2025-11-26,10:00p,Houston Rockets,HOU,Golden State Warriors,GSW,Chase Center,0,0,0
-2025-11-26,10:00p,San Antonio Spurs,SAS,Portland Trail Blazers,POR,Moda Center,0,0,0
-2025-11-26,10:00p,Phoenix Suns,PHO,Sacramento Kings,SAC,Golden 1 Center,0,0,0
+2025-11-26,5:00p,Detroit Pistons,DET,Boston Celtics,BOS,TD Garden,0,0,1
+2025-11-26,7:00p,New York Knicks,NYK,Charlotte Hornets,CHO,Spectrum Center,0,0,1
+2025-11-26,7:30p,Milwaukee Bucks,MIL,Miami Heat,MIA,Kaseya Center,0,0,1
+2025-11-26,7:30p,Minnesota Timberwolves,MIN,Oklahoma City Thunder,OKC,Paycom Center,0,0,1
+2025-11-26,7:30p,Indiana Pacers,IND,Toronto Raptors,TOR,Scotiabank Arena,0,0,1
+2025-11-26,8:00p,Memphis Grizzlies,MEM,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1
+2025-11-26,10:00p,Houston Rockets,HOU,Golden State Warriors,GSW,Chase Center,0,0,1
+2025-11-26,10:00p,San Antonio Spurs,SAS,Portland Trail Blazers,POR,Moda Center,0,0,1
+2025-11-26,10:00p,Phoenix Suns,PHO,Sacramento Kings,SAC,Golden 1 Center,0,0,1
 2025-11-28,7:30p,Cleveland Cavaliers,CLE,Atlanta Hawks,ATL,State Farm Arena,0,0,0
 2025-11-28,7:30p,Philadelphia 76ers,PHI,Brooklyn Nets,BRK,Barclays Center,0,0,0
 2025-11-28,7:30p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,0
