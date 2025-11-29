@@ -271,17 +271,17 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-11-26,10:00p,Houston Rockets,HOU,Golden State Warriors,GSW,Chase Center,0,0,1
 2025-11-26,10:00p,San Antonio Spurs,SAS,Portland Trail Blazers,POR,Moda Center,0,0,1
 2025-11-26,10:00p,Phoenix Suns,PHO,Sacramento Kings,SAC,Golden 1 Center,0,0,1
-2025-11-28,7:30p,Cleveland Cavaliers,CLE,Atlanta Hawks,ATL,State Farm Arena,0,0,0
-2025-11-28,7:30p,Philadelphia 76ers,PHI,Brooklyn Nets,BRK,Barclays Center,0,0,0
-2025-11-28,7:30p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,0
-2025-11-28,7:30p,Orlando Magic,ORL,Detroit Pistons,DET,Little Caesars Arena,0,0,0
-2025-11-28,7:30p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
-2025-11-28,7:30p,Milwaukee Bucks,MIL,New York Knicks,NYK,Madison Square Garden (IV),0,0,0
-2025-11-28,9:30p,San Antonio Spurs,SAS,Denver Nuggets,DEN,Ball Arena,0,0,0
-2025-11-28,9:30p,Phoenix Suns,PHO,Oklahoma City Thunder,OKC,Paycom Center,0,0,0
-2025-11-28,9:30p,Sacramento Kings,SAC,Utah Jazz,UTA,Delta Center,0,0,0
-2025-11-28,10:00p,Memphis Grizzlies,MEM,Los Angeles Clippers,LAC,Intuit Dome,0,0,0
-2025-11-28,10:00p,Dallas Mavericks,DAL,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0
+2025-11-28,7:30p,Cleveland Cavaliers,CLE,Atlanta Hawks,ATL,State Farm Arena,0,0,1
+2025-11-28,7:30p,Philadelphia 76ers,PHI,Brooklyn Nets,BRK,Barclays Center,0,0,1
+2025-11-28,7:30p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,1
+2025-11-28,7:30p,Orlando Magic,ORL,Detroit Pistons,DET,Little Caesars Arena,0,0,1
+2025-11-28,7:30p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1
+2025-11-28,7:30p,Milwaukee Bucks,MIL,New York Knicks,NYK,Madison Square Garden (IV),0,0,1
+2025-11-28,9:30p,San Antonio Spurs,SAS,Denver Nuggets,DEN,Ball Arena,0,0,1
+2025-11-28,9:30p,Phoenix Suns,PHO,Oklahoma City Thunder,OKC,Paycom Center,0,0,1
+2025-11-28,9:30p,Sacramento Kings,SAC,Utah Jazz,UTA,Delta Center,0,0,1
+2025-11-28,10:00p,Memphis Grizzlies,MEM,Los Angeles Clippers,LAC,Intuit Dome,0,0,1
+2025-11-28,10:00p,Dallas Mavericks,DAL,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1
 2025-11-29,5:00p,Boston Celtics,BOS,Minnesota Timberwolves,MIN,Target Center,0,0,0
 2025-11-29,6:00p,Toronto Raptors,TOR,Charlotte Hornets,CHO,Spectrum Center,0,1,0
 2025-11-29,7:30p,Chicago Bulls,CHI,Indiana Pacers,IND,Gainbridge Fieldhouse,1,1,0
