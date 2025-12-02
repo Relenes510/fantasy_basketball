@@ -298,15 +298,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-11-30,7:00p,San Antonio Spurs,SAS,Minnesota Timberwolves,MIN,Target Center,0,1,1
 2025-11-30,9:00p,Memphis Grizzlies,MEM,Sacramento Kings,SAC,Golden 1 Center,0,0,1
 2025-11-30,9:30p,New Orleans Pelicans,NOP,Los Angeles Lakers,LAL,Crypto.com Arena,1,0,1
-2025-12-01,7:00p,Atlanta Hawks,ATL,Detroit Pistons,DET,Little Caesars Arena,1,0,0
-2025-12-01,7:00p,Cleveland Cavaliers,CLE,Indiana Pacers,IND,Gainbridge Fieldhouse,1,0,0
-2025-12-01,7:00p,Milwaukee Bucks,MIL,Washington Wizards,WAS,Capital One Arena,0,0,0
-2025-12-01,7:30p,Charlotte Hornets,CHO,Brooklyn Nets,BRK,Barclays Center,0,0,0
-2025-12-01,7:30p,Los Angeles Clippers,LAC,Miami Heat,MIA,Kaseya Center,0,0,0
-2025-12-01,7:30p,Chicago Bulls,CHI,Orlando Magic,ORL,Kia Center,0,0,0
-2025-12-01,9:00p,Dallas Mavericks,DAL,Denver Nuggets,DEN,Ball Arena,0,0,0
-2025-12-01,9:00p,Houston Rockets,HOU,Utah Jazz,UTA,Delta Center,1,1,0
-2025-12-01,10:00p,Phoenix Suns,PHO,Los Angeles Lakers,LAL,Crypto.com Arena,0,1,0
+2025-12-01,7:00p,Atlanta Hawks,ATL,Detroit Pistons,DET,Little Caesars Arena,1,0,1
+2025-12-01,7:00p,Cleveland Cavaliers,CLE,Indiana Pacers,IND,Gainbridge Fieldhouse,1,0,1
+2025-12-01,7:00p,Milwaukee Bucks,MIL,Washington Wizards,WAS,Capital One Arena,0,0,1
+2025-12-01,7:30p,Charlotte Hornets,CHO,Brooklyn Nets,BRK,Barclays Center,0,0,1
+2025-12-01,7:30p,Los Angeles Clippers,LAC,Miami Heat,MIA,Kaseya Center,0,0,1
+2025-12-01,7:30p,Chicago Bulls,CHI,Orlando Magic,ORL,Kia Center,0,0,1
+2025-12-01,9:00p,Dallas Mavericks,DAL,Denver Nuggets,DEN,Ball Arena,0,0,1
+2025-12-01,9:00p,Houston Rockets,HOU,Utah Jazz,UTA,Delta Center,1,1,1
+2025-12-01,10:00p,Phoenix Suns,PHO,Los Angeles Lakers,LAL,Crypto.com Arena,0,1,1
 2025-12-02,7:00p,Washington Wizards,WAS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,0
 2025-12-02,7:30p,Portland Trail Blazers,POR,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
 2025-12-02,8:00p,New York Knicks,NYK,Boston Celtics,BOS,TD Garden,0,0,0
