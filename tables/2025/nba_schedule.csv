@@ -307,12 +307,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-12-01,9:00p,Dallas Mavericks,DAL,Denver Nuggets,DEN,Ball Arena,0,0,1
 2025-12-01,9:00p,Houston Rockets,HOU,Utah Jazz,UTA,Delta Center,1,1,1
 2025-12-01,10:00p,Phoenix Suns,PHO,Los Angeles Lakers,LAL,Crypto.com Arena,0,1,1
-2025-12-02,7:00p,Washington Wizards,WAS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,0
-2025-12-02,7:30p,Portland Trail Blazers,POR,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
-2025-12-02,8:00p,New York Knicks,NYK,Boston Celtics,BOS,TD Garden,0,0,0
-2025-12-02,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0
-2025-12-02,8:00p,Memphis Grizzlies,MEM,San Antonio Spurs,SAS,Frost Bank Center,0,0,0
-2025-12-02,11:00p,Oklahoma City Thunder,OKC,Golden State Warriors,GSW,Chase Center,0,0,0
+2025-12-02,7:00p,Washington Wizards,WAS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,1
+2025-12-02,7:30p,Portland Trail Blazers,POR,Toronto Raptors,TOR,Scotiabank Arena,0,0,1
+2025-12-02,8:00p,New York Knicks,NYK,Boston Celtics,BOS,TD Garden,0,0,1
+2025-12-02,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1
+2025-12-02,8:00p,Memphis Grizzlies,MEM,San Antonio Spurs,SAS,Frost Bank Center,0,0,1
+2025-12-02,11:00p,Oklahoma City Thunder,OKC,Golden State Warriors,GSW,Chase Center,0,0,1
 2025-12-03,7:00p,Portland Trail Blazers,POR,Cleveland Cavaliers,CLE,Rocket Arena,1,0,0
 2025-12-03,7:00p,Denver Nuggets,DEN,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
 2025-12-03,7:00p,San Antonio Spurs,SAS,Orlando Magic,ORL,Kia Center,1,0,0
