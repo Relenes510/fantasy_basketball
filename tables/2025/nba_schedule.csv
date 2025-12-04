@@ -313,15 +313,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-12-02,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1
 2025-12-02,8:00p,Memphis Grizzlies,MEM,San Antonio Spurs,SAS,Frost Bank Center,0,0,1
 2025-12-02,11:00p,Oklahoma City Thunder,OKC,Golden State Warriors,GSW,Chase Center,0,0,1
-2025-12-03,7:00p,Portland Trail Blazers,POR,Cleveland Cavaliers,CLE,Rocket Arena,1,0,0
-2025-12-03,7:00p,Denver Nuggets,DEN,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
-2025-12-03,7:00p,San Antonio Spurs,SAS,Orlando Magic,ORL,Kia Center,1,0,0
-2025-12-03,7:30p,Los Angeles Clippers,LAC,Atlanta Hawks,ATL,State Farm Arena,0,0,0
-2025-12-03,7:30p,Charlotte Hornets,CHO,New York Knicks,NYK,Madison Square Garden (IV),0,1,0
-2025-12-03,8:00p,Brooklyn Nets,BRK,Chicago Bulls,CHI,United Center,0,0,0
-2025-12-03,8:00p,Sacramento Kings,SAC,Houston Rockets,HOU,Toyota Center,0,0,0
-2025-12-03,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0
-2025-12-03,8:30p,Miami Heat,MIA,Dallas Mavericks,DAL,American Airlines Center,0,0,0
+2025-12-03,7:00p,Portland Trail Blazers,POR,Cleveland Cavaliers,CLE,Rocket Arena,1,0,1
+2025-12-03,7:00p,Denver Nuggets,DEN,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1
+2025-12-03,7:00p,San Antonio Spurs,SAS,Orlando Magic,ORL,Kia Center,1,0,1
+2025-12-03,7:30p,Los Angeles Clippers,LAC,Atlanta Hawks,ATL,State Farm Arena,0,0,1
+2025-12-03,7:30p,Charlotte Hornets,CHO,New York Knicks,NYK,Madison Square Garden (IV),0,1,1
+2025-12-03,8:00p,Brooklyn Nets,BRK,Chicago Bulls,CHI,United Center,0,0,1
+2025-12-03,8:00p,Sacramento Kings,SAC,Houston Rockets,HOU,Toyota Center,0,0,1
+2025-12-03,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1
+2025-12-03,8:30p,Miami Heat,MIA,Dallas Mavericks,DAL,American Airlines Center,0,0,1
 2025-12-04,7:00p,Golden State Warriors,GSW,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0
 2025-12-04,7:00p,Boston Celtics,BOS,Washington Wizards,WAS,Capital One Arena,0,0,0
 2025-12-04,7:30p,Utah Jazz,UTA,Brooklyn Nets,BRK,Barclays Center,0,1,0
