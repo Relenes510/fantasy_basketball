@@ -322,11 +322,11 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-12-03,8:00p,Sacramento Kings,SAC,Houston Rockets,HOU,Toyota Center,0,0,1
 2025-12-03,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1
 2025-12-03,8:30p,Miami Heat,MIA,Dallas Mavericks,DAL,American Airlines Center,0,0,1
-2025-12-04,7:00p,Golden State Warriors,GSW,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0
-2025-12-04,7:00p,Boston Celtics,BOS,Washington Wizards,WAS,Capital One Arena,0,0,0
-2025-12-04,7:30p,Utah Jazz,UTA,Brooklyn Nets,BRK,Barclays Center,0,1,0
-2025-12-04,7:30p,Los Angeles Lakers,LAL,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
-2025-12-04,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0
+2025-12-04,7:00p,Golden State Warriors,GSW,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1
+2025-12-04,7:00p,Boston Celtics,BOS,Washington Wizards,WAS,Capital One Arena,0,0,1
+2025-12-04,7:30p,Utah Jazz,UTA,Brooklyn Nets,BRK,Barclays Center,0,1,1
+2025-12-04,7:30p,Los Angeles Lakers,LAL,Toronto Raptors,TOR,Scotiabank Arena,0,0,1
+2025-12-04,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1
 2025-12-05,7:00p,Los Angeles Lakers,LAL,Boston Celtics,BOS,TD Garden,1,1,0
 2025-12-05,7:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,0
 2025-12-05,7:30p,Denver Nuggets,DEN,Atlanta Hawks,ATL,State Farm Arena,0,0,0
