@@ -327,18 +327,18 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-12-04,7:30p,Utah Jazz,UTA,Brooklyn Nets,BRK,Barclays Center,0,1,1
 2025-12-04,7:30p,Los Angeles Lakers,LAL,Toronto Raptors,TOR,Scotiabank Arena,0,0,1
 2025-12-04,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1
-2025-12-05,7:00p,Los Angeles Lakers,LAL,Boston Celtics,BOS,TD Garden,1,1,0
-2025-12-05,7:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,0
-2025-12-05,7:30p,Denver Nuggets,DEN,Atlanta Hawks,ATL,State Farm Arena,0,0,0
-2025-12-05,7:30p,San Antonio Spurs,SAS,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0
-2025-12-05,7:30p,Portland Trail Blazers,POR,Detroit Pistons,DET,Little Caesars Arena,0,0,0
-2025-12-05,7:30p,Utah Jazz,UTA,New York Knicks,NYK,Madison Square Garden (IV),1,0,0
-2025-12-05,7:30p,Charlotte Hornets,CHO,Toronto Raptors,TOR,Scotiabank Arena,0,1,0
-2025-12-05,8:00p,Indiana Pacers,IND,Chicago Bulls,CHI,United Center,0,0,0
-2025-12-05,8:00p,Phoenix Suns,PHO,Houston Rockets,HOU,Toyota Center,0,0,0
-2025-12-05,8:00p,Los Angeles Clippers,LAC,Memphis Grizzlies,MEM,FedExForum,0,0,0
-2025-12-05,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,0
-2025-12-05,9:30p,Dallas Mavericks,DAL,Oklahoma City Thunder,OKC,Paycom Center,0,0,0
+2025-12-05,7:00p,Los Angeles Lakers,LAL,Boston Celtics,BOS,TD Garden,1,1,1
+2025-12-05,7:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,1
+2025-12-05,7:30p,Denver Nuggets,DEN,Atlanta Hawks,ATL,State Farm Arena,0,0,1
+2025-12-05,7:30p,San Antonio Spurs,SAS,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1
+2025-12-05,7:30p,Portland Trail Blazers,POR,Detroit Pistons,DET,Little Caesars Arena,0,0,1
+2025-12-05,7:30p,Utah Jazz,UTA,New York Knicks,NYK,Madison Square Garden (IV),1,0,1
+2025-12-05,7:30p,Charlotte Hornets,CHO,Toronto Raptors,TOR,Scotiabank Arena,0,1,1
+2025-12-05,8:00p,Indiana Pacers,IND,Chicago Bulls,CHI,United Center,0,0,1
+2025-12-05,8:00p,Phoenix Suns,PHO,Houston Rockets,HOU,Toyota Center,0,0,1
+2025-12-05,8:00p,Los Angeles Clippers,LAC,Memphis Grizzlies,MEM,FedExForum,0,0,1
+2025-12-05,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,1
+2025-12-05,9:30p,Dallas Mavericks,DAL,Oklahoma City Thunder,OKC,Paycom Center,0,0,1
 2025-12-06,5:00p,New Orleans Pelicans,NOP,Brooklyn Nets,BRK,Barclays Center,0,0,0
 2025-12-06,7:00p,Atlanta Hawks,ATL,Washington Wizards,WAS,Capital One Arena,1,0,0
 2025-12-06,7:30p,Golden State Warriors,GSW,Cleveland Cavaliers,CLE,Rocket Arena,0,1,0
