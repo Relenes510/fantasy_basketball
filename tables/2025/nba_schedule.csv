@@ -346,13 +346,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 2025-12-06,8:00p,Sacramento Kings,SAC,Miami Heat,MIA,Kaseya Center,0,1,1
 2025-12-06,8:00p,Los Angeles Clippers,LAC,Minnesota Timberwolves,MIN,Target Center,1,0,1
 2025-12-06,8:30p,Houston Rockets,HOU,Dallas Mavericks,DAL,American Airlines Center,1,1,1
-2025-12-07,12:00p,Orlando Magic,ORL,New York Knicks,NYK,Madison Square Garden (IV),0,0,0
-2025-12-07,3:30p,Boston Celtics,BOS,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
-2025-12-07,6:00p,Denver Nuggets,DEN,Charlotte Hornets,CHO,Spectrum Center,0,0,0
-2025-12-07,6:00p,Portland Trail Blazers,POR,Memphis Grizzlies,MEM,FedExForum,0,0,0
-2025-12-07,7:00p,Golden State Warriors,GSW,Chicago Bulls,CHI,United Center,1,0,0
-2025-12-07,7:30p,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0
-2025-12-07,8:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,0
+2025-12-07,12:00p,Orlando Magic,ORL,New York Knicks,NYK,Madison Square Garden (IV),0,0,1
+2025-12-07,3:30p,Boston Celtics,BOS,Toronto Raptors,TOR,Scotiabank Arena,0,0,1
+2025-12-07,6:00p,Denver Nuggets,DEN,Charlotte Hornets,CHO,Spectrum Center,0,0,1
+2025-12-07,6:00p,Portland Trail Blazers,POR,Memphis Grizzlies,MEM,FedExForum,0,0,1
+2025-12-07,7:00p,Golden State Warriors,GSW,Chicago Bulls,CHI,United Center,1,0,1
+2025-12-07,7:30p,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1
+2025-12-07,8:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,1
 2025-12-08,7:00p,Sacramento Kings,SAC,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
 2025-12-08,8:00p,Phoenix Suns,PHO,Minnesota Timberwolves,MIN,Target Center,0,0,0
 2025-12-08,9:30p,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0
