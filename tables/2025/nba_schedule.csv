@@ -353,13 +353,35 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 12/7/2025,7:00p,Golden State Warriors,GSW,Chicago Bulls,CHI,United Center,1,0,1
 12/7/2025,7:30p,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1
 12/7/2025,8:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,1
-12/8/2025,7:00p,Sacramento Kings,SAC,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
-12/8/2025,8:00p,Phoenix Suns,PHO,Minnesota Timberwolves,MIN,Target Center,0,0,0
-12/8/2025,9:30p,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0
-12/9/2025,6:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,0
-12/9/2025,8:30p,New York Knicks,NYK,Toronto Raptors,TOR,Scotiabank Arena,0,0,0
+12/8/2025,7:00p,Sacramento Kings,SAC,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1
+12/8/2025,7:30p,Phoenix Suns,PHO,Minnesota Timberwolves,MIN,Target Center,0,0,1
+12/8/2025,8:00p,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1
+12/9/2025,6:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,1
+12/9/2025,8:30p,New York Knicks,NYK,Toronto Raptors,TOR,Scotiabank Arena,0,0,1
 12/10/2025,7:30p,Phoenix Suns,PHO,Oklahoma City Thunder,OKC,Paycom Center,0,0,0
 12/10/2025,10:00p,San Antonio Spurs,SAS,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0
+12/11/2025,8:00p,Los Angeles Clippers,LAC,Houston Rockets,HOU,Toyota Center,0,0,0
+12/11/2025,8:00p,Boston Celtics,BOS,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0
+12/11/2025,8:00p,Portland Trail Blazers,POR,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0
+12/11/2025,10:00p,Denver Nuggets,DEN,Sacramento Kings,SAC,Golden 1 Center,0,0,0
+12/12/2025,7:00p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,0
+12/12/2025,7:00p,Atlanta Hawks,ATL,Detroit Pistons,DET,Little Caesars Arena,0,0,0
+12/12/2025,7:00p,Indiana Pacers,IND,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0
+12/12/2025,7:00p,Cleveland Cavaliers,CLE,Washington Wizards,WAS,Capital One Arena,0,0,0
+12/12/2025,8:00p,Utah Jazz,UTA,Memphis Grizzlies,MEM,FedExForum,0,0,0
+12/12/2025,8:30p,Brooklyn Nets,BRK,Dallas Mavericks,DAL,American Airlines Center,0,0,0
+12/12/2025,10:00p,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Chase Center,0,0,0
+12/14/2025,3:00p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
+12/14/2025,3:30p,Charlotte Hornets,CHO,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0
+12/14/2025,6:00p,Philadelphia 76ers,PHI,Atlanta Hawks,ATL,State Farm Arena,0,0,0
+12/14/2025,6:00p,Milwaukee Bucks,MIL,Brooklyn Nets,BRK,Barclays Center,0,0,0
+12/14/2025,7:00p,New Orleans Pelicans,NOP,Chicago Bulls,CHI,United Center,0,0,0
+12/14/2025,7:00p,Sacramento Kings,SAC,Minnesota Timberwolves,MIN,Target Center,0,0,0
+12/14/2025,9:00p,Golden State Warriors,GSW,Portland Trail Blazers,POR,Moda Center,0,0,0
+12/15/2025,7:00p,Detroit Pistons,DET,Boston Celtics,BOS,TD Garden,0,0,0
+12/15/2025,9:00p,Dallas Mavericks,DAL,Utah Jazz,UTA,Delta Center,0,0,0
+12/15/2025,9:30p,Houston Rockets,HOU,Denver Nuggets,DEN,Ball Arena,0,0,0
+12/15/2025,10:30p,Memphis Grizzlies,MEM,Los Angeles Clippers,LAC,Intuit Dome,0,0,0
 12/17/2025,8:00p,Cleveland Cavaliers,CLE,Chicago Bulls,CHI,United Center,0,0,0
 12/17/2025,8:00p,Memphis Grizzlies,MEM,Minnesota Timberwolves,MIN,Target Center,0,0,0
 12/17/2025,8:00p,Los Angeles Clippers,LAC,Oklahoma City Thunder,OKC,Paycom Center,0,0,0
@@ -422,10 +444,10 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd
 12/25/2025,8:00p,Houston Rockets,HOU,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0
 12/25/2025,10:30p,Minnesota Timberwolves,MIN,Denver Nuggets,DEN,Ball Arena,0,0,0
 12/26/2025,7:00p,Miami Heat,MIA,Atlanta Hawks,ATL,State Farm Arena,0,0,0
+12/26/2025,7:00p,Boston Celtics,BOS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
 12/26/2025,7:00p,Charlotte Hornets,CHO,Orlando Magic,ORL,Kia Center,0,0,0
 12/26/2025,7:00p,Toronto Raptors,TOR,Washington Wizards,WAS,Capital One Arena,0,0,0
-12/26/2025,7:30p,Boston Celtics,BOS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0
-12/26/2025,8:00p,Philadelphia 76ers,PHI,Chicago Bulls,CHI,United Center,0,0,0
+12/26/2025,7:30p,Philadelphia 76ers,PHI,Chicago Bulls,CHI,United Center,0,0,0
 12/26/2025,8:00p,Milwaukee Bucks,MIL,Memphis Grizzlies,MEM,FedExForum,0,0,0
 12/26/2025,8:00p,Phoenix Suns,PHO,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0
 12/26/2025,9:30p,Detroit Pistons,DET,Utah Jazz,UTA,Delta Center,0,0,0
