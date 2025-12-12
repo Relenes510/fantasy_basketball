@@ -1,369 +1,369 @@
-Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd,cup_gm,pstszn_gm
-2025-10-21,7:30p,Houston Rockets,HOU,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,0
-2025-10-21,10:00p,Golden State Warriors,GSW,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,0,0
-2025-10-22,7:00p,Brooklyn Nets,BRK,Charlotte Hornets,CHO,Spectrum Center,0,0,1,0,0
-2025-10-22,7:00p,Cleveland Cavaliers,CLE,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,0
-2025-10-22,7:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,1,0,0
-2025-10-22,7:30p,Philadelphia 76ers,PHI,Boston Celtics,BOS,TD Garden,0,0,1,0,0
-2025-10-22,7:30p,Toronto Raptors,TOR,Atlanta Hawks,ATL,State Farm Arena,0,0,1,0,0
-2025-10-22,8:00p,Detroit Pistons,DET,Chicago Bulls,CHI,United Center,0,0,1,0,0
-2025-10-22,8:00p,New Orleans Pelicans,NOP,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,0
-2025-10-22,8:00p,Washington Wizards,WAS,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,0
-2025-10-22,9:00p,Los Angeles Clippers,LAC,Utah Jazz,UTA,Delta Center,0,0,1,0,0
-2025-10-22,9:30p,San Antonio Spurs,SAS,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,0
-2025-10-22,10:00p,Minnesota Timberwolves,MIN,Portland Trail Blazers,POR,Moda Center,0,0,1,0,0
-2025-10-22,10:00p,Sacramento Kings,SAC,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,0
-2025-10-23,7:30p,Oklahoma City Thunder,OKC,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,0
-2025-10-23,10:00p,Denver Nuggets,DEN,Golden State Warriors,GSW,Chase Center,0,0,1,0,0
-2025-10-24,6:30p,Milwaukee Bucks,MIL,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,0
-2025-10-24,7:00p,Atlanta Hawks,ATL,Orlando Magic,ORL,Kia Center,0,0,1,0,0
-2025-10-24,7:30p,Cleveland Cavaliers,CLE,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,0
-2025-10-24,7:30p,Boston Celtics,BOS,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,0
-2025-10-24,8:00p,Detroit Pistons,DET,Houston Rockets,HOU,Toyota Center,0,0,1,0,0
-2025-10-24,8:00p,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-10-24,8:00p,Miami Heat,MIA,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,0
-2025-10-24,8:30p,Washington Wizards,WAS,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,0
-2025-10-24,10:00p,Minnesota Timberwolves,MIN,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,0,0
-2025-10-24,10:00p,Golden State Warriors,GSW,Portland Trail Blazers,POR,Moda Center,1,0,1,0,0
-2025-10-24,10:00p,Utah Jazz,UTA,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,0
-2025-10-24,10:30p,Phoenix Suns,PHO,Los Angeles Clippers,LAC,Intuit Dome,0,0,1,0,0
-2025-10-25,7:00p,Chicago Bulls,CHI,Orlando Magic,ORL,Kia Center,0,1,1,0,0
-2025-10-25,7:30p,Oklahoma City Thunder,OKC,Atlanta Hawks,ATL,State Farm Arena,0,1,1,0,0
-2025-10-25,7:30p,Charlotte Hornets,CHO,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,0
-2025-10-25,8:00p,Indiana Pacers,IND,Memphis Grizzlies,MEM,FedExForum,0,1,1,0,0
-2025-10-25,9:00p,Phoenix Suns,PHO,Denver Nuggets,DEN,Ball Arena,1,0,1,0,0
-2025-10-26,2:00p,Brooklyn Nets,BRK,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,0,0
-2025-10-26,3:30p,Boston Celtics,BOS,Detroit Pistons,DET,Little Caesars Arena,0,0,1,0,0
-2025-10-26,6:00p,Charlotte Hornets,CHO,Washington Wizards,WAS,Capital One Arena,1,0,1,0,0
-2025-10-26,6:00p,New York Knicks,NYK,Miami Heat,MIA,Kaseya Center,0,0,1,0,0
-2025-10-26,6:00p,Milwaukee Bucks,MIL,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,0,0
-2025-10-26,7:00p,Indiana Pacers,IND,Minnesota Timberwolves,MIN,Target Center,1,0,1,0,0
-2025-10-26,7:30p,Toronto Raptors,TOR,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,0
-2025-10-26,9:00p,Los Angeles Lakers,LAL,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,0
-2025-10-26,9:00p,Portland Trail Blazers,POR,Los Angeles Clippers,LAC,Intuit Dome,0,0,1,0,0
-2025-10-27,7:00p,Cleveland Cavaliers,CLE,Detroit Pistons,DET,Little Caesars Arena,1,1,1,0,0
-2025-10-27,7:00p,Orlando Magic,ORL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,0
-2025-10-27,8:00p,Atlanta Hawks,ATL,Chicago Bulls,CHI,United Center,0,0,1,0,0
-2025-10-27,8:00p,Brooklyn Nets,BRK,Houston Rockets,HOU,Toyota Center,1,0,1,0,0
-2025-10-27,8:00p,Boston Celtics,BOS,New Orleans Pelicans,NOP,Smoothie King Center,1,0,1,0,0
-2025-10-27,8:00p,Toronto Raptors,TOR,San Antonio Spurs,SAS,Frost Bank Center,1,1,1,0,0
-2025-10-27,8:30p,Oklahoma City Thunder,OKC,Dallas Mavericks,DAL,American Airlines Center,0,1,1,0,0
-2025-10-27,9:00p,Phoenix Suns,PHO,Utah Jazz,UTA,Delta Center,0,0,1,0,0
-2025-10-27,9:30p,Denver Nuggets,DEN,Minnesota Timberwolves,MIN,Target Center,0,1,1,0,0
-2025-10-27,10:00p,Memphis Grizzlies,MEM,Golden State Warriors,GSW,Chase Center,0,0,1,0,0
-2025-10-27,10:30p,Portland Trail Blazers,POR,Los Angeles Lakers,LAL,Crypto.com Arena,1,1,1,0,0
-2025-10-28,7:00p,Philadelphia 76ers,PHI,Washington Wizards,WAS,Capital One Arena,1,0,1,0,0
-2025-10-28,7:30p,Charlotte Hornets,CHO,Miami Heat,MIA,Kaseya Center,0,0,1,0,0
-2025-10-28,8:00p,New York Knicks,NYK,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,0
-2025-10-28,8:00p,Sacramento Kings,SAC,Oklahoma City Thunder,OKC,Paycom Center,0,1,1,0,0
-2025-10-28,11:00p,Los Angeles Clippers,LAC,Golden State Warriors,GSW,Chase Center,0,1,1,0,0
-2025-10-29,6:30p,Houston Rockets,HOU,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,0
-2025-10-29,7:00p,Cleveland Cavaliers,CLE,Boston Celtics,BOS,TD Garden,0,0,1,0,0
-2025-10-29,7:00p,Orlando Magic,ORL,Detroit Pistons,DET,Little Caesars Arena,0,0,1,0,0
-2025-10-29,7:30p,Atlanta Hawks,ATL,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,0
-2025-10-29,8:00p,Sacramento Kings,SAC,Chicago Bulls,CHI,United Center,1,0,1,0,0
-2025-10-29,8:30p,Indiana Pacers,IND,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,0
-2025-10-29,9:00p,Portland Trail Blazers,POR,Utah Jazz,UTA,Delta Center,0,0,1,0,0
-2025-10-29,9:00p,New Orleans Pelicans,NOP,Denver Nuggets,DEN,Ball Arena,0,0,1,0,0
-2025-10-29,9:30p,Los Angeles Lakers,LAL,Minnesota Timberwolves,MIN,Target Center,0,0,1,0,0
-2025-10-29,10:00p,Memphis Grizzlies,MEM,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,0
-2025-10-30,7:00p,Orlando Magic,ORL,Charlotte Hornets,CHO,Spectrum Center,1,0,1,0,0
-2025-10-30,8:00p,Golden State Warriors,GSW,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,0
-2025-10-30,8:00p,Washington Wizards,WAS,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,0
-2025-10-30,8:30p,Miami Heat,MIA,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,0,0
-2025-10-31,7:00p,Atlanta Hawks,ATL,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,1,0
-2025-10-31,7:00p,Boston Celtics,BOS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,1,0
-2025-10-31,7:30p,Toronto Raptors,TOR,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,1,0
-2025-10-31,8:00p,New York Knicks,NYK,Chicago Bulls,CHI,United Center,0,0,1,1,0
-2025-10-31,9:30p,Los Angeles Lakers,LAL,Memphis Grizzlies,MEM,FedExForum,0,0,1,1,0
-2025-10-31,10:00p,Utah Jazz,UTA,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,1,0
-2025-10-31,10:00p,Denver Nuggets,DEN,Portland Trail Blazers,POR,Moda Center,0,0,1,1,0
-2025-10-31,10:30p,New Orleans Pelicans,NOP,Los Angeles Clippers,LAC,Intuit Dome,0,0,1,1,0
-2025-11-01,5:00p,Sacramento Kings,SAC,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,0
-2025-11-01,6:00p,Minnesota Timberwolves,MIN,Charlotte Hornets,CHO,Spectrum Center,0,0,1,0,0
-2025-11-01,7:00p,Golden State Warriors,GSW,Indiana Pacers,IND,Gainbridge Fieldhouse,0,1,1,0,0
-2025-11-01,7:00p,Orlando Magic,ORL,Washington Wizards,WAS,Capital One Arena,0,0,1,0,0
-2025-11-01,8:00p,Houston Rockets,HOU,Boston Celtics,BOS,TD Garden,0,1,1,0,0
-2025-11-01,10:00p,Dallas Mavericks,DAL,Detroit Pistons,DET,Mexico City Arena,0,0,1,0,0
-2025-11-02,3:30p,New Orleans Pelicans,NOP,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,0
-2025-11-02,6:00p,Philadelphia 76ers,PHI,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,0
-2025-11-02,6:00p,Utah Jazz,UTA,Charlotte Hornets,CHO,Spectrum Center,0,1,1,0,0
-2025-11-02,6:00p,Atlanta Hawks,ATL,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,0,0
-2025-11-02,6:00p,Memphis Grizzlies,MEM,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,0
-2025-11-02,7:00p,Chicago Bulls,CHI,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,0
-2025-11-02,8:00p,San Antonio Spurs,SAS,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,0
-2025-11-02,9:30p,Miami Heat,MIA,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,0,0
-2025-11-03,7:00p,Minnesota Timberwolves,MIN,Brooklyn Nets,BRK,Barclays Center,0,1,1,0,0
-2025-11-03,7:00p,Milwaukee Bucks,MIL,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,0
-2025-11-03,7:30p,Utah Jazz,UTA,Boston Celtics,BOS,TD Garden,1,0,1,0,0
-2025-11-03,7:30p,Washington Wizards,WAS,New York Knicks,NYK,Madison Square Garden (IV),0,1,1,0,0
-2025-11-03,8:00p,Dallas Mavericks,DAL,Houston Rockets,HOU,Toyota Center,0,0,1,0,0
-2025-11-03,8:00p,Detroit Pistons,DET,Memphis Grizzlies,MEM,FedExForum,0,1,1,0,0
-2025-11-03,9:00p,Sacramento Kings,SAC,Denver Nuggets,DEN,Ball Arena,0,0,1,0,0
-2025-11-03,10:00p,Los Angeles Lakers,LAL,Portland Trail Blazers,POR,Moda Center,1,0,1,0,0
-2025-11-03,10:30p,Miami Heat,MIA,Los Angeles Clippers,LAC,Intuit Dome,1,0,1,0,0
-2025-11-04,7:30p,Milwaukee Bucks,MIL,Toronto Raptors,TOR,Scotiabank Arena,1,0,1,0,0
-2025-11-04,8:00p,Orlando Magic,ORL,Atlanta Hawks,ATL,State Farm Arena,0,0,1,0,0
-2025-11-04,8:00p,Philadelphia 76ers,PHI,Chicago Bulls,CHI,United Center,0,0,1,0,0
-2025-11-04,8:00p,Charlotte Hornets,CHO,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-11-04,10:00p,Phoenix Suns,PHO,Golden State Warriors,GSW,Chase Center,0,0,1,0,0
-2025-11-04,11:00p,Oklahoma City Thunder,OKC,Los Angeles Clippers,LAC,Intuit Dome,0,1,1,0,0
-2025-11-05,7:00p,Philadelphia 76ers,PHI,Cleveland Cavaliers,CLE,Rocket Arena,1,0,1,0,0
-2025-11-05,7:00p,Utah Jazz,UTA,Detroit Pistons,DET,Little Caesars Arena,0,0,1,0,0
-2025-11-05,7:00p,Brooklyn Nets,BRK,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,0
-2025-11-05,7:30p,Washington Wizards,WAS,Boston Celtics,BOS,TD Garden,0,0,1,0,0
-2025-11-05,7:30p,Minnesota Timberwolves,MIN,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,0
-2025-11-05,8:00p,Houston Rockets,HOU,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,0
-2025-11-05,8:30p,New Orleans Pelicans,NOP,Dallas Mavericks,DAL,American Airlines Center,1,0,1,0,0
-2025-11-05,9:00p,Miami Heat,MIA,Denver Nuggets,DEN,Ball Arena,0,0,1,0,0
-2025-11-05,10:00p,San Antonio Spurs,SAS,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,0,0
-2025-11-05,10:00p,Oklahoma City Thunder,OKC,Portland Trail Blazers,POR,Moda Center,1,0,1,0,0
-2025-11-05,10:00p,Golden State Warriors,GSW,Sacramento Kings,SAC,Golden 1 Center,1,0,1,0,0
-2025-11-06,9:00p,Los Angeles Clippers,LAC,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,0
-2025-11-07,7:00p,Boston Celtics,BOS,Orlando Magic,ORL,Kia Center,0,0,1,1,0
-2025-11-07,7:00p,Cleveland Cavaliers,CLE,Washington Wizards,WAS,Capital One Arena,0,0,1,1,0
-2025-11-07,7:30p,Toronto Raptors,TOR,Atlanta Hawks,ATL,State Farm Arena,0,0,1,1,0
-2025-11-07,7:30p,Detroit Pistons,DET,Brooklyn Nets,BRK,Barclays Center,0,0,1,1,0
-2025-11-07,7:30p,Houston Rockets,HOU,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,1,0
-2025-11-07,8:00p,Dallas Mavericks,DAL,Memphis Grizzlies,MEM,FedExForum,0,0,1,1,0
-2025-11-07,8:00p,Charlotte Hornets,CHO,Miami Heat,MIA,Kaseya Center,0,0,1,1,0
-2025-11-07,8:00p,Chicago Bulls,CHI,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,1,0
-2025-11-07,8:00p,Utah Jazz,UTA,Minnesota Timberwolves,MIN,Target Center,0,0,1,1,0
-2025-11-07,10:00p,Golden State Warriors,GSW,Denver Nuggets,DEN,Ball Arena,0,0,1,1,0
-2025-11-07,10:00p,Oklahoma City Thunder,OKC,Sacramento Kings,SAC,Golden 1 Center,0,0,1,1,0
-2025-11-08,7:00p,Dallas Mavericks,DAL,Washington Wizards,WAS,Capital One Arena,1,1,1,0,0
-2025-11-08,7:30p,Toronto Raptors,TOR,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,1,0,0
-2025-11-08,8:00p,Los Angeles Lakers,LAL,Atlanta Hawks,ATL,State Farm Arena,0,1,1,0,0
-2025-11-08,8:00p,Chicago Bulls,CHI,Cleveland Cavaliers,CLE,Rocket Arena,1,1,1,0,0
-2025-11-08,8:00p,Portland Trail Blazers,POR,Miami Heat,MIA,Kaseya Center,0,1,1,0,0
-2025-11-08,8:00p,New Orleans Pelicans,NOP,San Antonio Spurs,SAS,Frost Bank Center,0,1,1,0,0
-2025-11-08,9:00p,Indiana Pacers,IND,Denver Nuggets,DEN,Ball Arena,0,1,1,0,0
-2025-11-08,10:30p,Phoenix Suns,PHO,Los Angeles Clippers,LAC,Intuit Dome,0,0,1,0,0
-2025-11-09,3:30p,Houston Rockets,HOU,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,0
-2025-11-09,6:00p,Oklahoma City Thunder,OKC,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,0
-2025-11-09,6:00p,Brooklyn Nets,BRK,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,0
-2025-11-09,6:00p,Boston Celtics,BOS,Orlando Magic,ORL,Kia Center,0,0,1,0,0
-2025-11-09,7:30p,Detroit Pistons,DET,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,1,1,0,0
-2025-11-09,8:30p,Indiana Pacers,IND,Golden State Warriors,GSW,Chase Center,1,0,1,0,0
-2025-11-09,9:00p,Minnesota Timberwolves,MIN,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,0
-2025-11-10,7:00p,Los Angeles Lakers,LAL,Charlotte Hornets,CHO,Spectrum Center,0,0,1,0,0
-2025-11-10,7:00p,Washington Wizards,WAS,Detroit Pistons,DET,Little Caesars Arena,0,1,1,0,0
-2025-11-10,7:00p,Portland Trail Blazers,POR,Orlando Magic,ORL,Kia Center,0,1,1,0,0
-2025-11-10,7:30p,Cleveland Cavaliers,CLE,Miami Heat,MIA,Kaseya Center,0,0,1,0,0
-2025-11-10,8:00p,San Antonio Spurs,SAS,Chicago Bulls,CHI,United Center,0,0,1,0,0
-2025-11-10,8:30p,Milwaukee Bucks,MIL,Dallas Mavericks,DAL,American Airlines Center,1,0,1,0,0
-2025-11-10,9:00p,New Orleans Pelicans,NOP,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,0
-2025-11-10,9:00p,Minnesota Timberwolves,MIN,Utah Jazz,UTA,Delta Center,1,0,1,0,0
-2025-11-10,10:30p,Atlanta Hawks,ATL,Los Angeles Clippers,LAC,Intuit Dome,0,0,1,0,0
-2025-11-11,7:30p,Toronto Raptors,TOR,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,0
-2025-11-11,7:30p,Memphis Grizzlies,MEM,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,0
-2025-11-11,8:00p,Golden State Warriors,GSW,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,0
-2025-11-11,8:00p,Boston Celtics,BOS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,0
-2025-11-11,9:00p,Indiana Pacers,IND,Utah Jazz,UTA,Delta Center,0,1,1,0,0
-2025-11-11,11:00p,Denver Nuggets,DEN,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,0
-2025-11-12,7:00p,Milwaukee Bucks,MIL,Charlotte Hornets,CHO,Spectrum Center,0,0,1,0,0
-2025-11-12,7:00p,Chicago Bulls,CHI,Detroit Pistons,DET,Little Caesars Arena,0,0,1,0,0
-2025-11-12,7:00p,Orlando Magic,ORL,New York Knicks,NYK,Madison Square Garden (IV),0,1,1,0,0
-2025-11-12,7:30p,Memphis Grizzlies,MEM,Boston Celtics,BOS,TD Garden,1,1,1,0,0
-2025-11-12,7:30p,Cleveland Cavaliers,CLE,Miami Heat,MIA,Kaseya Center,0,0,1,0,0
-2025-11-12,8:00p,Washington Wizards,WAS,Houston Rockets,HOU,Toyota Center,0,0,1,0,0
-2025-11-12,8:00p,Portland Trail Blazers,POR,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-11-12,8:00p,Golden State Warriors,GSW,San Antonio Spurs,SAS,Frost Bank Center,1,0,1,0,0
-2025-11-12,8:30p,Phoenix Suns,PHO,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,0
-2025-11-12,9:30p,Los Angeles Lakers,LAL,Oklahoma City Thunder,OKC,Paycom Center,0,1,1,0,0
-2025-11-12,10:00p,Atlanta Hawks,ATL,Sacramento Kings,SAC,Golden 1 Center,0,1,1,0,0
-2025-11-12,10:30p,Denver Nuggets,DEN,Los Angeles Clippers,LAC,Intuit Dome,1,0,1,0,0
-2025-11-13,7:00p,Toronto Raptors,TOR,Cleveland Cavaliers,CLE,Rocket Arena,0,1,1,0,0
-2025-11-13,9:00p,Indiana Pacers,IND,Phoenix Suns,PHO,Mortgage Matchup Center,0,1,1,0,0
-2025-11-13,9:00p,Atlanta Hawks,ATL,Utah Jazz,UTA,Delta Center,1,0,1,0,0
-2025-11-14,7:00p,Miami Heat,MIA,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,1,0
-2025-11-14,7:00p,Brooklyn Nets,BRK,Orlando Magic,ORL,Kia Center,0,0,1,1,0
-2025-11-14,7:30p,Philadelphia 76ers,PHI,Detroit Pistons,DET,Little Caesars Arena,0,0,1,1,0
-2025-11-14,8:00p,Portland Trail Blazers,POR,Houston Rockets,HOU,Toyota Center,0,0,1,1,0
-2025-11-14,8:00p,Charlotte Hornets,CHO,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,1,0
-2025-11-14,8:00p,Sacramento Kings,SAC,Minnesota Timberwolves,MIN,Target Center,0,0,1,1,0
-2025-11-14,8:00p,Los Angeles Lakers,LAL,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,1,0
-2025-11-14,8:30p,Los Angeles Clippers,LAC,Dallas Mavericks,DAL,American Airlines Center,0,0,1,1,0
-2025-11-14,9:30p,Golden State Warriors,GSW,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,1,0
-2025-11-15,5:00p,Memphis Grizzlies,MEM,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,0,0
-2025-11-15,7:00p,Oklahoma City Thunder,OKC,Charlotte Hornets,CHO,Spectrum Center,0,1,1,0,0
-2025-11-15,7:00p,Toronto Raptors,TOR,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,0
-2025-11-15,8:00p,Los Angeles Lakers,LAL,Milwaukee Bucks,MIL,Fiserv Forum,1,1,1,0,0
-2025-11-15,8:00p,Denver Nuggets,DEN,Minnesota Timberwolves,MIN,Target Center,0,1,1,0,0
-2025-11-16,3:30p,Los Angeles Clippers,LAC,Boston Celtics,BOS,TD Garden,0,0,1,0,0
-2025-11-16,4:00p,Sacramento Kings,SAC,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,0,0
-2025-11-16,6:00p,Brooklyn Nets,BRK,Washington Wizards,WAS,Capital One Arena,0,0,1,0,0
-2025-11-16,7:00p,Orlando Magic,ORL,Houston Rockets,HOU,Toyota Center,0,0,1,0,0
-2025-11-16,7:00p,Golden State Warriors,GSW,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-11-16,7:30p,Portland Trail Blazers,POR,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,0
-2025-11-16,8:00p,Atlanta Hawks,ATL,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,0
-2025-11-16,8:00p,Chicago Bulls,CHI,Utah Jazz,UTA,Delta Center,0,0,1,0,0
-2025-11-17,7:00p,Milwaukee Bucks,MIL,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,0,0
-2025-11-17,7:00p,Indiana Pacers,IND,Detroit Pistons,DET,Little Caesars Arena,0,0,1,0,0
-2025-11-17,7:00p,Los Angeles Clippers,LAC,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,1,0,0
-2025-11-17,7:30p,New York Knicks,NYK,Miami Heat,MIA,Kaseya Center,0,0,1,0,0
-2025-11-17,7:30p,Charlotte Hornets,CHO,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,0
-2025-11-17,8:00p,Dallas Mavericks,DAL,Minnesota Timberwolves,MIN,Target Center,1,0,1,0,0
-2025-11-17,8:00p,Oklahoma City Thunder,OKC,New Orleans Pelicans,NOP,Smoothie King Center,0,1,1,0,0
-2025-11-17,9:00p,Chicago Bulls,CHI,Denver Nuggets,DEN,Ball Arena,1,0,1,0,0
-2025-11-18,7:00p,Golden State Warriors,GSW,Orlando Magic,ORL,Kia Center,0,0,1,0,0
-2025-11-18,7:30p,Detroit Pistons,DET,Atlanta Hawks,ATL,State Farm Arena,1,0,1,0,0
-2025-11-18,7:30p,Boston Celtics,BOS,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,0
-2025-11-18,8:00p,Memphis Grizzlies,MEM,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,0,0
-2025-11-18,10:30p,Utah Jazz,UTA,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,0,0
-2025-11-18,11:00p,Phoenix Suns,PHO,Portland Trail Blazers,POR,Moda Center,0,0,1,0,0
-2025-11-19,7:00p,Houston Rockets,HOU,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,0,0
-2025-11-19,7:00p,Charlotte Hornets,CHO,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,0
-2025-11-19,7:00p,Toronto Raptors,TOR,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,0
-2025-11-19,7:30p,Golden State Warriors,GSW,Miami Heat,MIA,Kaseya Center,1,0,1,0,0
-2025-11-19,8:00p,Washington Wizards,WAS,Minnesota Timberwolves,MIN,Target Center,0,0,1,0,0
-2025-11-19,8:00p,Denver Nuggets,DEN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-11-19,8:00p,Sacramento Kings,SAC,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,0
-2025-11-19,9:30p,New York Knicks,NYK,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,0
-2025-11-19,10:00p,Chicago Bulls,CHI,Portland Trail Blazers,POR,Moda Center,0,1,1,0,0
-2025-11-20,7:00p,Los Angeles Clippers,LAC,Orlando Magic,ORL,Kia Center,0,0,1,0,0
-2025-11-20,8:00p,Sacramento Kings,SAC,Memphis Grizzlies,MEM,FedExForum,1,0,1,0,0
-2025-11-20,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,1,0,0
-2025-11-20,8:00p,Atlanta Hawks,ATL,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,0,0
-2025-11-21,7:00p,Indiana Pacers,IND,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,1,0
-2025-11-21,7:30p,Brooklyn Nets,BRK,Boston Celtics,BOS,TD Garden,0,0,1,1,0
-2025-11-21,7:30p,Washington Wizards,WAS,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,1,0
-2025-11-21,8:00p,Miami Heat,MIA,Chicago Bulls,CHI,United Center,0,0,1,1,0
-2025-11-21,8:30p,New Orleans Pelicans,NOP,Dallas Mavericks,DAL,American Airlines Center,0,0,1,1,0
-2025-11-21,9:00p,Minnesota Timberwolves,MIN,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,1,0
-2025-11-21,9:30p,Denver Nuggets,DEN,Houston Rockets,HOU,Toyota Center,0,0,1,1,0
-2025-11-21,10:00p,Portland Trail Blazers,POR,Golden State Warriors,GSW,Chase Center,0,0,1,1,0
-2025-11-21,10:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,1,1,0
-2025-11-22,1:00p,Los Angeles Clippers,LAC,Charlotte Hornets,CHO,Spectrum Center,0,0,1,0,0
-2025-11-22,5:00p,New York Knicks,NYK,Orlando Magic,ORL,Kia Center,0,0,1,0,0
-2025-11-22,7:00p,Atlanta Hawks,ATL,New Orleans Pelicans,NOP,Smoothie King Center,0,1,1,0,0
-2025-11-22,8:00p,Washington Wizards,WAS,Chicago Bulls,CHI,United Center,1,1,1,0,0
-2025-11-22,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,0
-2025-11-22,8:30p,Memphis Grizzlies,MEM,Dallas Mavericks,DAL,American Airlines Center,0,1,1,0,0
-2025-11-22,10:00p,Sacramento Kings,SAC,Denver Nuggets,DEN,Ball Arena,0,1,1,0,0
-2025-11-23,1:00p,Miami Heat,MIA,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,0
-2025-11-23,6:00p,Charlotte Hornets,CHO,Atlanta Hawks,ATL,State Farm Arena,1,1,1,0,0
-2025-11-23,6:00p,Orlando Magic,ORL,Boston Celtics,BOS,TD Garden,1,0,1,0,0
-2025-11-23,6:00p,Los Angeles Clippers,LAC,Cleveland Cavaliers,CLE,Rocket Arena,1,0,1,0,0
-2025-11-23,6:00p,Brooklyn Nets,BRK,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,0
-2025-11-23,7:00p,Portland Trail Blazers,POR,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,0
-2025-11-23,8:00p,San Antonio Spurs,SAS,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,0
-2025-11-23,8:00p,Los Angeles Lakers,LAL,Utah Jazz,UTA,Delta Center,0,0,1,0,0
-2025-11-24,7:00p,Detroit Pistons,DET,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,0
-2025-11-24,7:00p,Cleveland Cavaliers,CLE,Toronto Raptors,TOR,Scotiabank Arena,1,1,1,0,0
-2025-11-24,7:30p,New York Knicks,NYK,Brooklyn Nets,BRK,Barclays Center,0,1,1,0,0
-2025-11-24,7:30p,Dallas Mavericks,DAL,Miami Heat,MIA,Kaseya Center,0,1,1,0,0
-2025-11-24,8:00p,Denver Nuggets,DEN,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,0
-2025-11-24,8:00p,Portland Trail Blazers,POR,Milwaukee Bucks,MIL,Fiserv Forum,1,0,1,0,0
-2025-11-24,8:00p,Chicago Bulls,CHI,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-11-24,9:30p,Houston Rockets,HOU,Phoenix Suns,PHO,Mortgage Matchup Center,0,1,1,0,0
-2025-11-24,10:00p,Utah Jazz,UTA,Golden State Warriors,GSW,Chase Center,1,0,1,0,0
-2025-11-24,10:00p,Minnesota Timberwolves,MIN,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,0
-2025-11-25,7:00p,Atlanta Hawks,ATL,Washington Wizards,WAS,Capital One Arena,0,0,1,1,0
-2025-11-25,8:00p,Orlando Magic,ORL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,1,0
-2025-11-25,11:00p,Los Angeles Clippers,LAC,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,1,0
-2025-11-26,5:00p,Detroit Pistons,DET,Boston Celtics,BOS,TD Garden,0,0,1,1,0
-2025-11-26,7:00p,New York Knicks,NYK,Charlotte Hornets,CHO,Spectrum Center,0,0,1,1,0
-2025-11-26,7:30p,Milwaukee Bucks,MIL,Miami Heat,MIA,Kaseya Center,0,0,1,1,0
-2025-11-26,7:30p,Minnesota Timberwolves,MIN,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,1,0
-2025-11-26,7:30p,Indiana Pacers,IND,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,1,0
-2025-11-26,8:00p,Memphis Grizzlies,MEM,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,1,0
-2025-11-26,10:00p,Houston Rockets,HOU,Golden State Warriors,GSW,Chase Center,0,0,1,1,0
-2025-11-26,10:00p,San Antonio Spurs,SAS,Portland Trail Blazers,POR,Moda Center,0,0,1,1,0
-2025-11-26,10:00p,Phoenix Suns,PHO,Sacramento Kings,SAC,Golden 1 Center,0,0,1,1,0
-2025-11-28,7:30p,Cleveland Cavaliers,CLE,Atlanta Hawks,ATL,State Farm Arena,0,0,1,1,0
-2025-11-28,7:30p,Philadelphia 76ers,PHI,Brooklyn Nets,BRK,Barclays Center,0,0,1,1,0
-2025-11-28,7:30p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,1,1,0
-2025-11-28,7:30p,Orlando Magic,ORL,Detroit Pistons,DET,Little Caesars Arena,0,0,1,1,0
-2025-11-28,7:30p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,1,0
-2025-11-28,7:30p,Milwaukee Bucks,MIL,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,1,0
-2025-11-28,9:30p,San Antonio Spurs,SAS,Denver Nuggets,DEN,Ball Arena,0,0,1,1,0
-2025-11-28,9:30p,Phoenix Suns,PHO,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,1,0
-2025-11-28,9:30p,Sacramento Kings,SAC,Utah Jazz,UTA,Delta Center,0,0,1,1,0
-2025-11-28,10:00p,Memphis Grizzlies,MEM,Los Angeles Clippers,LAC,Intuit Dome,0,0,1,1,0
-2025-11-28,10:00p,Dallas Mavericks,DAL,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,1,0
-2025-11-29,5:00p,Boston Celtics,BOS,Minnesota Timberwolves,MIN,Target Center,0,0,1,0,0
-2025-11-29,6:00p,Toronto Raptors,TOR,Charlotte Hornets,CHO,Spectrum Center,0,1,1,0,0
-2025-11-29,7:30p,Chicago Bulls,CHI,Indiana Pacers,IND,Gainbridge Fieldhouse,1,1,1,0,0
-2025-11-29,8:00p,Detroit Pistons,DET,Miami Heat,MIA,Kaseya Center,1,0,1,0,0
-2025-11-29,8:00p,Brooklyn Nets,BRK,Milwaukee Bucks,MIL,Fiserv Forum,1,1,1,0,0
-2025-11-29,8:30p,New Orleans Pelicans,NOP,Golden State Warriors,GSW,Chase Center,0,0,1,0,0
-2025-11-29,9:00p,Denver Nuggets,DEN,Phoenix Suns,PHO,Mortgage Matchup Center,1,1,1,0,0
-2025-11-29,10:00p,Dallas Mavericks,DAL,Los Angeles Clippers,LAC,Intuit Dome,1,1,1,0,0
-2025-11-30,3:00p,Houston Rockets,HOU,Utah Jazz,UTA,Delta Center,0,0,1,0,0
-2025-11-30,6:00p,Boston Celtics,BOS,Cleveland Cavaliers,CLE,Rocket Arena,1,0,1,0,0
-2025-11-30,6:00p,Toronto Raptors,TOR,New York Knicks,NYK,Madison Square Garden (IV),1,0,1,0,0
-2025-11-30,6:00p,Atlanta Hawks,ATL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,0
-2025-11-30,6:00p,Oklahoma City Thunder,OKC,Portland Trail Blazers,POR,Moda Center,0,0,1,0,0
-2025-11-30,7:00p,San Antonio Spurs,SAS,Minnesota Timberwolves,MIN,Target Center,0,1,1,0,0
-2025-11-30,9:00p,Memphis Grizzlies,MEM,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,0
-2025-11-30,9:30p,New Orleans Pelicans,NOP,Los Angeles Lakers,LAL,Crypto.com Arena,1,0,1,0,0
-2025-12-01,7:00p,Atlanta Hawks,ATL,Detroit Pistons,DET,Little Caesars Arena,1,0,1,0,0
-2025-12-01,7:00p,Cleveland Cavaliers,CLE,Indiana Pacers,IND,Gainbridge Fieldhouse,1,0,1,0,0
-2025-12-01,7:00p,Milwaukee Bucks,MIL,Washington Wizards,WAS,Capital One Arena,0,0,1,0,0
-2025-12-01,7:30p,Charlotte Hornets,CHO,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,0
-2025-12-01,7:30p,Los Angeles Clippers,LAC,Miami Heat,MIA,Kaseya Center,0,0,1,0,0
-2025-12-01,7:30p,Chicago Bulls,CHI,Orlando Magic,ORL,Kia Center,0,0,1,0,0
-2025-12-01,9:00p,Dallas Mavericks,DAL,Denver Nuggets,DEN,Ball Arena,0,0,1,0,0
-2025-12-01,9:00p,Houston Rockets,HOU,Utah Jazz,UTA,Delta Center,1,1,1,0,0
-2025-12-01,10:00p,Phoenix Suns,PHO,Los Angeles Lakers,LAL,Crypto.com Arena,0,1,1,0,0
-2025-12-02,7:00p,Washington Wizards,WAS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,1,0,0
-2025-12-02,7:30p,Portland Trail Blazers,POR,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,0
-2025-12-02,8:00p,New York Knicks,NYK,Boston Celtics,BOS,TD Garden,0,0,1,0,0
-2025-12-02,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-12-02,8:00p,Memphis Grizzlies,MEM,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,0,0
-2025-12-02,11:00p,Oklahoma City Thunder,OKC,Golden State Warriors,GSW,Chase Center,0,0,1,0,0
-2025-12-03,7:00p,Portland Trail Blazers,POR,Cleveland Cavaliers,CLE,Rocket Arena,1,0,1,0,0
-2025-12-03,7:00p,Denver Nuggets,DEN,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,0
-2025-12-03,7:00p,San Antonio Spurs,SAS,Orlando Magic,ORL,Kia Center,1,0,1,0,0
-2025-12-03,7:30p,Los Angeles Clippers,LAC,Atlanta Hawks,ATL,State Farm Arena,0,0,1,0,0
-2025-12-03,7:30p,Charlotte Hornets,CHO,New York Knicks,NYK,Madison Square Garden (IV),0,1,1,0,0
-2025-12-03,8:00p,Brooklyn Nets,BRK,Chicago Bulls,CHI,United Center,0,0,1,0,0
-2025-12-03,8:00p,Sacramento Kings,SAC,Houston Rockets,HOU,Toyota Center,0,0,1,0,0
-2025-12-03,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,0
-2025-12-03,8:30p,Miami Heat,MIA,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,0
-2025-12-04,7:00p,Golden State Warriors,GSW,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,0
-2025-12-04,7:00p,Boston Celtics,BOS,Washington Wizards,WAS,Capital One Arena,0,0,1,0,0
-2025-12-04,7:30p,Utah Jazz,UTA,Brooklyn Nets,BRK,Barclays Center,0,1,1,0,0
-2025-12-04,7:30p,Los Angeles Lakers,LAL,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,0
-2025-12-04,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-12-05,7:00p,Los Angeles Lakers,LAL,Boston Celtics,BOS,TD Garden,1,1,1,0,0
-2025-12-05,7:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,1,0,0
-2025-12-05,7:30p,Denver Nuggets,DEN,Atlanta Hawks,ATL,State Farm Arena,0,0,1,0,0
-2025-12-05,7:30p,San Antonio Spurs,SAS,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,0,0
-2025-12-05,7:30p,Portland Trail Blazers,POR,Detroit Pistons,DET,Little Caesars Arena,0,0,1,0,0
-2025-12-05,7:30p,Utah Jazz,UTA,New York Knicks,NYK,Madison Square Garden (IV),1,0,1,0,0
-2025-12-05,7:30p,Charlotte Hornets,CHO,Toronto Raptors,TOR,Scotiabank Arena,0,1,1,0,0
-2025-12-05,8:00p,Indiana Pacers,IND,Chicago Bulls,CHI,United Center,0,0,1,0,0
-2025-12-05,8:00p,Phoenix Suns,PHO,Houston Rockets,HOU,Toyota Center,0,0,1,0,0
-2025-12-05,8:00p,Los Angeles Clippers,LAC,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,0
-2025-12-05,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,1,0,0
-2025-12-05,9:30p,Dallas Mavericks,DAL,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,0
-2025-12-06,5:00p,New Orleans Pelicans,NOP,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,0
-2025-12-06,7:00p,Atlanta Hawks,ATL,Washington Wizards,WAS,Capital One Arena,1,0,1,0,0
-2025-12-06,7:30p,Golden State Warriors,GSW,Cleveland Cavaliers,CLE,Rocket Arena,0,1,1,0,0
-2025-12-06,7:30p,Milwaukee Bucks,MIL,Detroit Pistons,DET,Little Caesars Arena,1,1,1,0,0
-2025-12-06,8:00p,Sacramento Kings,SAC,Miami Heat,MIA,Kaseya Center,0,1,1,0,0
-2025-12-06,8:00p,Los Angeles Clippers,LAC,Minnesota Timberwolves,MIN,Target Center,1,0,1,0,0
-2025-12-06,8:30p,Houston Rockets,HOU,Dallas Mavericks,DAL,American Airlines Center,1,1,1,0,0
-2025-12-07,12:00p,Orlando Magic,ORL,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,0
-2025-12-07,3:30p,Boston Celtics,BOS,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,0
-2025-12-07,6:00p,Denver Nuggets,DEN,Charlotte Hornets,CHO,Spectrum Center,0,0,1,0,0
-2025-12-07,6:00p,Portland Trail Blazers,POR,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,0
-2025-12-07,7:00p,Golden State Warriors,GSW,Chicago Bulls,CHI,United Center,1,0,1,0,0
-2025-12-07,7:30p,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,0
-2025-12-07,8:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,1,0,0
-2025-12-08,7:00p,Sacramento Kings,SAC,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,0
-2025-12-08,7:30p,Phoenix Suns,PHO,Minnesota Timberwolves,MIN,Target Center,0,0,1,0,0
-2025-12-08,8:00p,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-12-09,6:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,1,1,0
-2025-12-09,8:30p,New York Knicks,NYK,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,1,0
-2025-12-10,7:30p,Phoenix Suns,PHO,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,1,0
-2025-12-10,10:00p,San Antonio Spurs,SAS,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,1,0
-2025-12-11,8:00p,Los Angeles Clippers,LAC,Houston Rockets,HOU,Toyota Center,0,0,1,0,0
-2025-12-11,8:00p,Boston Celtics,BOS,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,0
-2025-12-11,8:00p,Portland Trail Blazers,POR,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,0
-2025-12-11,10:00p,Denver Nuggets,DEN,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,0
+Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,cup_gm,pstszn_gm,rtrvd
+2025-10-21,7:30p,Houston Rockets,HOU,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,1
+2025-10-21,10:00p,Golden State Warriors,GSW,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0,0,1
+2025-10-22,7:00p,Brooklyn Nets,BRK,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,1
+2025-10-22,7:00p,Cleveland Cavaliers,CLE,New York Knicks,NYK,Madison Square Garden (IV),0,0,0,0,1
+2025-10-22,7:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,0,0,1
+2025-10-22,7:30p,Philadelphia 76ers,PHI,Boston Celtics,BOS,TD Garden,0,0,0,0,1
+2025-10-22,7:30p,Toronto Raptors,TOR,Atlanta Hawks,ATL,State Farm Arena,0,0,0,0,1
+2025-10-22,8:00p,Detroit Pistons,DET,Chicago Bulls,CHI,United Center,0,0,0,0,1
+2025-10-22,8:00p,New Orleans Pelicans,NOP,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,1
+2025-10-22,8:00p,Washington Wizards,WAS,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
+2025-10-22,9:00p,Los Angeles Clippers,LAC,Utah Jazz,UTA,Delta Center,0,0,0,0,1
+2025-10-22,9:30p,San Antonio Spurs,SAS,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-10-22,10:00p,Minnesota Timberwolves,MIN,Portland Trail Blazers,POR,Moda Center,0,0,0,0,1
+2025-10-22,10:00p,Sacramento Kings,SAC,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,1
+2025-10-23,7:30p,Oklahoma City Thunder,OKC,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-10-23,10:00p,Denver Nuggets,DEN,Golden State Warriors,GSW,Chase Center,0,0,0,0,1
+2025-10-24,6:30p,Milwaukee Bucks,MIL,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,1
+2025-10-24,7:00p,Atlanta Hawks,ATL,Orlando Magic,ORL,Kia Center,0,0,0,0,1
+2025-10-24,7:30p,Cleveland Cavaliers,CLE,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,1
+2025-10-24,7:30p,Boston Celtics,BOS,New York Knicks,NYK,Madison Square Garden (IV),0,0,0,0,1
+2025-10-24,8:00p,Detroit Pistons,DET,Houston Rockets,HOU,Toyota Center,0,0,0,0,1
+2025-10-24,8:00p,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-10-24,8:00p,Miami Heat,MIA,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,1
+2025-10-24,8:30p,Washington Wizards,WAS,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-10-24,10:00p,Minnesota Timberwolves,MIN,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0,0,1
+2025-10-24,10:00p,Golden State Warriors,GSW,Portland Trail Blazers,POR,Moda Center,1,0,0,0,1
+2025-10-24,10:00p,Utah Jazz,UTA,Sacramento Kings,SAC,Golden 1 Center,0,0,0,0,1
+2025-10-24,10:30p,Phoenix Suns,PHO,Los Angeles Clippers,LAC,Intuit Dome,0,0,0,0,1
+2025-10-25,7:00p,Chicago Bulls,CHI,Orlando Magic,ORL,Kia Center,0,1,0,0,1
+2025-10-25,7:30p,Oklahoma City Thunder,OKC,Atlanta Hawks,ATL,State Farm Arena,0,1,0,0,1
+2025-10-25,7:30p,Charlotte Hornets,CHO,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-10-25,8:00p,Indiana Pacers,IND,Memphis Grizzlies,MEM,FedExForum,0,1,0,0,1
+2025-10-25,9:00p,Phoenix Suns,PHO,Denver Nuggets,DEN,Ball Arena,1,0,0,0,1
+2025-10-26,2:00p,Brooklyn Nets,BRK,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,1
+2025-10-26,3:30p,Boston Celtics,BOS,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,1
+2025-10-26,6:00p,Charlotte Hornets,CHO,Washington Wizards,WAS,Capital One Arena,1,0,0,0,1
+2025-10-26,6:00p,New York Knicks,NYK,Miami Heat,MIA,Kaseya Center,0,0,0,0,1
+2025-10-26,6:00p,Milwaukee Bucks,MIL,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,1
+2025-10-26,7:00p,Indiana Pacers,IND,Minnesota Timberwolves,MIN,Target Center,1,0,0,0,1
+2025-10-26,7:30p,Toronto Raptors,TOR,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-10-26,9:00p,Los Angeles Lakers,LAL,Sacramento Kings,SAC,Golden 1 Center,0,0,0,0,1
+2025-10-26,9:00p,Portland Trail Blazers,POR,Los Angeles Clippers,LAC,Intuit Dome,0,0,0,0,1
+2025-10-27,7:00p,Cleveland Cavaliers,CLE,Detroit Pistons,DET,Little Caesars Arena,1,1,0,0,1
+2025-10-27,7:00p,Orlando Magic,ORL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-10-27,8:00p,Atlanta Hawks,ATL,Chicago Bulls,CHI,United Center,0,0,0,0,1
+2025-10-27,8:00p,Brooklyn Nets,BRK,Houston Rockets,HOU,Toyota Center,1,0,0,0,1
+2025-10-27,8:00p,Boston Celtics,BOS,New Orleans Pelicans,NOP,Smoothie King Center,1,0,0,0,1
+2025-10-27,8:00p,Toronto Raptors,TOR,San Antonio Spurs,SAS,Frost Bank Center,1,1,0,0,1
+2025-10-27,8:30p,Oklahoma City Thunder,OKC,Dallas Mavericks,DAL,American Airlines Center,0,1,0,0,1
+2025-10-27,9:00p,Phoenix Suns,PHO,Utah Jazz,UTA,Delta Center,0,0,0,0,1
+2025-10-27,9:30p,Denver Nuggets,DEN,Minnesota Timberwolves,MIN,Target Center,0,1,0,0,1
+2025-10-27,10:00p,Memphis Grizzlies,MEM,Golden State Warriors,GSW,Chase Center,0,0,0,0,1
+2025-10-27,10:30p,Portland Trail Blazers,POR,Los Angeles Lakers,LAL,Crypto.com Arena,1,1,0,0,1
+2025-10-28,7:00p,Philadelphia 76ers,PHI,Washington Wizards,WAS,Capital One Arena,1,0,0,0,1
+2025-10-28,7:30p,Charlotte Hornets,CHO,Miami Heat,MIA,Kaseya Center,0,0,0,0,1
+2025-10-28,8:00p,New York Knicks,NYK,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
+2025-10-28,8:00p,Sacramento Kings,SAC,Oklahoma City Thunder,OKC,Paycom Center,0,1,0,0,1
+2025-10-28,11:00p,Los Angeles Clippers,LAC,Golden State Warriors,GSW,Chase Center,0,1,0,0,1
+2025-10-29,6:30p,Houston Rockets,HOU,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,1
+2025-10-29,7:00p,Cleveland Cavaliers,CLE,Boston Celtics,BOS,TD Garden,0,0,0,0,1
+2025-10-29,7:00p,Orlando Magic,ORL,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,1
+2025-10-29,7:30p,Atlanta Hawks,ATL,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,1
+2025-10-29,8:00p,Sacramento Kings,SAC,Chicago Bulls,CHI,United Center,1,0,0,0,1
+2025-10-29,8:30p,Indiana Pacers,IND,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-10-29,9:00p,Portland Trail Blazers,POR,Utah Jazz,UTA,Delta Center,0,0,0,0,1
+2025-10-29,9:00p,New Orleans Pelicans,NOP,Denver Nuggets,DEN,Ball Arena,0,0,0,0,1
+2025-10-29,9:30p,Los Angeles Lakers,LAL,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,1
+2025-10-29,10:00p,Memphis Grizzlies,MEM,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,1
+2025-10-30,7:00p,Orlando Magic,ORL,Charlotte Hornets,CHO,Spectrum Center,1,0,0,0,1
+2025-10-30,8:00p,Golden State Warriors,GSW,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
+2025-10-30,8:00p,Washington Wizards,WAS,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,1
+2025-10-30,8:30p,Miami Heat,MIA,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,1
+2025-10-31,7:00p,Atlanta Hawks,ATL,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,1
+2025-10-31,7:00p,Boston Celtics,BOS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,1
+2025-10-31,7:30p,Toronto Raptors,TOR,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,0,1
+2025-10-31,8:00p,New York Knicks,NYK,Chicago Bulls,CHI,United Center,0,0,1,0,1
+2025-10-31,9:30p,Los Angeles Lakers,LAL,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,1
+2025-10-31,10:00p,Utah Jazz,UTA,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,1
+2025-10-31,10:00p,Denver Nuggets,DEN,Portland Trail Blazers,POR,Moda Center,0,0,1,0,1
+2025-10-31,10:30p,New Orleans Pelicans,NOP,Los Angeles Clippers,LAC,Intuit Dome,0,0,1,0,1
+2025-11-01,5:00p,Sacramento Kings,SAC,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
+2025-11-01,6:00p,Minnesota Timberwolves,MIN,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,1
+2025-11-01,7:00p,Golden State Warriors,GSW,Indiana Pacers,IND,Gainbridge Fieldhouse,0,1,0,0,1
+2025-11-01,7:00p,Orlando Magic,ORL,Washington Wizards,WAS,Capital One Arena,0,0,0,0,1
+2025-11-01,8:00p,Houston Rockets,HOU,Boston Celtics,BOS,TD Garden,0,1,0,0,1
+2025-11-01,10:00p,Dallas Mavericks,DAL,Detroit Pistons,DET,Mexico City Arena,0,0,0,0,1
+2025-11-02,3:30p,New Orleans Pelicans,NOP,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,1
+2025-11-02,6:00p,Philadelphia 76ers,PHI,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,1
+2025-11-02,6:00p,Utah Jazz,UTA,Charlotte Hornets,CHO,Spectrum Center,0,1,0,0,1
+2025-11-02,6:00p,Atlanta Hawks,ATL,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,1
+2025-11-02,6:00p,Memphis Grizzlies,MEM,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,1
+2025-11-02,7:00p,Chicago Bulls,CHI,New York Knicks,NYK,Madison Square Garden (IV),0,0,0,0,1
+2025-11-02,8:00p,San Antonio Spurs,SAS,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,1
+2025-11-02,9:30p,Miami Heat,MIA,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0,0,1
+2025-11-03,7:00p,Minnesota Timberwolves,MIN,Brooklyn Nets,BRK,Barclays Center,0,1,0,0,1
+2025-11-03,7:00p,Milwaukee Bucks,MIL,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-11-03,7:30p,Utah Jazz,UTA,Boston Celtics,BOS,TD Garden,1,0,0,0,1
+2025-11-03,7:30p,Washington Wizards,WAS,New York Knicks,NYK,Madison Square Garden (IV),0,1,0,0,1
+2025-11-03,8:00p,Dallas Mavericks,DAL,Houston Rockets,HOU,Toyota Center,0,0,0,0,1
+2025-11-03,8:00p,Detroit Pistons,DET,Memphis Grizzlies,MEM,FedExForum,0,1,0,0,1
+2025-11-03,9:00p,Sacramento Kings,SAC,Denver Nuggets,DEN,Ball Arena,0,0,0,0,1
+2025-11-03,10:00p,Los Angeles Lakers,LAL,Portland Trail Blazers,POR,Moda Center,1,0,0,0,1
+2025-11-03,10:30p,Miami Heat,MIA,Los Angeles Clippers,LAC,Intuit Dome,1,0,0,0,1
+2025-11-04,7:30p,Milwaukee Bucks,MIL,Toronto Raptors,TOR,Scotiabank Arena,1,0,0,0,1
+2025-11-04,8:00p,Orlando Magic,ORL,Atlanta Hawks,ATL,State Farm Arena,0,0,0,0,1
+2025-11-04,8:00p,Philadelphia 76ers,PHI,Chicago Bulls,CHI,United Center,0,0,0,0,1
+2025-11-04,8:00p,Charlotte Hornets,CHO,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-11-04,10:00p,Phoenix Suns,PHO,Golden State Warriors,GSW,Chase Center,0,0,0,0,1
+2025-11-04,11:00p,Oklahoma City Thunder,OKC,Los Angeles Clippers,LAC,Intuit Dome,0,1,0,0,1
+2025-11-05,7:00p,Philadelphia 76ers,PHI,Cleveland Cavaliers,CLE,Rocket Arena,1,0,0,0,1
+2025-11-05,7:00p,Utah Jazz,UTA,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,1
+2025-11-05,7:00p,Brooklyn Nets,BRK,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-11-05,7:30p,Washington Wizards,WAS,Boston Celtics,BOS,TD Garden,0,0,0,0,1
+2025-11-05,7:30p,Minnesota Timberwolves,MIN,New York Knicks,NYK,Madison Square Garden (IV),0,0,0,0,1
+2025-11-05,8:00p,Houston Rockets,HOU,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,1
+2025-11-05,8:30p,New Orleans Pelicans,NOP,Dallas Mavericks,DAL,American Airlines Center,1,0,0,0,1
+2025-11-05,9:00p,Miami Heat,MIA,Denver Nuggets,DEN,Ball Arena,0,0,0,0,1
+2025-11-05,10:00p,San Antonio Spurs,SAS,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0,0,1
+2025-11-05,10:00p,Oklahoma City Thunder,OKC,Portland Trail Blazers,POR,Moda Center,1,0,0,0,1
+2025-11-05,10:00p,Golden State Warriors,GSW,Sacramento Kings,SAC,Golden 1 Center,1,0,0,0,1
+2025-11-06,9:00p,Los Angeles Clippers,LAC,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,1
+2025-11-07,7:00p,Boston Celtics,BOS,Orlando Magic,ORL,Kia Center,0,0,1,0,1
+2025-11-07,7:00p,Cleveland Cavaliers,CLE,Washington Wizards,WAS,Capital One Arena,0,0,1,0,1
+2025-11-07,7:30p,Toronto Raptors,TOR,Atlanta Hawks,ATL,State Farm Arena,0,0,1,0,1
+2025-11-07,7:30p,Detroit Pistons,DET,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,1
+2025-11-07,7:30p,Houston Rockets,HOU,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,0,1
+2025-11-07,8:00p,Dallas Mavericks,DAL,Memphis Grizzlies,MEM,FedExForum,0,0,1,0,1
+2025-11-07,8:00p,Charlotte Hornets,CHO,Miami Heat,MIA,Kaseya Center,0,0,1,0,1
+2025-11-07,8:00p,Chicago Bulls,CHI,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,1
+2025-11-07,8:00p,Utah Jazz,UTA,Minnesota Timberwolves,MIN,Target Center,0,0,1,0,1
+2025-11-07,10:00p,Golden State Warriors,GSW,Denver Nuggets,DEN,Ball Arena,0,0,1,0,1
+2025-11-07,10:00p,Oklahoma City Thunder,OKC,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,1
+2025-11-08,7:00p,Dallas Mavericks,DAL,Washington Wizards,WAS,Capital One Arena,1,1,0,0,1
+2025-11-08,7:30p,Toronto Raptors,TOR,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,0,0,1
+2025-11-08,8:00p,Los Angeles Lakers,LAL,Atlanta Hawks,ATL,State Farm Arena,0,1,0,0,1
+2025-11-08,8:00p,Chicago Bulls,CHI,Cleveland Cavaliers,CLE,Rocket Arena,1,1,0,0,1
+2025-11-08,8:00p,Portland Trail Blazers,POR,Miami Heat,MIA,Kaseya Center,0,1,0,0,1
+2025-11-08,8:00p,New Orleans Pelicans,NOP,San Antonio Spurs,SAS,Frost Bank Center,0,1,0,0,1
+2025-11-08,9:00p,Indiana Pacers,IND,Denver Nuggets,DEN,Ball Arena,0,1,0,0,1
+2025-11-08,10:30p,Phoenix Suns,PHO,Los Angeles Clippers,LAC,Intuit Dome,0,0,0,0,1
+2025-11-09,3:30p,Houston Rockets,HOU,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
+2025-11-09,6:00p,Oklahoma City Thunder,OKC,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,1
+2025-11-09,6:00p,Brooklyn Nets,BRK,New York Knicks,NYK,Madison Square Garden (IV),0,0,0,0,1
+2025-11-09,6:00p,Boston Celtics,BOS,Orlando Magic,ORL,Kia Center,0,0,0,0,1
+2025-11-09,7:30p,Detroit Pistons,DET,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,1,0,0,1
+2025-11-09,8:30p,Indiana Pacers,IND,Golden State Warriors,GSW,Chase Center,1,0,0,0,1
+2025-11-09,9:00p,Minnesota Timberwolves,MIN,Sacramento Kings,SAC,Golden 1 Center,0,0,0,0,1
+2025-11-10,7:00p,Los Angeles Lakers,LAL,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,1
+2025-11-10,7:00p,Washington Wizards,WAS,Detroit Pistons,DET,Little Caesars Arena,0,1,0,0,1
+2025-11-10,7:00p,Portland Trail Blazers,POR,Orlando Magic,ORL,Kia Center,0,1,0,0,1
+2025-11-10,7:30p,Cleveland Cavaliers,CLE,Miami Heat,MIA,Kaseya Center,0,0,0,0,1
+2025-11-10,8:00p,San Antonio Spurs,SAS,Chicago Bulls,CHI,United Center,0,0,0,0,1
+2025-11-10,8:30p,Milwaukee Bucks,MIL,Dallas Mavericks,DAL,American Airlines Center,1,0,0,0,1
+2025-11-10,9:00p,New Orleans Pelicans,NOP,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,1
+2025-11-10,9:00p,Minnesota Timberwolves,MIN,Utah Jazz,UTA,Delta Center,1,0,0,0,1
+2025-11-10,10:30p,Atlanta Hawks,ATL,Los Angeles Clippers,LAC,Intuit Dome,0,0,0,0,1
+2025-11-11,7:30p,Toronto Raptors,TOR,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,1
+2025-11-11,7:30p,Memphis Grizzlies,MEM,New York Knicks,NYK,Madison Square Garden (IV),0,0,0,0,1
+2025-11-11,8:00p,Golden State Warriors,GSW,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,1
+2025-11-11,8:00p,Boston Celtics,BOS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-11-11,9:00p,Indiana Pacers,IND,Utah Jazz,UTA,Delta Center,0,1,0,0,1
+2025-11-11,11:00p,Denver Nuggets,DEN,Sacramento Kings,SAC,Golden 1 Center,0,0,0,0,1
+2025-11-12,7:00p,Milwaukee Bucks,MIL,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,1
+2025-11-12,7:00p,Chicago Bulls,CHI,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,1
+2025-11-12,7:00p,Orlando Magic,ORL,New York Knicks,NYK,Madison Square Garden (IV),0,1,0,0,1
+2025-11-12,7:30p,Memphis Grizzlies,MEM,Boston Celtics,BOS,TD Garden,1,1,0,0,1
+2025-11-12,7:30p,Cleveland Cavaliers,CLE,Miami Heat,MIA,Kaseya Center,0,0,0,0,1
+2025-11-12,8:00p,Washington Wizards,WAS,Houston Rockets,HOU,Toyota Center,0,0,0,0,1
+2025-11-12,8:00p,Portland Trail Blazers,POR,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-11-12,8:00p,Golden State Warriors,GSW,San Antonio Spurs,SAS,Frost Bank Center,1,0,0,0,1
+2025-11-12,8:30p,Phoenix Suns,PHO,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-11-12,9:30p,Los Angeles Lakers,LAL,Oklahoma City Thunder,OKC,Paycom Center,0,1,0,0,1
+2025-11-12,10:00p,Atlanta Hawks,ATL,Sacramento Kings,SAC,Golden 1 Center,0,1,0,0,1
+2025-11-12,10:30p,Denver Nuggets,DEN,Los Angeles Clippers,LAC,Intuit Dome,1,0,0,0,1
+2025-11-13,7:00p,Toronto Raptors,TOR,Cleveland Cavaliers,CLE,Rocket Arena,0,1,0,0,1
+2025-11-13,9:00p,Indiana Pacers,IND,Phoenix Suns,PHO,Mortgage Matchup Center,0,1,0,0,1
+2025-11-13,9:00p,Atlanta Hawks,ATL,Utah Jazz,UTA,Delta Center,1,0,0,0,1
+2025-11-14,7:00p,Miami Heat,MIA,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,1
+2025-11-14,7:00p,Brooklyn Nets,BRK,Orlando Magic,ORL,Kia Center,0,0,1,0,1
+2025-11-14,7:30p,Philadelphia 76ers,PHI,Detroit Pistons,DET,Little Caesars Arena,0,0,1,0,1
+2025-11-14,8:00p,Portland Trail Blazers,POR,Houston Rockets,HOU,Toyota Center,0,0,1,0,1
+2025-11-14,8:00p,Charlotte Hornets,CHO,Milwaukee Bucks,MIL,Fiserv Forum,0,0,1,0,1
+2025-11-14,8:00p,Sacramento Kings,SAC,Minnesota Timberwolves,MIN,Target Center,0,0,1,0,1
+2025-11-14,8:00p,Los Angeles Lakers,LAL,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,1
+2025-11-14,8:30p,Los Angeles Clippers,LAC,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,1
+2025-11-14,9:30p,Golden State Warriors,GSW,San Antonio Spurs,SAS,Frost Bank Center,0,0,1,0,1
+2025-11-15,5:00p,Memphis Grizzlies,MEM,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,1
+2025-11-15,7:00p,Oklahoma City Thunder,OKC,Charlotte Hornets,CHO,Spectrum Center,0,1,0,0,1
+2025-11-15,7:00p,Toronto Raptors,TOR,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-11-15,8:00p,Los Angeles Lakers,LAL,Milwaukee Bucks,MIL,Fiserv Forum,1,1,0,0,1
+2025-11-15,8:00p,Denver Nuggets,DEN,Minnesota Timberwolves,MIN,Target Center,0,1,0,0,1
+2025-11-16,3:30p,Los Angeles Clippers,LAC,Boston Celtics,BOS,TD Garden,0,0,0,0,1
+2025-11-16,4:00p,Sacramento Kings,SAC,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,1
+2025-11-16,6:00p,Brooklyn Nets,BRK,Washington Wizards,WAS,Capital One Arena,0,0,0,0,1
+2025-11-16,7:00p,Orlando Magic,ORL,Houston Rockets,HOU,Toyota Center,0,0,0,0,1
+2025-11-16,7:00p,Golden State Warriors,GSW,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-11-16,7:30p,Portland Trail Blazers,POR,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-11-16,8:00p,Atlanta Hawks,ATL,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,1
+2025-11-16,8:00p,Chicago Bulls,CHI,Utah Jazz,UTA,Delta Center,0,0,0,0,1
+2025-11-17,7:00p,Milwaukee Bucks,MIL,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,1
+2025-11-17,7:00p,Indiana Pacers,IND,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,1
+2025-11-17,7:00p,Los Angeles Clippers,LAC,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,0,0,1
+2025-11-17,7:30p,New York Knicks,NYK,Miami Heat,MIA,Kaseya Center,0,0,0,0,1
+2025-11-17,7:30p,Charlotte Hornets,CHO,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,1
+2025-11-17,8:00p,Dallas Mavericks,DAL,Minnesota Timberwolves,MIN,Target Center,1,0,0,0,1
+2025-11-17,8:00p,Oklahoma City Thunder,OKC,New Orleans Pelicans,NOP,Smoothie King Center,0,1,0,0,1
+2025-11-17,9:00p,Chicago Bulls,CHI,Denver Nuggets,DEN,Ball Arena,1,0,0,0,1
+2025-11-18,7:00p,Golden State Warriors,GSW,Orlando Magic,ORL,Kia Center,0,0,0,0,1
+2025-11-18,7:30p,Detroit Pistons,DET,Atlanta Hawks,ATL,State Farm Arena,1,0,0,0,1
+2025-11-18,7:30p,Boston Celtics,BOS,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,1
+2025-11-18,8:00p,Memphis Grizzlies,MEM,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,1
+2025-11-18,10:30p,Utah Jazz,UTA,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0,0,1
+2025-11-18,11:00p,Phoenix Suns,PHO,Portland Trail Blazers,POR,Moda Center,0,0,0,0,1
+2025-11-19,7:00p,Houston Rockets,HOU,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,1
+2025-11-19,7:00p,Charlotte Hornets,CHO,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-11-19,7:00p,Toronto Raptors,TOR,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-11-19,7:30p,Golden State Warriors,GSW,Miami Heat,MIA,Kaseya Center,1,0,0,0,1
+2025-11-19,8:00p,Washington Wizards,WAS,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,1
+2025-11-19,8:00p,Denver Nuggets,DEN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-11-19,8:00p,Sacramento Kings,SAC,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,1
+2025-11-19,9:30p,New York Knicks,NYK,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-11-19,10:00p,Chicago Bulls,CHI,Portland Trail Blazers,POR,Moda Center,0,1,0,0,1
+2025-11-20,7:00p,Los Angeles Clippers,LAC,Orlando Magic,ORL,Kia Center,0,0,0,0,1
+2025-11-20,8:00p,Sacramento Kings,SAC,Memphis Grizzlies,MEM,FedExForum,1,0,0,0,1
+2025-11-20,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,0,0,1
+2025-11-20,8:00p,Atlanta Hawks,ATL,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,1
+2025-11-21,7:00p,Indiana Pacers,IND,Cleveland Cavaliers,CLE,Rocket Arena,0,0,1,0,1
+2025-11-21,7:30p,Brooklyn Nets,BRK,Boston Celtics,BOS,TD Garden,0,0,1,0,1
+2025-11-21,7:30p,Washington Wizards,WAS,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,1
+2025-11-21,8:00p,Miami Heat,MIA,Chicago Bulls,CHI,United Center,0,0,1,0,1
+2025-11-21,8:30p,New Orleans Pelicans,NOP,Dallas Mavericks,DAL,American Airlines Center,0,0,1,0,1
+2025-11-21,9:00p,Minnesota Timberwolves,MIN,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,1,0,1
+2025-11-21,9:30p,Denver Nuggets,DEN,Houston Rockets,HOU,Toyota Center,0,0,1,0,1
+2025-11-21,10:00p,Portland Trail Blazers,POR,Golden State Warriors,GSW,Chase Center,0,0,1,0,1
+2025-11-21,10:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,1,0,1
+2025-11-22,1:00p,Los Angeles Clippers,LAC,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,1
+2025-11-22,5:00p,New York Knicks,NYK,Orlando Magic,ORL,Kia Center,0,0,0,0,1
+2025-11-22,7:00p,Atlanta Hawks,ATL,New Orleans Pelicans,NOP,Smoothie King Center,0,1,0,0,1
+2025-11-22,8:00p,Washington Wizards,WAS,Chicago Bulls,CHI,United Center,1,1,0,0,1
+2025-11-22,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
+2025-11-22,8:30p,Memphis Grizzlies,MEM,Dallas Mavericks,DAL,American Airlines Center,0,1,0,0,1
+2025-11-22,10:00p,Sacramento Kings,SAC,Denver Nuggets,DEN,Ball Arena,0,1,0,0,1
+2025-11-23,1:00p,Miami Heat,MIA,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-11-23,6:00p,Charlotte Hornets,CHO,Atlanta Hawks,ATL,State Farm Arena,1,1,0,0,1
+2025-11-23,6:00p,Orlando Magic,ORL,Boston Celtics,BOS,TD Garden,1,0,0,0,1
+2025-11-23,6:00p,Los Angeles Clippers,LAC,Cleveland Cavaliers,CLE,Rocket Arena,1,0,0,0,1
+2025-11-23,6:00p,Brooklyn Nets,BRK,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,1
+2025-11-23,7:00p,Portland Trail Blazers,POR,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,1
+2025-11-23,8:00p,San Antonio Spurs,SAS,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,1
+2025-11-23,8:00p,Los Angeles Lakers,LAL,Utah Jazz,UTA,Delta Center,0,0,0,0,1
+2025-11-24,7:00p,Detroit Pistons,DET,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-11-24,7:00p,Cleveland Cavaliers,CLE,Toronto Raptors,TOR,Scotiabank Arena,1,1,0,0,1
+2025-11-24,7:30p,New York Knicks,NYK,Brooklyn Nets,BRK,Barclays Center,0,1,0,0,1
+2025-11-24,7:30p,Dallas Mavericks,DAL,Miami Heat,MIA,Kaseya Center,0,1,0,0,1
+2025-11-24,8:00p,Denver Nuggets,DEN,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,1
+2025-11-24,8:00p,Portland Trail Blazers,POR,Milwaukee Bucks,MIL,Fiserv Forum,1,0,0,0,1
+2025-11-24,8:00p,Chicago Bulls,CHI,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-11-24,9:30p,Houston Rockets,HOU,Phoenix Suns,PHO,Mortgage Matchup Center,0,1,0,0,1
+2025-11-24,10:00p,Utah Jazz,UTA,Golden State Warriors,GSW,Chase Center,1,0,0,0,1
+2025-11-24,10:00p,Minnesota Timberwolves,MIN,Sacramento Kings,SAC,Golden 1 Center,0,0,0,0,1
+2025-11-25,7:00p,Atlanta Hawks,ATL,Washington Wizards,WAS,Capital One Arena,0,0,1,0,1
+2025-11-25,8:00p,Orlando Magic,ORL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,1,0,1
+2025-11-25,11:00p,Los Angeles Clippers,LAC,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,0,1
+2025-11-26,5:00p,Detroit Pistons,DET,Boston Celtics,BOS,TD Garden,0,0,1,0,1
+2025-11-26,7:00p,New York Knicks,NYK,Charlotte Hornets,CHO,Spectrum Center,0,0,1,0,1
+2025-11-26,7:30p,Milwaukee Bucks,MIL,Miami Heat,MIA,Kaseya Center,0,0,1,0,1
+2025-11-26,7:30p,Minnesota Timberwolves,MIN,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,1
+2025-11-26,7:30p,Indiana Pacers,IND,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,1
+2025-11-26,8:00p,Memphis Grizzlies,MEM,New Orleans Pelicans,NOP,Smoothie King Center,0,0,1,0,1
+2025-11-26,10:00p,Houston Rockets,HOU,Golden State Warriors,GSW,Chase Center,0,0,1,0,1
+2025-11-26,10:00p,San Antonio Spurs,SAS,Portland Trail Blazers,POR,Moda Center,0,0,1,0,1
+2025-11-26,10:00p,Phoenix Suns,PHO,Sacramento Kings,SAC,Golden 1 Center,0,0,1,0,1
+2025-11-28,7:30p,Cleveland Cavaliers,CLE,Atlanta Hawks,ATL,State Farm Arena,0,0,1,0,1
+2025-11-28,7:30p,Philadelphia 76ers,PHI,Brooklyn Nets,BRK,Barclays Center,0,0,1,0,1
+2025-11-28,7:30p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,1,0,1
+2025-11-28,7:30p,Orlando Magic,ORL,Detroit Pistons,DET,Little Caesars Arena,0,0,1,0,1
+2025-11-28,7:30p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,1,0,1
+2025-11-28,7:30p,Milwaukee Bucks,MIL,New York Knicks,NYK,Madison Square Garden (IV),0,0,1,0,1
+2025-11-28,9:30p,San Antonio Spurs,SAS,Denver Nuggets,DEN,Ball Arena,0,0,1,0,1
+2025-11-28,9:30p,Phoenix Suns,PHO,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,1
+2025-11-28,9:30p,Sacramento Kings,SAC,Utah Jazz,UTA,Delta Center,0,0,1,0,1
+2025-11-28,10:00p,Memphis Grizzlies,MEM,Los Angeles Clippers,LAC,Intuit Dome,0,0,1,0,1
+2025-11-28,10:00p,Dallas Mavericks,DAL,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,0,1
+2025-11-29,5:00p,Boston Celtics,BOS,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,1
+2025-11-29,6:00p,Toronto Raptors,TOR,Charlotte Hornets,CHO,Spectrum Center,0,1,0,0,1
+2025-11-29,7:30p,Chicago Bulls,CHI,Indiana Pacers,IND,Gainbridge Fieldhouse,1,1,0,0,1
+2025-11-29,8:00p,Detroit Pistons,DET,Miami Heat,MIA,Kaseya Center,1,0,0,0,1
+2025-11-29,8:00p,Brooklyn Nets,BRK,Milwaukee Bucks,MIL,Fiserv Forum,1,1,0,0,1
+2025-11-29,8:30p,New Orleans Pelicans,NOP,Golden State Warriors,GSW,Chase Center,0,0,0,0,1
+2025-11-29,9:00p,Denver Nuggets,DEN,Phoenix Suns,PHO,Mortgage Matchup Center,1,1,0,0,1
+2025-11-29,10:00p,Dallas Mavericks,DAL,Los Angeles Clippers,LAC,Intuit Dome,1,1,0,0,1
+2025-11-30,3:00p,Houston Rockets,HOU,Utah Jazz,UTA,Delta Center,0,0,0,0,1
+2025-11-30,6:00p,Boston Celtics,BOS,Cleveland Cavaliers,CLE,Rocket Arena,1,0,0,0,1
+2025-11-30,6:00p,Toronto Raptors,TOR,New York Knicks,NYK,Madison Square Garden (IV),1,0,0,0,1
+2025-11-30,6:00p,Atlanta Hawks,ATL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-11-30,6:00p,Oklahoma City Thunder,OKC,Portland Trail Blazers,POR,Moda Center,0,0,0,0,1
+2025-11-30,7:00p,San Antonio Spurs,SAS,Minnesota Timberwolves,MIN,Target Center,0,1,0,0,1
+2025-11-30,9:00p,Memphis Grizzlies,MEM,Sacramento Kings,SAC,Golden 1 Center,0,0,0,0,1
+2025-11-30,9:30p,New Orleans Pelicans,NOP,Los Angeles Lakers,LAL,Crypto.com Arena,1,0,0,0,1
+2025-12-01,7:00p,Atlanta Hawks,ATL,Detroit Pistons,DET,Little Caesars Arena,1,0,0,0,1
+2025-12-01,7:00p,Cleveland Cavaliers,CLE,Indiana Pacers,IND,Gainbridge Fieldhouse,1,0,0,0,1
+2025-12-01,7:00p,Milwaukee Bucks,MIL,Washington Wizards,WAS,Capital One Arena,0,0,0,0,1
+2025-12-01,7:30p,Charlotte Hornets,CHO,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,1
+2025-12-01,7:30p,Los Angeles Clippers,LAC,Miami Heat,MIA,Kaseya Center,0,0,0,0,1
+2025-12-01,7:30p,Chicago Bulls,CHI,Orlando Magic,ORL,Kia Center,0,0,0,0,1
+2025-12-01,9:00p,Dallas Mavericks,DAL,Denver Nuggets,DEN,Ball Arena,0,0,0,0,1
+2025-12-01,9:00p,Houston Rockets,HOU,Utah Jazz,UTA,Delta Center,1,1,0,0,1
+2025-12-01,10:00p,Phoenix Suns,PHO,Los Angeles Lakers,LAL,Crypto.com Arena,0,1,0,0,1
+2025-12-02,7:00p,Washington Wizards,WAS,Philadelphia 76ers,PHI,Xfinity Mobile Arena,1,0,0,0,1
+2025-12-02,7:30p,Portland Trail Blazers,POR,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,1
+2025-12-02,8:00p,New York Knicks,NYK,Boston Celtics,BOS,TD Garden,0,0,0,0,1
+2025-12-02,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-12-02,8:00p,Memphis Grizzlies,MEM,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,1
+2025-12-02,11:00p,Oklahoma City Thunder,OKC,Golden State Warriors,GSW,Chase Center,0,0,0,0,1
+2025-12-03,7:00p,Portland Trail Blazers,POR,Cleveland Cavaliers,CLE,Rocket Arena,1,0,0,0,1
+2025-12-03,7:00p,Denver Nuggets,DEN,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-12-03,7:00p,San Antonio Spurs,SAS,Orlando Magic,ORL,Kia Center,1,0,0,0,1
+2025-12-03,7:30p,Los Angeles Clippers,LAC,Atlanta Hawks,ATL,State Farm Arena,0,0,0,0,1
+2025-12-03,7:30p,Charlotte Hornets,CHO,New York Knicks,NYK,Madison Square Garden (IV),0,1,0,0,1
+2025-12-03,8:00p,Brooklyn Nets,BRK,Chicago Bulls,CHI,United Center,0,0,0,0,1
+2025-12-03,8:00p,Sacramento Kings,SAC,Houston Rockets,HOU,Toyota Center,0,0,0,0,1
+2025-12-03,8:00p,Detroit Pistons,DET,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
+2025-12-03,8:30p,Miami Heat,MIA,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-12-04,7:00p,Golden State Warriors,GSW,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-12-04,7:00p,Boston Celtics,BOS,Washington Wizards,WAS,Capital One Arena,0,0,0,0,1
+2025-12-04,7:30p,Utah Jazz,UTA,Brooklyn Nets,BRK,Barclays Center,0,1,0,0,1
+2025-12-04,7:30p,Los Angeles Lakers,LAL,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,1
+2025-12-04,8:00p,Minnesota Timberwolves,MIN,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-12-05,7:00p,Los Angeles Lakers,LAL,Boston Celtics,BOS,TD Garden,1,1,0,0,1
+2025-12-05,7:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,0,0,1
+2025-12-05,7:30p,Denver Nuggets,DEN,Atlanta Hawks,ATL,State Farm Arena,0,0,0,0,1
+2025-12-05,7:30p,San Antonio Spurs,SAS,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,1
+2025-12-05,7:30p,Portland Trail Blazers,POR,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,1
+2025-12-05,7:30p,Utah Jazz,UTA,New York Knicks,NYK,Madison Square Garden (IV),1,0,0,0,1
+2025-12-05,7:30p,Charlotte Hornets,CHO,Toronto Raptors,TOR,Scotiabank Arena,0,1,0,0,1
+2025-12-05,8:00p,Indiana Pacers,IND,Chicago Bulls,CHI,United Center,0,0,0,0,1
+2025-12-05,8:00p,Phoenix Suns,PHO,Houston Rockets,HOU,Toyota Center,0,0,0,0,1
+2025-12-05,8:00p,Los Angeles Clippers,LAC,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,1
+2025-12-05,8:00p,Philadelphia 76ers,PHI,Milwaukee Bucks,MIL,Fiserv Forum,1,0,0,0,1
+2025-12-05,9:30p,Dallas Mavericks,DAL,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,1
+2025-12-06,5:00p,New Orleans Pelicans,NOP,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,1
+2025-12-06,7:00p,Atlanta Hawks,ATL,Washington Wizards,WAS,Capital One Arena,1,0,0,0,1
+2025-12-06,7:30p,Golden State Warriors,GSW,Cleveland Cavaliers,CLE,Rocket Arena,0,1,0,0,1
+2025-12-06,7:30p,Milwaukee Bucks,MIL,Detroit Pistons,DET,Little Caesars Arena,1,1,0,0,1
+2025-12-06,8:00p,Sacramento Kings,SAC,Miami Heat,MIA,Kaseya Center,0,1,0,0,1
+2025-12-06,8:00p,Los Angeles Clippers,LAC,Minnesota Timberwolves,MIN,Target Center,1,0,0,0,1
+2025-12-06,8:30p,Houston Rockets,HOU,Dallas Mavericks,DAL,American Airlines Center,1,1,0,0,1
+2025-12-07,12:00p,Orlando Magic,ORL,New York Knicks,NYK,Madison Square Garden (IV),0,0,0,0,1
+2025-12-07,3:30p,Boston Celtics,BOS,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,1
+2025-12-07,6:00p,Denver Nuggets,DEN,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,1
+2025-12-07,6:00p,Portland Trail Blazers,POR,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,1
+2025-12-07,7:00p,Golden State Warriors,GSW,Chicago Bulls,CHI,United Center,1,0,0,0,1
+2025-12-07,7:30p,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-12-07,8:00p,Oklahoma City Thunder,OKC,Utah Jazz,UTA,Delta Center,0,0,0,0,1
+2025-12-08,7:00p,Sacramento Kings,SAC,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-12-08,7:30p,Phoenix Suns,PHO,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,1
+2025-12-08,8:00p,San Antonio Spurs,SAS,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-12-09,6:00p,Miami Heat,MIA,Orlando Magic,ORL,Kia Center,0,0,1,0,1
+2025-12-09,8:30p,New York Knicks,NYK,Toronto Raptors,TOR,Scotiabank Arena,0,0,1,0,1
+2025-12-10,7:30p,Phoenix Suns,PHO,Oklahoma City Thunder,OKC,Paycom Center,0,0,1,0,1
+2025-12-10,10:00p,San Antonio Spurs,SAS,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,1,0,1
+2025-12-11,8:00p,Los Angeles Clippers,LAC,Houston Rockets,HOU,Toyota Center,0,0,0,0,1
+2025-12-11,8:00p,Boston Celtics,BOS,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
+2025-12-11,8:00p,Portland Trail Blazers,POR,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
+2025-12-11,10:00p,Denver Nuggets,DEN,Sacramento Kings,SAC,Golden 1 Center,0,0,0,0,1
 2025-12-12,7:00p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,0
 2025-12-12,7:00p,Atlanta Hawks,ATL,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,0
 2025-12-12,7:00p,Indiana Pacers,IND,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,0
@@ -371,26 +371,30 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd,
 2025-12-12,8:00p,Utah Jazz,UTA,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,0
 2025-12-12,8:30p,Brooklyn Nets,BRK,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,0
 2025-12-12,10:00p,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Chase Center,0,0,0,0,0
+2025-12-13,5:30p,New York Knicks,NYK,Orlando Magic,ORL,T-Mobile Arena,0,0,1,0,0
+2025-12-13,9:00p,San Antonio Spurs,SAS,Oklahoma City Thunder,OKC,T-Mobile Arena,0,0,1,0,0
 2025-12-14,3:00p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,0
 2025-12-14,3:30p,Charlotte Hornets,CHO,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,0
 2025-12-14,6:00p,Philadelphia 76ers,PHI,Atlanta Hawks,ATL,State Farm Arena,0,0,0,0,0
 2025-12-14,6:00p,Milwaukee Bucks,MIL,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,0
 2025-12-14,7:00p,New Orleans Pelicans,NOP,Chicago Bulls,CHI,United Center,0,0,0,0,0
 2025-12-14,7:00p,Sacramento Kings,SAC,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,0
+2025-12-14,8:00p,Los Angeles Lakers,LAL,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,0
 2025-12-14,9:00p,Golden State Warriors,GSW,Portland Trail Blazers,POR,Moda Center,0,0,0,0,0
 2025-12-15,7:00p,Detroit Pistons,DET,Boston Celtics,BOS,TD Garden,0,0,0,0,0
+2025-12-15,7:30p,Toronto Raptors,TOR,Miami Heat,MIA,Kaseya Center,0,0,0,0,0
 2025-12-15,9:00p,Dallas Mavericks,DAL,Utah Jazz,UTA,Delta Center,0,0,0,0,0
 2025-12-15,9:30p,Houston Rockets,HOU,Denver Nuggets,DEN,Ball Arena,0,0,0,0,0
 2025-12-15,10:30p,Memphis Grizzlies,MEM,Los Angeles Clippers,LAC,Intuit Dome,0,0,0,0,0
 2025-12-17,8:00p,Cleveland Cavaliers,CLE,Chicago Bulls,CHI,United Center,0,0,0,0,0
 2025-12-17,8:00p,Memphis Grizzlies,MEM,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,0
-2025-12-17,8:00p,Los Angeles Clippers,LAC,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,0
-2025-12-17,8:00p,Washington Wizards,WAS,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,0
 2025-12-18,7:00p,Atlanta Hawks,ATL,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,0
 2025-12-18,7:00p,New York Knicks,NYK,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,0
 2025-12-18,7:30p,Miami Heat,MIA,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,0
 2025-12-18,8:00p,Toronto Raptors,TOR,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,0
 2025-12-18,8:00p,Houston Rockets,HOU,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,0
+2025-12-18,8:00p,Los Angeles Clippers,LAC,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,0
+2025-12-18,8:00p,Washington Wizards,WAS,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,0
 2025-12-18,8:30p,Detroit Pistons,DET,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,0
 2025-12-18,9:00p,Orlando Magic,ORL,Denver Nuggets,DEN,Ball Arena,0,0,0,0,0
 2025-12-18,9:00p,Golden State Warriors,GSW,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,0
@@ -398,9 +402,9 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd,
 2025-12-18,10:00p,Sacramento Kings,SAC,Portland Trail Blazers,POR,Moda Center,0,0,0,0,0
 2025-12-19,7:00p,Miami Heat,MIA,Boston Celtics,BOS,TD Garden,1,0,0,0,0
 2025-12-19,7:00p,Philadelphia 76ers,PHI,New York Knicks,NYK,Madison Square Garden (IV),0,1,0,0,0
-2025-12-19,7:30p,San Antonio Spurs,SAS,Atlanta Hawks,ATL,State Farm Arena,0,1,0,0,0
+2025-12-19,7:30p,San Antonio Spurs,SAS,Atlanta Hawks,ATL,State Farm Arena,1,1,0,0,0
 2025-12-19,7:30p,Chicago Bulls,CHI,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,0
-2025-12-19,9:30p,Oklahoma City Thunder,OKC,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,0
+2025-12-19,9:30p,Oklahoma City Thunder,OKC,Minnesota Timberwolves,MIN,Target Center,1,0,0,0,0
 2025-12-20,5:00p,Houston Rockets,HOU,Denver Nuggets,DEN,Ball Arena,0,0,0,0,0
 2025-12-20,7:00p,Indiana Pacers,IND,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,0
 2025-12-20,7:00p,Dallas Mavericks,DAL,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,1,0,0,0
@@ -482,15 +486,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,rtrvd,
 2025-12-30,9:00p,Boston Celtics,BOS,Utah Jazz,UTA,Delta Center,0,0,0,0,0
 2025-12-30,10:30p,Detroit Pistons,DET,Los Angeles Lakers,LAL,Crypto.com Arena,0,0,0,0,0
 2025-12-30,11:00p,Sacramento Kings,SAC,Los Angeles Clippers,LAC,Intuit Dome,0,0,0,0,0
-2025-12-31,1:00p,Golden State Warriors,GSW,Charlotte Hornets,CHO,Spectrum Center,0,0,0,1,0
-2025-12-31,3:00p,Minnesota Timberwolves,MIN,Atlanta Hawks,ATL,State Farm Arena,0,0,0,1,0
-2025-12-31,3:00p,Orlando Magic,ORL,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,1,0
-2025-12-31,3:30p,Phoenix Suns,PHO,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,1,0
-2025-12-31,7:00p,New Orleans Pelicans,NOP,Chicago Bulls,CHI,United Center,0,0,0,1,0
-2025-12-31,7:00p,New York Knicks,NYK,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,1,0
-2025-12-31,7:30p,Denver Nuggets,DEN,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,1,0
-2025-12-31,8:00p,Washington Wizards,WAS,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,1,0
-2025-12-31,8:00p,Portland Trail Blazers,POR,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,1,0
+2025-12-31,1:00p,Golden State Warriors,GSW,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,0
+2025-12-31,3:00p,Minnesota Timberwolves,MIN,Atlanta Hawks,ATL,State Farm Arena,0,0,0,0,0
+2025-12-31,3:00p,Orlando Magic,ORL,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,0
+2025-12-31,3:30p,Phoenix Suns,PHO,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,0
+2025-12-31,7:00p,New Orleans Pelicans,NOP,Chicago Bulls,CHI,United Center,0,0,0,0,0
+2025-12-31,7:00p,New York Knicks,NYK,San Antonio Spurs,SAS,Frost Bank Center,0,0,0,0,0
+2025-12-31,7:30p,Denver Nuggets,DEN,Toronto Raptors,TOR,Scotiabank Arena,0,0,0,0,0
+2025-12-31,8:00p,Washington Wizards,WAS,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,0
+2025-12-31,8:00p,Portland Trail Blazers,POR,Oklahoma City Thunder,OKC,Paycom Center,0,0,0,0,0
 2026-01-01,6:00p,Houston Rockets,HOU,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,0
 2026-01-01,7:00p,Miami Heat,MIA,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,0
 2026-01-01,8:30p,Philadelphia 76ers,PHI,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,0
