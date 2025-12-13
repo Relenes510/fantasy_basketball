@@ -364,13 +364,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,cup_gm
 2025-12-11,8:00p,Boston Celtics,BOS,Milwaukee Bucks,MIL,Fiserv Forum,0,0,0,0,1
 2025-12-11,8:00p,Portland Trail Blazers,POR,New Orleans Pelicans,NOP,Smoothie King Center,0,0,0,0,1
 2025-12-11,10:00p,Denver Nuggets,DEN,Sacramento Kings,SAC,Golden 1 Center,0,0,0,0,1
-2025-12-12,7:00p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,0
-2025-12-12,7:00p,Atlanta Hawks,ATL,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,0
-2025-12-12,7:00p,Indiana Pacers,IND,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,0
-2025-12-12,7:00p,Cleveland Cavaliers,CLE,Washington Wizards,WAS,Capital One Arena,0,0,0,0,0
-2025-12-12,8:00p,Utah Jazz,UTA,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,0
-2025-12-12,8:30p,Brooklyn Nets,BRK,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,0
-2025-12-12,10:00p,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Chase Center,0,0,0,0,0
+2025-12-12,7:00p,Chicago Bulls,CHI,Charlotte Hornets,CHO,Spectrum Center,0,0,0,0,1
+2025-12-12,7:00p,Atlanta Hawks,ATL,Detroit Pistons,DET,Little Caesars Arena,0,0,0,0,1
+2025-12-12,7:00p,Indiana Pacers,IND,Philadelphia 76ers,PHI,Xfinity Mobile Arena,0,0,0,0,1
+2025-12-12,7:00p,Cleveland Cavaliers,CLE,Washington Wizards,WAS,Capital One Arena,0,0,0,0,1
+2025-12-12,8:00p,Utah Jazz,UTA,Memphis Grizzlies,MEM,FedExForum,0,0,0,0,1
+2025-12-12,8:30p,Brooklyn Nets,BRK,Dallas Mavericks,DAL,American Airlines Center,0,0,0,0,1
+2025-12-12,10:00p,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Chase Center,0,0,0,0,1
 2025-12-13,5:30p,New York Knicks,NYK,Orlando Magic,ORL,T-Mobile Arena,0,0,1,0,0
 2025-12-13,9:00p,San Antonio Spurs,SAS,Oklahoma City Thunder,OKC,T-Mobile Arena,0,0,1,0,0
 2025-12-14,3:00p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,0
