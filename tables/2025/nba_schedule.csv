@@ -373,14 +373,14 @@ Date,StartTime_ET,AwayTeam,AwayABV,HomeTeam,HomeABV,Arena,AwayB2B,HomeB2B,cup_gm
 2025-12-12,10:00p,Minnesota Timberwolves,MIN,Golden State Warriors,GSW,Chase Center,0,0,0,0,1
 2025-12-13,5:30p,New York Knicks,NYK,Orlando Magic,ORL,T-Mobile Arena,0,0,1,0,1
 2025-12-13,9:00p,San Antonio Spurs,SAS,Oklahoma City Thunder,OKC,T-Mobile Arena,0,0,1,0,1
-2025-12-14,3:00p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,0
-2025-12-14,3:30p,Charlotte Hornets,CHO,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,0
-2025-12-14,6:00p,Philadelphia 76ers,PHI,Atlanta Hawks,ATL,State Farm Arena,0,0,0,0,0
-2025-12-14,6:00p,Milwaukee Bucks,MIL,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,0
-2025-12-14,7:00p,New Orleans Pelicans,NOP,Chicago Bulls,CHI,United Center,0,0,0,0,0
-2025-12-14,7:00p,Sacramento Kings,SAC,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,0
-2025-12-14,8:00p,Los Angeles Lakers,LAL,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,0
-2025-12-14,9:00p,Golden State Warriors,GSW,Portland Trail Blazers,POR,Moda Center,0,0,0,0,0
+2025-12-14,3:00p,Washington Wizards,WAS,Indiana Pacers,IND,Gainbridge Fieldhouse,0,0,0,0,1
+2025-12-14,3:30p,Charlotte Hornets,CHO,Cleveland Cavaliers,CLE,Rocket Arena,0,0,0,0,1
+2025-12-14,6:00p,Philadelphia 76ers,PHI,Atlanta Hawks,ATL,State Farm Arena,0,0,0,0,1
+2025-12-14,6:00p,Milwaukee Bucks,MIL,Brooklyn Nets,BRK,Barclays Center,0,0,0,0,1
+2025-12-14,7:00p,New Orleans Pelicans,NOP,Chicago Bulls,CHI,United Center,0,0,0,0,1
+2025-12-14,7:00p,Sacramento Kings,SAC,Minnesota Timberwolves,MIN,Target Center,0,0,0,0,1
+2025-12-14,8:00p,Los Angeles Lakers,LAL,Phoenix Suns,PHO,Mortgage Matchup Center,0,0,0,0,1
+2025-12-14,9:00p,Golden State Warriors,GSW,Portland Trail Blazers,POR,Moda Center,0,0,0,0,1
 2025-12-15,7:00p,Detroit Pistons,DET,Boston Celtics,BOS,TD Garden,0,0,0,0,0
 2025-12-15,7:30p,Toronto Raptors,TOR,Miami Heat,MIA,Kaseya Center,0,0,0,0,0
 2025-12-15,9:00p,Dallas Mavericks,DAL,Utah Jazz,UTA,Delta Center,0,0,0,0,0
