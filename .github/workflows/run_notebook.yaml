@@ -28,6 +28,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install jupyter pandas numpy requests nbainjuries duckdb lxml html5lib bs4 cloudscraper
 
+      - name: Execute Create NBA Schedule notebook
+        run: |
+          jupyter nbconvert \
+            --to notebook \
+            --execute \
+            --inplace \
+            --ExecutePreprocessor.timeout=600 \
+            --ExecutePreprocessor.kernel_name=python3 \
+            "notebooks/create_nba_schedule.ipynb"
+
       - name: Execute gamelog_retriever notebook
         run: |
           jupyter nbconvert \
