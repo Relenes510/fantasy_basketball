@@ -387,8 +387,8 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,Arena,AwayB2
 2025-12-15,9:30p,Houston Rockets,HOU,125.0,Denver Nuggets,DEN,128.0,Ball Arena,0,0,0,0,1
 2025-12-15,10:30p,Memphis Grizzlies,MEM,121.0,Los Angeles Clippers,LAC,103.0,Intuit Dome,0,0,0,0,1
 2025-12-16,8:30p,San Antonio Spurs,SAS,113.0,New York Knicks,NYK,124.0,T-Mobile Arena,0,0,1,0,1
-2025-12-17,8:00p,Cleveland Cavaliers,CLE,,Chicago Bulls,CHI,,United Center,0,0,0,0,0
-2025-12-17,8:00p,Memphis Grizzlies,MEM,,Minnesota Timberwolves,MIN,,Target Center,0,0,0,0,0
+2025-12-17,8:00p,Cleveland Cavaliers,CLE,111.0,Chicago Bulls,CHI,127.0,United Center,0,0,0,0,1
+2025-12-17,8:00p,Memphis Grizzlies,MEM,116.0,Minnesota Timberwolves,MIN,110.0,Target Center,0,0,0,0,1
 2025-12-18,7:00p,Atlanta Hawks,ATL,,Charlotte Hornets,CHO,,Spectrum Center,0,0,0,0,0
 2025-12-18,7:00p,New York Knicks,NYK,,Indiana Pacers,IND,,Gainbridge Fieldhouse,0,0,0,0,0
 2025-12-18,7:30p,Miami Heat,MIA,,Brooklyn Nets,BRK,,Barclays Center,0,0,0,0,0
