@@ -406,16 +406,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,Arena,AwayB2
 2025-12-19,7:30p,San Antonio Spurs,SAS,126.0,Atlanta Hawks,ATL,98.0,State Farm Arena,1,1,0,0,1
 2025-12-19,7:30p,Chicago Bulls,CHI,136.0,Cleveland Cavaliers,CLE,125.0,Rocket Arena,0,0,0,0,1
 2025-12-19,9:30p,Oklahoma City Thunder,OKC,107.0,Minnesota Timberwolves,MIN,112.0,Target Center,1,0,0,0,1
-2025-12-20,5:00p,Houston Rockets,HOU,,Denver Nuggets,DEN,,Ball Arena,0,0,0,0,0
-2025-12-20,7:00p,Indiana Pacers,IND,,New Orleans Pelicans,NOP,,Smoothie King Center,0,0,0,0,0
-2025-12-20,7:00p,Dallas Mavericks,DAL,,Philadelphia 76ers,PHI,,Xfinity Mobile Arena,0,1,0,0,0
-2025-12-20,7:00p,Boston Celtics,BOS,,Toronto Raptors,TOR,,Scotiabank Arena,1,0,0,0,0
-2025-12-20,7:30p,Charlotte Hornets,CHO,,Detroit Pistons,DET,,Little Caesars Arena,0,0,0,0,0
-2025-12-20,8:00p,Washington Wizards,WAS,,Memphis Grizzlies,MEM,,FedExForum,0,0,0,0,0
-2025-12-20,8:30p,Phoenix Suns,PHO,,Golden State Warriors,GSW,,Chase Center,0,0,0,0,0
-2025-12-20,9:30p,Orlando Magic,ORL,,Utah Jazz,UTA,,Delta Center,0,0,0,0,0
-2025-12-20,10:00p,Portland Trail Blazers,POR,,Sacramento Kings,SAC,,Golden 1 Center,0,0,0,0,0
-2025-12-20,10:30p,Los Angeles Lakers,LAL,,Los Angeles Clippers,LAC,,Intuit Dome,0,0,0,0,0
+2025-12-20,5:00p,Houston Rockets,HOU,115.0,Denver Nuggets,DEN,101.0,Ball Arena,0,0,0,0,1
+2025-12-20,7:00p,Indiana Pacers,IND,109.0,New Orleans Pelicans,NOP,128.0,Smoothie King Center,0,0,0,0,1
+2025-12-20,7:00p,Dallas Mavericks,DAL,114.0,Philadelphia 76ers,PHI,121.0,Xfinity Mobile Arena,0,1,0,0,1
+2025-12-20,7:00p,Boston Celtics,BOS,112.0,Toronto Raptors,TOR,96.0,Scotiabank Arena,1,0,0,0,1
+2025-12-20,7:30p,Charlotte Hornets,CHO,86.0,Detroit Pistons,DET,112.0,Little Caesars Arena,0,0,0,0,1
+2025-12-20,8:00p,Washington Wizards,WAS,130.0,Memphis Grizzlies,MEM,122.0,FedExForum,0,0,0,0,1
+2025-12-20,8:30p,Phoenix Suns,PHO,116.0,Golden State Warriors,GSW,119.0,Chase Center,0,0,0,0,1
+2025-12-20,9:30p,Orlando Magic,ORL,128.0,Utah Jazz,UTA,127.0,Delta Center,0,0,0,0,1
+2025-12-20,10:00p,Portland Trail Blazers,POR,98.0,Sacramento Kings,SAC,93.0,Golden 1 Center,0,0,0,0,1
+2025-12-20,10:30p,Los Angeles Lakers,LAL,88.0,Los Angeles Clippers,LAC,103.0,Intuit Dome,0,0,0,0,1
 2025-12-21,3:30p,Chicago Bulls,CHI,,Atlanta Hawks,ATL,,State Farm Arena,0,0,0,0,0
 2025-12-21,6:00p,Toronto Raptors,TOR,,Brooklyn Nets,BRK,,Barclays Center,1,0,0,0,0
 2025-12-21,6:00p,Miami Heat,MIA,,New York Knicks,NYK,,Madison Square Garden (IV),0,0,0,0,0
