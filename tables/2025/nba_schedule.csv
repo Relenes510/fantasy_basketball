@@ -416,12 +416,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,Arena,AwayB2
 2025-12-20,9:30p,Orlando Magic,ORL,128.0,Utah Jazz,UTA,127.0,Delta Center,0,0,0,0,1
 2025-12-20,10:00p,Portland Trail Blazers,POR,98.0,Sacramento Kings,SAC,93.0,Golden 1 Center,0,0,0,0,1
 2025-12-20,10:30p,Los Angeles Lakers,LAL,88.0,Los Angeles Clippers,LAC,103.0,Intuit Dome,0,0,0,0,1
-2025-12-21,3:30p,Chicago Bulls,CHI,,Atlanta Hawks,ATL,,State Farm Arena,0,0,0,0,0
-2025-12-21,6:00p,Toronto Raptors,TOR,,Brooklyn Nets,BRK,,Barclays Center,1,0,0,0,0
-2025-12-21,6:00p,Miami Heat,MIA,,New York Knicks,NYK,,Madison Square Garden (IV),0,0,0,0,0
-2025-12-21,7:00p,Milwaukee Bucks,MIL,,Minnesota Timberwolves,MIN,,Target Center,0,0,0,0,0
-2025-12-21,7:00p,San Antonio Spurs,SAS,,Washington Wizards,WAS,,Capital One Arena,0,1,0,0,0
-2025-12-21,10:00p,Houston Rockets,HOU,,Sacramento Kings,SAC,,Golden 1 Center,1,1,0,0,0
+2025-12-21,3:30p,Chicago Bulls,CHI,152.0,Atlanta Hawks,ATL,150.0,State Farm Arena,0,0,0,0,1
+2025-12-21,6:00p,Toronto Raptors,TOR,81.0,Brooklyn Nets,BRK,96.0,Barclays Center,1,0,0,0,1
+2025-12-21,6:00p,Miami Heat,MIA,125.0,New York Knicks,NYK,132.0,Madison Square Garden (IV),0,0,0,0,1
+2025-12-21,7:00p,Milwaukee Bucks,MIL,100.0,Minnesota Timberwolves,MIN,103.0,Target Center,0,0,0,0,1
+2025-12-21,7:00p,San Antonio Spurs,SAS,124.0,Washington Wizards,WAS,113.0,Capital One Arena,0,1,0,0,1
+2025-12-21,10:00p,Houston Rockets,HOU,124.0,Sacramento Kings,SAC,125.0,Golden 1 Center,1,1,0,0,1
 2025-12-22,7:00p,Charlotte Hornets,CHO,,Cleveland Cavaliers,CLE,,Rocket Arena,0,0,0,0,0
 2025-12-22,7:30p,Indiana Pacers,IND,,Boston Celtics,BOS,,TD Garden,0,0,0,0,0
 2025-12-22,8:00p,Dallas Mavericks,DAL,,New Orleans Pelicans,NOP,,Smoothie King Center,0,0,0,0,0
