@@ -422,13 +422,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,Arena,AwayB2
 2025-12-21,7:00p,Milwaukee Bucks,MIL,100.0,Minnesota Timberwolves,MIN,103.0,Target Center,0,0,0,0,1
 2025-12-21,7:00p,San Antonio Spurs,SAS,124.0,Washington Wizards,WAS,113.0,Capital One Arena,0,1,0,0,1
 2025-12-21,10:00p,Houston Rockets,HOU,124.0,Sacramento Kings,SAC,125.0,Golden 1 Center,1,1,0,0,1
-2025-12-22,7:00p,Charlotte Hornets,CHO,,Cleveland Cavaliers,CLE,,Rocket Arena,0,0,0,0,0
-2025-12-22,7:30p,Indiana Pacers,IND,,Boston Celtics,BOS,,TD Garden,0,0,0,0,0
-2025-12-22,8:00p,Dallas Mavericks,DAL,,New Orleans Pelicans,NOP,,Smoothie King Center,0,0,0,0,0
-2025-12-22,9:00p,Utah Jazz,UTA,,Denver Nuggets,DEN,,Ball Arena,0,0,0,0,0
-2025-12-22,9:30p,Memphis Grizzlies,MEM,,Oklahoma City Thunder,OKC,,Paycom Center,0,0,0,0,0
-2025-12-22,10:00p,Orlando Magic,ORL,,Golden State Warriors,GSW,,Chase Center,0,0,0,0,0
-2025-12-22,10:00p,Detroit Pistons,DET,,Portland Trail Blazers,POR,,Moda Center,0,0,0,0,0
+2025-12-22,7:00p,Charlotte Hornets,CHO,132.0,Cleveland Cavaliers,CLE,139.0,Rocket Arena,0,0,0,0,1
+2025-12-22,7:30p,Indiana Pacers,IND,95.0,Boston Celtics,BOS,103.0,TD Garden,0,0,0,0,1
+2025-12-22,8:00p,Dallas Mavericks,DAL,113.0,New Orleans Pelicans,NOP,119.0,Smoothie King Center,0,0,0,0,1
+2025-12-22,9:00p,Utah Jazz,UTA,112.0,Denver Nuggets,DEN,135.0,Ball Arena,0,0,0,0,1
+2025-12-22,9:30p,Memphis Grizzlies,MEM,103.0,Oklahoma City Thunder,OKC,119.0,Paycom Center,0,0,0,0,1
+2025-12-22,10:00p,Orlando Magic,ORL,97.0,Golden State Warriors,GSW,120.0,Chase Center,0,0,0,0,1
+2025-12-22,10:00p,Detroit Pistons,DET,110.0,Portland Trail Blazers,POR,102.0,Moda Center,0,0,0,0,1
 2025-12-23,7:00p,Washington Wizards,WAS,,Charlotte Hornets,CHO,,Spectrum Center,0,1,0,0,0
 2025-12-23,7:00p,Brooklyn Nets,BRK,,Philadelphia 76ers,PHI,,Xfinity Mobile Arena,0,0,0,0,0
 2025-12-23,7:30p,Chicago Bulls,CHI,,Atlanta Hawks,ATL,,State Farm Arena,0,0,0,0,0
