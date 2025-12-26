@@ -443,11 +443,11 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,Arena,AwayB2
 2025-12-23,10:00p,Orlando Magic,ORL,110.0,Portland Trail Blazers,POR,106.0,Moda Center,1,1,0,0,1
 2025-12-23,10:00p,Detroit Pistons,DET,136.0,Sacramento Kings,SAC,127.0,Golden 1 Center,1,0,0,0,1
 2025-12-23,10:30p,Houston Rockets,HOU,108.0,Los Angeles Clippers,LAC,128.0,Intuit Dome,0,0,0,0,1
-2025-12-25,12:00p,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,Madison Square Garden (IV),0,0,0,0,0
-2025-12-25,2:30p,San Antonio Spurs,SAS,,Oklahoma City Thunder,OKC,,Paycom Center,0,0,0,0,0
-2025-12-25,5:00p,Dallas Mavericks,DAL,,Golden State Warriors,GSW,,Chase Center,0,0,0,0,0
-2025-12-25,8:00p,Houston Rockets,HOU,,Los Angeles Lakers,LAL,,Crypto.com Arena,0,0,0,0,0
-2025-12-25,10:30p,Minnesota Timberwolves,MIN,,Denver Nuggets,DEN,,Ball Arena,0,0,0,0,0
+2025-12-25,12:00p,Cleveland Cavaliers,CLE,124.0,New York Knicks,NYK,126.0,Madison Square Garden (IV),0,0,0,0,1
+2025-12-25,2:30p,San Antonio Spurs,SAS,117.0,Oklahoma City Thunder,OKC,102.0,Paycom Center,0,0,0,0,1
+2025-12-25,5:00p,Dallas Mavericks,DAL,116.0,Golden State Warriors,GSW,126.0,Chase Center,0,0,0,0,1
+2025-12-25,8:00p,Houston Rockets,HOU,119.0,Los Angeles Lakers,LAL,96.0,Crypto.com Arena,0,0,0,0,1
+2025-12-25,10:30p,Minnesota Timberwolves,MIN,138.0,Denver Nuggets,DEN,142.0,Ball Arena,0,0,0,0,1
 2025-12-26,7:00p,Miami Heat,MIA,,Atlanta Hawks,ATL,,State Farm Arena,0,0,0,0,0
 2025-12-26,7:00p,Boston Celtics,BOS,,Indiana Pacers,IND,,Gainbridge Fieldhouse,0,0,0,0,0
 2025-12-26,7:00p,Charlotte Hornets,CHO,,Orlando Magic,ORL,,Kia Center,0,0,0,0,0
