@@ -448,15 +448,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,Arena,AwayB2
 2025-12-25,5:00p,Dallas Mavericks,DAL,116.0,Golden State Warriors,GSW,126.0,Chase Center,0,0,0,0,1
 2025-12-25,8:00p,Houston Rockets,HOU,119.0,Los Angeles Lakers,LAL,96.0,Crypto.com Arena,0,0,0,0,1
 2025-12-25,10:30p,Minnesota Timberwolves,MIN,138.0,Denver Nuggets,DEN,142.0,Ball Arena,0,0,0,0,1
-2025-12-26,7:00p,Miami Heat,MIA,,Atlanta Hawks,ATL,,State Farm Arena,0,0,0,0,0
-2025-12-26,7:00p,Boston Celtics,BOS,,Indiana Pacers,IND,,Gainbridge Fieldhouse,0,0,0,0,0
-2025-12-26,7:00p,Charlotte Hornets,CHO,,Orlando Magic,ORL,,Kia Center,0,0,0,0,0
-2025-12-26,7:00p,Toronto Raptors,TOR,,Washington Wizards,WAS,,Capital One Arena,0,0,0,0,0
-2025-12-26,7:30p,Philadelphia 76ers,PHI,,Chicago Bulls,CHI,,United Center,0,0,0,0,0
-2025-12-26,8:00p,Milwaukee Bucks,MIL,,Memphis Grizzlies,MEM,,FedExForum,0,0,0,0,0
-2025-12-26,8:00p,Phoenix Suns,PHO,,New Orleans Pelicans,NOP,,Smoothie King Center,0,0,0,0,0
-2025-12-26,9:30p,Detroit Pistons,DET,,Utah Jazz,UTA,,Delta Center,0,0,0,0,0
-2025-12-26,10:00p,Los Angeles Clippers,LAC,,Portland Trail Blazers,POR,,Moda Center,0,0,0,0,0
+2025-12-26,7:00p,Miami Heat,MIA,126.0,Atlanta Hawks,ATL,111.0,State Farm Arena,0,0,0,0,1
+2025-12-26,7:00p,Boston Celtics,BOS,140.0,Indiana Pacers,IND,122.0,Gainbridge Fieldhouse,0,0,0,0,1
+2025-12-26,7:00p,Charlotte Hornets,CHO,120.0,Orlando Magic,ORL,105.0,Kia Center,0,0,0,0,1
+2025-12-26,7:00p,Toronto Raptors,TOR,117.0,Washington Wizards,WAS,138.0,Capital One Arena,0,0,0,0,1
+2025-12-26,7:30p,Philadelphia 76ers,PHI,102.0,Chicago Bulls,CHI,109.0,United Center,0,0,0,0,1
+2025-12-26,8:00p,Milwaukee Bucks,MIL,104.0,Memphis Grizzlies,MEM,125.0,FedExForum,0,0,0,0,1
+2025-12-26,8:00p,Phoenix Suns,PHO,115.0,New Orleans Pelicans,NOP,108.0,Smoothie King Center,0,0,0,0,1
+2025-12-26,9:30p,Detroit Pistons,DET,129.0,Utah Jazz,UTA,131.0,Delta Center,0,0,0,0,1
+2025-12-26,10:00p,Los Angeles Clippers,LAC,119.0,Portland Trail Blazers,POR,103.0,Moda Center,0,0,0,0,1
 2025-12-27,5:00p,Dallas Mavericks,DAL,,Sacramento Kings,SAC,,Golden 1 Center,0,0,0,0,0
 2025-12-27,7:00p,Phoenix Suns,PHO,,New Orleans Pelicans,NOP,,Smoothie King Center,1,1,0,0,0
 2025-12-27,7:00p,Denver Nuggets,DEN,,Orlando Magic,ORL,,Kia Center,0,1,0,0,0
