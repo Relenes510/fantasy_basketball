@@ -79,82 +79,82 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2025-10-31,10:00p,Utah Jazz,UTA,96.0,Phoenix Suns,PHO,118.0,0,Mortgage Matchup Center,0,0,1,0,1
 2025-10-31,10:00p,Denver Nuggets,DEN,107.0,Portland Trail Blazers,POR,109.0,0,Moda Center,0,0,1,0,1
 2025-10-31,10:30p,New Orleans Pelicans,NOP,124.0,Los Angeles Clippers,LAC,126.0,0,Intuit Dome,0,0,1,0,1
-2025-11-01,5:00p,Sacramento Kings,SAC,135.0,Milwaukee Bucks,MIL,133.0,0,Fiserv Forum,0,0,0,0,0
-2025-11-01,6:00p,Minnesota Timberwolves,MIN,122.0,Charlotte Hornets,CHO,105.0,0,Spectrum Center,0,0,0,0,0
-2025-11-01,7:00p,Golden State Warriors,GSW,109.0,Indiana Pacers,IND,114.0,0,Gainbridge Fieldhouse,0,1,0,0,0
-2025-11-01,7:00p,Orlando Magic,ORL,125.0,Washington Wizards,WAS,94.0,0,Capital One Arena,0,0,0,0,0
-2025-11-01,8:00p,Houston Rockets,HOU,128.0,Boston Celtics,BOS,101.0,0,TD Garden,0,1,0,0,0
-2025-11-01,10:00p,Dallas Mavericks,DAL,110.0,Detroit Pistons,DET,122.0,0,Mexico City Arena,0,0,0,0,0
-2025-11-02,3:30p,New Orleans Pelicans,NOP,106.0,Oklahoma City Thunder,OKC,137.0,0,Paycom Center,0,0,0,0,0
-2025-11-02,6:00p,Philadelphia 76ers,PHI,129.0,Brooklyn Nets,BRK,105.0,0,Barclays Center,0,0,0,0,0
-2025-11-02,6:00p,Utah Jazz,UTA,103.0,Charlotte Hornets,CHO,126.0,0,Spectrum Center,0,1,0,0,0
-2025-11-02,6:00p,Atlanta Hawks,ATL,109.0,Cleveland Cavaliers,CLE,117.0,0,Rocket Arena,0,0,0,0,0
-2025-11-02,6:00p,Memphis Grizzlies,MEM,104.0,Toronto Raptors,TOR,117.0,0,Scotiabank Arena,0,0,0,0,0
-2025-11-02,7:00p,Chicago Bulls,CHI,116.0,New York Knicks,NYK,128.0,0,Madison Square Garden (IV),0,0,0,0,0
-2025-11-02,8:00p,San Antonio Spurs,SAS,118.0,Phoenix Suns,PHO,130.0,0,Mortgage Matchup Center,0,0,0,0,0
-2025-11-02,9:30p,Miami Heat,MIA,120.0,Los Angeles Lakers,LAL,130.0,0,Crypto.com Arena,0,0,0,0,0
-2025-11-03,7:00p,Minnesota Timberwolves,MIN,125.0,Brooklyn Nets,BRK,109.0,0,Barclays Center,0,1,0,0,0
-2025-11-03,7:00p,Milwaukee Bucks,MIL,117.0,Indiana Pacers,IND,115.0,0,Gainbridge Fieldhouse,0,0,0,0,0
-2025-11-03,7:30p,Utah Jazz,UTA,105.0,Boston Celtics,BOS,103.0,0,TD Garden,1,0,0,0,0
-2025-11-03,7:30p,Washington Wizards,WAS,102.0,New York Knicks,NYK,119.0,0,Madison Square Garden (IV),0,1,0,0,0
-2025-11-03,8:00p,Dallas Mavericks,DAL,102.0,Houston Rockets,HOU,110.0,0,Toyota Center,0,0,0,0,0
-2025-11-03,8:00p,Detroit Pistons,DET,114.0,Memphis Grizzlies,MEM,106.0,0,FedExForum,0,1,0,0,0
-2025-11-03,9:00p,Sacramento Kings,SAC,124.0,Denver Nuggets,DEN,130.0,0,Ball Arena,0,0,0,0,0
-2025-11-03,10:00p,Los Angeles Lakers,LAL,123.0,Portland Trail Blazers,POR,115.0,0,Moda Center,1,0,0,0,0
-2025-11-03,10:30p,Miami Heat,MIA,120.0,Los Angeles Clippers,LAC,119.0,0,Intuit Dome,1,0,0,0,0
-2025-11-04,7:30p,Milwaukee Bucks,MIL,100.0,Toronto Raptors,TOR,128.0,0,Scotiabank Arena,1,0,0,0,0
-2025-11-04,8:00p,Orlando Magic,ORL,112.0,Atlanta Hawks,ATL,127.0,0,State Farm Arena,0,0,0,0,0
-2025-11-04,8:00p,Philadelphia 76ers,PHI,111.0,Chicago Bulls,CHI,113.0,0,United Center,0,0,0,0,0
-2025-11-04,8:00p,Charlotte Hornets,CHO,112.0,New Orleans Pelicans,NOP,116.0,0,Smoothie King Center,0,0,0,0,0
-2025-11-04,10:00p,Phoenix Suns,PHO,107.0,Golden State Warriors,GSW,118.0,0,Chase Center,0,0,0,0,0
-2025-11-04,11:00p,Oklahoma City Thunder,OKC,126.0,Los Angeles Clippers,LAC,107.0,0,Intuit Dome,0,1,0,0,0
-2025-11-05,7:00p,Philadelphia 76ers,PHI,121.0,Cleveland Cavaliers,CLE,132.0,0,Rocket Arena,1,0,0,0,0
-2025-11-05,7:00p,Utah Jazz,UTA,103.0,Detroit Pistons,DET,114.0,0,Little Caesars Arena,0,0,0,0,0
-2025-11-05,7:00p,Brooklyn Nets,BRK,112.0,Indiana Pacers,IND,103.0,0,Gainbridge Fieldhouse,0,0,0,0,0
-2025-11-05,7:30p,Washington Wizards,WAS,107.0,Boston Celtics,BOS,136.0,0,TD Garden,0,0,0,0,0
-2025-11-05,7:30p,Minnesota Timberwolves,MIN,114.0,New York Knicks,NYK,137.0,0,Madison Square Garden (IV),0,0,0,0,0
-2025-11-05,8:00p,Houston Rockets,HOU,124.0,Memphis Grizzlies,MEM,109.0,0,FedExForum,0,0,0,0,0
-2025-11-05,8:30p,New Orleans Pelicans,NOP,101.0,Dallas Mavericks,DAL,99.0,0,American Airlines Center,1,0,0,0,0
-2025-11-05,9:00p,Miami Heat,MIA,112.0,Denver Nuggets,DEN,122.0,0,Ball Arena,0,0,0,0,0
-2025-11-05,10:00p,San Antonio Spurs,SAS,116.0,Los Angeles Lakers,LAL,118.0,0,Crypto.com Arena,0,0,0,0,0
-2025-11-05,10:00p,Oklahoma City Thunder,OKC,119.0,Portland Trail Blazers,POR,121.0,0,Moda Center,1,0,0,0,0
-2025-11-05,10:00p,Golden State Warriors,GSW,116.0,Sacramento Kings,SAC,121.0,0,Golden 1 Center,1,0,0,0,0
-2025-11-06,9:00p,Los Angeles Clippers,LAC,102.0,Phoenix Suns,PHO,115.0,0,Mortgage Matchup Center,0,0,0,0,0
-2025-11-07,7:00p,Boston Celtics,BOS,110.0,Orlando Magic,ORL,123.0,0,Kia Center,0,0,1,0,0
-2025-11-07,7:00p,Cleveland Cavaliers,CLE,148.0,Washington Wizards,WAS,115.0,0,Capital One Arena,0,0,1,0,0
-2025-11-07,7:30p,Toronto Raptors,TOR,109.0,Atlanta Hawks,ATL,97.0,0,State Farm Arena,0,0,1,0,0
-2025-11-07,7:30p,Detroit Pistons,DET,125.0,Brooklyn Nets,BRK,107.0,0,Barclays Center,0,0,1,0,0
-2025-11-07,7:30p,Houston Rockets,HOU,110.0,San Antonio Spurs,SAS,121.0,0,Frost Bank Center,0,0,1,0,0
-2025-11-07,8:00p,Dallas Mavericks,DAL,104.0,Memphis Grizzlies,MEM,118.0,0,FedExForum,0,0,1,0,0
-2025-11-07,8:00p,Charlotte Hornets,CHO,108.0,Miami Heat,MIA,126.0,0,Kaseya Center,0,0,1,0,0
-2025-11-07,8:00p,Chicago Bulls,CHI,110.0,Milwaukee Bucks,MIL,126.0,0,Fiserv Forum,0,0,1,0,0
-2025-11-07,8:00p,Utah Jazz,UTA,97.0,Minnesota Timberwolves,MIN,137.0,0,Target Center,0,0,1,0,0
-2025-11-07,10:00p,Golden State Warriors,GSW,104.0,Denver Nuggets,DEN,129.0,0,Ball Arena,0,0,1,0,0
-2025-11-07,10:00p,Oklahoma City Thunder,OKC,132.0,Sacramento Kings,SAC,101.0,0,Golden 1 Center,0,0,1,0,0
-2025-11-08,7:00p,Dallas Mavericks,DAL,111.0,Washington Wizards,WAS,105.0,0,Capital One Arena,1,1,0,0,0
-2025-11-08,7:30p,Toronto Raptors,TOR,120.0,Philadelphia 76ers,PHI,130.0,0,Xfinity Mobile Arena,1,0,0,0,0
-2025-11-08,8:00p,Los Angeles Lakers,LAL,102.0,Atlanta Hawks,ATL,122.0,0,State Farm Arena,0,1,0,0,0
-2025-11-08,8:00p,Chicago Bulls,CHI,122.0,Cleveland Cavaliers,CLE,128.0,0,Rocket Arena,1,1,0,0,0
-2025-11-08,8:00p,Portland Trail Blazers,POR,131.0,Miami Heat,MIA,136.0,0,Kaseya Center,0,1,0,0,0
-2025-11-08,8:00p,New Orleans Pelicans,NOP,119.0,San Antonio Spurs,SAS,126.0,0,Frost Bank Center,0,1,0,0,0
-2025-11-08,9:00p,Indiana Pacers,IND,100.0,Denver Nuggets,DEN,117.0,0,Ball Arena,0,1,0,0,0
-2025-11-08,10:30p,Phoenix Suns,PHO,114.0,Los Angeles Clippers,LAC,103.0,0,Intuit Dome,0,0,0,0,0
-2025-11-09,3:30p,Houston Rockets,HOU,122.0,Milwaukee Bucks,MIL,115.0,0,Fiserv Forum,0,0,0,0,0
-2025-11-09,6:00p,Oklahoma City Thunder,OKC,114.0,Memphis Grizzlies,MEM,100.0,0,FedExForum,0,0,0,0,0
-2025-11-09,6:00p,Brooklyn Nets,BRK,98.0,New York Knicks,NYK,134.0,0,Madison Square Garden (IV),0,0,0,0,0
-2025-11-09,6:00p,Boston Celtics,BOS,111.0,Orlando Magic,ORL,107.0,0,Kia Center,0,0,0,0,0
-2025-11-09,7:30p,Detroit Pistons,DET,111.0,Philadelphia 76ers,PHI,108.0,0,Xfinity Mobile Arena,0,1,0,0,0
-2025-11-09,8:30p,Indiana Pacers,IND,83.0,Golden State Warriors,GSW,114.0,0,Chase Center,1,0,0,0,0
-2025-11-09,9:00p,Minnesota Timberwolves,MIN,144.0,Sacramento Kings,SAC,117.0,0,Golden 1 Center,0,0,0,0,0
-2025-11-10,7:00p,Los Angeles Lakers,LAL,121.0,Charlotte Hornets,CHO,111.0,0,Spectrum Center,0,0,0,0,0
-2025-11-10,7:00p,Washington Wizards,WAS,135.0,Detroit Pistons,DET,137.0,1,Little Caesars Arena,0,1,0,0,0
-2025-11-10,7:00p,Portland Trail Blazers,POR,112.0,Orlando Magic,ORL,115.0,0,Kia Center,0,1,0,0,0
-2025-11-10,7:30p,Cleveland Cavaliers,CLE,138.0,Miami Heat,MIA,140.0,1,Kaseya Center,0,0,0,0,0
-2025-11-10,8:00p,San Antonio Spurs,SAS,121.0,Chicago Bulls,CHI,117.0,0,United Center,0,0,0,0,0
-2025-11-10,8:30p,Milwaukee Bucks,MIL,116.0,Dallas Mavericks,DAL,114.0,0,American Airlines Center,1,0,0,0,0
-2025-11-10,9:00p,New Orleans Pelicans,NOP,98.0,Phoenix Suns,PHO,121.0,0,Mortgage Matchup Center,0,0,0,0,0
-2025-11-10,9:00p,Minnesota Timberwolves,MIN,120.0,Utah Jazz,UTA,113.0,0,Delta Center,1,0,0,0,0
-2025-11-10,10:30p,Atlanta Hawks,ATL,105.0,Los Angeles Clippers,LAC,102.0,0,Intuit Dome,0,0,0,0,0
+2025-11-01,5:00p,Sacramento Kings,SAC,135.0,Milwaukee Bucks,MIL,133.0,0,Fiserv Forum,0,0,0,0,1
+2025-11-01,6:00p,Minnesota Timberwolves,MIN,122.0,Charlotte Hornets,CHO,105.0,0,Spectrum Center,0,0,0,0,1
+2025-11-01,7:00p,Golden State Warriors,GSW,109.0,Indiana Pacers,IND,114.0,0,Gainbridge Fieldhouse,0,1,0,0,1
+2025-11-01,7:00p,Orlando Magic,ORL,125.0,Washington Wizards,WAS,94.0,0,Capital One Arena,0,0,0,0,1
+2025-11-01,8:00p,Houston Rockets,HOU,128.0,Boston Celtics,BOS,101.0,0,TD Garden,0,1,0,0,1
+2025-11-01,10:00p,Dallas Mavericks,DAL,110.0,Detroit Pistons,DET,122.0,0,Mexico City Arena,0,0,0,0,1
+2025-11-02,3:30p,New Orleans Pelicans,NOP,106.0,Oklahoma City Thunder,OKC,137.0,0,Paycom Center,0,0,0,0,1
+2025-11-02,6:00p,Philadelphia 76ers,PHI,129.0,Brooklyn Nets,BRK,105.0,0,Barclays Center,0,0,0,0,1
+2025-11-02,6:00p,Utah Jazz,UTA,103.0,Charlotte Hornets,CHO,126.0,0,Spectrum Center,0,1,0,0,1
+2025-11-02,6:00p,Atlanta Hawks,ATL,109.0,Cleveland Cavaliers,CLE,117.0,0,Rocket Arena,0,0,0,0,1
+2025-11-02,6:00p,Memphis Grizzlies,MEM,104.0,Toronto Raptors,TOR,117.0,0,Scotiabank Arena,0,0,0,0,1
+2025-11-02,7:00p,Chicago Bulls,CHI,116.0,New York Knicks,NYK,128.0,0,Madison Square Garden (IV),0,0,0,0,1
+2025-11-02,8:00p,San Antonio Spurs,SAS,118.0,Phoenix Suns,PHO,130.0,0,Mortgage Matchup Center,0,0,0,0,1
+2025-11-02,9:30p,Miami Heat,MIA,120.0,Los Angeles Lakers,LAL,130.0,0,Crypto.com Arena,0,0,0,0,1
+2025-11-03,7:00p,Minnesota Timberwolves,MIN,125.0,Brooklyn Nets,BRK,109.0,0,Barclays Center,0,1,0,0,1
+2025-11-03,7:00p,Milwaukee Bucks,MIL,117.0,Indiana Pacers,IND,115.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2025-11-03,7:30p,Utah Jazz,UTA,105.0,Boston Celtics,BOS,103.0,0,TD Garden,1,0,0,0,1
+2025-11-03,7:30p,Washington Wizards,WAS,102.0,New York Knicks,NYK,119.0,0,Madison Square Garden (IV),0,1,0,0,1
+2025-11-03,8:00p,Dallas Mavericks,DAL,102.0,Houston Rockets,HOU,110.0,0,Toyota Center,0,0,0,0,1
+2025-11-03,8:00p,Detroit Pistons,DET,114.0,Memphis Grizzlies,MEM,106.0,0,FedExForum,0,1,0,0,1
+2025-11-03,9:00p,Sacramento Kings,SAC,124.0,Denver Nuggets,DEN,130.0,0,Ball Arena,0,0,0,0,1
+2025-11-03,10:00p,Los Angeles Lakers,LAL,123.0,Portland Trail Blazers,POR,115.0,0,Moda Center,1,0,0,0,1
+2025-11-03,10:30p,Miami Heat,MIA,120.0,Los Angeles Clippers,LAC,119.0,0,Intuit Dome,1,0,0,0,1
+2025-11-04,7:30p,Milwaukee Bucks,MIL,100.0,Toronto Raptors,TOR,128.0,0,Scotiabank Arena,1,0,0,0,1
+2025-11-04,8:00p,Orlando Magic,ORL,112.0,Atlanta Hawks,ATL,127.0,0,State Farm Arena,0,0,0,0,1
+2025-11-04,8:00p,Philadelphia 76ers,PHI,111.0,Chicago Bulls,CHI,113.0,0,United Center,0,0,0,0,1
+2025-11-04,8:00p,Charlotte Hornets,CHO,112.0,New Orleans Pelicans,NOP,116.0,0,Smoothie King Center,0,0,0,0,1
+2025-11-04,10:00p,Phoenix Suns,PHO,107.0,Golden State Warriors,GSW,118.0,0,Chase Center,0,0,0,0,1
+2025-11-04,11:00p,Oklahoma City Thunder,OKC,126.0,Los Angeles Clippers,LAC,107.0,0,Intuit Dome,0,1,0,0,1
+2025-11-05,7:00p,Philadelphia 76ers,PHI,121.0,Cleveland Cavaliers,CLE,132.0,0,Rocket Arena,1,0,0,0,1
+2025-11-05,7:00p,Utah Jazz,UTA,103.0,Detroit Pistons,DET,114.0,0,Little Caesars Arena,0,0,0,0,1
+2025-11-05,7:00p,Brooklyn Nets,BRK,112.0,Indiana Pacers,IND,103.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2025-11-05,7:30p,Washington Wizards,WAS,107.0,Boston Celtics,BOS,136.0,0,TD Garden,0,0,0,0,1
+2025-11-05,7:30p,Minnesota Timberwolves,MIN,114.0,New York Knicks,NYK,137.0,0,Madison Square Garden (IV),0,0,0,0,1
+2025-11-05,8:00p,Houston Rockets,HOU,124.0,Memphis Grizzlies,MEM,109.0,0,FedExForum,0,0,0,0,1
+2025-11-05,8:30p,New Orleans Pelicans,NOP,101.0,Dallas Mavericks,DAL,99.0,0,American Airlines Center,1,0,0,0,1
+2025-11-05,9:00p,Miami Heat,MIA,112.0,Denver Nuggets,DEN,122.0,0,Ball Arena,0,0,0,0,1
+2025-11-05,10:00p,San Antonio Spurs,SAS,116.0,Los Angeles Lakers,LAL,118.0,0,Crypto.com Arena,0,0,0,0,1
+2025-11-05,10:00p,Oklahoma City Thunder,OKC,119.0,Portland Trail Blazers,POR,121.0,0,Moda Center,1,0,0,0,1
+2025-11-05,10:00p,Golden State Warriors,GSW,116.0,Sacramento Kings,SAC,121.0,0,Golden 1 Center,1,0,0,0,1
+2025-11-06,9:00p,Los Angeles Clippers,LAC,102.0,Phoenix Suns,PHO,115.0,0,Mortgage Matchup Center,0,0,0,0,1
+2025-11-07,7:00p,Boston Celtics,BOS,110.0,Orlando Magic,ORL,123.0,0,Kia Center,0,0,1,0,1
+2025-11-07,7:00p,Cleveland Cavaliers,CLE,148.0,Washington Wizards,WAS,115.0,0,Capital One Arena,0,0,1,0,1
+2025-11-07,7:30p,Toronto Raptors,TOR,109.0,Atlanta Hawks,ATL,97.0,0,State Farm Arena,0,0,1,0,1
+2025-11-07,7:30p,Detroit Pistons,DET,125.0,Brooklyn Nets,BRK,107.0,0,Barclays Center,0,0,1,0,1
+2025-11-07,7:30p,Houston Rockets,HOU,110.0,San Antonio Spurs,SAS,121.0,0,Frost Bank Center,0,0,1,0,1
+2025-11-07,8:00p,Dallas Mavericks,DAL,104.0,Memphis Grizzlies,MEM,118.0,0,FedExForum,0,0,1,0,1
+2025-11-07,8:00p,Charlotte Hornets,CHO,108.0,Miami Heat,MIA,126.0,0,Kaseya Center,0,0,1,0,1
+2025-11-07,8:00p,Chicago Bulls,CHI,110.0,Milwaukee Bucks,MIL,126.0,0,Fiserv Forum,0,0,1,0,1
+2025-11-07,8:00p,Utah Jazz,UTA,97.0,Minnesota Timberwolves,MIN,137.0,0,Target Center,0,0,1,0,1
+2025-11-07,10:00p,Golden State Warriors,GSW,104.0,Denver Nuggets,DEN,129.0,0,Ball Arena,0,0,1,0,1
+2025-11-07,10:00p,Oklahoma City Thunder,OKC,132.0,Sacramento Kings,SAC,101.0,0,Golden 1 Center,0,0,1,0,1
+2025-11-08,7:00p,Dallas Mavericks,DAL,111.0,Washington Wizards,WAS,105.0,0,Capital One Arena,1,1,0,0,1
+2025-11-08,7:30p,Toronto Raptors,TOR,120.0,Philadelphia 76ers,PHI,130.0,0,Xfinity Mobile Arena,1,0,0,0,1
+2025-11-08,8:00p,Los Angeles Lakers,LAL,102.0,Atlanta Hawks,ATL,122.0,0,State Farm Arena,0,1,0,0,1
+2025-11-08,8:00p,Chicago Bulls,CHI,122.0,Cleveland Cavaliers,CLE,128.0,0,Rocket Arena,1,1,0,0,1
+2025-11-08,8:00p,Portland Trail Blazers,POR,131.0,Miami Heat,MIA,136.0,0,Kaseya Center,0,1,0,0,1
+2025-11-08,8:00p,New Orleans Pelicans,NOP,119.0,San Antonio Spurs,SAS,126.0,0,Frost Bank Center,0,1,0,0,1
+2025-11-08,9:00p,Indiana Pacers,IND,100.0,Denver Nuggets,DEN,117.0,0,Ball Arena,0,1,0,0,1
+2025-11-08,10:30p,Phoenix Suns,PHO,114.0,Los Angeles Clippers,LAC,103.0,0,Intuit Dome,0,0,0,0,1
+2025-11-09,3:30p,Houston Rockets,HOU,122.0,Milwaukee Bucks,MIL,115.0,0,Fiserv Forum,0,0,0,0,1
+2025-11-09,6:00p,Oklahoma City Thunder,OKC,114.0,Memphis Grizzlies,MEM,100.0,0,FedExForum,0,0,0,0,1
+2025-11-09,6:00p,Brooklyn Nets,BRK,98.0,New York Knicks,NYK,134.0,0,Madison Square Garden (IV),0,0,0,0,1
+2025-11-09,6:00p,Boston Celtics,BOS,111.0,Orlando Magic,ORL,107.0,0,Kia Center,0,0,0,0,1
+2025-11-09,7:30p,Detroit Pistons,DET,111.0,Philadelphia 76ers,PHI,108.0,0,Xfinity Mobile Arena,0,1,0,0,1
+2025-11-09,8:30p,Indiana Pacers,IND,83.0,Golden State Warriors,GSW,114.0,0,Chase Center,1,0,0,0,1
+2025-11-09,9:00p,Minnesota Timberwolves,MIN,144.0,Sacramento Kings,SAC,117.0,0,Golden 1 Center,0,0,0,0,1
+2025-11-10,7:00p,Los Angeles Lakers,LAL,121.0,Charlotte Hornets,CHO,111.0,0,Spectrum Center,0,0,0,0,1
+2025-11-10,7:00p,Washington Wizards,WAS,135.0,Detroit Pistons,DET,137.0,1,Little Caesars Arena,0,1,0,0,1
+2025-11-10,7:00p,Portland Trail Blazers,POR,112.0,Orlando Magic,ORL,115.0,0,Kia Center,0,1,0,0,1
+2025-11-10,7:30p,Cleveland Cavaliers,CLE,138.0,Miami Heat,MIA,140.0,1,Kaseya Center,0,0,0,0,1
+2025-11-10,8:00p,San Antonio Spurs,SAS,121.0,Chicago Bulls,CHI,117.0,0,United Center,0,0,0,0,1
+2025-11-10,8:30p,Milwaukee Bucks,MIL,116.0,Dallas Mavericks,DAL,114.0,0,American Airlines Center,1,0,0,0,1
+2025-11-10,9:00p,New Orleans Pelicans,NOP,98.0,Phoenix Suns,PHO,121.0,0,Mortgage Matchup Center,0,0,0,0,1
+2025-11-10,9:00p,Minnesota Timberwolves,MIN,120.0,Utah Jazz,UTA,113.0,0,Delta Center,1,0,0,0,1
+2025-11-10,10:30p,Atlanta Hawks,ATL,105.0,Los Angeles Clippers,LAC,102.0,0,Intuit Dome,0,0,0,0,1
 2025-11-11,7:30p,Toronto Raptors,TOR,119.0,Brooklyn Nets,BRK,109.0,0,Barclays Center,0,0,0,0,0
 2025-11-11,7:30p,Memphis Grizzlies,MEM,120.0,New York Knicks,NYK,133.0,0,Madison Square Garden (IV),0,0,0,0,0
 2025-11-11,8:00p,Golden State Warriors,GSW,102.0,Oklahoma City Thunder,OKC,126.0,0,Paycom Center,0,0,0,0,0
@@ -457,15 +457,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2025-12-26,8:00p,Phoenix Suns,PHO,115.0,New Orleans Pelicans,NOP,108.0,0,Smoothie King Center,0,0,0,0,0
 2025-12-26,9:30p,Detroit Pistons,DET,129.0,Utah Jazz,UTA,131.0,0,Delta Center,0,0,0,0,0
 2025-12-26,10:00p,Los Angeles Clippers,LAC,119.0,Portland Trail Blazers,POR,103.0,0,Moda Center,0,0,0,0,0
-2025-12-27,5:00p,Dallas Mavericks,DAL,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
-2025-12-27,7:00p,Phoenix Suns,PHO,,New Orleans Pelicans,NOP,,0,Smoothie King Center,1,1,0,0,0
-2025-12-27,7:00p,Denver Nuggets,DEN,,Orlando Magic,ORL,,0,Kia Center,0,1,0,0,0
-2025-12-27,8:00p,New York Knicks,NYK,,Atlanta Hawks,ATL,,0,State Farm Arena,0,1,0,0,0
-2025-12-27,8:00p,Milwaukee Bucks,MIL,,Chicago Bulls,CHI,,0,United Center,1,1,0,0,0
-2025-12-27,8:00p,Cleveland Cavaliers,CLE,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
-2025-12-27,8:00p,Indiana Pacers,IND,,Miami Heat,MIA,,0,Kaseya Center,1,1,0,0,0
-2025-12-27,8:00p,Brooklyn Nets,BRK,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
-2025-12-27,8:00p,Utah Jazz,UTA,,San Antonio Spurs,SAS,,0,Frost Bank Center,1,0,0,0,0
+2025-12-27,5:00p,Dallas Mavericks,DAL,107.0,Sacramento Kings,SAC,113.0,0,Golden 1 Center,0,0,0,0,0
+2025-12-27,7:00p,Phoenix Suns,PHO,123.0,New Orleans Pelicans,NOP,114.0,0,Smoothie King Center,1,1,0,0,0
+2025-12-27,7:00p,Denver Nuggets,DEN,126.0,Orlando Magic,ORL,127.0,0,Kia Center,0,1,0,0,0
+2025-12-27,8:00p,New York Knicks,NYK,128.0,Atlanta Hawks,ATL,125.0,0,State Farm Arena,0,1,0,0,0
+2025-12-27,8:00p,Milwaukee Bucks,MIL,112.0,Chicago Bulls,CHI,103.0,0,United Center,1,1,0,0,0
+2025-12-27,8:00p,Cleveland Cavaliers,CLE,100.0,Houston Rockets,HOU,117.0,0,Toyota Center,0,0,0,0,0
+2025-12-27,8:00p,Indiana Pacers,IND,116.0,Miami Heat,MIA,142.0,0,Kaseya Center,1,1,0,0,0
+2025-12-27,8:00p,Brooklyn Nets,BRK,123.0,Minnesota Timberwolves,MIN,107.0,0,Target Center,0,0,0,0,0
+2025-12-27,8:00p,Utah Jazz,UTA,127.0,San Antonio Spurs,SAS,114.0,0,Frost Bank Center,1,0,0,0,0
 2025-12-28,3:30p,Philadelphia 76ers,PHI,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
 2025-12-28,3:30p,Golden State Warriors,GSW,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
 2025-12-28,6:00p,Boston Celtics,BOS,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
