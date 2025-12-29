@@ -466,12 +466,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2025-12-27,8:00p,Indiana Pacers,IND,116.0,Miami Heat,MIA,142.0,0,Kaseya Center,1,1,0,0,1
 2025-12-27,8:00p,Brooklyn Nets,BRK,123.0,Minnesota Timberwolves,MIN,107.0,0,Target Center,0,0,0,0,1
 2025-12-27,8:00p,Utah Jazz,UTA,127.0,San Antonio Spurs,SAS,114.0,0,Frost Bank Center,1,0,0,0,1
-2025-12-28,3:30p,Philadelphia 76ers,PHI,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
-2025-12-28,3:30p,Golden State Warriors,GSW,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2025-12-28,6:00p,Boston Celtics,BOS,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
-2025-12-28,6:00p,Memphis Grizzlies,MEM,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2025-12-28,9:00p,Detroit Pistons,DET,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
-2025-12-28,9:30p,Sacramento Kings,SAC,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,1,0,0,0,0
+2025-12-28,3:30p,Philadelphia 76ers,PHI,104.0,Oklahoma City Thunder,OKC,129.0,0,Paycom Center,0,0,0,0,1
+2025-12-28,3:30p,Golden State Warriors,GSW,127.0,Toronto Raptors,TOR,141.0,1,Scotiabank Arena,0,0,0,0,1
+2025-12-28,6:00p,Boston Celtics,BOS,108.0,Portland Trail Blazers,POR,114.0,0,Moda Center,0,0,0,0,1
+2025-12-28,6:00p,Memphis Grizzlies,MEM,112.0,Washington Wizards,WAS,116.0,0,Capital One Arena,0,0,0,0,1
+2025-12-28,9:00p,Detroit Pistons,DET,99.0,Los Angeles Clippers,LAC,112.0,0,Intuit Dome,0,0,0,0,1
+2025-12-28,9:30p,Sacramento Kings,SAC,101.0,Los Angeles Lakers,LAL,125.0,0,Crypto.com Arena,1,0,0,0,1
 2025-12-29,7:00p,Milwaukee Bucks,MIL,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2025-12-29,7:00p,Phoenix Suns,PHO,,Washington Wizards,WAS,,0,Capital One Arena,0,1,0,0,0
 2025-12-29,7:30p,Golden State Warriors,GSW,,Brooklyn Nets,BRK,,0,Barclays Center,1,0,0,0,0
