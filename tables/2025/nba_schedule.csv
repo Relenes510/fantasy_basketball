@@ -472,17 +472,17 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2025-12-28,6:00p,Memphis Grizzlies,MEM,112.0,Washington Wizards,WAS,116.0,0,Capital One Arena,0,0,0,0,1
 2025-12-28,9:00p,Detroit Pistons,DET,99.0,Los Angeles Clippers,LAC,112.0,0,Intuit Dome,0,0,0,0,1
 2025-12-28,9:30p,Sacramento Kings,SAC,101.0,Los Angeles Lakers,LAL,125.0,0,Crypto.com Arena,1,0,0,0,1
-2025-12-29,7:00p,Milwaukee Bucks,MIL,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2025-12-29,7:00p,Phoenix Suns,PHO,,Washington Wizards,WAS,,0,Capital One Arena,0,1,0,0,0
-2025-12-29,7:30p,Golden State Warriors,GSW,,Brooklyn Nets,BRK,,0,Barclays Center,1,0,0,0,0
-2025-12-29,7:30p,Denver Nuggets,DEN,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2025-12-29,7:30p,Orlando Magic,ORL,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,1,0,0,0
-2025-12-29,8:00p,Minnesota Timberwolves,MIN,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2025-12-29,8:00p,Indiana Pacers,IND,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
-2025-12-29,8:00p,New York Knicks,NYK,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,0,0,0,0
-2025-12-29,8:00p,Atlanta Hawks,ATL,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,1,0,0,0
-2025-12-29,8:00p,Cleveland Cavaliers,CLE,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
-2025-12-29,10:30p,Dallas Mavericks,DAL,,Portland Trail Blazers,POR,,0,Moda Center,0,1,0,0,0
+2025-12-29,7:00p,Milwaukee Bucks,MIL,123.0,Charlotte Hornets,CHO,113.0,0,Spectrum Center,0,0,0,0,1
+2025-12-29,7:00p,Phoenix Suns,PHO,115.0,Washington Wizards,WAS,101.0,0,Capital One Arena,0,1,0,0,1
+2025-12-29,7:30p,Golden State Warriors,GSW,120.0,Brooklyn Nets,BRK,107.0,0,Barclays Center,1,0,0,0,1
+2025-12-29,7:30p,Denver Nuggets,DEN,123.0,Miami Heat,MIA,147.0,0,Kaseya Center,0,0,0,0,1
+2025-12-29,7:30p,Orlando Magic,ORL,106.0,Toronto Raptors,TOR,107.0,0,Scotiabank Arena,0,1,0,0,1
+2025-12-29,8:00p,Minnesota Timberwolves,MIN,136.0,Chicago Bulls,CHI,101.0,0,United Center,0,0,0,0,1
+2025-12-29,8:00p,Indiana Pacers,IND,119.0,Houston Rockets,HOU,126.0,0,Toyota Center,0,0,0,0,1
+2025-12-29,8:00p,New York Knicks,NYK,130.0,New Orleans Pelicans,NOP,125.0,0,Smoothie King Center,0,0,0,0,1
+2025-12-29,8:00p,Atlanta Hawks,ATL,129.0,Oklahoma City Thunder,OKC,140.0,0,Paycom Center,0,1,0,0,1
+2025-12-29,8:00p,Cleveland Cavaliers,CLE,113.0,San Antonio Spurs,SAS,101.0,0,Frost Bank Center,0,0,0,0,1
+2025-12-29,10:30p,Dallas Mavericks,DAL,122.0,Portland Trail Blazers,POR,125.0,0,Moda Center,0,1,0,0,1
 2025-12-30,8:00p,Philadelphia 76ers,PHI,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
 2025-12-30,9:00p,Boston Celtics,BOS,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
 2025-12-30,10:30p,Detroit Pistons,DET,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
