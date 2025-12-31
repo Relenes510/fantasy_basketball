@@ -483,10 +483,10 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2025-12-29,8:00p,Atlanta Hawks,ATL,129.0,Oklahoma City Thunder,OKC,140.0,0,Paycom Center,0,1,0,0,1
 2025-12-29,8:00p,Cleveland Cavaliers,CLE,113.0,San Antonio Spurs,SAS,101.0,0,Frost Bank Center,0,0,0,0,1
 2025-12-29,10:30p,Dallas Mavericks,DAL,122.0,Portland Trail Blazers,POR,125.0,0,Moda Center,0,1,0,0,1
-2025-12-30,8:00p,Philadelphia 76ers,PHI,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2025-12-30,9:00p,Boston Celtics,BOS,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
-2025-12-30,10:30p,Detroit Pistons,DET,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
-2025-12-30,11:00p,Sacramento Kings,SAC,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2025-12-30,8:00p,Philadelphia 76ers,PHI,139.0,Memphis Grizzlies,MEM,136.0,1,FedExForum,0,0,0,0,1
+2025-12-30,9:00p,Boston Celtics,BOS,129.0,Utah Jazz,UTA,119.0,0,Delta Center,0,0,0,0,1
+2025-12-30,10:30p,Detroit Pistons,DET,128.0,Los Angeles Lakers,LAL,106.0,0,Crypto.com Arena,0,0,0,0,1
+2025-12-30,11:00p,Sacramento Kings,SAC,90.0,Los Angeles Clippers,LAC,131.0,0,Intuit Dome,0,0,0,0,1
 2025-12-31,1:00p,Golden State Warriors,GSW,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2025-12-31,3:00p,Minnesota Timberwolves,MIN,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
 2025-12-31,3:00p,Orlando Magic,ORL,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
