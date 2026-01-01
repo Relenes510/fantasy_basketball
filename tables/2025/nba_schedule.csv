@@ -487,15 +487,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2025-12-30,9:00p,Boston Celtics,BOS,129.0,Utah Jazz,UTA,119.0,0,Delta Center,0,0,0,0,1
 2025-12-30,10:30p,Detroit Pistons,DET,128.0,Los Angeles Lakers,LAL,106.0,0,Crypto.com Arena,0,0,0,0,1
 2025-12-30,11:00p,Sacramento Kings,SAC,90.0,Los Angeles Clippers,LAC,131.0,0,Intuit Dome,0,0,0,0,1
-2025-12-31,1:00p,Golden State Warriors,GSW,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2025-12-31,3:00p,Minnesota Timberwolves,MIN,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
-2025-12-31,3:00p,Orlando Magic,ORL,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2025-12-31,3:30p,Phoenix Suns,PHO,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2025-12-31,7:00p,New Orleans Pelicans,NOP,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2025-12-31,7:00p,New York Knicks,NYK,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
-2025-12-31,7:30p,Denver Nuggets,DEN,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2025-12-31,8:00p,Washington Wizards,WAS,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
-2025-12-31,8:00p,Portland Trail Blazers,POR,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
+2025-12-31,1:00p,Golden State Warriors,GSW,132.0,Charlotte Hornets,CHO,125.0,0,Spectrum Center,0,0,0,0,1
+2025-12-31,3:00p,Minnesota Timberwolves,MIN,102.0,Atlanta Hawks,ATL,126.0,0,State Farm Arena,0,0,0,0,1
+2025-12-31,3:00p,Orlando Magic,ORL,112.0,Indiana Pacers,IND,110.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2025-12-31,3:30p,Phoenix Suns,PHO,113.0,Cleveland Cavaliers,CLE,129.0,0,Rocket Arena,0,0,0,0,1
+2025-12-31,7:00p,New Orleans Pelicans,NOP,118.0,Chicago Bulls,CHI,134.0,0,United Center,0,0,0,0,1
+2025-12-31,7:00p,New York Knicks,NYK,132.0,San Antonio Spurs,SAS,134.0,0,Frost Bank Center,0,0,0,0,1
+2025-12-31,7:30p,Denver Nuggets,DEN,106.0,Toronto Raptors,TOR,103.0,0,Scotiabank Arena,0,0,0,0,1
+2025-12-31,8:00p,Washington Wizards,WAS,114.0,Milwaukee Bucks,MIL,113.0,0,Fiserv Forum,0,0,0,0,1
+2025-12-31,8:00p,Portland Trail Blazers,POR,95.0,Oklahoma City Thunder,OKC,124.0,0,Paycom Center,0,0,0,0,1
 2026-01-01,6:00p,Houston Rockets,HOU,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
 2026-01-01,7:00p,Miami Heat,MIA,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
 2026-01-01,8:30p,Philadelphia 76ers,PHI,,Dallas Mavericks,DAL,,0,American Airlines Center,0,0,0,0,0
