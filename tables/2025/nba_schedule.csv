@@ -496,11 +496,11 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2025-12-31,7:30p,Denver Nuggets,DEN,106.0,Toronto Raptors,TOR,103.0,0,Scotiabank Arena,0,0,0,0,1
 2025-12-31,8:00p,Washington Wizards,WAS,114.0,Milwaukee Bucks,MIL,113.0,0,Fiserv Forum,0,0,0,0,1
 2025-12-31,8:00p,Portland Trail Blazers,POR,95.0,Oklahoma City Thunder,OKC,124.0,0,Paycom Center,0,0,0,0,1
-2026-01-01,6:00p,Houston Rockets,HOU,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-01-01,7:00p,Miami Heat,MIA,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
-2026-01-01,8:30p,Philadelphia 76ers,PHI,,Dallas Mavericks,DAL,,0,American Airlines Center,0,0,0,0,0
-2026-01-01,10:00p,Boston Celtics,BOS,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
-2026-01-01,10:30p,Utah Jazz,UTA,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2026-01-01,6:00p,Houston Rockets,HOU,120.0,Brooklyn Nets,BRK,96.0,0,Barclays Center,0,0,0,0,1
+2026-01-01,7:00p,Miami Heat,MIA,118.0,Detroit Pistons,DET,112.0,0,Little Caesars Arena,0,0,0,0,1
+2026-01-01,8:30p,Philadelphia 76ers,PHI,123.0,Dallas Mavericks,DAL,108.0,0,American Airlines Center,0,0,0,0,1
+2026-01-01,10:00p,Boston Celtics,BOS,120.0,Sacramento Kings,SAC,106.0,0,Golden 1 Center,0,0,0,0,1
+2026-01-01,10:30p,Utah Jazz,UTA,101.0,Los Angeles Clippers,LAC,118.0,0,Intuit Dome,0,0,0,0,1
 2026-01-02,7:00p,San Antonio Spurs,SAS,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-01-02,7:00p,Brooklyn Nets,BRK,,Washington Wizards,WAS,,0,Capital One Arena,1,0,0,0,0
 2026-01-02,7:30p,Denver Nuggets,DEN,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
