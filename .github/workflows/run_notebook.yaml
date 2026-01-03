@@ -59,19 +59,31 @@ jobs:
       #       --ExecutePreprocessor.kernel_name=python3 \
       #       "notebooks/parlay helper.ipynb"
 
+      # - name: Generate Predictions notebook
+      #   run: |
+      #     jupyter nbconvert \
+      #       --to notebook \
+      #       --execute \
+      #       --inplace \
+      #       --ExecutePreprocessor.timeout=600 \
+      #       --ExecutePreprocessor.kernel_name=python3 \
+      #       "notebooks/create_ML_Regression_model.ipynb"
+      #   continue-on-error: true
+
       - name: Generate Predictions notebook
         run: |
           jupyter nbconvert \
             --to notebook \
             --execute \
-            --inplace \
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
-            "notebooks/create_ML_Regression_model.ipynb"
+            --ExecutePreprocessor.allow_errors=True \
+            notebooks/create_ML_Regression_model.ipynb \
             --output DEBUG_create_ML_Regression_model.ipynb
         continue-on-error: true
 
       - name: Upload executed notebook
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: executed-notebook
