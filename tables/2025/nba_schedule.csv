@@ -501,16 +501,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-01,8:30p,Philadelphia 76ers,PHI,123.0,Dallas Mavericks,DAL,108.0,0,American Airlines Center,0,0,0,0,1
 2026-01-01,10:00p,Boston Celtics,BOS,120.0,Sacramento Kings,SAC,106.0,0,Golden 1 Center,0,0,0,0,1
 2026-01-01,10:30p,Utah Jazz,UTA,101.0,Los Angeles Clippers,LAC,118.0,0,Intuit Dome,0,0,0,0,1
-2026-01-02,7:00p,San Antonio Spurs,SAS,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-01-02,7:00p,Brooklyn Nets,BRK,,Washington Wizards,WAS,,0,Capital One Arena,1,0,0,0,0
-2026-01-02,7:30p,Denver Nuggets,DEN,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-01-02,7:30p,Atlanta Hawks,ATL,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
-2026-01-02,8:00p,Orlando Magic,ORL,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-01-02,8:00p,Charlotte Hornets,CHO,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
-2026-01-02,8:00p,Portland Trail Blazers,POR,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,0,0,0,0
-2026-01-02,9:00p,Sacramento Kings,SAC,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,1,0,0,0,0
-2026-01-02,10:00p,Oklahoma City Thunder,OKC,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
-2026-01-02,10:30p,Memphis Grizzlies,MEM,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
+2026-01-02,7:00p,San Antonio Spurs,SAS,123.0,Indiana Pacers,IND,113.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-01-02,7:00p,Brooklyn Nets,BRK,99.0,Washington Wizards,WAS,119.0,0,Capital One Arena,1,0,0,0,1
+2026-01-02,7:30p,Denver Nuggets,DEN,108.0,Cleveland Cavaliers,CLE,113.0,0,Rocket Arena,0,0,0,0,1
+2026-01-02,7:30p,Atlanta Hawks,ATL,111.0,New York Knicks,NYK,99.0,0,Madison Square Garden (IV),0,0,0,0,1
+2026-01-02,8:00p,Orlando Magic,ORL,114.0,Chicago Bulls,CHI,121.0,0,United Center,0,0,0,0,1
+2026-01-02,8:00p,Charlotte Hornets,CHO,121.0,Milwaukee Bucks,MIL,122.0,0,Fiserv Forum,0,0,0,0,1
+2026-01-02,8:00p,Portland Trail Blazers,POR,122.0,New Orleans Pelicans,NOP,109.0,0,Smoothie King Center,0,0,0,0,1
+2026-01-02,9:00p,Sacramento Kings,SAC,102.0,Phoenix Suns,PHO,129.0,0,Mortgage Matchup Center,1,0,0,0,1
+2026-01-02,10:00p,Oklahoma City Thunder,OKC,131.0,Golden State Warriors,GSW,94.0,0,Chase Center,0,0,0,0,1
+2026-01-02,10:30p,Memphis Grizzlies,MEM,121.0,Los Angeles Lakers,LAL,128.0,0,Crypto.com Arena,0,0,0,0,1
 2026-01-03,5:00p,Minnesota Timberwolves,MIN,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
 2026-01-03,7:30p,Philadelphia 76ers,PHI,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,1,0,0,0
 2026-01-03,7:30p,Atlanta Hawks,ATL,,Toronto Raptors,TOR,,0,Scotiabank Arena,1,0,0,0,0
