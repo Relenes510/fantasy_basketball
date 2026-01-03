@@ -68,6 +68,7 @@ jobs:
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/create_ML_Regression_model.ipynb"
+            --output DEBUG_create_ML_Regression_model.ipynb
         continue-on-error: true
 
       - name: Commit updated CSVs back to repository
