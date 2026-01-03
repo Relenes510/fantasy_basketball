@@ -87,7 +87,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: executed-notebook
-          path: DEBUG_create_ML_Regression_model.ipynb
+          path: notebooks/DEBUG_create_ML_Regression_model.ipynb
 
       - name: Commit updated CSVs back to repository
         run: |
