@@ -519,14 +519,14 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-03,8:30p,Houston Rockets,HOU,104.0,Dallas Mavericks,DAL,110.0,0,American Airlines Center,0,0,0,0,1
 2026-01-03,10:00p,Utah Jazz,UTA,114.0,Golden State Warriors,GSW,123.0,0,Chase Center,0,1,0,0,1
 2026-01-03,10:30p,Boston Celtics,BOS,146.0,Los Angeles Clippers,LAC,115.0,0,Intuit Dome,0,0,0,0,1
-2026-01-04,2:00p,Detroit Pistons,DET,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-01-04,3:00p,Indiana Pacers,IND,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
-2026-01-04,3:30p,Denver Nuggets,DEN,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-01-04,6:00p,New Orleans Pelicans,NOP,,Miami Heat,MIA,,0,Kaseya Center,0,1,0,0,0
-2026-01-04,6:00p,Minnesota Timberwolves,MIN,,Washington Wizards,WAS,,0,Capital One Arena,1,0,0,0,0
-2026-01-04,8:00p,Oklahoma City Thunder,OKC,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
-2026-01-04,9:00p,Milwaukee Bucks,MIL,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
-2026-01-04,9:30p,Memphis Grizzlies,MEM,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
+2026-01-04,2:00p,Detroit Pistons,DET,114.0,Cleveland Cavaliers,CLE,110.0,0,Rocket Arena,0,0,0,0,1
+2026-01-04,3:00p,Indiana Pacers,IND,127.0,Orlando Magic,ORL,135.0,0,Kia Center,0,0,0,0,1
+2026-01-04,3:30p,Denver Nuggets,DEN,115.0,Brooklyn Nets,BRK,127.0,0,Barclays Center,0,0,0,0,1
+2026-01-04,6:00p,New Orleans Pelicans,NOP,106.0,Miami Heat,MIA,125.0,0,Kaseya Center,0,1,0,0,1
+2026-01-04,6:00p,Minnesota Timberwolves,MIN,141.0,Washington Wizards,WAS,115.0,0,Capital One Arena,1,0,0,0,1
+2026-01-04,8:00p,Oklahoma City Thunder,OKC,105.0,Phoenix Suns,PHO,108.0,0,Mortgage Matchup Center,0,0,0,0,1
+2026-01-04,9:00p,Milwaukee Bucks,MIL,115.0,Sacramento Kings,SAC,98.0,0,Golden 1 Center,0,0,0,0,1
+2026-01-04,9:30p,Memphis Grizzlies,MEM,114.0,Los Angeles Lakers,LAL,120.0,0,Crypto.com Arena,0,0,0,0,1
 2026-01-05,7:00p,New York Knicks,NYK,,Detroit Pistons,DET,,0,Little Caesars Arena,0,1,0,0,0
 2026-01-05,7:30p,Chicago Bulls,CHI,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
 2026-01-05,7:30p,Atlanta Hawks,ATL,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
