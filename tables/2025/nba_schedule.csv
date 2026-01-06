@@ -527,14 +527,14 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-04,8:00p,Oklahoma City Thunder,OKC,105.0,Phoenix Suns,PHO,108.0,0,Mortgage Matchup Center,0,0,0,0,1
 2026-01-04,9:00p,Milwaukee Bucks,MIL,115.0,Sacramento Kings,SAC,98.0,0,Golden 1 Center,0,0,0,0,1
 2026-01-04,9:30p,Memphis Grizzlies,MEM,114.0,Los Angeles Lakers,LAL,120.0,0,Crypto.com Arena,0,0,0,0,1
-2026-01-05,7:00p,New York Knicks,NYK,,Detroit Pistons,DET,,0,Little Caesars Arena,0,1,0,0,0
-2026-01-05,7:30p,Chicago Bulls,CHI,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-01-05,7:30p,Atlanta Hawks,ATL,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2026-01-05,8:00p,Phoenix Suns,PHO,,Houston Rockets,HOU,,0,Toyota Center,1,0,0,0,0
-2026-01-05,8:00p,Charlotte Hornets,CHO,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,1,0,0,0
-2026-01-05,8:30p,Denver Nuggets,DEN,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,1,0,0,0,0
-2026-01-05,10:00p,Golden State Warriors,GSW,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
-2026-01-05,10:00p,Utah Jazz,UTA,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
+2026-01-05,7:00p,New York Knicks,NYK,90.0,Detroit Pistons,DET,121.0,0,Little Caesars Arena,0,1,0,0,1
+2026-01-05,7:30p,Chicago Bulls,CHI,101.0,Boston Celtics,BOS,115.0,0,TD Garden,0,0,0,0,1
+2026-01-05,7:30p,Atlanta Hawks,ATL,100.0,Toronto Raptors,TOR,118.0,0,Scotiabank Arena,0,0,0,0,1
+2026-01-05,8:00p,Phoenix Suns,PHO,97.0,Houston Rockets,HOU,100.0,0,Toyota Center,1,0,0,0,1
+2026-01-05,8:00p,Charlotte Hornets,CHO,124.0,Oklahoma City Thunder,OKC,97.0,0,Paycom Center,0,1,0,0,1
+2026-01-05,8:30p,Denver Nuggets,DEN,125.0,Philadelphia 76ers,PHI,124.0,1,Xfinity Mobile Arena,1,0,0,0,1
+2026-01-05,10:00p,Golden State Warriors,GSW,102.0,Los Angeles Clippers,LAC,103.0,0,Intuit Dome,0,0,0,0,1
+2026-01-05,10:00p,Utah Jazz,UTA,117.0,Portland Trail Blazers,POR,137.0,0,Moda Center,0,0,0,0,1
 2026-01-06,7:00p,Cleveland Cavaliers,CLE,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-01-06,7:00p,Orlando Magic,ORL,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
 2026-01-06,8:00p,San Antonio Spurs,SAS,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
