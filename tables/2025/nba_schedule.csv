@@ -535,12 +535,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-05,8:30p,Denver Nuggets,DEN,125.0,Philadelphia 76ers,PHI,124.0,1,Xfinity Mobile Arena,1,0,0,0,1
 2026-01-05,10:00p,Golden State Warriors,GSW,102.0,Los Angeles Clippers,LAC,103.0,0,Intuit Dome,0,0,0,0,1
 2026-01-05,10:00p,Utah Jazz,UTA,117.0,Portland Trail Blazers,POR,137.0,0,Moda Center,0,0,0,0,1
-2026-01-06,7:00p,Cleveland Cavaliers,CLE,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-01-06,7:00p,Orlando Magic,ORL,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2026-01-06,8:00p,San Antonio Spurs,SAS,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-01-06,8:00p,Miami Heat,MIA,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
-2026-01-06,8:00p,Los Angeles Lakers,LAL,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,0,0,0,0
-2026-01-06,11:00p,Dallas Mavericks,DAL,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
+2026-01-06,7:00p,Cleveland Cavaliers,CLE,120.0,Indiana Pacers,IND,116.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-01-06,7:00p,Orlando Magic,ORL,112.0,Washington Wizards,WAS,120.0,0,Capital One Arena,0,0,0,0,1
+2026-01-06,8:00p,San Antonio Spurs,SAS,105.0,Memphis Grizzlies,MEM,106.0,0,FedExForum,0,0,0,0,1
+2026-01-06,8:00p,Miami Heat,MIA,94.0,Minnesota Timberwolves,MIN,122.0,0,Target Center,0,0,0,0,1
+2026-01-06,8:00p,Los Angeles Lakers,LAL,111.0,New Orleans Pelicans,NOP,103.0,0,Smoothie King Center,0,0,0,0,1
+2026-01-06,11:00p,Dallas Mavericks,DAL,100.0,Sacramento Kings,SAC,98.0,0,Golden 1 Center,0,0,0,0,1
 2026-01-07,7:00p,Denver Nuggets,DEN,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
 2026-01-07,7:00p,Toronto Raptors,TOR,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2026-01-07,7:00p,Chicago Bulls,CHI,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
@@ -669,8 +669,8 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-23,7:30p,Boston Celtics,BOS,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
 2026-01-23,7:30p,Sacramento Kings,SAC,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
 2026-01-23,8:00p,New Orleans Pelicans,NOP,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-01-23,8:00p,Denver Nuggets,DEN,,Milwaukee Bucks,MIL,,0,Fiserv Forum,1,0,0,0,0
-2026-01-23,9:30p,Indiana Pacers,IND,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
+2026-01-23,8:00p,Indiana Pacers,IND,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
+2026-01-23,9:30p,Denver Nuggets,DEN,,Milwaukee Bucks,MIL,,0,Fiserv Forum,1,0,0,0,0
 2026-01-23,10:00p,Toronto Raptors,TOR,,Portland Trail Blazers,POR,,0,Moda Center,0,1,0,0,0
 2026-01-24,3:00p,New York Knicks,NYK,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
 2026-01-24,5:30p,Golden State Warriors,GSW,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
