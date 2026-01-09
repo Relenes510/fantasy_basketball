@@ -1,529 +1,526 @@
 Team,Player,Pos
-ATL,Onyeka Okongwu,C
 ATL,Dyson Daniels,SG
-ATL,Mouhamed Gueye,PF
-ATL,Jalen Johnson,SF
 ATL,Nickeil Alexander-Walker,SG
+ATL,Onyeka Okongwu,C
+ATL,Mouhamed Gueye,PF
 ATL,Zaccharie Risacher,SF
-ATL,Luke Kennard,SG
-ATL,Kristaps Porzingis,C
+ATL,Jalen Johnson,SF
 ATL,Vit Krejci,PG
+ATL,Luke Kennard,SG
 ATL,Asa Newell,PF
+ATL,Kristaps Porzingis,C
 ATL,Trae Young,PG
-ATL,Caleb Houstan (TW),SF
+ATL,Caleb Houstan,SF
 ATL,N'Faly Dante,C
-ATL,Jacob Toppin (TW),SF
-ATL,Eli Ndiaye (TW),PF
 ATL,Nikola Djurisic,SF
-BOS,Jaylen Brown,SF
-BOS,Derrick White,SG
+ATL,Malik Williams,C
+ATL,RayJ Dennis,PG
 BOS,Payton Pritchard,PG
 BOS,Anfernee Simons,SG
-BOS,Neemias Queta,C
 BOS,Sam Hauser,PF
+BOS,Derrick White,SG
+BOS,Jaylen Brown,SF
+BOS,Neemias Queta,C
+BOS,Baylor Scheierman,SG
+BOS,Jordan Walsh,PF
+BOS,Hugo Gonzalez,SF
 BOS,Josh Minott,PF
 BOS,Luka Garza,C
-BOS,Hugo Gonzalez,SF
-BOS,Jordan Walsh,PF
-BOS,Baylor Scheierman,SG
 BOS,Xavier Tillman Sr.,C
 BOS,Chris Boucher,PF
-BOS,Ron Harper Jr. (TW),SF
-BOS,Amari Williams (TW),PF
-BOS,Max Shulga (TW),SG
+BOS,Amari Williams,PF
+BOS,Ron Harper Jr.,SF
+BOS,Max Shulga,SG
 BOS,Jayson Tatum,PF
-BRK,Nic Claxton,C
-BRK,Terance Mann,SG
 BRK,Noah Clowney,PF
+BRK,Day'Ron Sharpe,C
+BRK,Nic Claxton,C
+BRK,Egor Dmin,PG
+BRK,Terance Mann,SG
+BRK,Ziaire Williams,SF
 BRK,Tyrese Martin,SG
 BRK,Michael Porter Jr.,SF
-BRK,Egor Demin,PG
-BRK,Day'Ron Sharpe,C
-BRK,Ziaire Williams,SF
+BRK,Drake Powell,SG
 BRK,Jalen Wilson,PF
+BRK,Danny Wolf,PF
+BRK,Nolan Traore,PG
 BRK,Cam Thomas,SG
 BRK,Ben Saraf,SG
-BRK,Drake Powell,SG
-BRK,E.J. Liddell (TW),PF
-BRK,Tyson Etienne (TW),PG
-BRK,Nolan Traore,PG
-BRK,Danny Wolf,PF
+BRK,E.J. Liddell,PF
+BRK,Tyson Etienne,PG
 BRK,Haywood Highsmith,SF
+BRK,Chaney Johnson,SF
+CHO,Sion James,SG
 CHO,Miles Bridges,PF
 CHO,Kon Knueppel,SF
-CHO,Tre Mann,PG
 CHO,Moussa Diabate,C
-CHO,Sion James,SG
 CHO,Collin Sexton,SG
+CHO,LaMelo Ball,PG
 CHO,Ryan Kalkbrenner,C
 CHO,Liam McNeeley,SF
-CHO,Pat Connaughton,SG
-CHO,LaMelo Ball,PG
+CHO,Tre Mann,PG
 CHO,Tidjane Salaun,PF
-CHO,KJ Simpson (TW),PG
-CHO,Mason Plumlee,C
 CHO,Brandon Miller,SF
-CHO,Antonio Reeves (TW),SG
+CHO,Pat Connaughton,SG
+CHO,KJ Simpson,PG
+CHO,Mason Plumlee,C
 CHO,Josh Green,SG
+CHO,PJ Hall,C
+CHO,Antonio Reeves,SG
 CHO,Grant Williams,PF
-CHO,Drew Peterson (TW),PF
-CHI,Nikola Vucevic,C
 CHI,Matas Buzelis,PF
+CHI,Nikola Vucevic,C
+CHI,Patrick Williams,PF
 CHI,Kevin Huerter,SF
+CHI,Ayo Dosunmu,SG
 CHI,Tre Jones,PG
+CHI,Josh Giddey,PG
 CHI,Jalen Smith,C
 CHI,Isaac Okoro,SG
-CHI,Patrick Williams,PF
 CHI,Julian Phillips,SF
-CHI,Josh Giddey,PG
-CHI,Ayo Dosunmu,SG
 CHI,Dalen Terry,SG
 CHI,Jevon Carter,PG
-CHI,Zach Collins,C
-CHI,Lachlan Olbrich (TW),C
-CHI,Noa Essengue,PF
-CHI,Emanuel Miller (TW),PF
 CHI,Coby White,SG
-CHI,Trentyn Flowers (TW),SF
+CHI,Zach Collins,C
+CHI,Lachlan Olbrich,C
+CHI,Emanuel Miller,PF
+CHI,Noa Essengue,PF
+CLE,Donovan Mitchell,SG
+CLE,Dean Wade,PF
+CLE,De'Andre Hunter,SF
+CLE,Jaylon Tyson,SG
 CLE,Craig Porter Jr.,PG
 CLE,Evan Mobley,PF
-CLE,Dean Wade,PF
-CLE,Donovan Mitchell,SG
-CLE,Jarrett Allen,C
-CLE,Jaylon Tyson,SG
-CLE,Tyrese Proctor,PG
-CLE,Larry Nance Jr.,PF
-CLE,De'Andre Hunter,SF
-CLE,Sam Merrill,SG
-CLE,Lonzo Ball,PG
 CLE,Thomas Bryant,C
-CLE,Luke Travers (TW),SG
-CLE,Nae'Qwan Tomlin (TW),PF
+CLE,Nae'Qwan Tomlin,PF
+CLE,Lonzo Ball,PG
+CLE,Jarrett Allen,C
+CLE,Tyrese Proctor,PG
 CLE,Darius Garland,PG
+CLE,Sam Merrill,SG
+CLE,Larry Nance Jr.,PF
+CLE,Luke Travers,SG
+CLE,Chris Livingston,SF
 CLE,Chuma Okeke,F
 CLE,Max Strus,SF
-CLE,Chris Livingston (TW),SF
-DAL,Cooper Flagg,PG
-DAL,Max Christie,SG
-DAL,D'Angelo Russell,PG
 DAL,Naji Marshall,SF
-DAL,P.J. Washington,PF
+DAL,Cooper Flagg,SF
+DAL,Max Christie,SG
 DAL,Klay Thompson,SF
 DAL,Brandon Williams,PG
-DAL,Jaden Hardy,SG
-DAL,Dwight Powell,C
+DAL,P.J. Washington,PF
 DAL,Caleb Martin,SF
-DAL,Moussa Cisse (TW),C
 DAL,Daniel Gafford,C
+DAL,D'Angelo Russell,PG
+DAL,Jaden Hardy,SG
+DAL,Ryan Nembhard,PG
+DAL,Dwight Powell,C
+DAL,Moussa Cisse,C
 DAL,Anthony Davis,PF
-DAL,Ryan Nembhard (TW),PG
 DAL,Dereck Lively II,C
-DAL,Miles Kelly (TW),PG
+DAL,Miles Kelly,PG
 DAL,Kyrie Irving,SG
 DAL,Dante Exum,PG
-DEN,Nikola Jokic,C
-DEN,Christian Braun,SG
-DEN,Tim Hardaway Jr.,SG
-DEN,Jonas Valanciunas,C
-DEN,Cameron Johnson,SF
 DEN,Bruce Brown,SG
-DEN,Peyton Watson,SF
+DEN,Tim Hardaway Jr.,SG
 DEN,Jamal Murray,PG
-DEN,Aaron Gordon,PF
-DEN,Julian Strawther,SG
-DEN,Spencer Jones (TW),SF
-DEN,Jalen Pickett,SG
+DEN,Peyton Watson,SF
+DEN,Jonas Valanciunas,C
+DEN,Spencer Jones,SF
+DEN,Nikola Jokic,C
+DEN,Cameron Johnson,SF
 DEN,Zeke Nnaji,PF
+DEN,Jalen Pickett,SG
+DEN,Julian Strawther,SG
+DEN,Aaron Gordon,PF
+DEN,Christian Braun,SG
 DEN,Hunter Tyson,PF
 DEN,DaRon Holmes,PF
-DEN,Tamar Bates (TW),SG
-DEN,Curtis Jones (TW),SG
+DEN,Curtis Jones,SG
+DEN,Tamar Bates,SG
+DET,Javonte Green,SG
 DET,Duncan Robinson,SF
 DET,Ron Holland,SF
-DET,Javonte Green,SG
-DET,Cade Cunningham,PG
-DET,Jalen Duren,C
-DET,Paul Reed,C
-DET,Ausar Thompson,SF
 DET,Isaiah Stewart,C
+DET,Cade Cunningham,PG
+DET,Ausar Thompson,SF
+DET,Jalen Duren,C
+DET,Daniss Jenkins,PG
+DET,Paul Reed,C
 DET,Caris LeVert,SG
-DET,Chaz Lanier,SG
-DET,Daniss Jenkins (TW),PG
 DET,Tobias Harris,PF
-DET,Bobi Klintman,SF
-DET,Tolu Smith (TW),PF
-DET,Wendell Moore Jr. (TW),SG
-DET,Isaac Jones,PF
-DET,Marcus Sasser,PG
 DET,Jaden Ivey,SG
+DET,Chaz Lanier,SG
+DET,Marcus Sasser,PG
+DET,Bobi Klintman,SF
+DET,Tolu Smith,PF
+DET,Wendell Moore Jr.,SG
+DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
-GSW,Buddy Hield,SG
 GSW,Quinten Post,PF
-GSW,Jimmy Butler,SF
-GSW,Jonathan Kuminga,PF
-GSW,Draymond Green,PF
-GSW,Gary Payton II,SG
 GSW,Moses Moody,SG
+GSW,Gary Payton II,SG
+GSW,Jimmy Butler,SF
 GSW,Will Richard,SG
-GSW,Stephen Curry,PG
+GSW,Buddy Hield,SG
+GSW,Draymond Green,PF
 GSW,Gui Santos,PF
-GSW,Al Horford,C
-GSW,Pat Spencer (TW),PG
+GSW,Stephen Curry,PG
 GSW,Trayce Jackson-Davis,C
-GSW,Jackson Rowe (TW),PF
-GSW,Alex Toohey (TW),PF
+GSW,Pat Spencer,PG
+GSW,Al Horford,C
+GSW,Jonathan Kuminga,PF
 GSW,De'Anthony Melton,PG
-HOU,Kevin Durant,SF
-HOU,Alperen Sengun,C
-HOU,Amen Thompson,SF
-HOU,Reed Sheppard,PG
-HOU,Tari Eason,PF
+GSW,Seth Curry,SG
+GSW,LJ Cryer,PG
+GSW,Malevy Leons,SF
+HOU,Amen Thompson,PG
+HOU,Reed Sheppard,SG
 HOU,Josh Okogie,SG
-HOU,Clint Capela,C
 HOU,Jabari Smith Jr.,PF
+HOU,Kevin Durant,SF
+HOU,Clint Capela,C
+HOU,Alperen Sengun,C
+HOU,Aaron Holiday,PG
 HOU,Steven Adams,C
 HOU,Jae'Sean Tate,SF
-HOU,Aaron Holiday,PG
+HOU,Tari Eason,PF
+HOU,JD Davison,PG
 HOU,Jeff Green,PF
-HOU,JD Davison (TW),PG
-HOU,Fred VanVleet,PG
 HOU,Dorian Finney-Smith,PF
-HOU,Kevon Harris (TW),SG
-HOU,Isaiah Crawford (TW),SF
+HOU,Isaiah Crawford,SF
+HOU,Fred VanVleet,PG
+HOU,Tristen Newton,SG
 IND,Jarace Walker,PF
-IND,Isaiah Jackson,C
-IND,Ben Sheppard,SG
-IND,Tony Bradley,C
 IND,Jay Huff,C
 IND,Pascal Siakam,PF
-IND,Aaron Nesmith,SF
-IND,RayJ Dennis (TW),PG
-IND,Taelon Peter (TW),SG
-IND,Jeremiah Robinson-Earl,PF
 IND,Andrew Nembhard,PG
-IND,Quenton Jackson (TW),PG
-IND,Monte Morris,PG
-IND,Cody Martin,SF
-IND,Obi Toppin,PF
-IND,Johnny Furphy,SG
-IND,Bennedict Mathurin,SF
+IND,Isaiah Jackson,C
+IND,Ben Sheppard,SG
 IND,T.J. McConnell,PG
+IND,Bennedict Mathurin,SF
+IND,Taelon Peter,SG
+IND,Johnny Furphy,SG
+IND,Aaron Nesmith,SF
+IND,Ethan Thompson,SG
+IND,Quenton Jackson,PG
+IND,Micah Potter,C
 IND,Kam Jones,SG
+IND,Obi Toppin,PF
 IND,Tyrese Haliburton,PG
-LAC,Ivica Zubac,C
-LAC,John Collins,PF
-LAC,Derrick Jones Jr.,SF
 LAC,Kris Dunn,PG
-LAC,Brook Lopez,C
+LAC,John Collins,PF
 LAC,Nicolas Batum,PF
 LAC,James Harden,PG
-LAC,Cam Christie,SG
-LAC,Chris Paul,PG
-LAC,Kobe Brown,PF
+LAC,Ivica Zubac,C
+LAC,Brook Lopez,C
+LAC,Kobe Sanders,SG
 LAC,Kawhi Leonard,SF
-LAC,Bogdan Bogdanovic,SG
-LAC,Bradley Beal,SG
+LAC,Kobe Brown,PF
+LAC,Cam Christie,SG
 LAC,Yanic Konan Niederhauser,C
-LAC,Kobe Sanders (TW),SG
-LAC,Jahmyl Telfort (TW),PF
-LAC,Jordan Miller (TW),SF
-LAL,Rui Hachimura,PF
+LAC,Derrick Jones Jr.,SF
+LAC,Bogdan Bogdanovic,SG
+LAC,Chris Paul,PG
+LAC,Jordan Miller,SF
+LAC,Bradley Beal,SG
+LAC,TyTy Washington Jr.,PG
 LAL,Jake LaRavia,PF
-LAL,Jarred Vanderbilt,PF
 LAL,Deandre Ayton,C
-LAL,Dalton Knecht,SF
-LAL,Marcus Smart,SG
-LAL,Austin Reaves,SG
 LAL,Jaxson Hayes,C
+LAL,Dalton Knecht,SF
 LAL,Luka Doncic,PG
+LAL,Rui Hachimura,PF
+LAL,Marcus Smart,SG
+LAL,Jarred Vanderbilt,PF
+LAL,Austin Reaves,SG
 LAL,Bronny James,SG
-LAL,Nick Smith Jr. (TW),SG
-LAL,Gabe Vincent,PG
-LAL,Maxi Kleber,PF
-LAL,Christian Koloko (TW),C
-LAL,Chris Manon (TW),SG
 LAL,LeBron James,SF
+LAL,Nick Smith Jr.,SG
+LAL,Maxi Kleber,PF
+LAL,Gabe Vincent,PG
 LAL,Adou Thiero,SF
-MEM,Jaren Jackson Jr.,C
-MEM,Cedric Coward,SG
+LAL,Drew Timme,PF
+LAL,Chris Manon,SG
 MEM,Santi Aldama,PF
-MEM,Jock Landale,C
 MEM,Jaylen Wells,SG
 MEM,Cam Spencer,SG
 MEM,Kentavious Caldwell-Pope,SG
-MEM,Ja Morant,PG
+MEM,Jaren Jackson Jr.,C
+MEM,Jock Landale,C
+MEM,Cedric Coward,SG
+MEM,Vince Williams Jr.,PG
 MEM,John Konchar,SG
-MEM,Olivier-Maxence Prosper (TW),PF
-MEM,Vince Williams Jr.,SG
-MEM,Javon Small (TW),PG
-MEM,PJ Hall (TW),C
+MEM,Olivier-Maxence Prosper,PF
+MEM,Ja Morant,PG
 MEM,GG Jackson II,PF
-MEM,Scotty Pippen Jr.,PG
+MEM,Javon Small,PG
 MEM,Zach Edey,C
-MEM,Ty Jerome,SG
+MEM,Christian Koloko,C
+MEM,Jahmai Mashack,SG
 MEM,Brandon Clarke,PF
-MIA,Andrew Wiggins,SF
-MIA,Jaime Jaquez Jr.,SF
-MIA,Simone Fontecchio,SF
+MEM,Ty Jerome,SG
+MEM,Scotty Pippen Jr.,PG
 MIA,Kel'el Ware,C
-MIA,Davion Mitchell,PG
-MIA,Pelle Larsson,SG
-MIA,Nikola Jovic,PF
 MIA,Dru Smith,SG
+MIA,Davion Mitchell,PG
+MIA,Simone Fontecchio,SF
+MIA,Jaime Jaquez Jr.,SF
+MIA,Andrew Wiggins,SF
 MIA,Norman Powell,SG
 MIA,Bam Adebayo,C
+MIA,Pelle Larsson,SG
+MIA,Nikola Jovic,PF
 MIA,Keshad Johnson,SF
-MIA,Jahmir Young (TW),PG
-MIA,Myron Gardner (TW),SF
-MIA,Tyler Herro,SG
 MIA,Kasparas Jakucionis,PG
-MIA,Vladislav Goldin (TW),C
+MIA,Myron Gardner,SF
+MIA,Tyler Herro,SG
+MIA,Jahmir Young,PG
+MIA,Vladislav Goldin,C
 MIA,Terry Rozier,PG
 MIL,Ryan Rollins,PG
-MIL,Myles Turner,C
-MIL,A.J. Green,SG
-MIL,Gary Trent Jr.,SG
 MIL,Bobby Portis,PF
+MIL,Myles Turner,C
 MIL,Kyle Kuzma,PF
-MIL,Cole Anthony,PG
-MIL,Amir Coffey,SG
-MIL,Giannis Antetokounmpo,PF
-MIL,Taurean Prince,SF
+MIL,Gary Trent Jr.,SG
+MIL,A.J. Green,SG
 MIL,Jericho Sims,C
+MIL,Cole Anthony,PG
 MIL,Gary Harris,SG
-MIL,Andre Jackson Jr.,SG
-MIL,Mark Sears (TW),PG
-MIL,Thanasis Antetokounmpo,SF
+MIL,Giannis Antetokounmpo,PF
+MIL,Amir Coffey,SG
 MIL,Kevin Porter Jr.,PG
-MIL,Pete Nance (TW),PF
-MIL,Alex Antetokounmpo (TW),SF
-MIL,AJ Green,SG
+MIL,Andre Jackson Jr.,SG
+MIL,Thanasis Antetokounmpo,SF
+MIL,Pete Nance,PF
+MIL,Taurean Prince,SF
+MIL,Mark Sears,PG
+MIL,Alex Antetokounmpo,SF
 MIN,Julius Randle,PF
-MIN,Jaden McDaniels,PF
+MIN,Naz Reid,C
 MIN,Donte DiVincenzo,SG
 MIN,Rudy Gobert,C
-MIN,Naz Reid,C
-MIN,Mike Conley,PG
-MIN,Bones Hyland,PG
+MIN,Jaden McDaniels,PF
 MIN,Jaylen Clark,SG
-MIN,Rob Dillingham,PG
+MIN,Mike Conley,PG
 MIN,Anthony Edwards,SG
-MIN,Joan Beringer,PF
+MIN,Rob Dillingham,PG
+MIN,Bones Hyland,PG
 MIN,Terrence Shannon Jr.,SG
 MIN,Leonard Miller,SF
-MIN,Johnny Juzang (TW),SG
+MIN,Johnny Juzang,SG
+MIN,Joan Beringer,PF
 MIN,Joe Ingles,SF
-MIN,Rocco Zikarsky (TW),C
-MIN,Enrique Freeman (TW),PF
-NOP,Trey Murphy III,SF
+MIN,Rocco Zikarsky,C
+MIN,Enrique Freeman,PF
 NOP,Jeremiah Fears,PG
-NOP,Saddiq Bey,SF
 NOP,Derik Queen,C
-NOP,Herbert Jones,SF
+NOP,Trey Murphy III,SF
 NOP,Jose Alvarado,PG
+NOP,Saddiq Bey,SF
+NOP,Micah Peavy,SG
+NOP,Yves Missi,C
 NOP,Jordan Hawkins,SG
 NOP,Karlo Matkovic,PF
-NOP,Micah Peavy,SG
-NOP,Jordan Poole,PG
-NOP,Yves Missi,C
-NOP,Kevon Looney,C
+NOP,Bryce McGowens,SG
 NOP,Zion Williamson,PF
-NOP,Bryce McGowens (TW),SG
+NOP,Herbert Jones,SF
+NOP,Jordan Poole,PG
+NOP,Kevon Looney,C
+NOP,Trey Alexander,SG
 NOP,DeAndre Jordan,C
-NOP,Hunter Dickinson (TW),C
-NOP,Trey Alexander (TW),SG
+NOP,Hunter Dickinson,C
 NOP,Dejounte Murray,PG
-NYK,Karl-Anthony Towns,C
-NYK,OG Anunoby,PF
 NYK,Mikal Bridges,SF
 NYK,Jordan Clarkson,SG
-NYK,Landry Shamet,SG
 NYK,Jalen Brunson,PG
-NYK,Josh Hart,SF
-NYK,Guerschon Yabusele,C
-NYK,Miles McBride,SG
+NYK,Karl-Anthony Towns,C
 NYK,Tyler Kolek,PG
-NYK,Ariel Hukporti,C
-NYK,Mitchell Robinson,C
+NYK,Guerschon Yabusele,C
 NYK,Mohamed Diawara,SF
+NYK,Josh Hart,SF
+NYK,OG Anunoby,PF
+NYK,Miles McBride,SG
+NYK,Mitchell Robinson,C
+NYK,Ariel Hukporti,C
+NYK,Landry Shamet,SG
 NYK,Pacome Dadiet,SG
-NYK,Trey Jemison (TW),C
+NYK,Kevin McCullar Jr.,SF
+NYK,Trey Jemison,C
+NYK,Tosan Evbuomwan,SF
 NYK,P.J. Tucker,F
-NYK,Tosan Evbuomwan (TW),SF
-NYK,Kevin McCullar Jr. (TW),SF
 OKC,Shai Gilgeous-Alexander,PG
-OKC,Ajay Mitchell,SG
-OKC,Isaiah Hartenstein,C
-OKC,Jaylin Williams,PF
 OKC,Cason Wallace,SG
-OKC,Chris Youngblood (TW),SG
-OKC,Brooks Barnhizer (TW),SG
-OKC,Ousmane Dieng,C
+OKC,Ajay Mitchell,SG
 OKC,Chet Holmgren,PF
-OKC,Aaron Wiggins,SG
-OKC,Alex Caruso,SG
 OKC,Isaiah Joe,SG
-OKC,Branden Carlson (TW),C
 OKC,Luguentz Dort,SF
+OKC,Branden Carlson,C
+OKC,Alex Caruso,SG
+OKC,Chris Youngblood,SG
+OKC,Aaron Wiggins,SG
+OKC,Jaylin Williams,PF
+OKC,Isaiah Hartenstein,C
+OKC,Brooks Barnhizer,SG
+OKC,Jalen Williams,SG
 OKC,Kenrich Williams,PF
+OKC,Ousmane Dieng,C
 OKC,Nikola Topic,PG
 OKC,Thomas Sorber,C
-OKC,Jalen Williams,SG
-ORL,Franz Wagner,SF
 ORL,Desmond Bane,SG
+ORL,Anthony Black,PG
+ORL,Tyus Jones,PG
 ORL,Wendell Carter Jr.,C
 ORL,Tristan Da Silva,SF
-ORL,Anthony Black,PG
 ORL,Goga Bitadze,C
-ORL,Tyus Jones,PG
-ORL,Paolo Banchero,PF
 ORL,Jonathan Isaac,PF
-ORL,Jalen Suggs,PG
-ORL,Jett Howard,SF
-ORL,Noah Penda,SF
+ORL,Paolo Banchero,PF
 ORL,Jase Richardson,SG
-ORL,Orlando Robinson (TW),C
-ORL,Jamal Cain (TW),SF
+ORL,Jett Howard,SF
+ORL,Franz Wagner,SF
+ORL,Jalen Suggs,PG
+ORL,Noah Penda,SF
+ORL,Jamal Cain,SF
+ORL,Orlando Robinson,C
 ORL,Moritz Wagner,C
-ORL,Colin Castleton (TW),C
-ORL,Tristan da Silva,PF
+ORL,Colin Castleton,C
 PHI,Tyrese Maxey,PG
-PHI,Kelly Oubre Jr.,SF
 PHI,Quentin Grimes,SG
+PHI,Jabari Walker,PF
 PHI,VJ Edgecombe,SG
-PHI,Jabari Walker (TW),PF
-PHI,Adem Bona,C
 PHI,Andre Drummond,C
 PHI,Justin Edwards,SF
-PHI,Trendon Watford,PF
-PHI,Joel Embiid,C
-PHI,Dominick Barlow (TW),PF
-PHI,Eric Gordon,SG
-PHI,Hunter Sallis (TW),SG
+PHI,Adem Bona,C
 PHI,Jared McCain,SG
-PHI,Johni Broome,PF
-PHI,Kyle Lowry,PG
+PHI,Dominick Barlow,PF
 PHI,Paul George,PF
-PHO,Devin Booker,SG
-PHO,Grayson Allen,SG
-PHO,Royce O'Neale,SF
+PHI,Joel Embiid,C
+PHI,Trendon Watford,PF
+PHI,Kelly Oubre Jr.,SF
+PHI,Johni Broome,C
+PHI,Eric Gordon,SG
+PHI,Kyle Lowry,PG
+PHI,MarJon Beauchamp,SF
 PHO,Collin Gillespie,PG
-PHO,Ryan Dunn,SF
+PHO,Royce O'Neale,SF
 PHO,Oso Ighodaro,PF
-PHO,Nick Richards,C
-PHO,Mark Williams,C
-PHO,Nigel Hayes-Davis,SF
+PHO,Devin Booker,SG
 PHO,Jordan Goodwin,PG
+PHO,Mark Williams,C
 PHO,Dillon Brooks,SF
-PHO,Isaiah Livers (TW),PF
-PHO,Khaman Maluach,C
+PHO,Ryan Dunn,SF
+PHO,Nick Richards,C
+PHO,Nigel Hayes-Davis,SF
 PHO,Rasheer Fleming,PF
+PHO,Grayson Allen,SG
+PHO,Jamaree Bouyea,PG
+PHO,Isaiah Livers,PF
+PHO,Khaman Maluach,C
 PHO,Jalen Green,SG
-PHO,Koby Brea (TW),SG
-PHO,CJ Huntley (TW),SF
+PHO,Koby Brea,SG
 POR,Deni Avdija,SF
-POR,Shaedon Sharpe,SG
-POR,Jerami Grant,PF
-POR,Jrue Holiday,PG
 POR,Toumani Camara,PF
+POR,Shaedon Sharpe,SG
 POR,Donovan Clingan,C
 POR,Kris Murray,SF
-POR,Duop Reath,C
-POR,Robert Williams,C
-POR,Sidy Cissoko (TW),SF
-POR,Blake Wesley,SG
+POR,Sidy Cissoko,SF
 POR,Rayan Rupert,SG
+POR,Caleb Love,SG
+POR,Duop Reath,C
+POR,Jerami Grant,PF
+POR,Robert Williams,C
 POR,Yang Hansen,C
+POR,Jrue Holiday,PG
+POR,Blake Wesley,SG
 POR,Matisse Thybulle,SG
-POR,Caleb Love (TW),SG
 POR,Scoot Henderson,PG
 POR,Damian Lillard,PG
 SAC,DeMar DeRozan,PF
-SAC,Russell Westbrook,PG
-SAC,Dennis Schroder,PG
+SAC,Russell Westbrook,SF
 SAC,Keon Ellis,SG
+SAC,Nique Clifford,SG
+SAC,Dennis Schroder,PG
+SAC,Precious Achiuwa,C
+SAC,Malik Monk,SG
+SAC,Maxime Raynaud,C
 SAC,Drew Eubanks,C
 SAC,Zach LaVine,SG
-SAC,Domantas Sabonis,C
-SAC,Malik Monk,SG
-SAC,Nique Clifford,SG
-SAC,Devin Carter,PG
-SAC,Precious Achiuwa,C
-SAC,Maxime Raynaud,C
-SAC,Dylan Cardwell (TW),C
-SAC,Dario Saric,C
-SAC,Doug McDermott,SF
-SAC,Daeqwon Plowden (TW),SG
-SAC,Isaiah Stevens (TW),PG
 SAC,Keegan Murray,PF
-SAS,Victor Wembanyama,C
-SAS,Stephon Castle,PG
-SAS,Devin Vassell,SG
-SAS,Harrison Barnes,PF
+SAC,Domantas Sabonis,C
+SAC,Devin Carter,PG
+SAC,Dylan Cardwell,C
+SAC,Doug McDermott,SF
+SAC,Dario Saric,C
+SAC,Daeqwon Plowden,SG
+SAC,Isaiah Stevens,PG
 SAS,Keldon Johnson,SF
+SAS,Harrison Barnes,PF
 SAS,Julian Champagnie,SF
-SAS,Jordan McLaughlin,PG
-SAS,Carter Bryant,PF
-SAS,Dylan Harper,SG
-SAS,Jeremy Sochan,PF
+SAS,Devin Vassell,SG
 SAS,Luke Kornet,C
-SAS,Lindy Waters III,SG
-SAS,Bismack Biyombo,C
+SAS,Carter Bryant,PF
 SAS,De'Aaron Fox,PG
-SAS,David Jones Garcia (TW),SF
-SAS,Riley Minix (TW),SF
+SAS,Stephon Castle,PG
+SAS,Dylan Harper,SG
+SAS,Victor Wembanyama,C
+SAS,Jeremy Sochan,PF
 SAS,Kelly Olynyk,C
-SAS,Harrison Ingram (TW),SF
+SAS,Lindy Waters III,SG
+SAS,Jordan McLaughlin,PG
+SAS,David Jones Garcia,SF
+SAS,Bismack Biyombo,C
+SAS,Harrison Ingram,SF
+SAS,Stanley Umude,SG
 TOR,Brandon Ingram,SF
 TOR,Scottie Barnes,PF
-TOR,RJ Barrett,SF
-TOR,Immanuel Quickley,PG
-TOR,Gradey Dick,SG
 TOR,Jamal Shead,PG
+TOR,Gradey Dick,SG
+TOR,Immanuel Quickley,PG
 TOR,Sandro Mamukelashvili,C
-TOR,Jamison Battle,SF
-TOR,Collin Murray-Boyles,PF
 TOR,Ja'Kobe Walter,SG
+TOR,Collin Murray-Boyles,PF
 TOR,Ochai Agbaji,SG
+TOR,Jamison Battle,SF
+TOR,RJ Barrett,SF
 TOR,Jakob Poeltl,C
 TOR,Jonathan Mogbo,PF
 TOR,Garrett Temple,SG
-TOR,Chucky Hepburn (TW),PG
-TOR,Alijah Martin (TW),SG
-TOR,A.J. Lawson (TW),SG
-UTA,Lauri Markkanen,PF
+TOR,A.J. Lawson,SG
+TOR,Alijah Martin,SG
+TOR,Chucky Hepburn,PG
 UTA,Keyonte George,PG
-UTA,Svi Mykhailiuk,SF
-UTA,Ace Bailey,SF
-UTA,Kyle Filipowski,C
-UTA,Jusuf Nurkic,C
 UTA,Brice Sensabaugh,SF
+UTA,Kyle Filipowski,C
+UTA,Svi Mykhailiuk,SF
 UTA,Walter Clayton,PG
+UTA,Lauri Markkanen,PF
+UTA,Jusuf Nurkic,C
+UTA,Ace Bailey,SF
+UTA,Isaiah Collier,PG
 UTA,Taylor Hendricks,PF
 UTA,Cody Williams,SG
 UTA,Kevin Love,PF
-UTA,Elijah Harkless (TW),SG
-UTA,Walker Kessler,C
-UTA,Isaiah Collier,PG
 UTA,Kyle Anderson,SF
+UTA,Elijah Harkless,SG
+UTA,Walker Kessler,C
+UTA,Oscar Tshiebwe,C
 UTA,Georges Niang,PF
-UTA,Oscar Tshiebwe (TW),C
-UTA,John Tonje (TW),SG
-WAS,Alex Sarr,C
-WAS,CJ McCollum,SG
-WAS,Tre Johnson,SG
-WAS,Cam Whitmore,SF
-WAS,Corey Kispert,SF
-WAS,Marvin Bagley III,PF
+UTA,John Tonje,SG
 WAS,Bub Carrington,PG
-WAS,Kyshawn George,SF
+WAS,CJ McCollum,SG
 WAS,Justin Champagnie,SF
-WAS,Khris Middleton,SF
-WAS,Tristan Vukcevic (TW),C
+WAS,Marvin Bagley III,PF
+WAS,Tre Johnson,SG
 WAS,Will Riley,SF
-WAS,AJ Johnson,SG
-WAS,Malaki Branham,SG
-WAS,Anthony Gill,PF
+WAS,Alex Sarr,C
+WAS,Kyshawn George,SF
+WAS,Tristan Vukcevic,C
+WAS,Khris Middleton,SF
 WAS,Bilal Coulibaly,SG
-WAS,Jamir Watkins (TW),SG
-WAS,Sharife Cooper (TW),PG
+WAS,Cam Whitmore,SF
+WAS,Malaki Branham,SG
+WAS,Corey Kispert,SF
+WAS,AJ Johnson,SG
+WAS,Anthony Gill,PF
+WAS,Jamir Watkins,SG
+WAS,Sharife Cooper,PG
