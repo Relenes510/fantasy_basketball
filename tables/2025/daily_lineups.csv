@@ -5569,18 +5569,6 @@ Date,Team,Player,Pos
 01/08/2026,UTA,Cody Williams,SF
 01/08/2026,UTA,Kevin Love,PF
 01/08/2026,UTA,Lauri Markkanen,PF
-01/10/2026,CLE,Jaylon Tyson,SF
-01/10/2026,UTA,Jusuf Nurkic,C
-01/09/2026,PHI,Tyrese Maxey,PG
-01/09/2026,PHI,VJ Edgecombe,SG
-01/09/2026,PHI,Paul George,SF
-01/09/2026,PHI,Dominick Barlow,PF
-01/09/2026,PHI,Joel Embiid,C
-01/09/2026,ORL,Anthony Black,PG
-01/09/2026,ORL,Desmond Bane,SG
-01/09/2026,ORL,Noah Penda,SF
-01/09/2026,ORL,Paolo Banchero,PF
-01/09/2026,ORL,Wendell Carter Jr.,C
 01/09/2026,NOP,Jeremiah Fears,PG
 01/09/2026,NOP,Bryce McGowens,SG
 01/09/2026,NOP,Trey Murphy III,SF
@@ -5601,6 +5589,16 @@ Date,Team,Player,Pos
 01/09/2026,BOS,Derrick White,SG
 01/09/2026,BOS,Sam Hauser,SF
 01/09/2026,BOS,Neemias Queta,C
+01/09/2026,PHI,Tyrese Maxey,PG
+01/09/2026,PHI,VJ Edgecombe,SG
+01/09/2026,PHI,Paul George,SF
+01/09/2026,PHI,Dominick Barlow,PF
+01/09/2026,PHI,Joel Embiid,C
+01/09/2026,ORL,Anthony Black,PG
+01/09/2026,ORL,Desmond Bane,SG
+01/09/2026,ORL,Noah Penda,SF
+01/09/2026,ORL,Paolo Banchero,PF
+01/09/2026,ORL,Wendell Carter Jr.,C
 01/09/2026,LAC,Kris Dunn,PG
 01/09/2026,LAC,James Harden,SG
 01/09/2026,LAC,Kawhi Leonard,SF
@@ -5621,6 +5619,16 @@ Date,Team,Player,Pos
 01/09/2026,MEM,Jaylen Wells,SF
 01/09/2026,MEM,Jaren Jackson Jr.,PF
 01/09/2026,MEM,Jock Landale,C
+01/09/2026,NYK,Jalen Brunson,PG
+01/09/2026,NYK,Miles McBride,PG
+01/09/2026,NYK,OG Anunoby,SF
+01/09/2026,NYK,Mikal Bridges,SF
+01/09/2026,NYK,Karl-Anthony Towns,PF
+01/09/2026,PHO,Collin Gillespie,PG
+01/09/2026,PHO,Devin Booker,SG
+01/09/2026,PHO,Dillon Brooks,SF
+01/09/2026,PHO,Royce O'Neale,PF
+01/09/2026,PHO,Mark Williams,C
 01/09/2026,ATL,Dyson Daniels,PG
 01/09/2026,ATL,Vit Krejci,SG
 01/09/2026,ATL,Nickeil Alexander-Walker,SG
@@ -5631,16 +5639,6 @@ Date,Team,Player,Pos
 01/09/2026,DEN,Peyton Watson,SF
 01/09/2026,DEN,Hunter Tyson,SF
 01/09/2026,DEN,DaRon Holmes II,PF
-01/09/2026,NYK,Miles McBride,PG
-01/09/2026,NYK,Jalen Brunson,PG
-01/09/2026,NYK,OG Anunoby,SF
-01/09/2026,NYK,Mikal Bridges,SF
-01/09/2026,NYK,Karl-Anthony Towns,PF
-01/09/2026,PHO,Collin Gillespie,PG
-01/09/2026,PHO,Devin Booker,SG
-01/09/2026,PHO,Dillon Brooks,SF
-01/09/2026,PHO,Royce O'Neale,PF
-01/09/2026,PHO,Mark Williams,C
 01/09/2026,SAC,Russell Westbrook,PG
 01/09/2026,SAC,Keon Ellis,SG
 01/09/2026,SAC,Zach LaVine,SG
@@ -5727,7 +5725,7 @@ Date,Team,Player,Pos
 01/10/2026,CHO,Brandon Miller,SF
 01/10/2026,CHO,Ryan Kalkbrenner,C
 01/10/2026,UTA,Keyonte George,SG
-01/10/2026,UTA,Brice Sensabaugh,SF
 01/10/2026,UTA,Svi Mykhailiuk,SF
+01/10/2026,UTA,Brice Sensabaugh,SF
 01/10/2026,UTA,Taylor Hendricks,PF
 01/10/2026,UTA,Kyle Filipowski,C
