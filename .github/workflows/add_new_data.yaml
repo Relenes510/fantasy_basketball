@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install jupyter pandas numpy requests git+https://github.com/Relenes510/nbainjuries.git@main duckdb lxml html5lib bs4 cloudscraper xgboost scikit-learn
+          pip install jupyter pandas numpy requests lxml html5lib bs4 cloudscraper duckdb
 
       - name: Execute Create NBA Schedule notebook
         run: |
@@ -47,6 +47,16 @@ jobs:
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/gamelog_retriever.ipynb"
+
+      - name: Execute Create Player Pos Xref notebook
+        run: |
+          jupyter nbconvert \
+            --to notebook \
+            --execute \
+            --inplace \
+            --ExecutePreprocessor.timeout=600 \
+            --ExecutePreprocessor.kernel_name=python3 \
+            "notebooks/create_plyr_pos_xref.ipynb"
 
       - name: Execute parlay helper notebook
         run: |
