@@ -556,16 +556,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-08,7:00p,Indiana Pacers,IND,114.0,Charlotte Hornets,CHO,112.0,0,Spectrum Center,0,1,0,0,1
 2026-01-08,8:00p,Cleveland Cavaliers,CLE,122.0,Minnesota Timberwolves,MIN,131.0,0,Target Center,0,0,0,0,1
 2026-01-08,9:00p,Dallas Mavericks,DAL,114.0,Utah Jazz,UTA,116.0,0,Delta Center,0,1,0,0,1
-2026-01-09,7:00p,Toronto Raptors,TOR,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-01-09,7:00p,Philadelphia 76ers,PHI,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
-2026-01-09,7:00p,New Orleans Pelicans,NOP,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2026-01-09,7:30p,Los Angeles Clippers,LAC,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-01-09,8:00p,Oklahoma City Thunder,OKC,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-01-09,9:00p,Atlanta Hawks,ATL,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-01-09,9:00p,New York Knicks,NYK,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
-2026-01-09,10:00p,Sacramento Kings,SAC,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
-2026-01-09,10:00p,Houston Rockets,HOU,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
-2026-01-09,10:30p,Milwaukee Bucks,MIL,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
+2026-01-09,7:00p,Toronto Raptors,TOR,117.0,Boston Celtics,BOS,125.0,0,TD Garden,0,0,0,0,1
+2026-01-09,7:00p,Philadelphia 76ers,PHI,103.0,Orlando Magic,ORL,91.0,0,Kia Center,0,0,0,0,1
+2026-01-09,7:00p,New Orleans Pelicans,NOP,128.0,Washington Wizards,WAS,107.0,0,Capital One Arena,0,0,0,0,1
+2026-01-09,7:30p,Los Angeles Clippers,LAC,121.0,Brooklyn Nets,BRK,105.0,0,Barclays Center,0,0,0,0,1
+2026-01-09,8:00p,Oklahoma City Thunder,OKC,117.0,Memphis Grizzlies,MEM,116.0,0,FedExForum,0,0,0,0,1
+2026-01-09,9:00p,Atlanta Hawks,ATL,110.0,Denver Nuggets,DEN,87.0,0,Ball Arena,0,0,0,0,1
+2026-01-09,9:00p,New York Knicks,NYK,107.0,Phoenix Suns,PHO,112.0,0,Mortgage Matchup Center,0,0,0,0,1
+2026-01-09,10:00p,Sacramento Kings,SAC,103.0,Golden State Warriors,GSW,137.0,0,Chase Center,0,0,0,0,1
+2026-01-09,10:00p,Houston Rockets,HOU,105.0,Portland Trail Blazers,POR,111.0,0,Moda Center,0,0,0,0,1
+2026-01-09,10:30p,Milwaukee Bucks,MIL,105.0,Los Angeles Lakers,LAL,101.0,0,Crypto.com Arena,0,0,0,0,1
 2026-01-10,1:00p,Minnesota Timberwolves,MIN,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
 2026-01-10,7:00p,Miami Heat,MIA,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-01-10,7:30p,Los Angeles Clippers,LAC,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
