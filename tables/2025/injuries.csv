@@ -4869,15 +4869,16 @@ Date,Team,Player,Status,Reason
 01/09/2026,NOP,Saddiq Bey,Out,Injury/Illness - Right Hip Flexor; Strain
 01/09/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
 01/09/2026,NOP,Herbert Jones,Out,Injury/Illness - Right Ankle; Sprain
-01/09/2026,NOP,Trey Murphy III,Questionable,Injury/Illness - Low Back; Spasms
 01/09/2026,NOP,Dejounte Murray,Out,Injury/Illness - Right Achilles; Rupture
+01/09/2026,WAS,Sharife Cooper,Out,G League - Two-Way
+01/09/2026,WAS,Jamir Watkins,Out,G League - Two-Way
 01/09/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 01/09/2026,WAS,Trae Young,Out,"Injury/Illness - Right Quad; Contusion; Right knee, MCL Sprain"
 01/09/2026,PHI,MarJon Beauchamp,Out,G League - Two-Way
 01/09/2026,PHI,Johni Broome,Out,G League - On Assignment
 01/09/2026,PHI,Justin Edwards,Out,G League - On Assignment
-01/09/2026,PHI,Joel Embiid,Probable,Injury/Illness - Left Knee; Injury Management
 01/09/2026,ORL,Colin Castleton,Out,G League - Two-Way
+01/09/2026,ORL,Tristan da Silva,Out,Injury/Illness - Back; Spasms
 01/09/2026,ORL,Jalen Suggs,Out,Injury/Illness - Right Knee; MCL contusion
 01/09/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain
 01/09/2026,ORL,Moritz Wagner,Out,Injury/Illness - Left Knee; Injury recovery
@@ -4895,7 +4896,6 @@ Date,Team,Player,Status,Reason
 01/09/2026,BRK,Chaney Johnson,Out,G League - Two-Way
 01/09/2026,BRK,E.J. Liddell,Out,Injury/Illness - Right Knee; Soreness
 01/09/2026,BRK,Ben Saraf,Out,Injury/Illness - Left Knee; Soreness
-01/09/2026,OKC,Alex Caruso,Questionable,Injury/Illness - Low Back; Soreness
 01/09/2026,OKC,Shai Gilgeous-Alexander,Out,Injury/Illness - Right Ankle; Sprain
 01/09/2026,OKC,Isaiah Hartenstein,Out,Injury/Illness - Right Soleus; Strain
 01/09/2026,OKC,Chet Holmgren,Out,Injury/Illness - Bilateral Shins; Soreness
@@ -4904,34 +4904,33 @@ Date,Team,Player,Status,Reason
 01/09/2026,OKC,Cason Wallace,Out,Injury/Illness - Left Great Toe; Soreness
 01/09/2026,OKC,Jaylin Williams,Out,Injury/Illness - Right Heel; Bursitis
 01/09/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
-01/09/2026,MEM,Cedric Coward,Questionable,Injury/Illness - Left Ankle; Sprain
 01/09/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Stress Reaction
 01/09/2026,MEM,Ty Jerome,Out,Injury/Illness - Right Calf; Strain
-01/09/2026,MEM,John Konchar,Doubtful,Injury/Illness - Left Thumb; UCL Surgery Recovery
+01/09/2026,MEM,John Konchar,Out,Injury/Illness - Left Thumb; UCL Surgery Recovery
+01/09/2026,MEM,Jahmai Mashack,Out,G League - Two-Way
 01/09/2026,MEM,Ja Morant,Out,Injury/Illness - Right Calf; Contusion
 01/09/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Left Great Toe; Surgery Recovery
-01/09/2026,MEM,Vince Williams Jr.,Questionable,Injury/Illness - Left Patellar; Tendinitis
+01/09/2026,MEM,Olivier-Maxence Prosper,Out,G League - Two-Way
+01/09/2026,MEM,Javon Small,Out,G League - Two-Way
 01/09/2026,ATL,N'Faly Dante,Out,Injury/Illness - Right Knee; Torn ACL
 01/09/2026,ATL,RayJ Dennis,Out,G League - Two-Way
 01/09/2026,ATL,Nikola Djurisic,Out,G League - On Assignment
 01/09/2026,ATL,Caleb Houstan,Out,G League - Two-Way
 01/09/2026,ATL,Corey Kispert,Out,Not With Team
 01/09/2026,ATL,CJ McCollum,Out,Not With Team
-01/09/2026,ATL,Kristaps Porzingis,Questionable,Injury/Illness - Left Achilles; Tendinitis
-01/09/2026,ATL,Zaccharie Risacher,Questionable,Injury/Illness - Left Knee; Inflammation
+01/09/2026,ATL,Kristaps Porzingis,Out,Injury/Illness - Left Achilles; Tendinitis
+01/09/2026,ATL,Zaccharie Risacher,Out,Injury/Illness - Left Knee; Inflammation
 01/09/2026,DEN,Tamar Bates,Out,Injury/Illness - Left Foot; Surgery
-01/09/2026,DEN,Christian Braun,Probable,Injury/Illness - Left Ankle; Sprain
-01/09/2026,DEN,Bruce Brown,Probable,Injury/Illness - Right Knee; Inflammation
-01/09/2026,DEN,Aaron Gordon,Probable,Injury/Illness - Right Hamstring; Strain
 01/09/2026,DEN,Cameron Johnson,Out,Injury/Illness - Right Knee; Bone Bruise
 01/09/2026,DEN,Nikola Jokic,Out,Injury/Illness - Left Knee; Bone Bruise
-01/09/2026,DEN,Spencer Jones,Doubtful,Injury/Illness - Left Ankle; Inflammation; Illness
-01/09/2026,DEN,Jamal Murray,Questionable,Injury/Illness - Left Ankle; Sprain; Illness
+01/09/2026,DEN,Curtis Jones,Out,G League - Two-Way
+01/09/2026,DEN,Spencer Jones,Out,Injury/Illness - Left Ankle; Inflammation; Illness
+01/09/2026,DEN,Jamal Murray,Out,Injury/Illness - Left Ankle; Sprain; Illness
 01/09/2026,DEN,Jonas Valanciunas,Out,Injury/Illness - Right Calf; Strain
 01/09/2026,NYK,Josh Hart,Out,Injury/Illness - Right Ankle; Sprain
 01/09/2026,NYK,Trey Jemison III,Out,G League - Two-Way
 01/09/2026,NYK,Landry Shamet,Out,Injury/Illness - Right Shoulder; Sprain
-01/09/2026,NYK,Guerschon Yabusele,Questionable,Injury/Illness - Right Quad; Contusion
+01/09/2026,NYK,Guerschon Yabusele,Out,Injury/Illness - Right Quad; Contusion
 01/09/2026,PHO,Jamaree Bouyea,Out,Concussion Protocol
 01/09/2026,PHO,Jalen Green,Out,Injury/Illness - Right Hamstring; Strain
 01/09/2026,HOU,Isaiah Crawford,Out,Injury/Illness - N/a; Illness
@@ -4956,6 +4955,5 @@ Date,Team,Player,Status,Reason
 01/09/2026,MIL,Pete Nance,Out,G League - Two-Way
 01/09/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
 01/09/2026,LAL,Rui Hachimura,Out,Injury/Illness - Right Calf; Strain
-01/09/2026,LAL,LeBron James,Probable,Injury/Illness - Left Foot Joint Arthritis; & Right Sciatica
 01/09/2026,LAL,Austin Reaves,Out,Injury/Illness - Left Calf; Strain
 01/09/2026,LAL,Adou Thiero,Out,Injury/Illness - Right MCL; Sprain
