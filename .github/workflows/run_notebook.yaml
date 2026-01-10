@@ -49,7 +49,7 @@ jobs:
             "notebooks/gamelog_retriever.ipynb"
         continue-on-error: true
 
-      - name: Execute Get Starting Lineups notebook
+      - name: Execute Get Daily Tables notebook
         run: |
           jupyter nbconvert \
             --to notebook \
@@ -57,7 +57,7 @@ jobs:
             --inplace \
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
-            "notebooks/get_Starting_Lineups.ipynb"
+            "notebooks/get_daily_tables.ipynb"
 
       - name: Execute parlay helper notebook
         run: |
