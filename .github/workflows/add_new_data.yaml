@@ -1,4 +1,4 @@
-name: Run Jupyter Notebook
+name: Add New Data
 
 permissions:
   contents: write
@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:
   repository_dispatch:
-    types: [update-tables]
+    types: [add-new-data]
 
 jobs:
   execute-notebook:
@@ -47,17 +47,6 @@ jobs:
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/gamelog_retriever.ipynb"
-        continue-on-error: true
-
-      - name: Execute Get Daily Tables notebook
-        run: |
-          jupyter nbconvert \
-            --to notebook \
-            --execute \
-            --inplace \
-            --ExecutePreprocessor.timeout=600 \
-            --ExecutePreprocessor.kernel_name=python3 \
-            "notebooks/get_daily_tables.ipynb"
 
       - name: Execute parlay helper notebook
         run: |
@@ -68,17 +57,6 @@ jobs:
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/parlay helper.ipynb"
-
-      - name: Generate Predictions notebook
-        run: |
-          jupyter nbconvert \
-            --to notebook \
-            --execute \
-            --inplace \
-            --ExecutePreprocessor.timeout=600 \
-            --ExecutePreprocessor.kernel_name=python3 \
-            "notebooks/create_Predictions.ipynb"
-        continue-on-error: true
 
       - name: Commit updated CSVs back to repository
         run: |
