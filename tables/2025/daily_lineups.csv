@@ -5695,9 +5695,9 @@ Date,Team,Player,Pos
 01/10/2026,LAC,John Collins,PF
 01/10/2026,LAC,Ivica Zubac,C
 01/10/2026,DET,Ausar Thompson,SG
+01/10/2026,DET,Jaden Ivey,SG
 01/10/2026,DET,Duncan Robinson,SG
 01/10/2026,DET,Javonte Green,SG
-01/10/2026,DET,Jaden Ivey,SG
 01/10/2026,DET,Paul Reed,PF
 01/10/2026,DAL,Ryan Nembhard,PG
 01/10/2026,DAL,Max Christie,SG
@@ -5729,23 +5729,23 @@ Date,Team,Player,Pos
 01/10/2026,UTA,Brice Sensabaugh,SF
 01/10/2026,UTA,Kevin Love,PF
 01/10/2026,UTA,Taylor Hendricks,PF
-01/11/2026,NOP,Jordan Poole,PG
 01/11/2026,NOP,Jeremiah Fears,PG
+01/11/2026,NOP,Bryce McGowens,SG
 01/11/2026,NOP,Trey Murphy III,SF
 01/11/2026,NOP,Zion Williamson,PF
 01/11/2026,NOP,Derik Queen,C
 01/11/2026,ORL,Anthony Black,PG
 01/11/2026,ORL,Desmond Bane,SG
+01/11/2026,ORL,Noah Penda,SF
 01/11/2026,ORL,Paolo Banchero,PF
-01/11/2026,ORL,Tristan da Silva,PF
 01/11/2026,ORL,Goga Bitadze,C
 01/11/2026,BRK,Egor Demin,PG
 01/11/2026,BRK,Terance Mann,PG
 01/11/2026,BRK,Noah Clowney,PF
 01/11/2026,BRK,Danny Wolf,C
 01/11/2026,BRK,Nicolas Claxton,C
-01/11/2026,MEM,Cam Spencer,SG
 01/11/2026,MEM,Cedric Coward,SG
+01/11/2026,MEM,Cam Spencer,SG
 01/11/2026,MEM,Jaylen Wells,SF
 01/11/2026,MEM,Jaren Jackson Jr.,PF
 01/11/2026,MEM,Jock Landale,C
@@ -5761,8 +5761,8 @@ Date,Team,Player,Pos
 01/11/2026,TOR,Collin Murray-Boyles,PF
 01/11/2026,NYK,Jalen Brunson,PG
 01/11/2026,NYK,OG Anunoby,SF
-01/11/2026,NYK,Josh Hart,SF
 01/11/2026,NYK,Mikal Bridges,SF
+01/11/2026,NYK,Josh Hart,SF
 01/11/2026,NYK,Karl-Anthony Towns,PF
 01/11/2026,POR,Jrue Holiday,PG
 01/11/2026,POR,Shaedon Sharpe,SG
@@ -5774,8 +5774,8 @@ Date,Team,Player,Pos
 01/11/2026,SAS,Harrison Barnes,SF
 01/11/2026,SAS,Julian Champagnie,SF
 01/11/2026,SAS,Victor Wembanyama,PF
-01/11/2026,MIN,Donte DiVincenzo,SG
 01/11/2026,MIN,Anthony Edwards,SG
+01/11/2026,MIN,Donte DiVincenzo,SG
 01/11/2026,MIN,Jaden McDaniels,PF
 01/11/2026,MIN,Julius Randle,PF
 01/11/2026,MIN,Rudy Gobert,C
@@ -5797,10 +5797,10 @@ Date,Team,Player,Pos
 01/11/2026,DEN,Jamal Murray,PG
 01/11/2026,DEN,Christian Braun,SG
 01/11/2026,DEN,Peyton Watson,SF
-01/11/2026,DEN,DaRon Holmes II,PF
 01/11/2026,DEN,Aaron Gordon,PF
-01/11/2026,WAS,Tre Johnson,SG
+01/11/2026,DEN,DaRon Holmes II,PF
 01/11/2026,WAS,Bilal Coulibaly,SG
+01/11/2026,WAS,Tre Johnson,SG
 01/11/2026,WAS,Kyshawn George,SF
 01/11/2026,WAS,Khris Middleton,SF
 01/11/2026,WAS,Alexandre Sarr,PF
@@ -5821,8 +5821,8 @@ Date,Team,Player,Pos
 01/11/2026,GSW,Quinten Post,C
 01/11/2026,HOU,Josh Okogie,SG
 01/11/2026,HOU,Amen Thompson,SG
-01/11/2026,HOU,Kevin Durant,PF
 01/11/2026,HOU,Jabari Smith Jr.,PF
+01/11/2026,HOU,Kevin Durant,PF
 01/11/2026,HOU,Alperen Sengun,C
 01/11/2026,SAC,Russell Westbrook,PG
 01/11/2026,SAC,Zach LaVine,SG
