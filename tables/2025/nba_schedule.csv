@@ -566,12 +566,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-09,10:00p,Sacramento Kings,SAC,103.0,Golden State Warriors,GSW,137.0,0,Chase Center,0,0,0,0,1
 2026-01-09,10:00p,Houston Rockets,HOU,105.0,Portland Trail Blazers,POR,111.0,0,Moda Center,0,0,0,0,1
 2026-01-09,10:30p,Milwaukee Bucks,MIL,105.0,Los Angeles Lakers,LAL,101.0,0,Crypto.com Arena,0,0,0,0,1
-2026-01-10,1:00p,Minnesota Timberwolves,MIN,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-01-10,7:00p,Miami Heat,MIA,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-01-10,7:30p,Los Angeles Clippers,LAC,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
-2026-01-10,8:00p,San Antonio Spurs,SAS,,Boston Celtics,BOS,,0,TD Garden,0,1,0,0,0
-2026-01-10,8:00p,Dallas Mavericks,DAL,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-01-10,9:30p,Charlotte Hornets,CHO,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
+2026-01-10,1:00p,Minnesota Timberwolves,MIN,134.0,Cleveland Cavaliers,CLE,146.0,0,Rocket Arena,0,0,0,0,1
+2026-01-10,7:00p,Miami Heat,MIA,99.0,Indiana Pacers,IND,123.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-01-10,7:30p,Los Angeles Clippers,LAC,98.0,Detroit Pistons,DET,92.0,0,Little Caesars Arena,1,0,0,0,1
+2026-01-10,8:00p,San Antonio Spurs,SAS,100.0,Boston Celtics,BOS,95.0,0,TD Garden,0,1,0,0,1
+2026-01-10,8:00p,Dallas Mavericks,DAL,107.0,Chicago Bulls,CHI,125.0,0,United Center,0,0,0,0,1
+2026-01-10,9:30p,Charlotte Hornets,CHO,150.0,Utah Jazz,UTA,95.0,0,Delta Center,0,0,0,0,1
 2026-01-11,3:00p,New Orleans Pelicans,NOP,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
 2026-01-11,3:30p,Brooklyn Nets,BRK,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
 2026-01-11,6:00p,New York Knicks,NYK,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
