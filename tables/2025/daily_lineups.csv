@@ -5744,8 +5744,8 @@ Date,Team,Player,Pos
 01/11/2026,BRK,Noah Clowney,PF
 01/11/2026,BRK,Danny Wolf,C
 01/11/2026,BRK,Nicolas Claxton,C
-01/11/2026,MEM,Cam Spencer,SG
 01/11/2026,MEM,Cedric Coward,SG
+01/11/2026,MEM,Cam Spencer,SG
 01/11/2026,MEM,Jaylen Wells,SF
 01/11/2026,MEM,Jaren Jackson Jr.,PF
 01/11/2026,MEM,Jock Landale,C
@@ -5753,7 +5753,7 @@ Date,Team,Player,Pos
 01/11/2026,PHI,VJ Edgecombe,SG
 01/11/2026,PHI,Paul George,SF
 01/11/2026,PHI,Dominick Barlow,PF
-01/11/2026,PHI,Joel Embiid,C
+01/11/2026,PHI,Andre Drummond,C
 01/11/2026,TOR,Immanuel Quickley,PG
 01/11/2026,TOR,Ochai Agbaji,SG
 01/11/2026,TOR,Brandon Ingram,SF
@@ -5774,8 +5774,8 @@ Date,Team,Player,Pos
 01/11/2026,SAS,Harrison Barnes,SF
 01/11/2026,SAS,Julian Champagnie,SF
 01/11/2026,SAS,Victor Wembanyama,PF
-01/11/2026,MIN,Anthony Edwards,SG
 01/11/2026,MIN,Donte DiVincenzo,SG
+01/11/2026,MIN,Anthony Edwards,SG
 01/11/2026,MIN,Jaden McDaniels,PF
 01/11/2026,MIN,Julius Randle,PF
 01/11/2026,MIN,Rudy Gobert,C
@@ -5819,8 +5819,8 @@ Date,Team,Player,Pos
 01/11/2026,GSW,Jimmy Butler III,SF
 01/11/2026,GSW,Draymond Green,PF
 01/11/2026,GSW,Quinten Post,C
-01/11/2026,HOU,Amen Thompson,SG
 01/11/2026,HOU,Josh Okogie,SG
+01/11/2026,HOU,Amen Thompson,SG
 01/11/2026,HOU,Jabari Smith Jr.,PF
 01/11/2026,HOU,Kevin Durant,PF
 01/11/2026,HOU,Alperen Sengun,C
