@@ -572,16 +572,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-10,8:00p,San Antonio Spurs,SAS,100.0,Boston Celtics,BOS,95.0,0,TD Garden,0,1,0,0,1
 2026-01-10,8:00p,Dallas Mavericks,DAL,107.0,Chicago Bulls,CHI,125.0,0,United Center,0,0,0,0,1
 2026-01-10,9:30p,Charlotte Hornets,CHO,150.0,Utah Jazz,UTA,95.0,0,Delta Center,0,0,0,0,1
-2026-01-11,3:00p,New Orleans Pelicans,NOP,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
-2026-01-11,3:30p,Brooklyn Nets,BRK,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-01-11,6:00p,New York Knicks,NYK,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
-2026-01-11,6:00p,Philadelphia 76ers,PHI,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2026-01-11,7:00p,San Antonio Spurs,SAS,,Minnesota Timberwolves,MIN,,0,Target Center,1,1,0,0,0
-2026-01-11,7:00p,Miami Heat,MIA,,Oklahoma City Thunder,OKC,,0,Paycom Center,1,0,0,0,0
-2026-01-11,8:00p,Milwaukee Bucks,MIL,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-01-11,8:00p,Washington Wizards,WAS,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
-2026-01-11,8:30p,Atlanta Hawks,ATL,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
-2026-01-11,9:00p,Houston Rockets,HOU,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
+2026-01-11,3:00p,New Orleans Pelicans,NOP,118.0,Orlando Magic,ORL,128.0,0,Kia Center,0,0,0,0,1
+2026-01-11,3:30p,Brooklyn Nets,BRK,98.0,Memphis Grizzlies,MEM,103.0,0,FedExForum,0,0,0,0,1
+2026-01-11,6:00p,New York Knicks,NYK,123.0,Portland Trail Blazers,POR,114.0,0,Moda Center,0,0,0,0,1
+2026-01-11,6:00p,Philadelphia 76ers,PHI,115.0,Toronto Raptors,TOR,116.0,1,Scotiabank Arena,0,0,0,0,1
+2026-01-11,7:00p,San Antonio Spurs,SAS,103.0,Minnesota Timberwolves,MIN,104.0,0,Target Center,1,1,0,0,1
+2026-01-11,7:00p,Miami Heat,MIA,112.0,Oklahoma City Thunder,OKC,124.0,0,Paycom Center,1,0,0,0,1
+2026-01-11,8:00p,Milwaukee Bucks,MIL,104.0,Denver Nuggets,DEN,108.0,0,Ball Arena,0,0,0,0,1
+2026-01-11,8:00p,Washington Wizards,WAS,93.0,Phoenix Suns,PHO,112.0,0,Mortgage Matchup Center,0,0,0,0,1
+2026-01-11,8:30p,Atlanta Hawks,ATL,124.0,Golden State Warriors,GSW,111.0,0,Chase Center,0,0,0,0,1
+2026-01-11,9:00p,Houston Rockets,HOU,98.0,Sacramento Kings,SAC,111.0,0,Golden 1 Center,0,0,0,0,1
 2026-01-12,7:00p,Utah Jazz,UTA,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
 2026-01-12,7:30p,Boston Celtics,BOS,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-01-12,7:30p,Philadelphia 76ers,PHI,,Toronto Raptors,TOR,,0,Scotiabank Arena,1,1,0,0,0
