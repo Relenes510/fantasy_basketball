@@ -7,19 +7,21 @@ ATL,Jalen Johnson,SF
 ATL,Vit Krejci,PG
 ATL,Zaccharie Risacher,SF
 ATL,Luke Kennard,SG
+ATL,Keaton Wallace,PG
 ATL,Asa Newell,PF
 ATL,Kristaps Porzingis,C
-ATL,Trae Young,PG
 ATL,Caleb Houstan,SF
 ATL,N'Faly Dante,C
+ATL,CJ McCollum,PG
+ATL,Corey Kispert,SF
 ATL,Nikola Djurisic,SF
 ATL,RayJ Dennis,PG
 BOS,Payton Pritchard,PG
 BOS,Anfernee Simons,SG
 BOS,Derrick White,SG
 BOS,Sam Hauser,PF
-BOS,Jaylen Brown,SF
 BOS,Neemias Queta,C
+BOS,Jaylen Brown,SF
 BOS,Jordan Walsh,PF
 BOS,Hugo Gonzalez,SF
 BOS,Baylor Scheierman,SG
@@ -92,8 +94,8 @@ CLE,Craig Porter Jr.,PG
 CLE,Evan Mobley,PF
 CLE,Dean Wade,PF
 CLE,Nae'Qwan Tomlin,PF
-CLE,Thomas Bryant,C
 CLE,Jarrett Allen,C
+CLE,Thomas Bryant,C
 CLE,Lonzo Ball,PG
 CLE,Tyrese Proctor,PG
 CLE,Darius Garland,PG
@@ -111,9 +113,9 @@ DAL,Brandon Williams,PG
 DAL,Caleb Martin,SF
 DAL,P.J. Washington,PF
 DAL,Daniel Gafford,C
-DAL,D'Angelo Russell,PG
 DAL,Ryan Nembhard,PG
 DAL,Jaden Hardy,SG
+DAL,D'Angelo Russell,PG
 DAL,Dwight Powell,C
 DAL,Moussa Cisse,C
 DAL,Anthony Davis,PF
@@ -203,8 +205,8 @@ IND,Bennedict Mathurin,SF
 IND,Johnny Furphy,SG
 IND,Taelon Peter,SG
 IND,Aaron Nesmith,SF
-IND,Ethan Thompson,SG
 IND,Quenton Jackson,PG
+IND,Ethan Thompson,SG
 IND,Micah Potter,C
 IND,Kam Jones,SG
 IND,Obi Toppin,PF
@@ -220,8 +222,8 @@ LAC,Kawhi Leonard,SF
 LAC,Kobe Brown,PF
 LAC,Cam Christie,SG
 LAC,Yanic Konan Niederhauser,C
-LAC,Derrick Jones Jr.,SF
 LAC,Jordan Miller,SF
+LAC,Derrick Jones Jr.,SF
 LAC,Bogdan Bogdanovic,SG
 LAC,Chris Paul,PG
 LAC,Bradley Beal,SG
@@ -231,9 +233,9 @@ LAL,Deandre Ayton,C
 LAL,Jaxson Hayes,C
 LAL,Dalton Knecht,SF
 LAL,Luka Doncic,PG
-LAL,Rui Hachimura,PF
 LAL,Marcus Smart,SG
 LAL,Jarred Vanderbilt,PF
+LAL,Rui Hachimura,PF
 LAL,Austin Reaves,SG
 LAL,LeBron James,SF
 LAL,Bronny James,SG
@@ -257,7 +259,6 @@ MEM,GG Jackson II,PF
 MEM,Ja Morant,PG
 MEM,Javon Small,PG
 MEM,Zach Edey,C
-MEM,Christian Koloko,C
 MEM,Jahmai Mashack,SG
 MEM,Brandon Clarke,PF
 MEM,Ty Jerome,SG
@@ -439,9 +440,9 @@ SAC,Russell Westbrook,SF
 SAC,Keon Ellis,SG
 SAC,Nique Clifford,SG
 SAC,Precious Achiuwa,C
-SAC,Dennis Schroder,PG
 SAC,Malik Monk,SG
 SAC,Maxime Raynaud,C
+SAC,Dennis Schroder,PG
 SAC,Drew Eubanks,C
 SAC,Zach LaVine,SG
 SAC,Keegan Murray,PF
@@ -507,7 +508,6 @@ UTA,Georges Niang,PF
 UTA,John Tonje,SG
 WAS,Bub Carrington,PG
 WAS,Justin Champagnie,SF
-WAS,CJ McCollum,SG
 WAS,Marvin Bagley III,PF
 WAS,Tre Johnson,SG
 WAS,Will Riley,SF
@@ -519,7 +519,7 @@ WAS,Bilal Coulibaly,SG
 WAS,Malaki Branham,SG
 WAS,Cam Whitmore,SF
 WAS,AJ Johnson,SG
-WAS,Corey Kispert,SF
 WAS,Anthony Gill,PF
 WAS,Jamir Watkins,SG
 WAS,Sharife Cooper,PG
+WAS,Trae Young,PG
