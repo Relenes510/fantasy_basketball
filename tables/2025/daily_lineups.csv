@@ -5909,23 +5909,13 @@ Date,Team,Player,Pos
 01/13/2026,NOP,Zion Williamson,PF
 01/13/2026,NOP,Saddiq Bey,PF
 01/13/2026,NOP,Derik Queen,C
-01/13/2026,SAS,De'Aaron Fox,PG
-01/13/2026,SAS,Stephon Castle,SG
-01/13/2026,SAS,Julian Champagnie,SF
-01/13/2026,SAS,Harrison Barnes,SF
-01/13/2026,SAS,Victor Wembanyama,PF
-01/13/2026,OKC,Cason Wallace,PG
-01/13/2026,OKC,Shai Gilgeous-Alexander,PG
-01/13/2026,OKC,Aaron Wiggins,SG
-01/13/2026,OKC,Jalen Williams,SF
-01/13/2026,OKC,Chet Holmgren,C
 01/13/2026,CHI,Tre Jones,PG
 01/13/2026,CHI,Isaac Okoro,SF
 01/13/2026,CHI,Matas Buzelis,SF
 01/13/2026,CHI,Jalen Smith,PF
 01/13/2026,CHI,Nikola Vucevic,C
-01/13/2026,HOU,Amen Thompson,SG
 01/13/2026,HOU,Josh Okogie,SG
+01/13/2026,HOU,Amen Thompson,SG
 01/13/2026,HOU,Jabari Smith Jr.,PF
 01/13/2026,HOU,Kevin Durant,PF
 01/13/2026,HOU,Alperen Sengun,C
@@ -5937,8 +5927,18 @@ Date,Team,Player,Pos
 01/13/2026,MIL,Kevin Porter Jr.,PG
 01/13/2026,MIL,Ryan Rollins,SG
 01/13/2026,MIL,AJ Green,SG
-01/13/2026,MIL,Giannis Antetokounmpo,PF
 01/13/2026,MIL,Bobby Portis,PF
+01/13/2026,MIL,Giannis Antetokounmpo,PF
+01/13/2026,SAS,De'Aaron Fox,PG
+01/13/2026,SAS,Stephon Castle,SG
+01/13/2026,SAS,Harrison Barnes,SF
+01/13/2026,SAS,Julian Champagnie,SF
+01/13/2026,SAS,Victor Wembanyama,PF
+01/13/2026,OKC,Cason Wallace,PG
+01/13/2026,OKC,Shai Gilgeous-Alexander,PG
+01/13/2026,OKC,Aaron Wiggins,SG
+01/13/2026,OKC,Jalen Williams,SF
+01/13/2026,OKC,Chet Holmgren,C
 01/13/2026,ATL,Dyson Daniels,PG
 01/13/2026,ATL,Nickeil Alexander-Walker,SG
 01/13/2026,ATL,Vit Krejci,SG
@@ -5949,8 +5949,8 @@ Date,Team,Player,Pos
 01/13/2026,LAL,LeBron James,SF
 01/13/2026,LAL,Jake LaRavia,PF
 01/13/2026,LAL,Deandre Ayton,C
-01/13/2026,POR,Caleb Love,SG
 01/13/2026,POR,Shaedon Sharpe,SG
+01/13/2026,POR,Caleb Love,SG
 01/13/2026,POR,Sidy Cissoko,SF
 01/13/2026,POR,Toumani Camara,SF
 01/13/2026,POR,Donovan Clingan,C
@@ -5980,8 +5980,8 @@ Date,Team,Player,Pos
 01/14/2026,PHI,Dominick Barlow,PF
 01/14/2026,PHI,Joel Embiid,C
 01/14/2026,UTA,Keyonte George,SG
-01/14/2026,UTA,Ace Bailey,SF
 01/14/2026,UTA,Brice Sensabaugh,SF
+01/14/2026,UTA,Ace Bailey,SF
 01/14/2026,UTA,Taylor Hendricks,PF
 01/14/2026,UTA,Jusuf Nurkic,C
 01/14/2026,CHI,Ayo Dosunmu,PG
@@ -6010,8 +6010,8 @@ Date,Team,Player,Pos
 01/14/2026,DAL,Cooper Flagg,PF
 01/14/2026,DAL,Daniel Gafford,C
 01/14/2026,NYK,Jalen Brunson,PG
-01/14/2026,NYK,Mikal Bridges,SF
 01/14/2026,NYK,Josh Hart,SF
+01/14/2026,NYK,Mikal Bridges,SF
 01/14/2026,NYK,OG Anunoby,SF
 01/14/2026,NYK,Karl-Anthony Towns,PF
 01/14/2026,SAC,Russell Westbrook,PG
@@ -6019,8 +6019,8 @@ Date,Team,Player,Pos
 01/14/2026,SAC,DeMar DeRozan,SF
 01/14/2026,SAC,Precious Achiuwa,PF
 01/14/2026,SAC,Maxime Raynaud,C
-01/14/2026,WAS,Bilal Coulibaly,SG
 01/14/2026,WAS,Tre Johnson,SG
+01/14/2026,WAS,Bilal Coulibaly,SG
 01/14/2026,WAS,Khris Middleton,SF
 01/14/2026,WAS,Kyshawn George,SF
 01/14/2026,WAS,Alexandre Sarr,PF
