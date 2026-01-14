@@ -79,6 +79,6 @@ jobs:
 
           git status
 
-          git diff --cached --quiet || git commit -m "Auto-update GHA: add_new_data"
+          git diff --cached --quiet || git commit -m "Auto-update GHA: add_new_data ($(date -u +"%Y-%m-%d"))"
 
           git push origin main
