@@ -5914,8 +5914,8 @@ Date,Team,Player,Pos
 01/13/2026,CHI,Matas Buzelis,SF
 01/13/2026,CHI,Jalen Smith,PF
 01/13/2026,CHI,Nikola Vucevic,C
-01/13/2026,HOU,Josh Okogie,SG
 01/13/2026,HOU,Amen Thompson,SG
+01/13/2026,HOU,Josh Okogie,SG
 01/13/2026,HOU,Jabari Smith Jr.,PF
 01/13/2026,HOU,Kevin Durant,PF
 01/13/2026,HOU,Alperen Sengun,C
@@ -5989,16 +5989,6 @@ Date,Team,Player,Pos
 01/14/2026,HOU,Jabari Smith Jr.,PF
 01/14/2026,HOU,Kevin Durant,PF
 01/14/2026,HOU,Alperen Sengun,C
-01/14/2026,MIN,Mike Conley,PG
-01/14/2026,MIN,Donte DiVincenzo,SG
-01/14/2026,MIN,Julius Randle,PF
-01/14/2026,MIN,Jaden McDaniels,PF
-01/14/2026,MIN,Naz Reid,C
-01/14/2026,MIL,Kevin Porter Jr.,PG
-01/14/2026,MIL,Ryan Rollins,SG
-01/14/2026,MIL,AJ Green,SG
-01/14/2026,MIL,Giannis Antetokounmpo,PF
-01/14/2026,MIL,Bobby Portis,PF
 01/14/2026,SAS,De'Aaron Fox,PG
 01/14/2026,SAS,Stephon Castle,SG
 01/14/2026,SAS,Harrison Barnes,SF
@@ -6009,6 +5999,16 @@ Date,Team,Player,Pos
 01/14/2026,OKC,Aaron Wiggins,SG
 01/14/2026,OKC,Jalen Williams,SF
 01/14/2026,OKC,Chet Holmgren,C
+01/14/2026,MIN,Mike Conley,PG
+01/14/2026,MIN,Donte DiVincenzo,SG
+01/14/2026,MIN,Julius Randle,PF
+01/14/2026,MIN,Jaden McDaniels,PF
+01/14/2026,MIN,Naz Reid,C
+01/14/2026,MIL,Kevin Porter Jr.,PG
+01/14/2026,MIL,Ryan Rollins,SG
+01/14/2026,MIL,AJ Green,SG
+01/14/2026,MIL,Bobby Portis,PF
+01/14/2026,MIL,Giannis Antetokounmpo,PF
 01/14/2026,ATL,Dyson Daniels,PG
 01/14/2026,ATL,CJ McCollum,PG
 01/14/2026,ATL,Vit Krejci,SG
