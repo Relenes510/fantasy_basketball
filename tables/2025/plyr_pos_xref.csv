@@ -76,8 +76,8 @@ CHI,Kevin Huerter,SF
 CHI,Ayo Dosunmu,SG
 CHI,Tre Jones,PG
 CHI,Jalen Smith,C
-CHI,Josh Giddey,PG
 CHI,Isaac Okoro,SG
+CHI,Josh Giddey,PG
 CHI,Julian Phillips,SF
 CHI,Dalen Terry,SG
 CHI,Jevon Carter,PG
@@ -183,10 +183,10 @@ HOU,Jabari Smith Jr.,PF
 HOU,Kevin Durant,SF
 HOU,Clint Capela,C
 HOU,Alperen Sengun,C
-HOU,Aaron Holiday,PG
 HOU,Steven Adams,C
-HOU,Tari Eason,PF
+HOU,Aaron Holiday,PG
 HOU,Jae'Sean Tate,SF
+HOU,Tari Eason,PF
 HOU,JD Davison,PG
 HOU,Jeff Green,PF
 HOU,Dorian Finney-Smith,PF
@@ -230,8 +230,8 @@ LAC,Bradley Beal,SG
 LAC,TyTy Washington Jr.,PG
 LAL,Jake LaRavia,PF
 LAL,Deandre Ayton,C
-LAL,Jaxson Hayes,C
 LAL,Dalton Knecht,SF
+LAL,Jaxson Hayes,C
 LAL,Luka Doncic,PG
 LAL,Marcus Smart,SG
 LAL,Jarred Vanderbilt,PF
@@ -266,8 +266,8 @@ MEM,Scotty Pippen Jr.,PG
 MIA,Kel'el Ware,C
 MIA,Dru Smith,SG
 MIA,Davion Mitchell,PG
-MIA,Simone Fontecchio,SF
 MIA,Jaime Jaquez Jr.,SF
+MIA,Simone Fontecchio,SF
 MIA,Andrew Wiggins,SF
 MIA,Norman Powell,SG
 MIA,Bam Adebayo,C
@@ -317,16 +317,16 @@ MIN,Enrique Freeman,PF
 NOP,Jeremiah Fears,PG
 NOP,Derik Queen,C
 NOP,Trey Murphy III,SF
-NOP,Jose Alvarado,PG
 NOP,Micah Peavy,SG
 NOP,Saddiq Bey,SF
+NOP,Jose Alvarado,PG
 NOP,Yves Missi,C
 NOP,Jordan Hawkins,SG
 NOP,Karlo Matkovic,PF
-NOP,Bryce McGowens,SG
 NOP,Zion Williamson,PF
-NOP,Herbert Jones,SF
+NOP,Bryce McGowens,SG
 NOP,Jordan Poole,PG
+NOP,Herbert Jones,SF
 NOP,Kevon Looney,C
 NOP,Trey Alexander,SG
 NOP,DeAndre Jordan,C
@@ -362,8 +362,8 @@ OKC,Jaylin Williams,PF
 OKC,Chris Youngblood,SG
 OKC,Isaiah Hartenstein,C
 OKC,Jalen Williams,SG
-OKC,Brooks Barnhizer,SG
 OKC,Kenrich Williams,PF
+OKC,Brooks Barnhizer,SG
 OKC,Ousmane Dieng,C
 OKC,Nikola Topic,PG
 OKC,Thomas Sorber,C
@@ -410,16 +410,16 @@ PHO,Mark Williams,C
 PHO,Dillon Brooks,SF
 PHO,Ryan Dunn,SF
 PHO,Nick Richards,C
+PHO,Grayson Allen,SG
 PHO,Rasheer Fleming,PF
 PHO,Nigel Hayes-Davis,SF
-PHO,Grayson Allen,SG
 PHO,Isaiah Livers,PF
 PHO,Jamaree Bouyea,PG
 PHO,Khaman Maluach,C
 PHO,Jalen Green,SG
 PHO,Koby Brea,SG
-POR,Deni Avdija,SF
 POR,Toumani Camara,PF
+POR,Deni Avdija,SF
 POR,Shaedon Sharpe,SG
 POR,Donovan Clingan,C
 POR,Sidy Cissoko,SF
