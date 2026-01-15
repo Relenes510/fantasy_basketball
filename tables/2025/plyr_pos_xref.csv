@@ -38,8 +38,8 @@ BRK,Day'Ron Sharpe,C
 BRK,Nic Claxton,C
 BRK,Egor Dmin,PG
 BRK,Terance Mann,SG
-BRK,Tyrese Martin,SG
 BRK,Michael Porter Jr.,SF
+BRK,Tyrese Martin,SG
 BRK,Ziaire Williams,SF
 BRK,Drake Powell,SG
 BRK,Jalen Wilson,PF
@@ -80,8 +80,8 @@ CHI,Isaac Okoro,SG
 CHI,Josh Giddey,PG
 CHI,Julian Phillips,SF
 CHI,Dalen Terry,SG
-CHI,Jevon Carter,PG
 CHI,Coby White,SG
+CHI,Jevon Carter,PG
 CHI,Zach Collins,C
 CHI,Lachlan Olbrich,C
 CHI,Emanuel Miller,PF
@@ -115,8 +115,8 @@ DAL,P.J. Washington,PF
 DAL,Daniel Gafford,C
 DAL,Ryan Nembhard,PG
 DAL,Jaden Hardy,SG
-DAL,D'Angelo Russell,PG
 DAL,Dwight Powell,C
+DAL,D'Angelo Russell,PG
 DAL,Moussa Cisse,C
 DAL,Anthony Davis,PF
 DAL,Dereck Lively II,C
@@ -198,13 +198,13 @@ IND,Jay Huff,C
 IND,Pascal Siakam,PF
 IND,Tony Bradley,C
 IND,Andrew Nembhard,PG
-IND,Isaiah Jackson,C
 IND,Ben Sheppard,SG
 IND,T.J. McConnell,PG
+IND,Isaiah Jackson,C
 IND,Bennedict Mathurin,SF
 IND,Johnny Furphy,SG
-IND,Taelon Peter,SG
 IND,Aaron Nesmith,SF
+IND,Taelon Peter,SG
 IND,Quenton Jackson,PG
 IND,Ethan Thompson,SG
 IND,Micah Potter,C
@@ -212,15 +212,15 @@ IND,Kam Jones,SG
 IND,Obi Toppin,PF
 IND,Tyrese Haliburton,PG
 LAC,Kris Dunn,PG
-LAC,John Collins,PF
 LAC,Nicolas Batum,PF
+LAC,John Collins,PF
 LAC,James Harden,PG
 LAC,Ivica Zubac,C
 LAC,Brook Lopez,C
 LAC,Kobe Sanders,SG
 LAC,Kawhi Leonard,SF
-LAC,Kobe Brown,PF
 LAC,Cam Christie,SG
+LAC,Kobe Brown,PF
 LAC,Yanic Konan Niederhauser,C
 LAC,Jordan Miller,SF
 LAC,Derrick Jones Jr.,SF
@@ -245,6 +245,7 @@ LAL,Gabe Vincent,PG
 LAL,Adou Thiero,SF
 LAL,Drew Timme,PF
 LAL,Chris Manon,SG
+LAL,Kobe Bufkin,SG
 MEM,Santi Aldama,PF
 MEM,Jaylen Wells,SG
 MEM,Cam Spencer,SG
@@ -317,8 +318,8 @@ MIN,Enrique Freeman,PF
 NOP,Jeremiah Fears,PG
 NOP,Derik Queen,C
 NOP,Trey Murphy III,SF
-NOP,Micah Peavy,SG
 NOP,Saddiq Bey,SF
+NOP,Micah Peavy,SG
 NOP,Jose Alvarado,PG
 NOP,Yves Missi,C
 NOP,Jordan Hawkins,SG
@@ -474,9 +475,9 @@ SAS,Stanley Umude,SG
 TOR,Jamal Shead,PG
 TOR,Gradey Dick,SG
 TOR,Scottie Barnes,PF
+TOR,Brandon Ingram,SF
 TOR,Immanuel Quickley,PG
 TOR,Sandro Mamukelashvili,C
-TOR,Brandon Ingram,SF
 TOR,Ja'Kobe Walter,SG
 TOR,Collin Murray-Boyles,PF
 TOR,Ochai Agbaji,SG
@@ -494,8 +495,8 @@ UTA,Kyle Filipowski,C
 UTA,Svi Mykhailiuk,SF
 UTA,Walter Clayton,PG
 UTA,Lauri Markkanen,PF
-UTA,Jusuf Nurkic,C
 UTA,Ace Bailey,SF
+UTA,Jusuf Nurkic,C
 UTA,Isaiah Collier,PG
 UTA,Taylor Hendricks,PF
 UTA,Cody Williams,SG
@@ -517,8 +518,8 @@ WAS,Tristan Vukcevic,C
 WAS,Khris Middleton,SF
 WAS,Bilal Coulibaly,SG
 WAS,Malaki Branham,SG
-WAS,Cam Whitmore,SF
 WAS,AJ Johnson,SG
+WAS,Cam Whitmore,SF
 WAS,Anthony Gill,PF
 WAS,Jamir Watkins,SG
 WAS,Sharife Cooper,PG

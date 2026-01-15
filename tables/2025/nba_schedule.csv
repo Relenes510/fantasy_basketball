@@ -595,13 +595,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-13,8:00p,San Antonio Spurs,SAS,98.0,Oklahoma City Thunder,OKC,119.0,0,Paycom Center,0,0,0,0,1
 2026-01-13,10:30p,Atlanta Hawks,ATL,116.0,Los Angeles Lakers,LAL,141.0,0,Crypto.com Arena,0,1,0,0,1
 2026-01-13,11:00p,Portland Trail Blazers,POR,97.0,Golden State Warriors,GSW,119.0,0,Chase Center,0,0,0,0,1
-2026-01-14,7:00p,Toronto Raptors,TOR,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-01-14,7:00p,Cleveland Cavaliers,CLE,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
-2026-01-14,8:00p,Utah Jazz,UTA,,Chicago Bulls,CHI,,0,United Center,0,1,0,0,0
-2026-01-14,8:00p,Brooklyn Nets,BRK,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,1,0,0,0
-2026-01-14,9:30p,Denver Nuggets,DEN,,Dallas Mavericks,DAL,,0,American Airlines Center,1,0,0,0,0
-2026-01-14,10:00p,New York Knicks,NYK,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
-2026-01-14,10:30p,Washington Wizards,WAS,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2026-01-14,7:00p,Toronto Raptors,TOR,115.0,Indiana Pacers,IND,101.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-01-14,7:00p,Cleveland Cavaliers,CLE,133.0,Philadelphia 76ers,PHI,107.0,0,Xfinity Mobile Arena,0,0,0,0,1
+2026-01-14,8:00p,Utah Jazz,UTA,126.0,Chicago Bulls,CHI,128.0,0,United Center,0,1,0,0,1
+2026-01-14,8:00p,Brooklyn Nets,BRK,113.0,New Orleans Pelicans,NOP,116.0,0,Smoothie King Center,0,1,0,0,1
+2026-01-14,9:30p,Denver Nuggets,DEN,118.0,Dallas Mavericks,DAL,109.0,0,American Airlines Center,1,0,0,0,1
+2026-01-14,10:00p,New York Knicks,NYK,101.0,Sacramento Kings,SAC,112.0,0,Golden 1 Center,0,0,0,0,1
+2026-01-14,10:30p,Washington Wizards,WAS,105.0,Los Angeles Clippers,LAC,119.0,0,Intuit Dome,0,0,0,0,1
 2026-01-15,2:00p,Memphis Grizzlies,MEM,,Orlando Magic,ORL,,0,Uber Arena,0,0,0,0,0
 2026-01-15,7:00p,Phoenix Suns,PHO,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
 2026-01-15,7:30p,Oklahoma City Thunder,OKC,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
