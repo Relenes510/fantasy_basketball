@@ -5959,16 +5959,6 @@ Date,Team,Player,Pos
 01/13/2026,GSW,Jimmy Butler III,SF
 01/13/2026,GSW,Draymond Green,PF
 01/13/2026,GSW,Quinten Post,C
-01/14/2026,TOR,Jamal Shead,PG
-01/14/2026,TOR,Brandon Ingram,SF
-01/14/2026,TOR,Scottie Barnes,SF
-01/14/2026,TOR,Jamison Battle,PF
-01/14/2026,TOR,Collin Murray-Boyles,PF
-01/14/2026,IND,Andrew Nembhard,PG
-01/14/2026,IND,Johnny Furphy,SF
-01/14/2026,IND,Aaron Nesmith,PF
-01/14/2026,IND,Pascal Siakam,PF
-01/14/2026,IND,Jay Huff,C
 01/14/2026,CLE,Darius Garland,PG
 01/14/2026,CLE,Donovan Mitchell,SG
 01/14/2026,CLE,Jaylon Tyson,SF
@@ -5979,6 +5969,16 @@ Date,Team,Player,Pos
 01/14/2026,PHI,Paul George,SF
 01/14/2026,PHI,Dominick Barlow,PF
 01/14/2026,PHI,Joel Embiid,C
+01/14/2026,TOR,Jamal Shead,PG
+01/14/2026,TOR,Brandon Ingram,SF
+01/14/2026,TOR,Scottie Barnes,SF
+01/14/2026,TOR,Jamison Battle,PF
+01/14/2026,TOR,Collin Murray-Boyles,PF
+01/14/2026,IND,Andrew Nembhard,PG
+01/14/2026,IND,Johnny Furphy,SF
+01/14/2026,IND,Aaron Nesmith,PF
+01/14/2026,IND,Pascal Siakam,PF
+01/14/2026,IND,Jay Huff,C
 01/14/2026,UTA,Isaiah Collier,PG
 01/14/2026,UTA,Keyonte George,SG
 01/14/2026,UTA,Cody Williams,SF
@@ -6000,18 +6000,18 @@ Date,Team,Player,Pos
 01/14/2026,NOP,Saddiq Bey,PF
 01/14/2026,NOP,Derik Queen,C
 01/14/2026,DEN,Jamal Murray,PG
-01/14/2026,DEN,Tim Hardaway Jr.,SF
+01/14/2026,DEN,Jalen Pickett,SG
 01/14/2026,DEN,Peyton Watson,SF
-01/14/2026,DEN,DaRon Holmes II,PF
 01/14/2026,DEN,Aaron Gordon,PF
-01/14/2026,DAL,Ryan Nembhard,PG
+01/14/2026,DEN,Spencer Jones,PF
+01/14/2026,DAL,Jaden Hardy,SG
 01/14/2026,DAL,Naji Marshall,SF
 01/14/2026,DAL,P.J. Washington,PF
 01/14/2026,DAL,Cooper Flagg,PF
 01/14/2026,DAL,Daniel Gafford,C
 01/14/2026,NYK,Jalen Brunson,PG
-01/14/2026,NYK,Josh Hart,SF
 01/14/2026,NYK,OG Anunoby,SF
+01/14/2026,NYK,Josh Hart,SF
 01/14/2026,NYK,Mikal Bridges,SF
 01/14/2026,NYK,Karl-Anthony Towns,PF
 01/14/2026,SAC,Russell Westbrook,PG
@@ -6040,10 +6040,10 @@ Date,Team,Player,Pos
 01/15/2026,PHI,Dominick Barlow,PF
 01/15/2026,PHI,Joel Embiid,C
 01/15/2026,TOR,Jamal Shead,PG
-01/15/2026,TOR,Scottie Barnes,SF
 01/15/2026,TOR,Brandon Ingram,SF
-01/15/2026,TOR,Jamison Battle,PF
+01/15/2026,TOR,Scottie Barnes,SF
 01/15/2026,TOR,Collin Murray-Boyles,PF
+01/15/2026,TOR,Jamison Battle,PF
 01/15/2026,IND,Andrew Nembhard,PG
 01/15/2026,IND,Johnny Furphy,SF
 01/15/2026,IND,Aaron Nesmith,PF
@@ -6070,11 +6070,11 @@ Date,Team,Player,Pos
 01/15/2026,NOP,Saddiq Bey,PF
 01/15/2026,NOP,Derik Queen,C
 01/15/2026,DEN,Jamal Murray,PG
-01/15/2026,DEN,Tim Hardaway Jr.,SF
+01/15/2026,DEN,Jalen Pickett,SG
 01/15/2026,DEN,Peyton Watson,SF
 01/15/2026,DEN,Aaron Gordon,PF
-01/15/2026,DEN,DaRon Holmes II,PF
-01/15/2026,DAL,Ryan Nembhard,PG
+01/15/2026,DEN,Spencer Jones,PF
+01/15/2026,DAL,Jaden Hardy,SG
 01/15/2026,DAL,Naji Marshall,SF
 01/15/2026,DAL,P.J. Washington,PF
 01/15/2026,DAL,Cooper Flagg,PF
@@ -6091,8 +6091,8 @@ Date,Team,Player,Pos
 01/15/2026,SAC,Maxime Raynaud,C
 01/15/2026,WAS,Bilal Coulibaly,SG
 01/15/2026,WAS,Tre Johnson,SG
-01/15/2026,WAS,Kyshawn George,SF
 01/15/2026,WAS,Khris Middleton,SF
+01/15/2026,WAS,Kyshawn George,SF
 01/15/2026,WAS,Alexandre Sarr,PF
 01/15/2026,LAC,Kris Dunn,PG
 01/15/2026,LAC,James Harden,SG
