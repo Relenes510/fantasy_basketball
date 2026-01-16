@@ -6100,8 +6100,8 @@ Date,Team,Player,Pos
 01/15/2026,GSW,Draymond Green,PF
 01/15/2026,GSW,Quinten Post,C
 01/15/2026,ATL,Dyson Daniels,PG
-01/15/2026,ATL,Vit Krejci,SG
 01/15/2026,ATL,Nickeil Alexander-Walker,SG
+01/15/2026,ATL,Vit Krejci,SG
 01/15/2026,ATL,Jalen Johnson,PF
 01/15/2026,ATL,Onyeka Okongwu,C
 01/15/2026,POR,Jrue Holiday,PG
@@ -6119,16 +6119,6 @@ Date,Team,Player,Pos
 01/15/2026,LAL,LeBron James,SF
 01/15/2026,LAL,Jake LaRavia,PF
 01/15/2026,LAL,Deandre Ayton,C
-01/16/2026,NOP,Jeremiah Fears,PG
-01/16/2026,NOP,Jordan Poole,PG
-01/16/2026,NOP,Trey Murphy III,SF
-01/16/2026,NOP,Zion Williamson,PF
-01/16/2026,NOP,Derik Queen,C
-01/16/2026,IND,Andrew Nembhard,PG
-01/16/2026,IND,Johnny Furphy,SF
-01/16/2026,IND,Pascal Siakam,PF
-01/16/2026,IND,Aaron Nesmith,PF
-01/16/2026,IND,Jay Huff,C
 01/16/2026,CLE,Craig Porter Jr.,PG
 01/16/2026,CLE,Donovan Mitchell,SG
 01/16/2026,CLE,De'Andre Hunter,SF
@@ -6139,6 +6129,16 @@ Date,Team,Player,Pos
 01/16/2026,PHI,Paul George,SF
 01/16/2026,PHI,Dominick Barlow,PF
 01/16/2026,PHI,Joel Embiid,C
+01/16/2026,NOP,Jeremiah Fears,PG
+01/16/2026,NOP,Jordan Poole,PG
+01/16/2026,NOP,Trey Murphy III,SF
+01/16/2026,NOP,Zion Williamson,PF
+01/16/2026,NOP,Derik Queen,C
+01/16/2026,IND,Andrew Nembhard,PG
+01/16/2026,IND,Johnny Furphy,SF
+01/16/2026,IND,Pascal Siakam,PF
+01/16/2026,IND,Aaron Nesmith,PF
+01/16/2026,IND,Jay Huff,C
 01/16/2026,CHI,Tre Jones,PG
 01/16/2026,CHI,Coby White,SG
 01/16/2026,CHI,Isaac Okoro,SF
@@ -6151,10 +6151,10 @@ Date,Team,Player,Pos
 01/16/2026,BRK,Nicolas Claxton,C
 01/16/2026,LAC,Kris Dunn,PG
 01/16/2026,LAC,James Harden,SG
-01/16/2026,LAC,Nicolas Batum,PF
+01/16/2026,LAC,Kobe Sanders,SG
 01/16/2026,LAC,John Collins,PF
 01/16/2026,LAC,Ivica Zubac,C
-01/16/2026,TOR,Immanuel Quickley,PG
+01/16/2026,TOR,Jamal Shead,PG
 01/16/2026,TOR,Ochai Agbaji,SG
 01/16/2026,TOR,Brandon Ingram,SF
 01/16/2026,TOR,Scottie Barnes,SF
@@ -6171,8 +6171,8 @@ Date,Team,Player,Pos
 01/16/2026,HOU,Alperen Sengun,C
 01/16/2026,WAS,Bub Carrington,PG
 01/16/2026,WAS,Tre Johnson,SG
-01/16/2026,WAS,Will Riley,SF
 01/16/2026,WAS,Kyshawn George,SF
+01/16/2026,WAS,Will Riley,SF
 01/16/2026,WAS,Alexandre Sarr,PF
 01/16/2026,SAC,Russell Westbrook,PG
 01/16/2026,SAC,Zach LaVine,SG
