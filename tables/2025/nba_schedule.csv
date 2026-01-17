@@ -611,12 +611,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-15,10:00p,New York Knicks,NYK,113.0,Golden State Warriors,GSW,126.0,0,Chase Center,1,0,0,0,1
 2026-01-15,10:00p,Atlanta Hawks,ATL,101.0,Portland Trail Blazers,POR,117.0,0,Moda Center,0,0,0,0,1
 2026-01-15,10:30p,Charlotte Hornets,CHO,135.0,Los Angeles Lakers,LAL,117.0,0,Crypto.com Arena,0,0,0,0,1
-2026-01-16,7:00p,New Orleans Pelicans,NOP,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-01-16,7:00p,Cleveland Cavaliers,CLE,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
-2026-01-16,7:30p,Chicago Bulls,CHI,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-01-16,7:30p,Los Angeles Clippers,LAC,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2026-01-16,9:30p,Minnesota Timberwolves,MIN,,Houston Rockets,HOU,,0,Toyota Center,0,1,0,0,0
-2026-01-16,10:00p,Washington Wizards,WAS,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
+2026-01-16,7:00p,New Orleans Pelicans,NOP,119.0,Indiana Pacers,IND,127.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-01-16,7:00p,Cleveland Cavaliers,CLE,117.0,Philadelphia 76ers,PHI,115.0,0,Xfinity Mobile Arena,0,0,0,0,1
+2026-01-16,7:30p,Chicago Bulls,CHI,109.0,Brooklyn Nets,BRK,112.0,0,Barclays Center,0,0,0,0,1
+2026-01-16,7:30p,Los Angeles Clippers,LAC,121.0,Toronto Raptors,TOR,117.0,1,Scotiabank Arena,0,0,0,0,1
+2026-01-16,9:30p,Minnesota Timberwolves,MIN,105.0,Houston Rockets,HOU,110.0,0,Toyota Center,0,1,0,0,1
+2026-01-16,10:00p,Washington Wizards,WAS,115.0,Sacramento Kings,SAC,128.0,0,Golden 1 Center,0,0,0,0,1
 2026-01-17,5:00p,Utah Jazz,UTA,,Dallas Mavericks,DAL,,0,American Airlines Center,0,0,0,0,0
 2026-01-17,7:30p,Boston Celtics,BOS,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
 2026-01-17,7:30p,Indiana Pacers,IND,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0

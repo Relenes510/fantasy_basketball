@@ -121,6 +121,7 @@ DAL,Moussa Cisse,C
 DAL,Anthony Davis,PF
 DAL,Dereck Lively II,C
 DAL,Miles Kelly,PG
+DAL,Jeremiah Robinson-Earl,PF
 DAL,Kyrie Irving,SG
 DAL,Dante Exum,PG
 DEN,Bruce Brown,SG
@@ -213,8 +214,8 @@ IND,Obi Toppin,PF
 IND,Tyrese Haliburton,PG
 LAC,Kris Dunn,PG
 LAC,Nicolas Batum,PF
-LAC,John Collins,PF
 LAC,James Harden,PG
+LAC,John Collins,PF
 LAC,Ivica Zubac,C
 LAC,Brook Lopez,C
 LAC,Kobe Sanders,SG
@@ -310,8 +311,8 @@ MIN,Bones Hyland,PG
 MIN,Rob Dillingham,PG
 MIN,Terrence Shannon Jr.,SG
 MIN,Leonard Miller,SF
-MIN,Johnny Juzang,SG
 MIN,Joan Beringer,PF
+MIN,Johnny Juzang,SG
 MIN,Joe Ingles,SF
 MIN,Rocco Zikarsky,C
 MIN,Enrique Freeman,PF
@@ -319,9 +320,9 @@ NOP,Jeremiah Fears,PG
 NOP,Derik Queen,C
 NOP,Trey Murphy III,SF
 NOP,Saddiq Bey,SF
+NOP,Yves Missi,C
 NOP,Micah Peavy,SG
 NOP,Jose Alvarado,PG
-NOP,Yves Missi,C
 NOP,Jordan Hawkins,SG
 NOP,Karlo Matkovic,PF
 NOP,Zion Williamson,PF
@@ -391,9 +392,9 @@ PHI,Jabari Walker,PF
 PHI,VJ Edgecombe,SG
 PHI,Andre Drummond,C
 PHI,Justin Edwards,SF
-PHI,Jared McCain,SG
 PHI,Adem Bona,C
 PHI,Dominick Barlow,PF
+PHI,Jared McCain,SG
 PHI,Paul George,PF
 PHI,Joel Embiid,C
 PHI,Trendon Watford,PF
@@ -444,12 +445,12 @@ SAC,Precious Achiuwa,C
 SAC,Malik Monk,SG
 SAC,Maxime Raynaud,C
 SAC,Dennis Schroder,PG
-SAC,Drew Eubanks,C
 SAC,Zach LaVine,SG
+SAC,Drew Eubanks,C
 SAC,Keegan Murray,PF
 SAC,Dylan Cardwell,C
-SAC,Devin Carter,PG
 SAC,Domantas Sabonis,C
+SAC,Devin Carter,PG
 SAC,Doug McDermott,SF
 SAC,Dario Saric,C
 SAC,Daeqwon Plowden,SG
@@ -476,8 +477,8 @@ TOR,Jamal Shead,PG
 TOR,Gradey Dick,SG
 TOR,Scottie Barnes,PF
 TOR,Brandon Ingram,SF
-TOR,Immanuel Quickley,PG
 TOR,Sandro Mamukelashvili,C
+TOR,Immanuel Quickley,PG
 TOR,Ja'Kobe Walter,SG
 TOR,Collin Murray-Boyles,PF
 TOR,Ochai Agbaji,SG
