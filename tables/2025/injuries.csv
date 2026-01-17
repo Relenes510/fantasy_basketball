@@ -5415,14 +5415,11 @@ Date,Team,Player,Status,Reason
 01/17/2026,UTA,Georges Niang,Out,Injury/Illness - Left Foot; Fourth Metatarsal Stress Reaction
 01/17/2026,UTA,John Tonje,Out,G League - Two-Way
 01/17/2026,UTA,Oscar Tshiebwe,Out,G League - Two-Way
-01/17/2026,DAL,Max Christie,Probable,Injury/Illness - Illness; Illness
-01/17/2026,DAL,Moussa Cisse,Questionable,G League - Two-Way
 01/17/2026,DAL,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 01/17/2026,DAL,Dante Exum,Out,Injury/Illness - Right Knee; Surgery
-01/17/2026,DAL,Cooper Flagg,Doubtful,Injury/Illness - Left Ankle; Sprain
-01/17/2026,DAL,Daniel Gafford,Doubtful,Injury/Illness - Right Ankle; Sprain
+01/17/2026,DAL,Cooper Flagg,Out,Injury/Illness - Left Ankle; Sprain
+01/17/2026,DAL,Daniel Gafford,Out,Injury/Illness - Right Ankle; Sprain
 01/17/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
-01/17/2026,DAL,Miles Kelly,Questionable,G League - Two-Way
 01/17/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
 01/17/2026,DAL,D'Angelo Russell,Out,Injury/Illness - Illness; Illness
 01/17/2026,DAL,P.J. Washington,Out,Personal Reasons
@@ -5478,7 +5475,7 @@ Date,Team,Player,Status,Reason
 01/17/2026,MIA,Davion Mitchell,Out,Injury/Illness - Left Shoulder; Contusion
 01/17/2026,MIA,Terry Rozier,Out,Not With Team
 01/17/2026,MIA,Jahmir Young,Out,G League - Two-Way
-01/17/2026,CHO,Moussa Diabate,Questionable,Injury/Illness - Right Hamstring; Soreness
+01/17/2026,CHO,Moussa Diabate,Out,Injury/Illness - Right Hamstring; Strain
 01/17/2026,CHO,Liam McNeeley,Out,G League - On Assignment
 01/17/2026,CHO,Mason Plumlee,Out,Injury/Illness - Right Groin; Surgery
 01/17/2026,CHO,Antonio Reeves,Out,G League - Two-Way
@@ -5503,15 +5500,14 @@ Date,Team,Player,Status,Reason
 01/17/2026,DEN,Jonas Valanciunas,Out,Injury/Illness - Right Calf; Strain
 01/17/2026,LAL,Deandre Ayton,Questionable,Injury/Illness - Left Knee; Soreness
 01/17/2026,LAL,Luka Doncic,Out,Injury/Illness - Left Groin; Soreness
-01/17/2026,LAL,Jaxson Hayes,Questionable,Injury/Illness - Left Hamstring; Tendinopathy
+01/17/2026,LAL,Jaxson Hayes,Out,Injury/Illness - Left Hamstring; Tendinopathy
 01/17/2026,LAL,Austin Reaves,Out,Injury/Illness - Left Calf; Strain
 01/17/2026,LAL,Adou Thiero,Out,Injury/Illness - Right MCL; Sprain
-01/17/2026,POR,Deni Avdija,Doubtful,Injury/Illness - Lower Back; Strain
-01/17/2026,POR,Jerami Grant,Questionable,Injury/Illness - Left Achilles; Injury Management
+01/17/2026,POR,Deni Avdija,Out,Injury/Illness - Lower Back; Strain
+01/17/2026,POR,Jerami Grant,Probable,Injury/Illness - Left Achilles; Injury Management
 01/17/2026,POR,Scoot Henderson,Out,Injury/Illness - Left Hamstring; Tear
-01/17/2026,POR,Jrue Holiday,Questionable,Injury/Illness - Right Calf; Injury Management
+01/17/2026,POR,Jrue Holiday,Probable,Injury/Illness - Right Calf; Injury Management
 01/17/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
 01/17/2026,POR,Kris Murray,Out,Injury/Illness - Lumbar; Strain
 01/17/2026,POR,Matisse Thybulle,Out,Injury/Illness - Right Knee; Tendinopathy
 01/17/2026,POR,Blake Wesley,Out,Injury/Illness - Right Foot; Fracture
-01/17/2026,POR,Hansen Yang,Questionable,G League - On Assignment
