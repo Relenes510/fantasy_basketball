@@ -6139,16 +6139,6 @@ Date,Team,Player,Pos
 01/16/2026,PHI,Paul George,SF
 01/16/2026,PHI,Dominick Barlow,PF
 01/16/2026,PHI,Joel Embiid,C
-01/16/2026,CHI,Tre Jones,PG
-01/16/2026,CHI,Coby White,SG
-01/16/2026,CHI,Isaac Okoro,SF
-01/16/2026,CHI,Matas Buzelis,SF
-01/16/2026,CHI,Nikola Vucevic,C
-01/16/2026,BRK,Egor Demin,PG
-01/16/2026,BRK,Drake Powell,SG
-01/16/2026,BRK,Michael Porter Jr.,SF
-01/16/2026,BRK,Noah Clowney,PF
-01/16/2026,BRK,Nicolas Claxton,C
 01/16/2026,LAC,Kris Dunn,PG
 01/16/2026,LAC,James Harden,SG
 01/16/2026,LAC,Kobe Sanders,SG
@@ -6159,6 +6149,16 @@ Date,Team,Player,Pos
 01/16/2026,TOR,Brandon Ingram,SF
 01/16/2026,TOR,Scottie Barnes,SF
 01/16/2026,TOR,Collin Murray-Boyles,PF
+01/16/2026,CHI,Tre Jones,PG
+01/16/2026,CHI,Coby White,SG
+01/16/2026,CHI,Isaac Okoro,SF
+01/16/2026,CHI,Matas Buzelis,SF
+01/16/2026,CHI,Nikola Vucevic,C
+01/16/2026,BRK,Egor Demin,PG
+01/16/2026,BRK,Drake Powell,SG
+01/16/2026,BRK,Michael Porter Jr.,SF
+01/16/2026,BRK,Noah Clowney,PF
+01/16/2026,BRK,Nicolas Claxton,C
 01/16/2026,MIN,Mike Conley,PG
 01/16/2026,MIN,Donte DiVincenzo,SG
 01/16/2026,MIN,Jaden McDaniels,PF
@@ -6166,19 +6166,19 @@ Date,Team,Player,Pos
 01/16/2026,MIN,Rudy Gobert,C
 01/16/2026,HOU,Amen Thompson,SG
 01/16/2026,HOU,Josh Okogie,SG
-01/16/2026,HOU,Jabari Smith Jr.,PF
 01/16/2026,HOU,Kevin Durant,PF
+01/16/2026,HOU,Jabari Smith Jr.,PF
 01/16/2026,HOU,Alperen Sengun,C
 01/16/2026,WAS,Bub Carrington,PG
+01/16/2026,WAS,Justin Champagnie,SG
 01/16/2026,WAS,Tre Johnson,SG
 01/16/2026,WAS,Kyshawn George,SF
-01/16/2026,WAS,Will Riley,SF
 01/16/2026,WAS,Alexandre Sarr,PF
 01/16/2026,SAC,Russell Westbrook,PG
 01/16/2026,SAC,Zach LaVine,SG
 01/16/2026,SAC,DeMar DeRozan,SF
 01/16/2026,SAC,Precious Achiuwa,PF
-01/16/2026,SAC,Domantas Sabonis,C
+01/16/2026,SAC,Maxime Raynaud,C
 01/17/2026,NOP,Jeremiah Fears,PG
 01/17/2026,NOP,Trey Murphy III,SF
 01/17/2026,NOP,Saddiq Bey,PF
@@ -6226,16 +6226,16 @@ Date,Team,Player,Pos
 01/17/2026,MIN,Rudy Gobert,C
 01/17/2026,HOU,Amen Thompson,SG
 01/17/2026,HOU,Josh Okogie,SG
-01/17/2026,HOU,Jabari Smith Jr.,PF
 01/17/2026,HOU,Kevin Durant,PF
+01/17/2026,HOU,Jabari Smith Jr.,PF
 01/17/2026,HOU,Alperen Sengun,C
 01/17/2026,WAS,Bub Carrington,PG
 01/17/2026,WAS,Tre Johnson,SG
+01/17/2026,WAS,Justin Champagnie,SG
 01/17/2026,WAS,Kyshawn George,SF
-01/17/2026,WAS,Will Riley,SF
 01/17/2026,WAS,Alexandre Sarr,PF
 01/17/2026,SAC,Russell Westbrook,PG
 01/17/2026,SAC,Zach LaVine,SG
 01/17/2026,SAC,DeMar DeRozan,SF
 01/17/2026,SAC,Precious Achiuwa,PF
-01/17/2026,SAC,Domantas Sabonis,C
+01/17/2026,SAC,Maxime Raynaud,C
