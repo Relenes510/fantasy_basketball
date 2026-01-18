@@ -617,15 +617,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-16,7:30p,Los Angeles Clippers,LAC,121.0,Toronto Raptors,TOR,117.0,1,Scotiabank Arena,0,0,0,0,1
 2026-01-16,9:30p,Minnesota Timberwolves,MIN,105.0,Houston Rockets,HOU,110.0,0,Toyota Center,0,1,0,0,1
 2026-01-16,10:00p,Washington Wizards,WAS,115.0,Sacramento Kings,SAC,128.0,0,Golden 1 Center,0,0,0,0,1
-2026-01-17,5:00p,Utah Jazz,UTA,,Dallas Mavericks,DAL,,0,American Airlines Center,0,0,0,0,0
-2026-01-17,7:30p,Boston Celtics,BOS,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
-2026-01-17,7:30p,Indiana Pacers,IND,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
-2026-01-17,7:30p,Phoenix Suns,PHO,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
-2026-01-17,8:00p,Oklahoma City Thunder,OKC,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-01-17,8:00p,Minnesota Timberwolves,MIN,,San Antonio Spurs,SAS,,0,Frost Bank Center,1,0,0,0,0
-2026-01-17,8:30p,Charlotte Hornets,CHO,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
-2026-01-17,9:00p,Washington Wizards,WAS,,Denver Nuggets,DEN,,0,Ball Arena,1,0,0,0,0
-2026-01-17,10:00p,Los Angeles Lakers,LAL,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
+2026-01-17,5:00p,Utah Jazz,UTA,120.0,Dallas Mavericks,DAL,138.0,0,American Airlines Center,0,0,0,0,1
+2026-01-17,7:30p,Boston Celtics,BOS,132.0,Atlanta Hawks,ATL,106.0,0,State Farm Arena,0,0,0,0,1
+2026-01-17,7:30p,Indiana Pacers,IND,78.0,Detroit Pistons,DET,121.0,0,Little Caesars Arena,1,0,0,0,1
+2026-01-17,7:30p,Phoenix Suns,PHO,106.0,New York Knicks,NYK,99.0,0,Madison Square Garden (IV),0,0,0,0,1
+2026-01-17,8:00p,Oklahoma City Thunder,OKC,120.0,Miami Heat,MIA,122.0,0,Kaseya Center,0,0,0,0,1
+2026-01-17,8:00p,Minnesota Timberwolves,MIN,123.0,San Antonio Spurs,SAS,126.0,0,Frost Bank Center,1,0,0,0,1
+2026-01-17,8:30p,Charlotte Hornets,CHO,116.0,Golden State Warriors,GSW,136.0,0,Chase Center,0,0,0,0,1
+2026-01-17,9:00p,Washington Wizards,WAS,115.0,Denver Nuggets,DEN,121.0,0,Ball Arena,1,0,0,0,1
+2026-01-17,10:00p,Los Angeles Lakers,LAL,116.0,Portland Trail Blazers,POR,132.0,0,Moda Center,0,0,0,0,1
 2026-01-18,12:00p,Orlando Magic,ORL,,Memphis Grizzlies,MEM,,0,The O2 Arena,0,0,0,0,0
 2026-01-18,7:00p,Brooklyn Nets,BRK,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
 2026-01-18,7:00p,New Orleans Pelicans,NOP,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
