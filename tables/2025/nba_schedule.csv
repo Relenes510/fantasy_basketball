@@ -626,12 +626,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-17,8:30p,Charlotte Hornets,CHO,116.0,Golden State Warriors,GSW,136.0,0,Chase Center,0,0,0,0,1
 2026-01-17,9:00p,Washington Wizards,WAS,115.0,Denver Nuggets,DEN,121.0,0,Ball Arena,1,0,0,0,1
 2026-01-17,10:00p,Los Angeles Lakers,LAL,116.0,Portland Trail Blazers,POR,132.0,0,Moda Center,0,0,0,0,1
-2026-01-18,12:00p,Orlando Magic,ORL,,Memphis Grizzlies,MEM,,0,The O2 Arena,0,0,0,0,0
-2026-01-18,7:00p,Brooklyn Nets,BRK,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-01-18,7:00p,New Orleans Pelicans,NOP,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
-2026-01-18,8:00p,Charlotte Hornets,CHO,,Denver Nuggets,DEN,,0,Ball Arena,1,1,0,0,0
-2026-01-18,9:00p,Portland Trail Blazers,POR,,Sacramento Kings,SAC,,0,Golden 1 Center,1,0,0,0,0
-2026-01-18,9:30p,Toronto Raptors,TOR,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,1,0,0,0
+2026-01-18,12:00p,Orlando Magic,ORL,109.0,Memphis Grizzlies,MEM,126.0,0,The O2 Arena,0,0,0,0,1
+2026-01-18,7:00p,Brooklyn Nets,BRK,102.0,Chicago Bulls,CHI,124.0,0,United Center,0,0,0,0,1
+2026-01-18,7:00p,New Orleans Pelicans,NOP,110.0,Houston Rockets,HOU,119.0,0,Toyota Center,0,0,0,0,1
+2026-01-18,8:00p,Charlotte Hornets,CHO,110.0,Denver Nuggets,DEN,87.0,0,Ball Arena,1,1,0,0,1
+2026-01-18,9:00p,Portland Trail Blazers,POR,117.0,Sacramento Kings,SAC,110.0,0,Golden 1 Center,1,0,0,0,1
+2026-01-18,9:30p,Toronto Raptors,TOR,93.0,Los Angeles Lakers,LAL,110.0,0,Crypto.com Arena,0,1,0,0,1
 2026-01-19,1:00p,Milwaukee Bucks,MIL,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
 2026-01-19,2:30p,Oklahoma City Thunder,OKC,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
 2026-01-19,3:00p,Los Angeles Clippers,LAC,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
