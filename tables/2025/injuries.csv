@@ -5639,36 +5639,63 @@ Date,Team,Player,Status,Reason
 01/19/2026,GSW,Draymond Green,Out,Injury/Illness - Right Ankle; Sprain
 01/19/2026,GSW,De'Anthony Melton,Out,Injury/Illness - Left Knee; Injury Management
 01/19/2026,GSW,Gui Santos,Out,Injury/Illness - Left Ankle; Sprain
-01/20/2026,CHI,Patrick Williams,Questionable,Injury/Illness - Right Ankle; Sprain
-01/20/2026,DEN,Jonas Valanciunas,Out,Injury/Illness - Right Calf; Strain
-01/20/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
-01/20/2026,LAL,Adou Thiero,Out,Injury/Illness - Right MCL; Sprain
-01/20/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
-01/20/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
-01/20/2026,TOR,Ja'Kobe Walter,Out,Injury/Illness - Right Hip; Pointer
-01/20/2026,CHI,Emanuel Miller,Out,G League - Two-Way
-01/20/2026,DEN,Jamal Murray,Probable,Injury/Illness - Left Knee; Inflammation/Illness
-01/20/2026,HOU,Tristen Newton,Out,G League - Two-Way
-01/20/2026,LAL,Austin Reaves,Out,Injury/Illness - Left Calf; Strain
-01/20/2026,MIN,Terrence Shannon Jr.,Out,Injury/Illness - Left Foot; Abductor Hallucis Strain
-01/20/2026,SAC,Daeqwon Plowden,Out,G League - Two-Way
-01/20/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Back; Lower; strain
-01/20/2026,CHI,Yuki Kawamura,Out,G League - Two-Way
-01/20/2026,DEN,Curtis Jones,Out,G League - Two-Way
-01/20/2026,HOU,Tari Eason,Questionable,Injury/Illness - Right Ankle; Sprain
-01/20/2026,MIN,Naz Reid,Questionable,Injury/Illness - Left Shoulder; Soreness
-01/20/2026,SAC,Keegan Murray,Out,Injury/Illness - Left Ankle; Sprain
-01/20/2026,TOR,Collin Murray-Boyles,Out,Injury/Illness - Left Thumb; Contusion
-01/20/2026,CHI,Josh Giddey,Questionable,Injury/Illness - Left Hamstring; Strain
-01/20/2026,DEN,Nikola Jokic,Out,Injury/Illness - Left Knee; Bone Bruise
-01/20/2026,HOU,Isaiah Crawford,Out,G League - Two-Way
-01/20/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
-01/20/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
-01/20/2026,DEN,Cameron Johnson,Out,Injury/Illness - Right Knee; Bone Bruise
-01/20/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Sprain
-01/20/2026,TOR,RJ Barrett,Out,Injury/Illness - Left Ankle; Sprain
+01/20/2026,PHO,Mark Williams,Questionable,Injury/Illness - Right Knee; Injury Management
+01/20/2026,PHI,MarJon Beauchamp,Out,G League - Two-Way
+01/20/2026,PHI,Johni Broome,Questionable,Injury/Illness - Left Thumb; Sprain
+01/20/2026,PHI,Joel Embiid,Out,Injury/Illness - Right Ankle; Injury Management
+01/20/2026,PHI,Paul George,Questionable,Injury/Illness - Left Knee; Injury Management
 01/20/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Sprain
-01/20/2026,DEN,Tim Hardaway Jr.,Probable,Injury/Illness - Right Knee; Contusion
-01/20/2026,DEN,Aaron Gordon,Probable,Injury/Illness - Right Hamstring; Strain
-01/20/2026,DEN,Christian Braun,Out,Injury/Illness - Left Ankle; Sprain
+01/20/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
+01/20/2026,CHI,Josh Giddey,Questionable,Injury/Illness - Left Hamstring; Strain
+01/20/2026,CHI,Yuki Kawamura,Out,G League - Two-Way
+01/20/2026,CHI,Emanuel Miller,Out,G League - Two-Way
+01/20/2026,CHI,Patrick Williams,Questionable,Injury/Illness - Right Ankle; Sprain
+01/20/2026,SAS,Harrison Ingram,Out,G League - Two-Way
+01/20/2026,SAS,David Jones Garcia,Out,G League - Two-Way
+01/20/2026,SAS,Stanley Umude,Out,G League - Two-Way
+01/20/2026,SAS,Devin Vassell,Out,Injury/Illness - Left Adductor; Strain
+01/20/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Sprain
+01/20/2026,HOU,Isaiah Crawford,Out,G League - Two-Way
+01/20/2026,HOU,Tari Eason,Questionable,Injury/Illness - Right Ankle; Sprain
+01/20/2026,HOU,Tristen Newton,Out,G League - Two-Way
+01/20/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
+01/20/2026,MIN,Terrence Shannon Jr.,Out,Injury/Illness - Left Foot; Abductor Hallucis Strain
+01/20/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
+01/20/2026,UTA,Elijah Harkless,Out,G League - Two-Way
+01/20/2026,UTA,Walker Kessler,Out,Injury/Illness - Left Shoulder; Injury recovery
+01/20/2026,UTA,Kevin Love,Out,Rest
+01/20/2026,UTA,Lauri Markkanen,Out,Injury/Illness - N/A; Illness
+01/20/2026,UTA,Georges Niang,Out,Injury/Illness - Left Foot; Fourth Metatarsal Stress Reaction
+01/20/2026,UTA,Brice Sensabaugh,Out,Injury/Illness - N/A; Illness
+01/20/2026,UTA,John Tonje,Out,G League - Two-Way
+01/20/2026,UTA,Oscar Tshiebwe,Out,G League - Two-Way
+01/20/2026,LAL,Austin Reaves,Out,Injury/Illness - Left Calf; Strain
+01/20/2026,LAL,Adou Thiero,Out,Injury/Illness - Right MCL; Sprain
 01/20/2026,DEN,Tamar Bates,Out,Injury/Illness - Left Foot; Surgery
+01/20/2026,DEN,Christian Braun,Out,Injury/Illness - Left Ankle; Sprain
+01/20/2026,DEN,Aaron Gordon,Probable,Injury/Illness - Right Hamstring; Strain
+01/20/2026,DEN,Tim Hardaway Jr.,Probable,Injury/Illness - Right Knee; Contusion
+01/20/2026,DEN,Cameron Johnson,Out,Injury/Illness - Right Knee; Bone Bruise
+01/20/2026,DEN,Nikola Jokic,Out,Injury/Illness - Left Knee; Bone Bruise
+01/20/2026,DEN,Curtis Jones,Out,G League - Two-Way
+01/20/2026,DEN,Jamal Murray,Probable,Injury/Illness - Left Knee; Inflammation/Illness
+01/20/2026,DEN,Jonas Valanciunas,Out,Injury/Illness - Right Calf; Strain
+01/20/2026,MIA,Vladislav Goldin,Out,G League - Two-Way
+01/20/2026,MIA,Tyler Herro,Out,Injury/Illness - Right Costochondral; Injury to the Ribs
+01/20/2026,MIA,Terry Rozier,Out,Not With Team
+01/20/2026,MIA,Kel'el Ware,Questionable,Injury/Illness - Right Hamstring; Tightness
+01/20/2026,MIA,Jahmir Young,Out,G League - Two-Way
+01/20/2026,SAC,Keegan Murray,Out,Injury/Illness - Left Ankle; Sprain
+01/20/2026,SAC,Daeqwon Plowden,Out,G League - Two-Way
+01/20/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
+01/20/2026,TOR,RJ Barrett,Out,Injury/Illness - Left Ankle; Sprain
+01/20/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
+01/20/2026,TOR,Collin Murray-Boyles,Out,Injury/Illness - Left Thumb; Contusion
+01/20/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Back; Lower; strain
+01/20/2026,TOR,Ja'Kobe Walter,Out,Injury/Illness - Right Hip; Pointer
+01/20/2026,GSW,Jimmy Butler III,Out,Injury/Illness - Right Knee; ACL Tear
+01/20/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
+01/20/2026,GSW,Draymond Green,Questionable,Injury/Illness - Right Ankle; Sprain
+01/20/2026,GSW,Al Horford,Out,Injury/Illness - Left Toe; Injury Management
+01/20/2026,GSW,Will Richard,Questionable,Injury/Illness - Right Gluteal; Strain
+01/20/2026,GSW,Gui Santos,Questionable,Injury/Illness - Left Ankle; Sprain
