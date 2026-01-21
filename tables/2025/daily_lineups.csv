@@ -6449,15 +6449,15 @@ Date,Team,Player,Pos
 01/20/2026,HOU,Kevin Durant,PF
 01/20/2026,HOU,Jabari Smith Jr.,PF
 01/20/2026,HOU,Alperen Sengun,C
-01/20/2026,MIN,Anthony Edwards,SG
 01/20/2026,MIN,Donte DiVincenzo,SG
+01/20/2026,MIN,Anthony Edwards,SG
 01/20/2026,MIN,Jaden McDaniels,PF
 01/20/2026,MIN,Julius Randle,PF
 01/20/2026,MIN,Rudy Gobert,C
 01/20/2026,UTA,Keyonte George,SG
-01/20/2026,UTA,Svi Mykhailiuk,SF
 01/20/2026,UTA,Cody Williams,SF
 01/20/2026,UTA,Ace Bailey,SF
+01/20/2026,UTA,Svi Mykhailiuk,SF
 01/20/2026,UTA,Jusuf Nurkic,C
 01/20/2026,LAL,Marcus Smart,PG
 01/20/2026,LAL,Luka Doncic,PG
@@ -6472,8 +6472,8 @@ Date,Team,Player,Pos
 01/20/2026,TOR,Immanuel Quickley,PG
 01/20/2026,TOR,Jamal Shead,PG
 01/20/2026,TOR,Gradey Dick,SG
-01/20/2026,TOR,Scottie Barnes,SF
 01/20/2026,TOR,Brandon Ingram,SF
+01/20/2026,TOR,Scottie Barnes,SF
 01/20/2026,GSW,Stephen Curry,PG
 01/20/2026,GSW,Brandin Podziemski,SG
 01/20/2026,GSW,Moses Moody,SG
@@ -6489,16 +6489,16 @@ Date,Team,Player,Pos
 01/20/2026,SAC,DeMar DeRozan,SF
 01/20/2026,SAC,Precious Achiuwa,PF
 01/20/2026,SAC,Domantas Sabonis,C
-01/21/2026,CLE,Craig Porter Jr.,PG
 01/21/2026,CLE,Donovan Mitchell,SG
-01/21/2026,CLE,De'Andre Hunter,SF
+01/21/2026,CLE,Jaylon Tyson,SF
+01/21/2026,CLE,Dean Wade,PF
 01/21/2026,CLE,Evan Mobley,PF
 01/21/2026,CLE,Jarrett Allen,C
-01/21/2026,CHO,LaMelo Ball,PG
+01/21/2026,CHO,Sion James,SG
 01/21/2026,CHO,Kon Knueppel,SG
 01/21/2026,CHO,Miles Bridges,SF
 01/21/2026,CHO,Brandon Miller,SF
-01/21/2026,CHO,Ryan Kalkbrenner,C
+01/21/2026,CHO,Moussa Diabate,PF
 01/21/2026,BRK,Terance Mann,PG
 01/21/2026,BRK,Egor Demin,PG
 01/21/2026,BRK,Michael Porter Jr.,SF
@@ -6529,9 +6529,9 @@ Date,Team,Player,Pos
 01/21/2026,MEM,Jaylen Wells,SF
 01/21/2026,MEM,Jaren Jackson Jr.,PF
 01/21/2026,MEM,Jock Landale,C
-01/21/2026,DET,Cade Cunningham,PG
-01/21/2026,DET,Duncan Robinson,SG
+01/21/2026,DET,Jaden Ivey,SG
 01/21/2026,DET,Ausar Thompson,SG
+01/21/2026,DET,Duncan Robinson,SG
 01/21/2026,DET,Tobias Harris,SF
 01/21/2026,DET,Jalen Duren,C
 01/21/2026,NOP,Jeremiah Fears,PG
@@ -6545,8 +6545,8 @@ Date,Team,Player,Pos
 01/21/2026,OKC,Kenrich Williams,PF
 01/21/2026,OKC,Chet Holmgren,C
 01/21/2026,MIL,AJ Green,SG
-01/21/2026,MIL,Ryan Rollins,SG
 01/21/2026,MIL,Gary Trent Jr.,SG
+01/21/2026,MIL,Ryan Rollins,SG
 01/21/2026,MIL,Giannis Antetokounmpo,PF
 01/21/2026,MIL,Bobby Portis,PF
 01/21/2026,TOR,Immanuel Quickley,PG
