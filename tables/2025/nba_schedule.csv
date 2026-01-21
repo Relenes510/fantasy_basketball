@@ -641,13 +641,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-19,7:30p,Phoenix Suns,PHO,126.0,Brooklyn Nets,BRK,117.0,0,Barclays Center,0,1,0,0,1
 2026-01-19,8:00p,Boston Celtics,BOS,103.0,Detroit Pistons,DET,104.0,0,Little Caesars Arena,0,0,0,0,1
 2026-01-19,10:00p,Miami Heat,MIA,112.0,Golden State Warriors,GSW,135.0,0,Chase Center,0,0,0,0,1
-2026-01-20,7:00p,Phoenix Suns,PHO,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,1,1,0,0,0
-2026-01-20,8:00p,Los Angeles Clippers,LAC,,Chicago Bulls,CHI,,0,United Center,1,0,0,0,0
-2026-01-20,8:00p,San Antonio Spurs,SAS,,Houston Rockets,HOU,,0,Toyota Center,1,0,0,0,0
-2026-01-20,9:00p,Minnesota Timberwolves,MIN,,Utah Jazz,UTA,,0,Delta Center,0,1,0,0,0
-2026-01-20,10:00p,Los Angeles Lakers,LAL,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-01-20,10:00p,Toronto Raptors,TOR,,Golden State Warriors,GSW,,0,Chase Center,0,1,0,0,0
-2026-01-20,10:00p,Miami Heat,MIA,,Sacramento Kings,SAC,,0,Golden 1 Center,1,0,0,0,0
+2026-01-20,7:00p,Phoenix Suns,PHO,116.0,Philadelphia 76ers,PHI,110.0,0,Xfinity Mobile Arena,1,1,0,0,1
+2026-01-20,8:00p,Los Angeles Clippers,LAC,110.0,Chicago Bulls,CHI,138.0,0,United Center,1,0,0,0,1
+2026-01-20,8:00p,San Antonio Spurs,SAS,106.0,Houston Rockets,HOU,111.0,0,Toyota Center,1,0,0,0,1
+2026-01-20,9:00p,Minnesota Timberwolves,MIN,122.0,Utah Jazz,UTA,127.0,0,Delta Center,0,1,0,0,1
+2026-01-20,10:00p,Los Angeles Lakers,LAL,115.0,Denver Nuggets,DEN,107.0,0,Ball Arena,0,0,0,0,1
+2026-01-20,10:00p,Toronto Raptors,TOR,145.0,Golden State Warriors,GSW,127.0,0,Chase Center,0,1,0,0,1
+2026-01-20,10:00p,Miami Heat,MIA,130.0,Sacramento Kings,SAC,117.0,0,Golden 1 Center,1,0,0,0,1
 2026-01-21,7:00p,Cleveland Cavaliers,CLE,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2026-01-21,7:30p,Indiana Pacers,IND,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
 2026-01-21,7:30p,Brooklyn Nets,BRK,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
