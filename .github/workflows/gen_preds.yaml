@@ -46,7 +46,7 @@ jobs:
             --inplace \
             --ExecutePreprocessor.timeout=600 \
             --ExecutePreprocessor.kernel_name=python3 \
-            "notebooks/create_Predictions.ipynb"
+            "notebooks/create_ML_Regression_model.ipynb"
 
       - name: Commit updated CSVs back to repository
         run: |
@@ -56,6 +56,7 @@ jobs:
           git checkout main
 
           git add tables/2025/*.csv
+          git add ML_models/*
 
           git status
 

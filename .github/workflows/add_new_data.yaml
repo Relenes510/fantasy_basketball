@@ -58,16 +58,6 @@ jobs:
             --ExecutePreprocessor.kernel_name=python3 \
             "notebooks/create_plyr_pos_xref.ipynb"
 
-      - name: Execute parlay helper notebook
-        run: |
-          jupyter nbconvert \
-            --to notebook \
-            --execute \
-            --inplace \
-            --ExecutePreprocessor.timeout=600 \
-            --ExecutePreprocessor.kernel_name=python3 \
-            "notebooks/parlay helper.ipynb"
-
       - name: Commit updated CSVs back to repository
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
