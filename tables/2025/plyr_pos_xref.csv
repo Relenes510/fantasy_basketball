@@ -14,9 +14,9 @@ ATL,Caleb Houstan,SF
 ATL,CJ McCollum,PG
 ATL,Corey Kispert,SF
 ATL,N'Faly Dante,C
+ATL,Christian Koloko,C
 ATL,RayJ Dennis,PG
 ATL,Nikola Djurisic,SF
-ATL,Christian Koloko,C
 BOS,Anfernee Simons,SG
 BOS,Derrick White,SG
 BOS,Payton Pritchard,PG
@@ -53,18 +53,18 @@ BRK,Tyson Etienne,PG
 BRK,Haywood Highsmith,SF
 BRK,Chaney Johnson,SF
 CHO,Sion James,SG
-CHO,Miles Bridges,PF
 CHO,Kon Knueppel,SF
+CHO,Miles Bridges,PF
 CHO,Moussa Diabate,C
 CHO,Collin Sexton,SG
 CHO,LaMelo Ball,PG
 CHO,Ryan Kalkbrenner,C
 CHO,Tre Mann,PG
 CHO,Tidjane Salaun,PF
-CHO,Liam McNeeley,SF
 CHO,Brandon Miller,SF
-CHO,Pat Connaughton,SG
+CHO,Liam McNeeley,SF
 CHO,Josh Green,SG
+CHO,Pat Connaughton,SG
 CHO,KJ Simpson,PG
 CHO,Mason Plumlee,C
 CHO,PJ Hall,C
@@ -96,9 +96,9 @@ CLE,Evan Mobley,PF
 CLE,Dean Wade,PF
 CLE,Nae'Qwan Tomlin,PF
 CLE,Jarrett Allen,C
+CLE,Tyrese Proctor,PG
 CLE,Thomas Bryant,C
 CLE,Lonzo Ball,PG
-CLE,Tyrese Proctor,PG
 CLE,Darius Garland,PG
 CLE,Sam Merrill,SG
 CLE,Larry Nance Jr.,PF
@@ -198,6 +198,7 @@ HOU,Tristen Newton,SG
 IND,Jarace Walker,PF
 IND,Jay Huff,C
 IND,Pascal Siakam,PF
+IND,Tony Bradley,C
 IND,Andrew Nembhard,PG
 IND,Ben Sheppard,SG
 IND,T.J. McConnell,PG
@@ -205,8 +206,8 @@ IND,Isaiah Jackson,C
 IND,Johnny Furphy,SG
 IND,Bennedict Mathurin,SF
 IND,Aaron Nesmith,SF
-IND,Taelon Peter,SG
 IND,Quenton Jackson,PG
+IND,Taelon Peter,SG
 IND,Ethan Thompson,SG
 IND,Micah Potter,C
 IND,Kam Jones,SG
@@ -248,8 +249,8 @@ LAL,Adou Thiero,SF
 LAL,Drew Timme,PF
 LAL,Kobe Bufkin,SG
 LAL,Chris Manon,SG
-MEM,Santi Aldama,PF
 MEM,Jaylen Wells,SG
+MEM,Santi Aldama,PF
 MEM,Cam Spencer,SG
 MEM,Kentavious Caldwell-Pope,SG
 MEM,Jaren Jackson Jr.,C
@@ -258,8 +259,8 @@ MEM,Cedric Coward,SG
 MEM,Vince Williams Jr.,PG
 MEM,John Konchar,SG
 MEM,GG Jackson II,PF
-MEM,Olivier-Maxence Prosper,PF
 MEM,Ja Morant,PG
+MEM,Olivier-Maxence Prosper,PF
 MEM,Javon Small,PG
 MEM,Zach Edey,C
 MEM,Jahmai Mashack,SG
@@ -285,8 +286,8 @@ MIA,Vladislav Goldin,C
 MIA,Terry Rozier,PG
 MIL,Ryan Rollins,PG
 MIL,Bobby Portis,PF
-MIL,Myles Turner,C
 MIL,Kyle Kuzma,PF
+MIL,Myles Turner,C
 MIL,A.J. Green,SG
 MIL,Gary Trent Jr.,SG
 MIL,Gary Harris,SG
@@ -360,12 +361,12 @@ OKC,Isaiah Joe,SG
 OKC,Luguentz Dort,SF
 OKC,Alex Caruso,SG
 OKC,Aaron Wiggins,SG
-OKC,Jaylin Williams,PF
 OKC,Branden Carlson,C
+OKC,Jaylin Williams,PF
 OKC,Chris Youngblood,SG
+OKC,Kenrich Williams,PF
 OKC,Jalen Williams,SG
 OKC,Isaiah Hartenstein,C
-OKC,Kenrich Williams,PF
 OKC,Brooks Barnhizer,SG
 OKC,Ousmane Dieng,C
 OKC,Thomas Sorber,C

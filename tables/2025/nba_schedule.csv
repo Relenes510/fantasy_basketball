@@ -648,13 +648,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-20,10:00p,Los Angeles Lakers,LAL,115.0,Denver Nuggets,DEN,107.0,0,Ball Arena,0,0,0,0,1
 2026-01-20,10:00p,Toronto Raptors,TOR,145.0,Golden State Warriors,GSW,127.0,0,Chase Center,0,1,0,0,1
 2026-01-20,10:00p,Miami Heat,MIA,130.0,Sacramento Kings,SAC,117.0,0,Golden 1 Center,1,0,0,0,1
-2026-01-21,7:00p,Cleveland Cavaliers,CLE,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-01-21,7:30p,Indiana Pacers,IND,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-01-21,7:30p,Brooklyn Nets,BRK,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
-2026-01-21,8:00p,Atlanta Hawks,ATL,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-01-21,8:00p,Detroit Pistons,DET,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,0,0,0,0
-2026-01-21,9:30p,Oklahoma City Thunder,OKC,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
-2026-01-21,10:00p,Toronto Raptors,TOR,,Sacramento Kings,SAC,,0,Golden 1 Center,1,1,0,0,0
+2026-01-21,7:00p,Cleveland Cavaliers,CLE,94.0,Charlotte Hornets,CHO,87.0,0,Spectrum Center,0,0,0,0,1
+2026-01-21,7:30p,Indiana Pacers,IND,104.0,Boston Celtics,BOS,119.0,0,TD Garden,0,0,0,0,1
+2026-01-21,7:30p,Brooklyn Nets,BRK,66.0,New York Knicks,NYK,120.0,0,Madison Square Garden (IV),0,0,0,0,1
+2026-01-21,8:00p,Atlanta Hawks,ATL,124.0,Memphis Grizzlies,MEM,122.0,0,FedExForum,0,0,0,0,1
+2026-01-21,8:00p,Detroit Pistons,DET,112.0,New Orleans Pelicans,NOP,104.0,0,Smoothie King Center,0,0,0,0,1
+2026-01-21,9:30p,Oklahoma City Thunder,OKC,122.0,Milwaukee Bucks,MIL,102.0,0,Fiserv Forum,0,0,0,0,1
+2026-01-21,10:00p,Toronto Raptors,TOR,122.0,Sacramento Kings,SAC,109.0,0,Golden 1 Center,1,1,0,0,1
 2026-01-22,7:00p,Charlotte Hornets,CHO,,Orlando Magic,ORL,,0,Kia Center,1,0,0,0,0
 2026-01-22,7:00p,Houston Rockets,HOU,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
 2026-01-22,7:00p,Denver Nuggets,DEN,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
