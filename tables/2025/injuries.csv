@@ -5759,8 +5759,17 @@ Date,Team,Player,Status,Reason
 01/21/2026,SAC,Daeqwon Plowden,Out,G League - Two-Way
 01/21/2026,SAC,Domantas Sabonis,Out,Injury/Illness - Left Knee; Injury Management
 01/21/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
+01/22/2026,CHO,LaMelo Ball,Questionable,Injury/Illness - Right Thumb; Contusion
+01/22/2026,CHO,PJ Hall,Out,G League - Two-Way
+01/22/2026,CHO,Tre Mann,Out,Injury/Illness - Illness; Illness
+01/22/2026,CHO,Liam McNeeley,Out,G League - On Assignment
+01/22/2026,CHO,Brandon Miller,Probable,Injury/Illness - Left Ankle; Soreness
+01/22/2026,CHO,Mason Plumlee,Out,Injury/Illness - Right Groin; Surgery
+01/22/2026,CHO,KJ Simpson,Out,Injury/Illness - Left Hip Flexor; Strain
+01/22/2026,CHO,Grant Williams,Out,Injury/Illness - Right Knee; Injury Management
 01/22/2026,ORL,Colin Castleton,Out,G League - Two-Way
 01/22/2026,ORL,Jalen Suggs,Out,Injury/Illness - Right Knee; MCL contusion
+01/22/2026,ORL,Franz Wagner,Out,Injury/Illness - Left Ankle; Soreness
 01/22/2026,DEN,Tamar Bates,Out,Injury/Illness - Left Foot; Surgery
 01/22/2026,DEN,Christian Braun,Out,Injury/Illness - Left Ankle; Sprain
 01/22/2026,DEN,Aaron Gordon,Probable,Injury/Illness - Right Hamstring; Strain
@@ -5770,18 +5779,16 @@ Date,Team,Player,Status,Reason
 01/22/2026,DEN,Curtis Jones,Out,G League - Two-Way
 01/22/2026,DEN,Jamal Murray,Probable,Injury/Illness - Left Hip; Inflammation
 01/22/2026,DEN,Jonas Valanciunas,Questionable,Injury/Illness - Right Calf; Strain
-01/22/2026,WAS,Marvin Bagley III,Questionable,Injury/Illness - N/a; Illness
+01/22/2026,WAS,Marvin Bagley III,Out,Injury/Illness - N/a; Illness
 01/22/2026,WAS,Bilal Coulibaly,Out,Injury/Illness - Lower Back; Strain
-01/22/2026,WAS,AJ Johnson,Questionable,Injury/Illness - N/a; Illness
 01/22/2026,WAS,Tristan Vukcevic,Out,Injury/Illness - Left Hamstring; Strain
 01/22/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 01/22/2026,WAS,Trae Young,Out,Injury/Illness - Right Knee; MCL Sprain; Quad Contusion
 01/22/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Sprain
-01/22/2026,HOU,Aaron Holiday,Questionable,Injury/Illness - Back; Spasms
+01/22/2026,HOU,Aaron Holiday,Out,Injury/Illness - Back; Spasms
 01/22/2026,HOU,Tristen Newton,Out,G League - Two-Way
 01/22/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
-01/22/2026,PHI,MarJon Beauchamp,Doubtful,G League - Two-Way
-01/22/2026,PHI,Johni Broome,Questionable,G League - On Assignment
+01/22/2026,PHI,MarJon Beauchamp,Out,G League - Two-Way
 01/22/2026,PHI,Joel Embiid,Probable,Injury/Illness - Right Ankle; Injury Management
 01/22/2026,PHI,Paul George,Questionable,Injury/Illness - Left Knee; Injury Management
 01/22/2026,GSW,Jimmy Butler III,Out,Injury/Illness - Right Knee; ACL Tear
@@ -5803,11 +5810,12 @@ Date,Team,Player,Status,Reason
 01/22/2026,CHI,Yuki Kawamura,Out,G League - Two-Way
 01/22/2026,CHI,Emanuel Miller,Out,G League - Two-Way
 01/22/2026,CHI,Patrick Williams,Questionable,Injury/Illness - Right Ankle; Sprain
+01/22/2026,MIN,Julius Randle,Questionable,Injury/Illness - Left Foot; Soreness
 01/22/2026,MIN,Terrence Shannon Jr.,Out,Injury/Illness - Left Foot; Abductor Hallucis Strain
 01/22/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
 01/22/2026,SAS,Harrison Ingram,Out,G League - Two-Way
 01/22/2026,SAS,David Jones Garcia,Out,G League - Two-Way
-01/22/2026,SAS,Luke Kornet,Questionable,Injury/Illness - Left Adductor; Tightness
+01/22/2026,SAS,Luke Kornet,Out,Injury/Illness - Left Adductor; Tightness
 01/22/2026,SAS,Jeremy Sochan,Questionable,"Injury/Illness - "" ""; Illness"
 01/22/2026,SAS,Stanley Umude,Out,G League - Two-Way
 01/22/2026,SAS,Devin Vassell,Out,Injury/Illness - Left Adductor l; Strain
@@ -5823,8 +5831,10 @@ Date,Team,Player,Status,Reason
 01/22/2026,LAL,Adou Thiero,Out,Injury/Illness - Right MCL; Sprain
 01/22/2026,MIA,Vladislav Goldin,Out,G League - Two-Way
 01/22/2026,MIA,Tyler Herro,Out,Injury/Illness - Right Costochondral; Injury to the Ribs
+01/22/2026,MIA,Davion Mitchell,Doubtful,Injury/Illness - Left Shoulder; Contusion
+01/22/2026,MIA,Norman Powell,Questionable,Injury/Illness - Low Back; Tightness
 01/22/2026,MIA,Terry Rozier,Out,Not With Team
-01/22/2026,MIA,Kel'el Ware,Questionable,Injury/Illness - Right Hamstring; Strain
+01/22/2026,MIA,Kel'el Ware,Out,Injury/Illness - Right Hamstring; Strain
 01/22/2026,MIA,Jahmir Young,Out,G League - Two-Way
 01/22/2026,POR,Sidy Cissoko,Questionable,Injury/Illness - Illness; .
 01/22/2026,POR,Jerami Grant,Questionable,Injury/Illness - Left Achilles; Injury Management
