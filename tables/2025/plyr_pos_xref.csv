@@ -59,9 +59,9 @@ CHO,Moussa Diabate,C
 CHO,Collin Sexton,SG
 CHO,LaMelo Ball,PG
 CHO,Ryan Kalkbrenner,C
-CHO,Tre Mann,PG
 CHO,Tidjane Salaun,PF
 CHO,Brandon Miller,SF
+CHO,Tre Mann,PG
 CHO,Liam McNeeley,SF
 CHO,Josh Green,SG
 CHO,Pat Connaughton,SG
@@ -135,8 +135,8 @@ DEN,Nikola Jokic,C
 DEN,Zeke Nnaji,PF
 DEN,Jalen Pickett,SG
 DEN,Cameron Johnson,SF
-DEN,Julian Strawther,SG
 DEN,Aaron Gordon,PF
+DEN,Julian Strawther,SG
 DEN,Hunter Tyson,PF
 DEN,Christian Braun,SG
 DEN,DaRon Holmes,PF
@@ -165,8 +165,8 @@ GSW,Quinten Post,PF
 GSW,Moses Moody,SG
 GSW,Gary Payton II,SG
 GSW,Will Richard,SG
-GSW,Jimmy Butler,SF
 GSW,Buddy Hield,SG
+GSW,Jimmy Butler,SF
 GSW,Draymond Green,PF
 GSW,Stephen Curry,PG
 GSW,Gui Santos,PF
@@ -267,12 +267,12 @@ MEM,Jahmai Mashack,SG
 MEM,Brandon Clarke,PF
 MEM,Ty Jerome,SG
 MEM,Scotty Pippen Jr.,PG
-MIA,Kel'el Ware,C
 MIA,Dru Smith,SG
+MIA,Kel'el Ware,C
 MIA,Simone Fontecchio,SF
 MIA,Andrew Wiggins,SF
-MIA,Davion Mitchell,PG
 MIA,Jaime Jaquez Jr.,SF
+MIA,Davion Mitchell,PG
 MIA,Norman Powell,SG
 MIA,Bam Adebayo,C
 MIA,Pelle Larsson,SG
@@ -353,6 +353,7 @@ NYK,Pacome Dadiet,SG
 NYK,Kevin McCullar Jr.,SF
 NYK,Trey Jemison,C
 NYK,P.J. Tucker,F
+NYK,Dillon Jones,SF
 OKC,Shai Gilgeous-Alexander,PG
 OKC,Ajay Mitchell,SG
 OKC,Cason Wallace,SG
@@ -393,9 +394,9 @@ PHI,Quentin Grimes,SG
 PHI,Jabari Walker,PF
 PHI,VJ Edgecombe,SG
 PHI,Andre Drummond,C
-PHI,Justin Edwards,SF
 PHI,Adem Bona,C
 PHI,Dominick Barlow,PF
+PHI,Justin Edwards,SF
 PHI,Jared McCain,SG
 PHI,Joel Embiid,C
 PHI,Paul George,PF
@@ -461,9 +462,9 @@ SAC,Isaiah Stevens,PG
 SAS,Keldon Johnson,SF
 SAS,Julian Champagnie,SF
 SAS,Harrison Barnes,PF
-SAS,Luke Kornet,C
 SAS,De'Aaron Fox,PG
 SAS,Stephon Castle,PG
+SAS,Luke Kornet,C
 SAS,Dylan Harper,SG
 SAS,Carter Bryant,PF
 SAS,Devin Vassell,SG
@@ -513,13 +514,13 @@ UTA,Georges Niang,PF
 UTA,John Tonje,SG
 WAS,Bub Carrington,PG
 WAS,Justin Champagnie,SF
-WAS,Marvin Bagley III,PF
 WAS,Tre Johnson,SG
+WAS,Marvin Bagley III,PF
 WAS,Will Riley,SF
 WAS,Alex Sarr,C
 WAS,Kyshawn George,SF
-WAS,Tristan Vukcevic,C
 WAS,Khris Middleton,SF
+WAS,Tristan Vukcevic,C
 WAS,Bilal Coulibaly,SG
 WAS,Malaki Branham,SG
 WAS,AJ Johnson,SG
