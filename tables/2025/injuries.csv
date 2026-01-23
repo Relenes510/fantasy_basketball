@@ -14,7 +14,7 @@ Date,Team,Player,Status,Reason
 10/21/2025,GSW,Jonathan Kuminga,Probable,Injury/Illness - Right Ankle; Inflammation
 10/21/2025,HOU,Isaiah Crawford,Out,Injury/Illness - Left Ankle; Sprain
 10/21/2025,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical recovery
-10/21/2025,GSW,Jimmy Butler III,Probable,Injury/Illness - Left Ankle; Sprain
+10/21/2025,GSW,Jimmy Butler,Probable,Injury/Illness - Left Ankle; Sprain
 10/21/2025,OKC,Isaiah Joe,Out,Injury/Illness - Left Knee; Contusion
 10/22/2025,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
 10/22/2025,BRK,Danny Wolf,Out,Injury/Illness - Left Ankle; Sprain
@@ -749,7 +749,7 @@ Date,Team,Player,Status,Reason
 11/04/2025,CHI,Coby White,Out,Injury/Illness - Right Calf; Strain
 11/04/2025,PHO,Dillon Brooks,Out,Injury/Illness - Core Muscle; Strain
 11/04/2025,PHO,Jalen Green,Out,Injury/Illness - Right Hamstring; Strain
-11/04/2025,GSW,Jimmy Butler III,Questionable,Injury/Illness - Right Low Back; Soreness
+11/04/2025,GSW,Jimmy Butler,Questionable,Injury/Illness - Right Low Back; Soreness
 11/04/2025,GSW,Al Horford,Out,Injury/Illness - Left Toe; Injury Management
 11/04/2025,GSW,De'Anthony Melton,Out,Injury/Illness - Left ACL; Surgery
 11/04/2025,GSW,Alex Toohey,Out,Injury/Illness - Left Knee; Injury Recovery
@@ -825,7 +825,7 @@ Date,Team,Player,Status,Reason
 11/05/2025,DEN,Curtis Jones,Out,G League - Two-Way
 11/05/2025,DEN,Jamal Murray,Probable,Injury/Illness - Left Calf; Tightness
 11/05/2025,DEN,Julian Strawther,Probable,Injury/Illness - Low Back; Pain
-11/05/2025,GSW,Jimmy Butler III,Out,Injury/Illness - Right Low Back; Strain
+11/05/2025,GSW,Jimmy Butler,Out,Injury/Illness - Right Low Back; Strain
 11/05/2025,GSW,Stephen Curry,Out,Injury/Illness - General; Illness
 11/05/2025,GSW,Draymond Green,Out,Injury/Illness - Right Rib; Contusion
 11/05/2025,GSW,De'Anthony Melton,Out,Injury/Illness - Left ACL; Surgery
@@ -942,7 +942,7 @@ Date,Team,Player,Status,Reason
 11/07/2025,MIN,Enrique Freeman,Out,G League - Two-Way
 11/07/2025,MIN,Terrence Shannon Jr.,Out,Injury/Illness - Left Foot; Soreness
 11/07/2025,MIN,Rocco Zikarsky,Out,G League - Two-Way
-11/07/2025,GSW,Jimmy Butler III,Questionable,Injury/Illness - Right Low Back; Strain
+11/07/2025,GSW,Jimmy Butler,Questionable,Injury/Illness - Right Low Back; Strain
 11/07/2025,GSW,Stephen Curry,Out,Injury/Illness - General; Illness
 11/07/2025,GSW,Al Horford,Questionable,Injury/Illness - Left Foot; Soreness
 11/07/2025,GSW,De'Anthony Melton,Out,Injury/Illness - Left ACL; Surgery
@@ -1689,7 +1689,7 @@ Date,Team,Player,Status,Reason
 11/19/2025,PHI,Joel Embiid,Out,Injury/Illness - Right Knee; Injury Management
 11/19/2025,PHI,Paul George,Out,Injury/Illness - Left Knee; Injury Recovery
 11/19/2025,PHI,Kelly Oubre Jr.,Out,Injury/Illness - Left Knee; Sprain
-11/19/2025,GSW,Jimmy Butler III,Out,Injury/Illness - Right Low Back; Strain
+11/19/2025,GSW,Jimmy Butler,Out,Injury/Illness - Right Low Back; Strain
 11/19/2025,GSW,Stephen Curry,Out,Injury/Illness - Right Ankle; Soreness
 11/19/2025,GSW,Draymond Green,Out,Injury/Illness - General; Illness
 11/19/2025,GSW,Al Horford,Out,Injury/Illness - Left Toe; Injury Management
@@ -1872,7 +1872,7 @@ Date,Team,Player,Status,Reason
 11/21/2025,POR,Matisse Thybulle,Out,Injury/Illness - Left Thumb; Ligament Tear
 11/21/2025,POR,Blake Wesley,Out,Injury/Illness - Right Foot; Fracture
 11/21/2025,POR,Robert Williams III,Questionable,Injury/Illness - Right Knee; Injury Management
-11/21/2025,GSW,Jimmy Butler III,Probable,Injury/Illness - Right Low Back; Strain
+11/21/2025,GSW,Jimmy Butler,Probable,Injury/Illness - Right Low Back; Strain
 11/21/2025,GSW,Draymond Green,Probable,Injury/Illness - General; Illness
 11/21/2025,GSW,Buddy Hield,Probable,Injury/Illness - General; Illness
 11/21/2025,GSW,Jonathan Kuminga,Out,Injury/Illness - Bilateral Knee; Patellar Tendonitis
@@ -2594,7 +2594,7 @@ Date,Team,Player,Status,Reason
 12/02/2025,OKC,Isaiah Hartenstein,Out,Injury/Illness - Right Soleus; Strain
 12/02/2025,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
 12/02/2025,OKC,Nikola Topic,Out,Injury/Illness - N/a; Surgical Recovery
-12/02/2025,GSW,Jimmy Butler III,Questionable,Injury/Illness - Left Gluteal; Contusion
+12/02/2025,GSW,Jimmy Butler,Questionable,Injury/Illness - Left Gluteal; Contusion
 12/02/2025,GSW,Stephen Curry,Out,Injury/Illness - Left Quadriceps; Contusion
 12/02/2025,GSW,Draymond Green,Probable,Injury/Illness - Right Midfoot; Sprain
 12/02/2025,GSW,Al Horford,Out,Injury/Illness - Right Sciatic Nerve; Irritation
@@ -2695,7 +2695,7 @@ Date,Team,Player,Status,Reason
 12/04/2025,WAS,Tre Johnson,Out,Injury/Illness - Left Hip Flexor; Strain
 12/04/2025,WAS,Corey Kispert,Out,Injury/Illness - Right Thumb; Distal Phalanx Fracture
 12/04/2025,WAS,Alex Sarr,Out,Injury/Illness - Right Adductor; Strain
-12/04/2025,GSW,Jimmy Butler III,Out,Injury/Illness - Left Knee; Soreness
+12/04/2025,GSW,Jimmy Butler,Out,Injury/Illness - Left Knee; Soreness
 12/04/2025,GSW,Stephen Curry,Out,Injury/Illness - Left Quadriceps; Contusion
 12/04/2025,GSW,Alex Toohey,Out,Injury/Illness - Left Knee; Injury Management
 12/04/2025,PHI,Paul George,Out,Injury/Illness - Left Knee; Injury Recovery
@@ -2867,7 +2867,7 @@ Date,Team,Player,Status,Reason
 12/06/2025,WAS,Corey Kispert,Out,Injury/Illness - Right Thumb; Distal Phalanx Fracture
 12/06/2025,WAS,Khris Middleton,Out,Injury/Illness - Right Knee; Soreness
 12/06/2025,WAS,Alex Sarr,Out,Injury/Illness - Right Adductor; Strain
-12/06/2025,GSW,Jimmy Butler III,Out,Injury/Illness - Left Knee; Injury Management
+12/06/2025,GSW,Jimmy Butler,Out,Injury/Illness - Left Knee; Injury Management
 12/06/2025,GSW,Seth Curry,Out,Injury/Illness - Right Toe; Soreness
 12/06/2025,GSW,Stephen Curry,Out,Injury/Illness - Left Quadriceps; Contusion
 12/06/2025,GSW,Draymond Green,Out,Injury/Illness - Right Midfoot; Sprain
@@ -4391,7 +4391,7 @@ Date,Team,Player,Status,Reason
 01/02/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
 01/02/2026,OKC,Nikola Topic,Out,Injury/Illness - N/a; Surgical Recovery
 01/02/2026,OKC,Jaylin Williams,Out,Injury/Illness - Right Heel; Bursitis
-01/02/2026,GSW,Jimmy Butler III,Out,Injury/Illness - General; Illness
+01/02/2026,GSW,Jimmy Butler,Out,Injury/Illness - General; Illness
 01/02/2026,GSW,LJ Cryer,Out,G League - Two-Way
 01/02/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
 01/02/2026,GSW,Stephen Curry,Out,Injury/Illness - Left Ankle; Sprain
@@ -4475,7 +4475,7 @@ Date,Team,Player,Status,Reason
 01/03/2026,UTA,Georges Niang,Out,Injury/Illness - Left Foot; Fourth Metatarsal Stress Reaction
 01/03/2026,UTA,Jusuf Nurkic,Out,Injury/Illness - Left First Mtp; Sprain
 01/03/2026,UTA,John Tonje,Out,G League - Two-Way
-01/03/2026,GSW,Jimmy Butler III,Questionable,Injury/Illness - General; Illness
+01/03/2026,GSW,Jimmy Butler,Questionable,Injury/Illness - General; Illness
 01/03/2026,GSW,LJ Cryer,Out,G League - Two-Way
 01/03/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
 01/03/2026,GSW,Stephen Curry,Questionable,Injury/Illness - Left Ankle; Sprain
@@ -5687,7 +5687,7 @@ Date,Team,Player,Status,Reason
 01/20/2026,TOR,Collin Murray-Boyles,Out,Injury/Illness - Left Thumb; Contusion
 01/20/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Back; Lower; strain
 01/20/2026,TOR,Ja'Kobe Walter,Out,Injury/Illness - Right Hip; Pointer
-01/20/2026,GSW,Jimmy Butler III,Out,Injury/Illness - Right Knee; ACL Tear
+01/20/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right Knee; ACL Tear
 01/20/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
 01/20/2026,GSW,Al Horford,Out,Injury/Illness - Left Toe; Injury Management
 01/21/2026,CLE,Darius Garland,Out,Injury/Illness - Right Great Toe; Sprain
@@ -5783,7 +5783,7 @@ Date,Team,Player,Status,Reason
 01/22/2026,HOU,Tristen Newton,Out,G League - Two-Way
 01/22/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
 01/22/2026,PHI,MarJon Beauchamp,Out,G League - Two-Way
-01/22/2026,GSW,Jimmy Butler III,Out,Injury/Illness - Right Knee; ACL Tear
+01/22/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right Knee; ACL Tear
 01/22/2026,GSW,LJ Cryer,Out,G League - Two-Way
 01/22/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
 01/22/2026,GSW,Malevy Leons,Out,G League - Two-Way
@@ -5822,3 +5822,70 @@ Date,Team,Player,Status,Reason
 01/22/2026,POR,Kris Murray,Out,Injury/Illness - Lumbar; Strain
 01/22/2026,POR,Matisse Thybulle,Out,Injury/Illness - Right Knee; Tendinopathy
 01/22/2026,POR,Blake Wesley,Out,Injury/Illness - Right Foot; Fracture
+01/23/2026,ATL,Zaccharie Risacher,Out,Injury/Illness - Left Knee; Bone Contusion
+01/23/2026,BOS,Amari Williams,Out,G League - Two-Way
+01/23/2026,BRK,Ben Saraf,Out,G League - On Assignment
+01/23/2026,CLE,Luke Travers,Out,G League - Two-Way
+01/23/2026,DET,Tolu Smith,Out,G League - Two-Way
+01/23/2026,IND,Obi Toppin,Out,Injury/Illness - Right Foot; Stress Fracture
+01/23/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Left Great Toe; Surgery Recovery
+01/23/2026,MIL,Myles Turner,Probable,Injury/Illness - Left Ankle; Sprain
+01/23/2026,NOP,Dejounte Murray,Out,Injury/Illness - Right Achilles; Rupture
+01/23/2026,OKC,Jaylin Williams,Questionable,Injury/Illness - Left Glut; Contusion
+01/23/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
+01/23/2026,TOR,Ja'Kobe Walter,Out,Injury/Illness - Right Hip; Pointer
+01/23/2026,ATL,Kristaps Porzingis,Out,Injury/Illness - Left Achilles; Tendinitis
+01/23/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
+01/23/2026,BRK,E.J. Liddell,Out,G League - Two-Way
+01/23/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
+01/23/2026,DET,Duncan Robinson,Probable,Injury/Illness - Low Back; Sprain
+01/23/2026,IND,Ethan Thompson,Probable,G League - Two-Way
+01/23/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
+01/23/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
+01/23/2026,NOP,Herbert Jones,Questionable,Injury/Illness - Right Ankle; Sprain
+01/23/2026,OKC,Jalen Williams,Out,Injury/Illness - Right Hamstring; Strain
+01/23/2026,SAC,Daeqwon Plowden,Out,G League - Two-Way
+01/23/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Lower Back; Strain
+01/23/2026,ATL,Caleb Houstan,Questionable,G League - Two-Way
+01/23/2026,BOS,Max Shulga,Out,G League - Two-Way
+01/23/2026,BRK,Chaney Johnson,Out,G League - Two-Way
+01/23/2026,CLE,Sam Merrill,Out,Injury/Illness - Right Hand; Sprain
+01/23/2026,DET,Wendell Moore Jr.,Out,G League - Two-Way
+01/23/2026,IND,Taelon Peter,Doubtful,G League - Two-Way
+01/23/2026,MEM,Jahmai Mashack,Out,G League - Two-Way
+01/23/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Oblique Muscle; Strain
+01/23/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
+01/23/2026,OKC,Aaron Wiggins,Questionable,Injury/Illness - Right Groin; Soreness
+01/23/2026,SAC,Keegan Murray,Out,Injury/Illness - Left Ankle; Sprain
+01/23/2026,TOR,Collin Murray-Boyles,Questionable,Injury/Illness - Left Thumb; Contusion
+01/23/2026,ATL,Nikola Djurisic,Questionable,G League - On Assignment
+01/23/2026,BOS,Josh Minott,Out,Injury/Illness - Left Ankle; Sprain
+01/23/2026,BRK,Haywood Highsmith,Out,"Injury/Illness - Right Knee; Surgery, Injury Recovery"
+01/23/2026,CLE,Chris Livingston,Out,G League - Two-Way
+01/23/2026,DET,Caris LeVert,Doubtful,Injury/Illness - Illness; Illness
+01/23/2026,IND,Bennedict Mathurin,Out,Injury/Illness - Right Thumb; Sprain
+01/23/2026,MEM,Ty Jerome,Out,Injury/Illness - Right Calf; Strain
+01/23/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
+01/23/2026,NOP,Jose Alvarado,Out,Injury/Illness - Left Oblique; Strain
+01/23/2026,OKC,Nikola Topic,Out,Injury/Illness - N/a; Surgical Recovery
+01/23/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
+01/23/2026,ATL,RayJ Dennis,Questionable,G League - Two-Way
+01/23/2026,BRK,Tyson Etienne,Out,G League - Two-Way
+01/23/2026,CLE,Darius Garland,Out,Injury/Illness - Right Great Toe; Sprain
+01/23/2026,DET,Chaz Lanier,Questionable,G League - On Assignment
+01/23/2026,IND,Quenton Jackson,Questionable,Injury/Illness - Right Ankle; Sprain
+01/23/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Stress Reaction
+01/23/2026,NOP,Trey Alexander,Out,G League - Two-Way
+01/23/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
+01/23/2026,TOR,RJ Barrett,Questionable,Injury/Illness - Left Ankle; Sprain
+01/23/2026,ATL,N'Faly Dante,Out,Injury/Illness - Right Knee; Torn ACL
+01/23/2026,DET,Bobi Klintman,Out,G League - On Assignment
+01/23/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
+01/23/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
+01/23/2026,OKC,Ajay Mitchell,Out,Injury/Illness - Abdominal; Strain
+01/23/2026,DET,Isaac Jones,Out,G League - On Assignment
+01/23/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Soreness
+01/23/2026,OKC,Isaiah Hartenstein,Out,Injury/Illness - Right Soleus; Strain
+01/23/2026,DET,Ronald Holland II,Probable,Injury/Illness - Illness; Illness
+01/23/2026,OKC,Alex Caruso,Out,Injury/Illness - Right Adductor; Strain
+01/23/2026,DET,Cade Cunningham,Questionable,Injury/Illness - Left Hip; Contusion; illness
