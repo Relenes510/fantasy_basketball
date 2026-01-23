@@ -56,7 +56,7 @@ Date,Team,Player,Pos
 10/23/2024,ORL,Wendell Carter Jr.,C
 10/23/2024,MIA,Terry Rozier,PG
 10/23/2024,MIA,Tyler Herro,SG
-10/23/2024,MIA,Jimmy Butler III,SF
+10/23/2024,MIA,Jimmy Butler,SF
 10/23/2024,MIA,Nikola Jovic,SF
 10/23/2024,MIA,Bam Adebayo,C
 10/23/2024,CLE,Darius Garland,PG
@@ -292,7 +292,7 @@ Date,Team,Player,Pos
 10/26/2024,MIA,Terry Rozier,PG
 10/26/2024,MIA,Tyler Herro,SG
 10/26/2024,MIA,Nikola Jovic,SF
-10/26/2024,MIA,Jimmy Butler III,SF
+10/26/2024,MIA,Jimmy Butler,SF
 10/26/2024,MIA,Bam Adebayo,C
 10/26/2024,CHO,LaMelo Ball,PG
 10/26/2024,CHO,Seth Curry,SG
@@ -447,7 +447,7 @@ Date,Team,Player,Pos
 10/28/2024,MIA,Terry Rozier,PG
 10/28/2024,MIA,Tyler Herro,SG
 10/28/2024,MIA,Nikola Jovic,SF
-10/28/2024,MIA,Jimmy Butler III,SF
+10/28/2024,MIA,Jimmy Butler,SF
 10/28/2024,MIA,Bam Adebayo,C
 10/28/2024,CLE,Darius Garland,PG
 10/28/2024,CLE,Donovan Mitchell,SG
@@ -616,7 +616,7 @@ Date,Team,Player,Pos
 10/30/2024,NYK,Karl-Anthony Towns,PF
 10/30/2024,MIA,Terry Rozier,PG
 10/30/2024,MIA,Tyler Herro,SG
-10/30/2024,MIA,Jimmy Butler III,SF
+10/30/2024,MIA,Jimmy Butler,SF
 10/30/2024,MIA,Nikola Jovic,SF
 10/30/2024,MIA,Bam Adebayo,C
 10/30/2024,ORL,Kentavious Caldwell-Pope,SG
@@ -862,7 +862,7 @@ Date,Team,Player,Pos
 11/02/2024,MIA,Terry Rozier,PG
 11/02/2024,MIA,Tyler Herro,SG
 11/02/2024,MIA,Nikola Jovic,SF
-11/02/2024,MIA,Jimmy Butler III,SF
+11/02/2024,MIA,Jimmy Butler,SF
 11/02/2024,MIA,Bam Adebayo,C
 11/02/2024,WAS,Bub Carrington,PG
 11/02/2024,WAS,Jordan Poole,PG
@@ -986,7 +986,7 @@ Date,Team,Player,Pos
 11/04/2024,SAC,Domantas Sabonis,C
 11/04/2024,MIA,Terry Rozier,PG
 11/04/2024,MIA,Tyler Herro,SG
-11/04/2024,MIA,Jimmy Butler III,SF
+11/04/2024,MIA,Jimmy Butler,SF
 11/04/2024,MIA,Nikola Jovic,SF
 11/04/2024,MIA,Bam Adebayo,C
 11/04/2024,UTA,Collin Sexton,PG
@@ -1171,7 +1171,7 @@ Date,Team,Player,Pos
 11/06/2024,DEN,Nikola Jokic,C
 11/06/2024,MIA,Terry Rozier,PG
 11/06/2024,MIA,Tyler Herro,SG
-11/06/2024,MIA,Jimmy Butler III,SF
+11/06/2024,MIA,Jimmy Butler,SF
 11/06/2024,MIA,Nikola Jovic,SF
 11/06/2024,MIA,Bam Adebayo,C
 11/06/2024,PHO,Tyus Jones,PG
@@ -1331,7 +1331,7 @@ Date,Team,Player,Pos
 11/08/2024,MIN,Rudy Gobert,C
 11/08/2024,MIA,Terry Rozier,PG
 11/08/2024,MIA,Tyler Herro,SG
-11/08/2024,MIA,Jimmy Butler III,SF
+11/08/2024,MIA,Jimmy Butler,SF
 11/08/2024,MIA,Nikola Jovic,SF
 11/08/2024,MIA,Bam Adebayo,C
 11/08/2024,DEN,Jamal Murray,PG
@@ -2046,7 +2046,7 @@ Date,Team,Player,Pos
 11/18/2024,PHI,Joel Embiid,C
 11/18/2024,MIA,Tyler Herro,SG
 11/18/2024,MIA,Duncan Robinson,SG
-11/18/2024,MIA,Jimmy Butler III,SF
+11/18/2024,MIA,Jimmy Butler,SF
 11/18/2024,MIA,Haywood Highsmith,SF
 11/18/2024,MIA,Bam Adebayo,C
 11/18/2024,WAS,Bub Carrington,PG
@@ -2466,7 +2466,7 @@ Date,Team,Player,Pos
 11/24/2024,DAL,Dereck Lively II,C
 11/24/2024,MIA,Tyler Herro,SG
 11/24/2024,MIA,Duncan Robinson,SG
-11/24/2024,MIA,Jimmy Butler III,SF
+11/24/2024,MIA,Jimmy Butler,SF
 11/24/2024,MIA,Haywood Highsmith,SF
 11/24/2024,MIA,Bam Adebayo,C
 11/24/2024,LAC,Kris Dunn,PG
@@ -2607,7 +2607,7 @@ Date,Team,Player,Pos
 11/26/2024,MIA,Duncan Robinson,SG
 11/26/2024,MIA,Tyler Herro,SG
 11/26/2024,MIA,Haywood Highsmith,SF
-11/26/2024,MIA,Jimmy Butler III,SF
+11/26/2024,MIA,Jimmy Butler,SF
 11/26/2024,MIA,Bam Adebayo,C
 11/26/2024,HOU,Fred VanVleet,PG
 11/26/2024,HOU,Jalen Green,SG
@@ -2642,7 +2642,7 @@ Date,Team,Player,Pos
 11/27/2024,MIA,Duncan Robinson,SG
 11/27/2024,MIA,Tyler Herro,SG
 11/27/2024,MIA,Haywood Highsmith,SF
-11/27/2024,MIA,Jimmy Butler III,SF
+11/27/2024,MIA,Jimmy Butler,SF
 11/27/2024,MIA,Bam Adebayo,C
 11/27/2024,CHO,LaMelo Ball,PG
 11/27/2024,CHO,Brandon Miller,SF
@@ -2857,7 +2857,7 @@ Date,Team,Player,Pos
 11/29/2024,MIA,Duncan Robinson,SG
 11/29/2024,MIA,Tyler Herro,SG
 11/29/2024,MIA,Haywood Highsmith,SF
-11/29/2024,MIA,Jimmy Butler III,SF
+11/29/2024,MIA,Jimmy Butler,SF
 11/29/2024,MIA,Bam Adebayo,C
 11/29/2024,SAC,De'Aaron Fox,PG
 11/29/2024,SAC,Keon Ellis,SG
@@ -2951,7 +2951,7 @@ Date,Team,Player,Pos
 12/01/2024,MEM,Jaren Jackson Jr.,PF
 12/01/2024,MIA,Duncan Robinson,SG
 12/01/2024,MIA,Tyler Herro,SG
-12/01/2024,MIA,Jimmy Butler III,SF
+12/01/2024,MIA,Jimmy Butler,SF
 12/01/2024,MIA,Haywood Highsmith,SF
 12/01/2024,MIA,Bam Adebayo,C
 12/01/2024,TOR,Ja'Kobe Walter,SG
@@ -3216,7 +3216,7 @@ Date,Team,Player,Pos
 12/04/2024,LAL,Anthony Davis,C
 12/04/2024,MIA,Tyler Herro,SG
 12/04/2024,MIA,Duncan Robinson,SG
-12/04/2024,MIA,Jimmy Butler III,SF
+12/04/2024,MIA,Jimmy Butler,SF
 12/04/2024,MIA,Haywood Highsmith,SF
 12/04/2024,MIA,Bam Adebayo,C
 12/04/2024,ATL,Trae Young,PG
@@ -3456,7 +3456,7 @@ Date,Team,Player,Pos
 12/07/2024,PHO,Mason Plumlee,C
 12/07/2024,MIA,Duncan Robinson,SG
 12/07/2024,MIA,Tyler Herro,SG
-12/07/2024,MIA,Jimmy Butler III,SF
+12/07/2024,MIA,Jimmy Butler,SF
 12/07/2024,MIA,Haywood Highsmith,SF
 12/07/2024,MIA,Bam Adebayo,C
 12/08/2024,PHI,Tyrese Maxey,PG
@@ -3506,7 +3506,7 @@ Date,Team,Player,Pos
 12/08/2024,CLE,Jarrett Allen,C
 12/08/2024,MIA,Duncan Robinson,SG
 12/08/2024,MIA,Tyler Herro,SG
-12/08/2024,MIA,Jimmy Butler III,SF
+12/08/2024,MIA,Jimmy Butler,SF
 12/08/2024,MIA,Haywood Highsmith,SF
 12/08/2024,MIA,Bam Adebayo,C
 12/08/2024,PHO,Tyus Jones,PG
@@ -3636,7 +3636,7 @@ Date,Team,Player,Pos
 12/12/2024,TOR,Bruno Fernando,C
 12/12/2024,MIA,Duncan Robinson,SG
 12/12/2024,MIA,Tyler Herro,SG
-12/12/2024,MIA,Jimmy Butler III,SF
+12/12/2024,MIA,Jimmy Butler,SF
 12/12/2024,MIA,Haywood Highsmith,SF
 12/12/2024,MIA,Bam Adebayo,C
 12/12/2024,DET,Cade Cunningham,PG
@@ -3841,7 +3841,7 @@ Date,Team,Player,Pos
 12/16/2024,CHO,Mark Williams,C
 12/16/2024,MIA,Duncan Robinson,SG
 12/16/2024,MIA,Tyler Herro,SG
-12/16/2024,MIA,Jimmy Butler III,SF
+12/16/2024,MIA,Jimmy Butler,SF
 12/16/2024,MIA,Haywood Highsmith,SF
 12/16/2024,MIA,Bam Adebayo,C
 12/16/2024,DET,Cade Cunningham,PG
@@ -4056,7 +4056,7 @@ Date,Team,Player,Pos
 12/20/2024,OKC,Isaiah Hartenstein,C
 12/20/2024,MIA,Tyler Herro,SG
 12/20/2024,MIA,Duncan Robinson,SG
-12/20/2024,MIA,Jimmy Butler III,SF
+12/20/2024,MIA,Jimmy Butler,SF
 12/20/2024,MIA,Haywood Highsmith,SF
 12/20/2024,MIA,Bam Adebayo,C
 12/21/2024,LAL,Austin Reaves,SG
@@ -4886,7 +4886,7 @@ Date,Team,Player,Pos
 01/01/2025,NOP,Yves Missi,C
 01/01/2025,MIA,Duncan Robinson,SG
 01/01/2025,MIA,Tyler Herro,SG
-01/01/2025,MIA,Jimmy Butler III,SF
+01/01/2025,MIA,Jimmy Butler,SF
 01/01/2025,MIA,Haywood Highsmith,SF
 01/01/2025,MIA,Bam Adebayo,C
 01/01/2025,BRK,Shake Milton,PG
@@ -4946,7 +4946,7 @@ Date,Team,Player,Pos
 01/02/2025,IND,Myles Turner,C
 01/02/2025,MIA,Tyler Herro,SG
 01/02/2025,MIA,Duncan Robinson,SG
-01/02/2025,MIA,Jimmy Butler III,SF
+01/02/2025,MIA,Jimmy Butler,SF
 01/02/2025,MIA,Haywood Highsmith,SF
 01/02/2025,MIA,Bam Adebayo,C
 01/02/2025,LAC,Kris Dunn,PG
@@ -6056,7 +6056,7 @@ Date,Team,Player,Pos
 01/17/2025,DEN,Nikola Jokic,C
 01/17/2025,MIA,Duncan Robinson,SG
 01/17/2025,MIA,Tyler Herro,SG
-01/17/2025,MIA,Jimmy Butler III,SF
+01/17/2025,MIA,Jimmy Butler,SF
 01/17/2025,MIA,Haywood Highsmith,SF
 01/17/2025,MIA,Bam Adebayo,C
 01/17/2025,TOR,Davion Mitchell,PG
@@ -6187,7 +6187,7 @@ Date,Team,Player,Pos
 01/19/2025,MIA,Tyler Herro,SG
 01/19/2025,MIA,Duncan Robinson,SG
 01/19/2025,MIA,Haywood Highsmith,SF
-01/19/2025,MIA,Jimmy Butler III,SF
+01/19/2025,MIA,Jimmy Butler,SF
 01/19/2025,MIA,Bam Adebayo,C
 01/19/2025,DEN,Jamal Murray,PG
 01/19/2025,DEN,Russell Westbrook,PG
@@ -6346,7 +6346,7 @@ Date,Team,Player,Pos
 01/21/2025,POR,Deandre Ayton,C
 01/21/2025,MIA,Terry Rozier,PG
 01/21/2025,MIA,Duncan Robinson,SG
-01/21/2025,MIA,Jimmy Butler III,SF
+01/21/2025,MIA,Jimmy Butler,SF
 01/21/2025,MIA,Kel'el Ware,C
 01/21/2025,MIA,Bam Adebayo,C
 01/21/2025,ORL,Anthony Black,PG
@@ -7711,7 +7711,7 @@ Date,Team,Player,Pos
 02/08/2025,WAS,Richaun Holmes,PF
 02/08/2025,GSW,Stephen Curry,PG
 02/08/2025,GSW,Buddy Hield,SF
-02/08/2025,GSW,Jimmy Butler III,SF
+02/08/2025,GSW,Jimmy Butler,SF
 02/08/2025,GSW,Draymond Green,PF
 02/08/2025,GSW,Quinten Post,C
 02/08/2025,CHI,Ayo Dosunmu,PG
@@ -7861,7 +7861,7 @@ Date,Team,Player,Pos
 02/10/2025,MIA,Kel'el Ware,C
 02/10/2025,GSW,Stephen Curry,PG
 02/10/2025,GSW,Moses Moody,SG
-02/10/2025,GSW,Jimmy Butler III,SF
+02/10/2025,GSW,Jimmy Butler,SF
 02/10/2025,GSW,Buddy Hield,SF
 02/10/2025,GSW,Draymond Green,PF
 02/10/2025,MIL,Damian Lillard,PG
@@ -8080,7 +8080,7 @@ Date,Team,Player,Pos
 02/12/2025,UTA,Lauri Markkanen,PF
 02/12/2025,UTA,John Collins,PF
 02/12/2025,GSW,Stephen Curry,PG
-02/12/2025,GSW,Jimmy Butler III,SF
+02/12/2025,GSW,Jimmy Butler,SF
 02/12/2025,GSW,Buddy Hield,SF
 02/12/2025,GSW,Draymond Green,PF
 02/12/2025,GSW,Quinten Post,C
@@ -8112,7 +8112,7 @@ Date,Team,Player,Pos
 02/13/2025,GSW,Stephen Curry,PG
 02/13/2025,GSW,Moses Moody,SG
 02/13/2025,GSW,Brandin Podziemski,SG
-02/13/2025,GSW,Jimmy Butler III,SF
+02/13/2025,GSW,Jimmy Butler,SF
 02/13/2025,GSW,Draymond Green,PF
 02/13/2025,HOU,Aaron Holiday,PG
 02/13/2025,HOU,Jalen Green,SG
@@ -8332,7 +8332,7 @@ Date,Team,Player,Pos
 02/21/2025,GSW,Stephen Curry,PG
 02/21/2025,GSW,Brandin Podziemski,SG
 02/21/2025,GSW,Moses Moody,SG
-02/21/2025,GSW,Jimmy Butler III,SF
+02/21/2025,GSW,Jimmy Butler,SF
 02/21/2025,GSW,Draymond Green,PF
 02/21/2025,SAC,Zach LaVine,SG
 02/21/2025,SAC,Malik Monk,SG
@@ -8407,7 +8407,7 @@ Date,Team,Player,Pos
 02/23/2025,GSW,Stephen Curry,PG
 02/23/2025,GSW,Brandin Podziemski,SG
 02/23/2025,GSW,Moses Moody,SG
-02/23/2025,GSW,Jimmy Butler III,SF
+02/23/2025,GSW,Jimmy Butler,SF
 02/23/2025,GSW,Draymond Green,PF
 02/23/2025,LAC,Kris Dunn,PG
 02/23/2025,LAC,James Harden,SG
@@ -8627,7 +8627,7 @@ Date,Team,Player,Pos
 02/25/2025,GSW,Stephen Curry,PG
 02/25/2025,GSW,Moses Moody,SG
 02/25/2025,GSW,Brandin Podziemski,SG
-02/25/2025,GSW,Jimmy Butler III,SF
+02/25/2025,GSW,Jimmy Butler,SF
 02/25/2025,GSW,Draymond Green,PF
 02/25/2025,DAL,Kyrie Irving,PG
 02/25/2025,DAL,Max Christie,SG
@@ -8732,7 +8732,7 @@ Date,Team,Player,Pos
 02/27/2025,GSW,Stephen Curry,PG
 02/27/2025,GSW,Brandin Podziemski,SG
 02/27/2025,GSW,Moses Moody,SG
-02/27/2025,GSW,Jimmy Butler III,SF
+02/27/2025,GSW,Jimmy Butler,SF
 02/27/2025,GSW,Draymond Green,PF
 02/27/2025,ORL,Cole Anthony,PG
 02/27/2025,ORL,Kentavious Caldwell-Pope,SG
@@ -9032,7 +9032,7 @@ Date,Team,Player,Pos
 03/03/2025,GSW,Stephen Curry,PG
 03/03/2025,GSW,Moses Moody,SG
 03/03/2025,GSW,Brandin Podziemski,SG
-03/03/2025,GSW,Jimmy Butler III,SF
+03/03/2025,GSW,Jimmy Butler,SF
 03/03/2025,GSW,Draymond Green,PF
 03/03/2025,CHO,Nick Smith Jr.,PG
 03/03/2025,CHO,LaMelo Ball,PG
@@ -9132,7 +9132,7 @@ Date,Team,Player,Pos
 03/04/2025,GSW,Stephen Curry,PG
 03/04/2025,GSW,Brandin Podziemski,SG
 03/04/2025,GSW,Moses Moody,SG
-03/04/2025,GSW,Jimmy Butler III,SF
+03/04/2025,GSW,Jimmy Butler,SF
 03/04/2025,GSW,Draymond Green,PF
 03/04/2025,NYK,Jalen Brunson,PG
 03/04/2025,NYK,Mikal Bridges,SF
@@ -9302,7 +9302,7 @@ Date,Team,Player,Pos
 03/06/2025,GSW,Stephen Curry,PG
 03/06/2025,GSW,Brandin Podziemski,SG
 03/06/2025,GSW,Moses Moody,SG
-03/06/2025,GSW,Jimmy Butler III,SF
+03/06/2025,GSW,Jimmy Butler,SF
 03/06/2025,GSW,Draymond Green,PF
 03/06/2025,BRK,D'Angelo Russell,PG
 03/06/2025,BRK,Keon Johnson,SG
@@ -9486,7 +9486,7 @@ Date,Team,Player,Pos
 03/08/2025,DET,Jalen Duren,C
 03/08/2025,GSW,Stephen Curry,PG
 03/08/2025,GSW,Moses Moody,SG
-03/08/2025,GSW,Jimmy Butler III,SF
+03/08/2025,GSW,Jimmy Butler,SF
 03/08/2025,GSW,Draymond Green,PF
 03/08/2025,GSW,Quinten Post,C
 03/09/2025,DEN,Jamal Murray,PG
@@ -9676,7 +9676,7 @@ Date,Team,Player,Pos
 03/10/2025,POR,Donovan Clingan,C
 03/10/2025,GSW,Stephen Curry,PG
 03/10/2025,GSW,Moses Moody,SG
-03/10/2025,GSW,Jimmy Butler III,SF
+03/10/2025,GSW,Jimmy Butler,SF
 03/10/2025,GSW,Draymond Green,PF
 03/10/2025,GSW,Quinten Post,C
 03/10/2025,NYK,Miles McBride,PG
@@ -9866,7 +9866,7 @@ Date,Team,Player,Pos
 03/13/2025,SAC,Jonas Valanciunas,C
 03/13/2025,GSW,Stephen Curry,PG
 03/13/2025,GSW,Moses Moody,SG
-03/13/2025,GSW,Jimmy Butler III,SF
+03/13/2025,GSW,Jimmy Butler,SF
 03/13/2025,GSW,Draymond Green,PF
 03/13/2025,GSW,Quinten Post,C
 03/14/2025,BOS,Jrue Holiday,PG
@@ -10036,7 +10036,7 @@ Date,Team,Player,Pos
 03/15/2025,NYK,Karl-Anthony Towns,PF
 03/15/2025,GSW,Stephen Curry,PG
 03/15/2025,GSW,Moses Moody,SG
-03/15/2025,GSW,Jimmy Butler III,SF
+03/15/2025,GSW,Jimmy Butler,SF
 03/15/2025,GSW,Gui Santos,SF
 03/15/2025,GSW,Draymond Green,PF
 03/15/2025,WAS,Jordan Poole,PG
@@ -10186,7 +10186,7 @@ Date,Team,Player,Pos
 03/17/2025,DEN,Aaron Gordon,PF
 03/17/2025,GSW,Stephen Curry,PG
 03/17/2025,GSW,Moses Moody,SG
-03/17/2025,GSW,Jimmy Butler III,SF
+03/17/2025,GSW,Jimmy Butler,SF
 03/17/2025,GSW,Draymond Green,PF
 03/17/2025,GSW,Quinten Post,C
 03/17/2025,TOR,Immanuel Quickley,PG
@@ -10256,7 +10256,7 @@ Date,Team,Player,Pos
 03/18/2025,MIL,Brook Lopez,C
 03/18/2025,GSW,Moses Moody,SG
 03/18/2025,GSW,Brandin Podziemski,SG
-03/18/2025,GSW,Jimmy Butler III,SF
+03/18/2025,GSW,Jimmy Butler,SF
 03/18/2025,GSW,Draymond Green,PF
 03/18/2025,GSW,Quinten Post,C
 03/18/2025,CLE,Darius Garland,PG
@@ -10417,7 +10417,7 @@ Date,Team,Player,Pos
 03/20/2025,GSW,Stephen Curry,PG
 03/20/2025,GSW,Brandin Podziemski,SG
 03/20/2025,GSW,Moses Moody,SG
-03/20/2025,GSW,Jimmy Butler III,SF
+03/20/2025,GSW,Jimmy Butler,SF
 03/20/2025,GSW,Draymond Green,PF
 03/20/2025,MIL,Ryan Rollins,SG
 03/20/2025,MIL,Taurean Prince,SF
@@ -10541,7 +10541,7 @@ Date,Team,Player,Pos
 03/22/2025,IND,Myles Turner,C
 03/22/2025,GSW,Brandin Podziemski,SG
 03/22/2025,GSW,Moses Moody,SG
-03/22/2025,GSW,Jimmy Butler III,SF
+03/22/2025,GSW,Jimmy Butler,SF
 03/22/2025,GSW,Draymond Green,PF
 03/22/2025,GSW,Quinten Post,C
 03/22/2025,ATL,Trae Young,PG
@@ -10762,7 +10762,7 @@ Date,Team,Player,Pos
 03/25/2025,GSW,Gary Payton II,PG
 03/25/2025,GSW,Moses Moody,SG
 03/25/2025,GSW,Brandin Podziemski,SG
-03/25/2025,GSW,Jimmy Butler III,SF
+03/25/2025,GSW,Jimmy Butler,SF
 03/25/2025,GSW,Draymond Green,PF
 03/25/2025,MIA,Alec Burks,SG
 03/25/2025,MIA,Tyler Herro,SG
@@ -11012,7 +11012,7 @@ Date,Team,Player,Pos
 03/28/2025,GSW,Stephen Curry,PG
 03/28/2025,GSW,Moses Moody,SG
 03/28/2025,GSW,Brandin Podziemski,SG
-03/28/2025,GSW,Jimmy Butler III,SF
+03/28/2025,GSW,Jimmy Butler,SF
 03/28/2025,GSW,Draymond Green,PF
 03/28/2025,NOP,Jose Alvarado,PG
 03/28/2025,NOP,Bruce Brown,SG
@@ -11142,7 +11142,7 @@ Date,Team,Player,Pos
 03/30/2025,GSW,Stephen Curry,PG
 03/30/2025,GSW,Brandin Podziemski,SG
 03/30/2025,GSW,Moses Moody,SG
-03/30/2025,GSW,Jimmy Butler III,SF
+03/30/2025,GSW,Jimmy Butler,SF
 03/30/2025,GSW,Draymond Green,PF
 03/30/2025,SAS,Chris Paul,PG
 03/30/2025,SAS,Devin Vassell,SG
@@ -11302,7 +11302,7 @@ Date,Team,Player,Pos
 04/01/2025,GSW,Stephen Curry,PG
 04/01/2025,GSW,Brandin Podziemski,SG
 04/01/2025,GSW,Moses Moody,SG
-04/01/2025,GSW,Jimmy Butler III,SF
+04/01/2025,GSW,Jimmy Butler,SF
 04/01/2025,GSW,Draymond Green,PF
 04/01/2025,MEM,Ja Morant,PG
 04/01/2025,MEM,Desmond Bane,SG
@@ -11472,7 +11472,7 @@ Date,Team,Player,Pos
 04/03/2025,GSW,Stephen Curry,PG
 04/03/2025,GSW,Moses Moody,SG
 04/03/2025,GSW,Brandin Podziemski,SG
-04/03/2025,GSW,Jimmy Butler III,SF
+04/03/2025,GSW,Jimmy Butler,SF
 04/03/2025,GSW,Draymond Green,PF
 04/03/2025,LAL,Luka Doncic,PG
 04/03/2025,LAL,Austin Reaves,SG
@@ -11557,7 +11557,7 @@ Date,Team,Player,Pos
 04/04/2025,GSW,Stephen Curry,PG
 04/04/2025,GSW,Moses Moody,SG
 04/04/2025,GSW,Brandin Podziemski,SG
-04/04/2025,GSW,Jimmy Butler III,SF
+04/04/2025,GSW,Jimmy Butler,SF
 04/04/2025,GSW,Draymond Green,PF
 04/04/2025,NOP,Jose Alvarado,PG
 04/04/2025,NOP,Bruce Brown,SG
@@ -11727,7 +11727,7 @@ Date,Team,Player,Pos
 04/06/2025,GSW,Stephen Curry,PG
 04/06/2025,GSW,Moses Moody,SG
 04/06/2025,GSW,Brandin Podziemski,SG
-04/06/2025,GSW,Jimmy Butler III,SF
+04/06/2025,GSW,Jimmy Butler,SF
 04/06/2025,GSW,Draymond Green,PF
 04/06/2025,MIL,Kevin Porter Jr.,PG
 04/06/2025,MIL,Gary Trent Jr.,SG
@@ -11842,7 +11842,7 @@ Date,Team,Player,Pos
 04/08/2025,GSW,Stephen Curry,PG
 04/08/2025,GSW,Moses Moody,SG
 04/08/2025,GSW,Brandin Podziemski,SG
-04/08/2025,GSW,Jimmy Butler III,SF
+04/08/2025,GSW,Jimmy Butler,SF
 04/08/2025,GSW,Draymond Green,PF
 04/08/2025,PHO,Bradley Beal,SG
 04/08/2025,PHO,Devin Booker,SG
@@ -11927,7 +11927,7 @@ Date,Team,Player,Pos
 04/09/2025,GSW,Stephen Curry,PG
 04/09/2025,GSW,Brandin Podziemski,SG
 04/09/2025,GSW,Moses Moody,SG
-04/09/2025,GSW,Jimmy Butler III,SF
+04/09/2025,GSW,Jimmy Butler,SF
 04/09/2025,GSW,Draymond Green,PF
 04/09/2025,DEN,Jalen Pickett,SG
 04/09/2025,DEN,Christian Braun,SG
@@ -12132,7 +12132,7 @@ Date,Team,Player,Pos
 04/11/2025,GSW,Stephen Curry,PG
 04/11/2025,GSW,Brandin Podziemski,SG
 04/11/2025,GSW,Moses Moody,SG
-04/11/2025,GSW,Jimmy Butler III,SF
+04/11/2025,GSW,Jimmy Butler,SF
 04/11/2025,GSW,Draymond Green,PF
 04/11/2025,POR,Dalano Banton,PG
 04/11/2025,POR,Matisse Thybulle,SG
@@ -12277,7 +12277,7 @@ Date,Team,Player,Pos
 04/13/2025,GSW,Stephen Curry,PG
 04/13/2025,GSW,Moses Moody,SG
 04/13/2025,GSW,Brandin Podziemski,SG
-04/13/2025,GSW,Jimmy Butler III,SF
+04/13/2025,GSW,Jimmy Butler,SF
 04/13/2025,GSW,Draymond Green,PF
 04/13/2025,LAL,Bronny James Jr.,PG
 04/13/2025,LAL,Shake Milton,PG
@@ -12327,7 +12327,7 @@ Date,Team,Player,Pos
 04/15/2025,GSW,Stephen Curry,PG
 04/15/2025,GSW,Moses Moody,SG
 04/15/2025,GSW,Brandin Podziemski,SG
-04/15/2025,GSW,Jimmy Butler III,SF
+04/15/2025,GSW,Jimmy Butler,SF
 04/15/2025,GSW,Draymond Green,PF
 04/16/2025,MIA,Alec Burks,SG
 04/16/2025,MIA,Tyler Herro,SG
@@ -12442,7 +12442,7 @@ Date,Team,Player,Pos
 04/20/2025,GSW,Stephen Curry,PG
 04/20/2025,GSW,Brandin Podziemski,SG
 04/20/2025,GSW,Moses Moody,SG
-04/20/2025,GSW,Jimmy Butler III,SF
+04/20/2025,GSW,Jimmy Butler,SF
 04/20/2025,GSW,Draymond Green,PF
 04/20/2025,HOU,Fred VanVleet,PG
 04/20/2025,HOU,Jalen Green,SG
@@ -12522,7 +12522,7 @@ Date,Team,Player,Pos
 04/23/2025,GSW,Stephen Curry,PG
 04/23/2025,GSW,Brandin Podziemski,SG
 04/23/2025,GSW,Moses Moody,SG
-04/23/2025,GSW,Jimmy Butler III,SF
+04/23/2025,GSW,Jimmy Butler,SF
 04/23/2025,GSW,Draymond Green,PF
 04/23/2025,HOU,Fred VanVleet,PG
 04/23/2025,HOU,Jalen Green,SG
@@ -12687,7 +12687,7 @@ Date,Team,Player,Pos
 04/28/2025,GSW,Stephen Curry,PG
 04/28/2025,GSW,Brandin Podziemski,SG
 04/28/2025,GSW,Buddy Hield,SF
-04/28/2025,GSW,Jimmy Butler III,SF
+04/28/2025,GSW,Jimmy Butler,SF
 04/28/2025,GSW,Draymond Green,PF
 04/29/2025,MIL,Kevin Porter Jr.,PG
 04/29/2025,MIL,Gary Trent Jr.,SG
@@ -12731,7 +12731,7 @@ Date,Team,Player,Pos
 04/29/2025,DEN,Nikola Jokic,C
 04/30/2025,GSW,Stephen Curry,PG
 04/30/2025,GSW,Brandin Podziemski,SG
-04/30/2025,GSW,Jimmy Butler III,SF
+04/30/2025,GSW,Jimmy Butler,SF
 04/30/2025,GSW,Buddy Hield,SF
 04/30/2025,GSW,Draymond Green,PF
 04/30/2025,HOU,Fred VanVleet,PG
@@ -12776,7 +12776,7 @@ Date,Team,Player,Pos
 05/02/2025,HOU,Alperen Sengun,C
 05/02/2025,GSW,Gary Payton II,PG
 05/02/2025,GSW,Stephen Curry,PG
-05/02/2025,GSW,Jimmy Butler III,SF
+05/02/2025,GSW,Jimmy Butler,SF
 05/02/2025,GSW,Buddy Hield,SF
 05/02/2025,GSW,Draymond Green,PF
 05/03/2025,LAC,Norman Powell,SG
@@ -12801,7 +12801,7 @@ Date,Team,Player,Pos
 05/04/2025,CLE,Jarrett Allen,C
 05/04/2025,GSW,Stephen Curry,PG
 05/04/2025,GSW,Brandin Podziemski,SG
-05/04/2025,GSW,Jimmy Butler III,SF
+05/04/2025,GSW,Jimmy Butler,SF
 05/04/2025,GSW,Buddy Hield,SF
 05/04/2025,GSW,Draymond Green,PF
 05/04/2025,HOU,Fred VanVleet,PG
@@ -12841,7 +12841,7 @@ Date,Team,Player,Pos
 05/06/2025,CLE,Jarrett Allen,C
 05/06/2025,GSW,Stephen Curry,PG
 05/06/2025,GSW,Brandin Podziemski,SG
-05/06/2025,GSW,Jimmy Butler III,SF
+05/06/2025,GSW,Jimmy Butler,SF
 05/06/2025,GSW,Buddy Hield,SF
 05/06/2025,GSW,Draymond Green,PF
 05/06/2025,MIN,Mike Conley,PG
@@ -12870,7 +12870,7 @@ Date,Team,Player,Pos
 05/07/2025,OKC,Chet Holmgren,C
 05/07/2025,OKC,Isaiah Hartenstein,C
 05/08/2025,GSW,Brandin Podziemski,SG
-05/08/2025,GSW,Jimmy Butler III,SF
+05/08/2025,GSW,Jimmy Butler,SF
 05/08/2025,GSW,Buddy Hield,SF
 05/08/2025,GSW,Draymond Green,PF
 05/08/2025,GSW,Quinten Post,C
@@ -12915,7 +12915,7 @@ Date,Team,Player,Pos
 05/10/2025,MIN,Jaden McDaniels,PF
 05/10/2025,MIN,Rudy Gobert,C
 05/10/2025,GSW,Brandin Podziemski,SG
-05/10/2025,GSW,Jimmy Butler III,SF
+05/10/2025,GSW,Jimmy Butler,SF
 05/10/2025,GSW,Buddy Hield,SF
 05/10/2025,GSW,Draymond Green,PF
 05/10/2025,GSW,Trayce Jackson-Davis,PF
@@ -12956,7 +12956,7 @@ Date,Team,Player,Pos
 05/12/2025,MIN,Rudy Gobert,C
 05/12/2025,GSW,Brandin Podziemski,SG
 05/12/2025,GSW,Buddy Hield,SF
-05/12/2025,GSW,Jimmy Butler III,SF
+05/12/2025,GSW,Jimmy Butler,SF
 05/12/2025,GSW,Draymond Green,PF
 05/12/2025,GSW,Trayce Jackson-Davis,PF
 05/13/2025,IND,Tyrese Haliburton,PG
@@ -12991,7 +12991,7 @@ Date,Team,Player,Pos
 05/14/2025,BOS,Kristaps Porzingis,C
 05/14/2025,GSW,Brandin Podziemski,SG
 05/14/2025,GSW,Buddy Hield,SF
-05/14/2025,GSW,Jimmy Butler III,SF
+05/14/2025,GSW,Jimmy Butler,SF
 05/14/2025,GSW,Draymond Green,PF
 05/14/2025,GSW,Trayce Jackson-Davis,PF
 05/14/2025,MIN,Mike Conley,PG

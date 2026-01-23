@@ -66,7 +66,7 @@ Date,Team,Player,Pos
 10/19/2022,CHI,Nikola Vucevic,C
 10/19/2022,MIA,Kyle Lowry,PG
 10/19/2022,MIA,Tyler Herro,SG
-10/19/2022,MIA,Jimmy Butler III,SF
+10/19/2022,MIA,Jimmy Butler,SF
 10/19/2022,MIA,Caleb Martin,PF
 10/19/2022,MIA,Bam Adebayo,C
 10/19/2022,NOP,CJ McCollum,PG
@@ -196,7 +196,7 @@ Date,Team,Player,Pos
 10/21/2022,BOS,Al Horford,C
 10/21/2022,MIA,Kyle Lowry,PG
 10/21/2022,MIA,Tyler Herro,SG
-10/21/2022,MIA,Jimmy Butler III,SF
+10/21/2022,MIA,Jimmy Butler,SF
 10/21/2022,MIA,Caleb Martin,PF
 10/21/2022,MIA,Bam Adebayo,C
 10/21/2022,DET,Cade Cunningham,PG
@@ -316,7 +316,7 @@ Date,Team,Player,Pos
 10/22/2022,TOR,Pascal Siakam,PF
 10/22/2022,MIA,Kyle Lowry,PG
 10/22/2022,MIA,Tyler Herro,SG
-10/22/2022,MIA,Jimmy Butler III,SF
+10/22/2022,MIA,Jimmy Butler,SF
 10/22/2022,MIA,Caleb Martin,PF
 10/22/2022,MIA,Bam Adebayo,C
 10/22/2022,HOU,Jalen Green,SG
@@ -447,7 +447,7 @@ Date,Team,Player,Pos
 10/24/2022,MIA,Kyle Lowry,PG
 10/24/2022,MIA,Max Strus,SG
 10/24/2022,MIA,Tyler Herro,SG
-10/24/2022,MIA,Jimmy Butler III,SF
+10/24/2022,MIA,Jimmy Butler,SF
 10/24/2022,MIA,Bam Adebayo,C
 10/24/2022,ORL,Cole Anthony,PG
 10/24/2022,ORL,Terrence Ross,SG
@@ -641,7 +641,7 @@ Date,Team,Player,Pos
 10/26/2022,DEN,Nikola Jokic,C
 10/26/2022,MIA,Kyle Lowry,PG
 10/26/2022,MIA,Tyler Herro,SG
-10/26/2022,MIA,Jimmy Butler III,SF
+10/26/2022,MIA,Jimmy Butler,SF
 10/26/2022,MIA,Caleb Martin,PF
 10/26/2022,MIA,Bam Adebayo,C
 10/26/2022,POR,Damian Lillard,PG
@@ -671,7 +671,7 @@ Date,Team,Player,Pos
 10/27/2022,OKC,Jeremiah Robinson-Earl,C
 10/27/2022,MIA,Kyle Lowry,PG
 10/27/2022,MIA,Tyler Herro,SG
-10/27/2022,MIA,Jimmy Butler III,SF
+10/27/2022,MIA,Jimmy Butler,SF
 10/27/2022,MIA,Caleb Martin,PF
 10/27/2022,MIA,Bam Adebayo,C
 10/27/2022,GSW,Stephen Curry,PG
@@ -801,7 +801,7 @@ Date,Team,Player,Pos
 10/28/2022,POR,Jusuf Nurkic,C
 10/29/2022,MIA,Kyle Lowry,PG
 10/29/2022,MIA,Tyler Herro,SG
-10/29/2022,MIA,Jimmy Butler III,SF
+10/29/2022,MIA,Jimmy Butler,SF
 10/29/2022,MIA,Caleb Martin,PF
 10/29/2022,MIA,Bam Adebayo,C
 10/29/2022,SAC,De'Aaron Fox,PG
@@ -1026,7 +1026,7 @@ Date,Team,Player,Pos
 11/01/2022,GSW,Kevon Looney,C
 11/01/2022,MIA,Kyle Lowry,PG
 11/01/2022,MIA,Tyler Herro,SG
-11/01/2022,MIA,Jimmy Butler III,SF
+11/01/2022,MIA,Jimmy Butler,SF
 11/01/2022,MIA,Caleb Martin,PF
 11/01/2022,MIA,Bam Adebayo,C
 11/01/2022,CHI,Ayo Dosunmu,PG
@@ -1496,7 +1496,7 @@ Date,Team,Player,Pos
 11/07/2022,POR,Jusuf Nurkic,C
 11/07/2022,MIA,Kyle Lowry,PG
 11/07/2022,MIA,Max Strus,SG
-11/07/2022,MIA,Jimmy Butler III,SF
+11/07/2022,MIA,Jimmy Butler,SF
 11/07/2022,MIA,Caleb Martin,PF
 11/07/2022,MIA,Bam Adebayo,C
 11/07/2022,TOR,Fred VanVleet,PG
@@ -1736,7 +1736,7 @@ Date,Team,Player,Pos
 11/10/2022,CHO,Mason Plumlee,C
 11/10/2022,MIA,Kyle Lowry,PG
 11/10/2022,MIA,Max Strus,SG
-11/10/2022,MIA,Jimmy Butler III,SF
+11/10/2022,MIA,Jimmy Butler,SF
 11/10/2022,MIA,Caleb Martin,PF
 11/10/2022,MIA,Bam Adebayo,C
 11/10/2022,POR,Anfernee Simons,SG
@@ -1886,7 +1886,7 @@ Date,Team,Player,Pos
 11/12/2022,CHO,Mason Plumlee,C
 11/12/2022,MIA,Kyle Lowry,PG
 11/12/2022,MIA,Max Strus,SG
-11/12/2022,MIA,Jimmy Butler III,SF
+11/12/2022,MIA,Jimmy Butler,SF
 11/12/2022,MIA,Caleb Martin,PF
 11/12/2022,MIA,Bam Adebayo,C
 11/12/2022,POR,Damian Lillard,PG
@@ -2006,7 +2006,7 @@ Date,Team,Player,Pos
 11/14/2022,PHO,Deandre Ayton,C
 11/14/2022,MIA,Kyle Lowry,PG
 11/14/2022,MIA,Max Strus,SG
-11/14/2022,MIA,Jimmy Butler III,SF
+11/14/2022,MIA,Jimmy Butler,SF
 11/14/2022,MIA,Caleb Martin,PF
 11/14/2022,MIA,Bam Adebayo,C
 11/14/2022,OKC,Shai Gilgeous-Alexander,PG
@@ -2141,7 +2141,7 @@ Date,Team,Player,Pos
 11/16/2022,ATL,Clint Capela,C
 11/16/2022,MIA,Kyle Lowry,PG
 11/16/2022,MIA,Max Strus,SG
-11/16/2022,MIA,Jimmy Butler III,SF
+11/16/2022,MIA,Jimmy Butler,SF
 11/16/2022,MIA,Nikola Jovic,SF
 11/16/2022,MIA,Caleb Martin,PF
 11/16/2022,TOR,Fred VanVleet,PG
@@ -3271,7 +3271,7 @@ Date,Team,Player,Pos
 12/02/2022,ATL,Clint Capela,C
 12/02/2022,MIA,Kyle Lowry,PG
 12/02/2022,MIA,Tyler Herro,SG
-12/02/2022,MIA,Jimmy Butler III,SF
+12/02/2022,MIA,Jimmy Butler,SF
 12/02/2022,MIA,Caleb Martin,PF
 12/02/2022,MIA,Bam Adebayo,C
 12/02/2022,BOS,Marcus Smart,PG
@@ -3551,7 +3551,7 @@ Date,Team,Player,Pos
 12/05/2022,TOR,Christian Koloko,C
 12/05/2022,MIA,Kyle Lowry,PG
 12/05/2022,MIA,Tyler Herro,SG
-12/05/2022,MIA,Jimmy Butler III,SF
+12/05/2022,MIA,Jimmy Butler,SF
 12/05/2022,MIA,Caleb Martin,PF
 12/05/2022,MIA,Bam Adebayo,C
 12/05/2022,MEM,Tyus Jones,PG
@@ -3736,7 +3736,7 @@ Date,Team,Player,Pos
 12/08/2022,LAC,Ivica Zubac,C
 12/08/2022,MIA,Dru Smith,PG
 12/08/2022,MIA,Tyler Herro,SG
-12/08/2022,MIA,Jimmy Butler III,SF
+12/08/2022,MIA,Jimmy Butler,SF
 12/08/2022,MIA,Caleb Martin,PF
 12/08/2022,MIA,Bam Adebayo,C
 12/08/2022,HOU,Kevin Porter Jr.,PG
@@ -3866,7 +3866,7 @@ Date,Team,Player,Pos
 12/10/2022,SAS,Zach Collins,C
 12/10/2022,MIA,Kyle Lowry,PG
 12/10/2022,MIA,Tyler Herro,SG
-12/10/2022,MIA,Jimmy Butler III,SF
+12/10/2022,MIA,Jimmy Butler,SF
 12/10/2022,MIA,Caleb Martin,PF
 12/10/2022,MIA,Bam Adebayo,C
 12/10/2022,BRK,Edmond Sumner,PG
@@ -4011,7 +4011,7 @@ Date,Team,Player,Pos
 12/11/2022,HOU,Alperen Sengun,C
 12/12/2022,MIA,Kyle Lowry,PG
 12/12/2022,MIA,Tyler Herro,SG
-12/12/2022,MIA,Jimmy Butler III,SF
+12/12/2022,MIA,Jimmy Butler,SF
 12/12/2022,MIA,Caleb Martin,PF
 12/12/2022,MIA,Bam Adebayo,C
 12/12/2022,IND,Tyrese Haliburton,PG
@@ -4231,7 +4231,7 @@ Date,Team,Player,Pos
 12/14/2022,LAC,Ivica Zubac,C
 12/15/2022,MIA,Tyler Herro,SG
 12/15/2022,MIA,Max Strus,SG
-12/15/2022,MIA,Jimmy Butler III,SF
+12/15/2022,MIA,Jimmy Butler,SF
 12/15/2022,MIA,Caleb Martin,PF
 12/15/2022,MIA,Udonis Haslem,PF
 12/15/2022,HOU,Kevin Porter Jr.,PG
@@ -4381,7 +4381,7 @@ Date,Team,Player,Pos
 12/17/2022,LAC,Nicolas Batum,PF
 12/17/2022,MIA,Max Strus,SG
 12/17/2022,MIA,Tyler Herro,SG
-12/17/2022,MIA,Jimmy Butler III,SF
+12/17/2022,MIA,Jimmy Butler,SF
 12/17/2022,MIA,Nikola Jovic,SF
 12/17/2022,MIA,Bam Adebayo,C
 12/17/2022,SAS,Tre Jones,PG
@@ -4856,7 +4856,7 @@ Date,Team,Player,Pos
 12/23/2022,IND,Myles Turner,C
 12/23/2022,MIA,Kyle Lowry,PG
 12/23/2022,MIA,Tyler Herro,SG
-12/23/2022,MIA,Jimmy Butler III,SF
+12/23/2022,MIA,Jimmy Butler,SF
 12/23/2022,MIA,Caleb Martin,PF
 12/23/2022,MIA,Bam Adebayo,C
 12/23/2022,DAL,Luka Doncic,PG
@@ -5166,7 +5166,7 @@ Date,Team,Player,Pos
 12/28/2022,LAL,Thomas Bryant,C
 12/28/2022,MIA,Gabe Vincent,PG
 12/28/2022,MIA,Tyler Herro,SG
-12/28/2022,MIA,Jimmy Butler III,SF
+12/28/2022,MIA,Jimmy Butler,SF
 12/28/2022,MIA,Caleb Martin,PF
 12/28/2022,MIA,Bam Adebayo,C
 12/28/2022,BRK,Ben Simmons,PG
@@ -5342,7 +5342,7 @@ Date,Team,Player,Pos
 12/30/2022,MIA,Kyle Lowry,PG
 12/30/2022,MIA,Tyler Herro,SG
 12/30/2022,MIA,Haywood Highsmith,SF
-12/30/2022,MIA,Jimmy Butler III,SF
+12/30/2022,MIA,Jimmy Butler,SF
 12/30/2022,MIA,Bam Adebayo,C
 12/30/2022,DEN,Jamal Murray,PG
 12/30/2022,DEN,Kentavious Caldwell-Pope,SG
@@ -5591,7 +5591,7 @@ Date,Team,Player,Pos
 01/02/2023,POR,Jusuf Nurkic,C
 01/02/2023,MIA,Kyle Lowry,PG
 01/02/2023,MIA,Tyler Herro,SG
-01/02/2023,MIA,Jimmy Butler III,SF
+01/02/2023,MIA,Jimmy Butler,SF
 01/02/2023,MIA,Caleb Martin,PF
 01/02/2023,MIA,Bam Adebayo,C
 01/02/2023,LAC,Reggie Jackson,PG
@@ -5721,7 +5721,7 @@ Date,Team,Player,Pos
 01/04/2023,MIN,Rudy Gobert,C
 01/04/2023,MIA,Kyle Lowry,PG
 01/04/2023,MIA,Tyler Herro,SG
-01/04/2023,MIA,Jimmy Butler III,SF
+01/04/2023,MIA,Jimmy Butler,SF
 01/04/2023,MIA,Caleb Martin,PF
 01/04/2023,MIA,Bam Adebayo,C
 01/04/2023,LAL,Dennis Schroder,PG
@@ -5881,7 +5881,7 @@ Date,Team,Player,Pos
 01/06/2023,MIN,Rudy Gobert,C
 01/06/2023,MIA,Kyle Lowry,PG
 01/06/2023,MIA,Max Strus,SG
-01/06/2023,MIA,Jimmy Butler III,SF
+01/06/2023,MIA,Jimmy Butler,SF
 01/06/2023,MIA,Haywood Highsmith,SF
 01/06/2023,MIA,Bam Adebayo,C
 01/06/2023,PHO,Chris Paul,PG
@@ -5986,7 +5986,7 @@ Date,Team,Player,Pos
 01/08/2023,BRK,Nicolas Claxton,C
 01/08/2023,MIA,Kyle Lowry,PG
 01/08/2023,MIA,Tyler Herro,SG
-01/08/2023,MIA,Jimmy Butler III,SF
+01/08/2023,MIA,Jimmy Butler,SF
 01/08/2023,MIA,Haywood Highsmith,SF
 01/08/2023,MIA,Bam Adebayo,C
 01/08/2023,UTA,Mike Conley,PG
@@ -6117,7 +6117,7 @@ Date,Team,Player,Pos
 01/10/2023,MIA,Gabe Vincent,PG
 01/10/2023,MIA,Max Strus,SG
 01/10/2023,MIA,Haywood Highsmith,SF
-01/10/2023,MIA,Jimmy Butler III,SF
+01/10/2023,MIA,Jimmy Butler,SF
 01/10/2023,MIA,Orlando Robinson,C
 01/10/2023,CHO,LaMelo Ball,PG
 01/10/2023,CHO,Terry Rozier,PG
@@ -6267,7 +6267,7 @@ Date,Team,Player,Pos
 01/12/2023,MIA,Gabe Vincent,PG
 01/12/2023,MIA,Max Strus,SG
 01/12/2023,MIA,Haywood Highsmith,SF
-01/12/2023,MIA,Jimmy Butler III,SF
+01/12/2023,MIA,Jimmy Butler,SF
 01/12/2023,MIA,Bam Adebayo,C
 01/12/2023,BOS,Marcus Smart,PG
 01/12/2023,BOS,Derrick White,SG
@@ -6407,7 +6407,7 @@ Date,Team,Player,Pos
 01/14/2023,MIA,Gabe Vincent,PG
 01/14/2023,MIA,Max Strus,SG
 01/14/2023,MIA,Haywood Highsmith,SF
-01/14/2023,MIA,Jimmy Butler III,SF
+01/14/2023,MIA,Jimmy Butler,SF
 01/14/2023,MIA,Bam Adebayo,C
 01/14/2023,BOS,Marcus Smart,PG
 01/14/2023,BOS,Derrick White,SG
@@ -6601,7 +6601,7 @@ Date,Team,Player,Pos
 01/16/2023,WAS,Daniel Gafford,C
 01/16/2023,MIA,Gabe Vincent,PG
 01/16/2023,MIA,Tyler Herro,SG
-01/16/2023,MIA,Jimmy Butler III,SF
+01/16/2023,MIA,Jimmy Butler,SF
 01/16/2023,MIA,Caleb Martin,PF
 01/16/2023,MIA,Bam Adebayo,C
 01/16/2023,ATL,Trae Young,PG
@@ -6701,7 +6701,7 @@ Date,Team,Player,Pos
 01/18/2023,DAL,Dwight Powell,C
 01/18/2023,MIA,Kyle Lowry,PG
 01/18/2023,MIA,Tyler Herro,SG
-01/18/2023,MIA,Jimmy Butler III,SF
+01/18/2023,MIA,Jimmy Butler,SF
 01/18/2023,MIA,Caleb Martin,PF
 01/18/2023,MIA,Bam Adebayo,C
 01/18/2023,NOP,CJ McCollum,PG
@@ -6831,7 +6831,7 @@ Date,Team,Player,Pos
 01/20/2023,ORL,Wendell Carter Jr.,C
 01/20/2023,MIA,Kyle Lowry,PG
 01/20/2023,MIA,Tyler Herro,SG
-01/20/2023,MIA,Jimmy Butler III,SF
+01/20/2023,MIA,Jimmy Butler,SF
 01/20/2023,MIA,Caleb Martin,PF
 01/20/2023,MIA,Bam Adebayo,C
 01/20/2023,DAL,Spencer Dinwiddie,PG
@@ -6996,7 +6996,7 @@ Date,Team,Player,Pos
 01/22/2023,NOP,Jonas Valanciunas,C
 01/22/2023,MIA,Kyle Lowry,PG
 01/22/2023,MIA,Tyler Herro,SG
-01/22/2023,MIA,Jimmy Butler III,SF
+01/22/2023,MIA,Jimmy Butler,SF
 01/22/2023,MIA,Caleb Martin,PF
 01/22/2023,MIA,Bam Adebayo,C
 01/22/2023,NYK,Jalen Brunson,PG
@@ -7376,7 +7376,7 @@ Date,Team,Player,Pos
 01/27/2023,ORL,Wendell Carter Jr.,C
 01/27/2023,MIA,Kyle Lowry,PG
 01/27/2023,MIA,Tyler Herro,SG
-01/27/2023,MIA,Jimmy Butler III,SF
+01/27/2023,MIA,Jimmy Butler,SF
 01/27/2023,MIA,Caleb Martin,PF
 01/27/2023,MIA,Bam Adebayo,C
 01/27/2023,CLE,Darius Garland,PG
@@ -7511,7 +7511,7 @@ Date,Team,Player,Pos
 01/28/2023,POR,Drew Eubanks,C
 01/29/2023,MIA,Kyle Lowry,PG
 01/29/2023,MIA,Tyler Herro,SG
-01/29/2023,MIA,Jimmy Butler III,SF
+01/29/2023,MIA,Jimmy Butler,SF
 01/29/2023,MIA,Caleb Martin,PF
 01/29/2023,MIA,Bam Adebayo,C
 01/29/2023,CHO,LaMelo Ball,PG
@@ -7631,7 +7631,7 @@ Date,Team,Player,Pos
 01/30/2023,POR,Jusuf Nurkic,C
 01/31/2023,MIA,Kyle Lowry,PG
 01/31/2023,MIA,Tyler Herro,SG
-01/31/2023,MIA,Jimmy Butler III,SF
+01/31/2023,MIA,Jimmy Butler,SF
 01/31/2023,MIA,Caleb Martin,PF
 01/31/2023,MIA,Bam Adebayo,C
 01/31/2023,CLE,Darius Garland,PG
@@ -7781,7 +7781,7 @@ Date,Team,Player,Pos
 02/02/2023,CLE,Jarrett Allen,C
 02/02/2023,MIA,Kyle Lowry,PG
 02/02/2023,MIA,Tyler Herro,SG
-02/02/2023,MIA,Jimmy Butler III,SF
+02/02/2023,MIA,Jimmy Butler,SF
 02/02/2023,MIA,Caleb Martin,PF
 02/02/2023,MIA,Bam Adebayo,C
 02/02/2023,NYK,Immanuel Quickley,PG
@@ -7961,7 +7961,7 @@ Date,Team,Player,Pos
 02/04/2023,CHI,Nikola Vucevic,C
 02/04/2023,MIA,Gabe Vincent,PG
 02/04/2023,MIA,Tyler Herro,SG
-02/04/2023,MIA,Jimmy Butler III,SF
+02/04/2023,MIA,Jimmy Butler,SF
 02/04/2023,MIA,Caleb Martin,PF
 02/04/2023,MIA,Bam Adebayo,C
 02/04/2023,MIL,Jrue Holiday,PG
@@ -8236,7 +8236,7 @@ Date,Team,Player,Pos
 02/08/2023,IND,Myles Turner,C
 02/08/2023,MIA,Gabe Vincent,PG
 02/08/2023,MIA,Tyler Herro,SG
-02/08/2023,MIA,Jimmy Butler III,SF
+02/08/2023,MIA,Jimmy Butler,SF
 02/08/2023,MIA,Caleb Martin,PF
 02/08/2023,MIA,Bam Adebayo,C
 02/08/2023,SAS,Malaki Branham,SG
@@ -8386,7 +8386,7 @@ Date,Team,Player,Pos
 02/10/2023,HOU,Alperen Sengun,C
 02/10/2023,MIA,Gabe Vincent,PG
 02/10/2023,MIA,Tyler Herro,SG
-02/10/2023,MIA,Jimmy Butler III,SF
+02/10/2023,MIA,Jimmy Butler,SF
 02/10/2023,MIA,Caleb Martin,PF
 02/10/2023,MIA,Bam Adebayo,C
 02/10/2023,MIN,Mike Conley,PG
@@ -8451,7 +8451,7 @@ Date,Team,Player,Pos
 02/11/2023,BRK,Nicolas Claxton,C
 02/11/2023,MIA,Gabe Vincent,PG
 02/11/2023,MIA,Tyler Herro,SG
-02/11/2023,MIA,Jimmy Butler III,SF
+02/11/2023,MIA,Jimmy Butler,SF
 02/11/2023,MIA,Caleb Martin,PF
 02/11/2023,MIA,Bam Adebayo,C
 02/11/2023,ORL,Markelle Fultz,PG
@@ -8596,7 +8596,7 @@ Date,Team,Player,Pos
 02/13/2023,DEN,Nikola Jokic,C
 02/13/2023,MIA,Gabe Vincent,PG
 02/13/2023,MIA,Max Strus,SG
-02/13/2023,MIA,Jimmy Butler III,SF
+02/13/2023,MIA,Jimmy Butler,SF
 02/13/2023,MIA,Caleb Martin,PF
 02/13/2023,MIA,Bam Adebayo,C
 02/13/2023,BRK,Spencer Dinwiddie,PG
@@ -8761,7 +8761,7 @@ Date,Team,Player,Pos
 02/15/2023,BOS,Al Horford,C
 02/15/2023,MIA,Gabe Vincent,PG
 02/15/2023,MIA,Max Strus,SG
-02/15/2023,MIA,Jimmy Butler III,SF
+02/15/2023,MIA,Jimmy Butler,SF
 02/15/2023,MIA,Caleb Martin,PF
 02/15/2023,MIA,Bam Adebayo,C
 02/15/2023,BRK,Spencer Dinwiddie,PG
@@ -8951,7 +8951,7 @@ Date,Team,Player,Pos
 02/24/2023,ATL,Clint Capela,C
 02/24/2023,MIA,Gabe Vincent,PG
 02/24/2023,MIA,Tyler Herro,SG
-02/24/2023,MIA,Jimmy Butler III,SF
+02/24/2023,MIA,Jimmy Butler,SF
 02/24/2023,MIA,Kevin Love,PF
 02/24/2023,MIA,Bam Adebayo,C
 02/24/2023,MIL,Jrue Holiday,PG
@@ -9031,7 +9031,7 @@ Date,Team,Player,Pos
 02/25/2023,ORL,Wendell Carter Jr.,C
 02/25/2023,MIA,Gabe Vincent,PG
 02/25/2023,MIA,Tyler Herro,SG
-02/25/2023,MIA,Jimmy Butler III,SF
+02/25/2023,MIA,Jimmy Butler,SF
 02/25/2023,MIA,Kevin Love,PF
 02/25/2023,MIA,Bam Adebayo,C
 02/25/2023,CHO,Terry Rozier,PG
@@ -9171,7 +9171,7 @@ Date,Team,Player,Pos
 02/26/2023,DEN,Nikola Jokic,C
 02/27/2023,MIA,Gabe Vincent,PG
 02/27/2023,MIA,Tyler Herro,SG
-02/27/2023,MIA,Jimmy Butler III,SF
+02/27/2023,MIA,Jimmy Butler,SF
 02/27/2023,MIA,Kevin Love,PF
 02/27/2023,MIA,Bam Adebayo,C
 02/27/2023,PHI,De'Anthony Melton,SG
@@ -9346,7 +9346,7 @@ Date,Team,Player,Pos
 03/01/2023,PHI,P.J. Tucker,PF
 03/01/2023,MIA,Gabe Vincent,PG
 03/01/2023,MIA,Tyler Herro,SG
-03/01/2023,MIA,Jimmy Butler III,SF
+03/01/2023,MIA,Jimmy Butler,SF
 03/01/2023,MIA,Kevin Love,PF
 03/01/2023,MIA,Bam Adebayo,C
 03/01/2023,BRK,Spencer Dinwiddie,PG
@@ -9486,7 +9486,7 @@ Date,Team,Player,Pos
 03/03/2023,NYK,Mitchell Robinson,C
 03/03/2023,MIA,Gabe Vincent,PG
 03/03/2023,MIA,Tyler Herro,SG
-03/03/2023,MIA,Jimmy Butler III,SF
+03/03/2023,MIA,Jimmy Butler,SF
 03/03/2023,MIA,Kevin Love,PF
 03/03/2023,MIA,Bam Adebayo,C
 03/03/2023,UTA,Ochai Agbaji,SG
@@ -9566,7 +9566,7 @@ Date,Team,Player,Pos
 03/04/2023,ATL,Clint Capela,C
 03/04/2023,MIA,Gabe Vincent,PG
 03/04/2023,MIA,Tyler Herro,SG
-03/04/2023,MIA,Jimmy Butler III,SF
+03/04/2023,MIA,Jimmy Butler,SF
 03/04/2023,MIA,Kevin Love,PF
 03/04/2023,MIA,Bam Adebayo,C
 03/04/2023,HOU,Kevin Porter Jr.,PG
@@ -9737,7 +9737,7 @@ Date,Team,Player,Pos
 03/06/2023,MIA,Gabe Vincent,PG
 03/06/2023,MIA,Max Strus,SG
 03/06/2023,MIA,Tyler Herro,SG
-03/06/2023,MIA,Jimmy Butler III,SF
+03/06/2023,MIA,Jimmy Butler,SF
 03/06/2023,MIA,Bam Adebayo,C
 03/06/2023,TOR,Fred VanVleet,PG
 03/06/2023,TOR,Scottie Barnes,SF
@@ -9876,7 +9876,7 @@ Date,Team,Player,Pos
 03/08/2023,CLE,Jarrett Allen,C
 03/08/2023,MIA,Gabe Vincent,PG
 03/08/2023,MIA,Tyler Herro,SG
-03/08/2023,MIA,Jimmy Butler III,SF
+03/08/2023,MIA,Jimmy Butler,SF
 03/08/2023,MIA,Kevin Love,PF
 03/08/2023,MIA,Bam Adebayo,C
 03/08/2023,CHI,Patrick Beverley,PG
@@ -9996,7 +9996,7 @@ Date,Team,Player,Pos
 03/10/2023,CLE,Jarrett Allen,C
 03/10/2023,MIA,Gabe Vincent,PG
 03/10/2023,MIA,Tyler Herro,SG
-03/10/2023,MIA,Jimmy Butler III,SF
+03/10/2023,MIA,Jimmy Butler,SF
 03/10/2023,MIA,Kevin Love,PF
 03/10/2023,MIA,Bam Adebayo,C
 03/10/2023,BRK,Spencer Dinwiddie,PG
@@ -10051,7 +10051,7 @@ Date,Team,Player,Pos
 03/11/2023,DET,James Wiseman,C
 03/11/2023,MIA,Gabe Vincent,PG
 03/11/2023,MIA,Tyler Herro,SG
-03/11/2023,MIA,Jimmy Butler III,SF
+03/11/2023,MIA,Jimmy Butler,SF
 03/11/2023,MIA,Kevin Love,PF
 03/11/2023,MIA,Bam Adebayo,C
 03/11/2023,ORL,Markelle Fultz,PG
@@ -10216,7 +10216,7 @@ Date,Team,Player,Pos
 03/13/2023,UTA,Walker Kessler,C
 03/13/2023,MIA,Gabe Vincent,PG
 03/13/2023,MIA,Tyler Herro,SG
-03/13/2023,MIA,Jimmy Butler III,SF
+03/13/2023,MIA,Jimmy Butler,SF
 03/13/2023,MIA,Kevin Love,PF
 03/13/2023,MIA,Bam Adebayo,C
 03/13/2023,MIN,Mike Conley,PG
@@ -10356,7 +10356,7 @@ Date,Team,Player,Pos
 03/15/2023,MEM,Xavier Tillman,C
 03/15/2023,MIA,Gabe Vincent,PG
 03/15/2023,MIA,Tyler Herro,SG
-03/15/2023,MIA,Jimmy Butler III,SF
+03/15/2023,MIA,Jimmy Butler,SF
 03/15/2023,MIA,Kevin Love,PF
 03/15/2023,MIA,Bam Adebayo,C
 03/15/2023,SAC,De'Aaron Fox,PG
@@ -10591,7 +10591,7 @@ Date,Team,Player,Pos
 03/18/2023,MEM,Xavier Tillman,C
 03/18/2023,MIA,Gabe Vincent,PG
 03/18/2023,MIA,Tyler Herro,SG
-03/18/2023,MIA,Jimmy Butler III,SF
+03/18/2023,MIA,Jimmy Butler,SF
 03/18/2023,MIA,Kevin Love,PF
 03/18/2023,MIA,Bam Adebayo,C
 03/18/2023,CHI,Patrick Beverley,PG
@@ -10651,7 +10651,7 @@ Date,Team,Player,Pos
 03/19/2023,SAS,Zach Collins,C
 03/19/2023,MIA,Gabe Vincent,PG
 03/19/2023,MIA,Tyler Herro,SG
-03/19/2023,MIA,Jimmy Butler III,SF
+03/19/2023,MIA,Jimmy Butler,SF
 03/19/2023,MIA,Kevin Love,PF
 03/19/2023,MIA,Bam Adebayo,C
 03/19/2023,DET,Killian Hayes,PG
@@ -10836,7 +10836,7 @@ Date,Team,Player,Pos
 03/22/2023,NYK,Mitchell Robinson,C
 03/22/2023,MIA,Gabe Vincent,PG
 03/22/2023,MIA,Tyler Herro,SG
-03/22/2023,MIA,Jimmy Butler III,SF
+03/22/2023,MIA,Jimmy Butler,SF
 03/22/2023,MIA,Kevin Love,PF
 03/22/2023,MIA,Bam Adebayo,C
 03/22/2023,IND,Andrew Nembhard,PG
@@ -11076,7 +11076,7 @@ Date,Team,Player,Pos
 03/25/2023,BRK,Nicolas Claxton,C
 03/25/2023,MIA,Gabe Vincent,PG
 03/25/2023,MIA,Tyler Herro,SG
-03/25/2023,MIA,Jimmy Butler III,SF
+03/25/2023,MIA,Jimmy Butler,SF
 03/25/2023,MIA,Kevin Love,PF
 03/25/2023,MIA,Bam Adebayo,C
 03/25/2023,MIL,Jrue Holiday,PG
@@ -11381,7 +11381,7 @@ Date,Team,Player,Pos
 03/29/2023,BRK,Nicolas Claxton,C
 03/29/2023,MIA,Gabe Vincent,PG
 03/29/2023,MIA,Tyler Herro,SG
-03/29/2023,MIA,Jimmy Butler III,SF
+03/29/2023,MIA,Jimmy Butler,SF
 03/29/2023,MIA,Kevin Love,PF
 03/29/2023,MIA,Bam Adebayo,C
 03/29/2023,NYK,Jalen Brunson,PG
@@ -11607,7 +11607,7 @@ Date,Team,Player,Pos
 04/01/2023,MIA,Gabe Vincent,PG
 04/01/2023,MIA,Tyler Herro,SG
 04/01/2023,MIA,Max Strus,SG
-04/01/2023,MIA,Jimmy Butler III,SF
+04/01/2023,MIA,Jimmy Butler,SF
 04/01/2023,MIA,Cody Zeller,C
 04/01/2023,LAC,Russell Westbrook,PG
 04/01/2023,LAC,Norman Powell,SG
@@ -11752,7 +11752,7 @@ Date,Team,Player,Pos
 04/04/2023,MIA,Gabe Vincent,PG
 04/04/2023,MIA,Max Strus,SG
 04/04/2023,MIA,Tyler Herro,SG
-04/04/2023,MIA,Jimmy Butler III,SF
+04/04/2023,MIA,Jimmy Butler,SF
 04/04/2023,MIA,Bam Adebayo,C
 04/04/2023,DET,Killian Hayes,PG
 04/04/2023,DET,Jaden Ivey,SG
@@ -11972,7 +11972,7 @@ Date,Team,Player,Pos
 04/06/2023,MIA,Gabe Vincent,PG
 04/06/2023,MIA,Max Strus,SG
 04/06/2023,MIA,Tyler Herro,SG
-04/06/2023,MIA,Jimmy Butler III,SF
+04/06/2023,MIA,Jimmy Butler,SF
 04/06/2023,MIA,Bam Adebayo,C
 04/06/2023,PHI,De'Anthony Melton,SG
 04/06/2023,PHI,James Harden,SG
@@ -12307,7 +12307,7 @@ Date,Team,Player,Pos
 04/11/2023,MIA,Gabe Vincent,PG
 04/11/2023,MIA,Max Strus,SG
 04/11/2023,MIA,Tyler Herro,SG
-04/11/2023,MIA,Jimmy Butler III,SF
+04/11/2023,MIA,Jimmy Butler,SF
 04/11/2023,MIA,Bam Adebayo,C
 04/11/2023,MIN,Mike Conley,PG
 04/11/2023,MIN,Anthony Edwards,SG
@@ -12347,7 +12347,7 @@ Date,Team,Player,Pos
 04/14/2023,MIA,Gabe Vincent,PG
 04/14/2023,MIA,Max Strus,SG
 04/14/2023,MIA,Tyler Herro,SG
-04/14/2023,MIA,Jimmy Butler III,SF
+04/14/2023,MIA,Jimmy Butler,SF
 04/14/2023,MIA,Bam Adebayo,C
 04/14/2023,OKC,Shai Gilgeous-Alexander,PG
 04/14/2023,OKC,Josh Giddey,SG
@@ -12412,7 +12412,7 @@ Date,Team,Player,Pos
 04/16/2023,MIA,Gabe Vincent,PG
 04/16/2023,MIA,Max Strus,SG
 04/16/2023,MIA,Tyler Herro,SG
-04/16/2023,MIA,Jimmy Butler III,SF
+04/16/2023,MIA,Jimmy Butler,SF
 04/16/2023,MIA,Bam Adebayo,C
 04/16/2023,MIL,Jrue Holiday,PG
 04/16/2023,MIL,Khris Middleton,SF
@@ -12502,7 +12502,7 @@ Date,Team,Player,Pos
 04/19/2023,MIA,Gabe Vincent,PG
 04/19/2023,MIA,Duncan Robinson,SG
 04/19/2023,MIA,Max Strus,SG
-04/19/2023,MIA,Jimmy Butler III,SF
+04/19/2023,MIA,Jimmy Butler,SF
 04/19/2023,MIA,Bam Adebayo,C
 04/19/2023,MIL,Jrue Holiday,PG
 04/19/2023,MIL,Grayson Allen,SF
@@ -12606,7 +12606,7 @@ Date,Team,Player,Pos
 04/22/2023,MIL,Brook Lopez,C
 04/22/2023,MIA,Gabe Vincent,PG
 04/22/2023,MIA,Max Strus,SG
-04/22/2023,MIA,Jimmy Butler III,SF
+04/22/2023,MIA,Jimmy Butler,SF
 04/22/2023,MIA,Kevin Love,PF
 04/22/2023,MIA,Bam Adebayo,C
 04/22/2023,MEM,Ja Morant,PG
@@ -12666,7 +12666,7 @@ Date,Team,Player,Pos
 04/24/2023,MIL,Brook Lopez,C
 04/24/2023,MIA,Gabe Vincent,PG
 04/24/2023,MIA,Max Strus,SG
-04/24/2023,MIA,Jimmy Butler III,SF
+04/24/2023,MIA,Jimmy Butler,SF
 04/24/2023,MIA,Kevin Love,PF
 04/24/2023,MIA,Bam Adebayo,C
 04/24/2023,MEM,Ja Morant,PG
@@ -12731,7 +12731,7 @@ Date,Team,Player,Pos
 04/26/2023,MEM,Xavier Tillman,C
 04/26/2023,MIA,Gabe Vincent,PG
 04/26/2023,MIA,Max Strus,SG
-04/26/2023,MIA,Jimmy Butler III,SF
+04/26/2023,MIA,Jimmy Butler,SF
 04/26/2023,MIA,Kevin Love,PF
 04/26/2023,MIA,Bam Adebayo,C
 04/26/2023,MIL,Jrue Holiday,PG
@@ -12791,7 +12791,7 @@ Date,Team,Player,Pos
 04/29/2023,DEN,Nikola Jokic,C
 04/30/2023,MIA,Gabe Vincent,PG
 04/30/2023,MIA,Max Strus,SG
-04/30/2023,MIA,Jimmy Butler III,SF
+04/30/2023,MIA,Jimmy Butler,SF
 04/30/2023,MIA,Kevin Love,PF
 04/30/2023,MIA,Bam Adebayo,C
 04/30/2023,NYK,Jalen Brunson,PG
@@ -12896,7 +12896,7 @@ Date,Team,Player,Pos
 05/06/2023,NYK,Mitchell Robinson,C
 05/06/2023,MIA,Gabe Vincent,PG
 05/06/2023,MIA,Max Strus,SG
-05/06/2023,MIA,Jimmy Butler III,SF
+05/06/2023,MIA,Jimmy Butler,SF
 05/06/2023,MIA,Kevin Love,PF
 05/06/2023,MIA,Bam Adebayo,C
 05/06/2023,GSW,Stephen Curry,PG
@@ -12936,7 +12936,7 @@ Date,Team,Player,Pos
 05/08/2023,NYK,Mitchell Robinson,C
 05/08/2023,MIA,Gabe Vincent,PG
 05/08/2023,MIA,Max Strus,SG
-05/08/2023,MIA,Jimmy Butler III,SF
+05/08/2023,MIA,Jimmy Butler,SF
 05/08/2023,MIA,Kevin Love,PF
 05/08/2023,MIA,Bam Adebayo,C
 05/08/2023,GSW,Gary Payton II,PG
@@ -12971,7 +12971,7 @@ Date,Team,Player,Pos
 05/09/2023,DEN,Nikola Jokic,C
 05/10/2023,MIA,Gabe Vincent,PG
 05/10/2023,MIA,Max Strus,SG
-05/10/2023,MIA,Jimmy Butler III,SF
+05/10/2023,MIA,Jimmy Butler,SF
 05/10/2023,MIA,Kevin Love,PF
 05/10/2023,MIA,Bam Adebayo,C
 05/10/2023,NYK,Jalen Brunson,PG
@@ -13016,7 +13016,7 @@ Date,Team,Player,Pos
 05/12/2023,NYK,Mitchell Robinson,C
 05/12/2023,MIA,Gabe Vincent,PG
 05/12/2023,MIA,Max Strus,SG
-05/12/2023,MIA,Jimmy Butler III,SF
+05/12/2023,MIA,Jimmy Butler,SF
 05/12/2023,MIA,Kevin Love,PF
 05/12/2023,MIA,Bam Adebayo,C
 05/12/2023,GSW,Gary Payton II,PG
@@ -13051,7 +13051,7 @@ Date,Team,Player,Pos
 05/16/2023,DEN,Nikola Jokic,C
 05/17/2023,MIA,Gabe Vincent,PG
 05/17/2023,MIA,Max Strus,SG
-05/17/2023,MIA,Jimmy Butler III,SF
+05/17/2023,MIA,Jimmy Butler,SF
 05/17/2023,MIA,Kevin Love,PF
 05/17/2023,MIA,Bam Adebayo,C
 05/17/2023,BOS,Marcus Smart,PG
@@ -13071,7 +13071,7 @@ Date,Team,Player,Pos
 05/18/2023,DEN,Nikola Jokic,C
 05/19/2023,MIA,Gabe Vincent,PG
 05/19/2023,MIA,Max Strus,SG
-05/19/2023,MIA,Jimmy Butler III,SF
+05/19/2023,MIA,Jimmy Butler,SF
 05/19/2023,MIA,Kevin Love,PF
 05/19/2023,MIA,Bam Adebayo,C
 05/19/2023,BOS,Marcus Smart,PG
@@ -13096,7 +13096,7 @@ Date,Team,Player,Pos
 05/21/2023,BOS,Al Horford,C
 05/21/2023,MIA,Gabe Vincent,PG
 05/21/2023,MIA,Max Strus,SG
-05/21/2023,MIA,Jimmy Butler III,SF
+05/21/2023,MIA,Jimmy Butler,SF
 05/21/2023,MIA,Kevin Love,PF
 05/21/2023,MIA,Bam Adebayo,C
 05/22/2023,DEN,Jamal Murray,PG
@@ -13116,12 +13116,12 @@ Date,Team,Player,Pos
 05/23/2023,BOS,Al Horford,C
 05/23/2023,MIA,Gabe Vincent,PG
 05/23/2023,MIA,Max Strus,SG
-05/23/2023,MIA,Jimmy Butler III,SF
+05/23/2023,MIA,Jimmy Butler,SF
 05/23/2023,MIA,Kevin Love,PF
 05/23/2023,MIA,Bam Adebayo,C
 05/25/2023,MIA,Kyle Lowry,PG
 05/25/2023,MIA,Max Strus,SG
-05/25/2023,MIA,Jimmy Butler III,SF
+05/25/2023,MIA,Jimmy Butler,SF
 05/25/2023,MIA,Kevin Love,PF
 05/25/2023,MIA,Bam Adebayo,C
 05/25/2023,BOS,Marcus Smart,PG
@@ -13136,12 +13136,12 @@ Date,Team,Player,Pos
 05/27/2023,BOS,Al Horford,C
 05/27/2023,MIA,Gabe Vincent,PG
 05/27/2023,MIA,Max Strus,SG
-05/27/2023,MIA,Jimmy Butler III,SF
+05/27/2023,MIA,Jimmy Butler,SF
 05/27/2023,MIA,Caleb Martin,PF
 05/27/2023,MIA,Bam Adebayo,C
 05/29/2023,MIA,Gabe Vincent,PG
 05/29/2023,MIA,Max Strus,SG
-05/29/2023,MIA,Jimmy Butler III,SF
+05/29/2023,MIA,Jimmy Butler,SF
 05/29/2023,MIA,Caleb Martin,PF
 05/29/2023,MIA,Bam Adebayo,C
 05/29/2023,BOS,Marcus Smart,PG
@@ -13151,7 +13151,7 @@ Date,Team,Player,Pos
 05/29/2023,BOS,Al Horford,C
 06/01/2023,MIA,Gabe Vincent,PG
 06/01/2023,MIA,Max Strus,SG
-06/01/2023,MIA,Jimmy Butler III,SF
+06/01/2023,MIA,Jimmy Butler,SF
 06/01/2023,MIA,Caleb Martin,PF
 06/01/2023,MIA,Bam Adebayo,C
 06/01/2023,DEN,Jamal Murray,PG
@@ -13161,7 +13161,7 @@ Date,Team,Player,Pos
 06/01/2023,DEN,Nikola Jokic,C
 06/04/2023,MIA,Gabe Vincent,PG
 06/04/2023,MIA,Max Strus,SG
-06/04/2023,MIA,Jimmy Butler III,SF
+06/04/2023,MIA,Jimmy Butler,SF
 06/04/2023,MIA,Kevin Love,PF
 06/04/2023,MIA,Bam Adebayo,C
 06/04/2023,DEN,Jamal Murray,PG
@@ -13176,7 +13176,7 @@ Date,Team,Player,Pos
 06/07/2023,DEN,Nikola Jokic,C
 06/07/2023,MIA,Gabe Vincent,PG
 06/07/2023,MIA,Max Strus,SG
-06/07/2023,MIA,Jimmy Butler III,SF
+06/07/2023,MIA,Jimmy Butler,SF
 06/07/2023,MIA,Kevin Love,PF
 06/07/2023,MIA,Bam Adebayo,C
 06/09/2023,DEN,Jamal Murray,PG
@@ -13186,12 +13186,12 @@ Date,Team,Player,Pos
 06/09/2023,DEN,Nikola Jokic,C
 06/09/2023,MIA,Gabe Vincent,PG
 06/09/2023,MIA,Max Strus,SG
-06/09/2023,MIA,Jimmy Butler III,SF
+06/09/2023,MIA,Jimmy Butler,SF
 06/09/2023,MIA,Kevin Love,PF
 06/09/2023,MIA,Bam Adebayo,C
 06/12/2023,MIA,Gabe Vincent,PG
 06/12/2023,MIA,Max Strus,SG
-06/12/2023,MIA,Jimmy Butler III,SF
+06/12/2023,MIA,Jimmy Butler,SF
 06/12/2023,MIA,Kevin Love,PF
 06/12/2023,MIA,Bam Adebayo,C
 06/12/2023,DEN,Jamal Murray,PG

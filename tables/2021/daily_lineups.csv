@@ -146,7 +146,7 @@ Date,Team,Player,Pos
 10/21/2021,MIL,Giannis Antetokounmpo,PF
 10/21/2021,MIA,Kyle Lowry,PG
 10/21/2021,MIA,Duncan Robinson,SG
-10/21/2021,MIA,Jimmy Butler III,SF
+10/21/2021,MIA,Jimmy Butler,SF
 10/21/2021,MIA,P.J. Tucker,PF
 10/21/2021,MIA,Bam Adebayo,C
 10/21/2021,LAC,Reggie Jackson,PG
@@ -271,7 +271,7 @@ Date,Team,Player,Pos
 10/23/2021,CLE,Jarrett Allen,C
 10/23/2021,MIA,Gabe Vincent,PG
 10/23/2021,MIA,Duncan Robinson,SG
-10/23/2021,MIA,Jimmy Butler III,SF
+10/23/2021,MIA,Jimmy Butler,SF
 10/23/2021,MIA,P.J. Tucker,PF
 10/23/2021,MIA,Bam Adebayo,C
 10/23/2021,IND,Malcolm Brogdon,SG
@@ -436,7 +436,7 @@ Date,Team,Player,Pos
 10/25/2021,ORL,Wendell Carter Jr.,C
 10/25/2021,MIA,Kyle Lowry,PG
 10/25/2021,MIA,Duncan Robinson,SG
-10/25/2021,MIA,Jimmy Butler III,SF
+10/25/2021,MIA,Jimmy Butler,SF
 10/25/2021,MIA,P.J. Tucker,PF
 10/25/2021,MIA,Bam Adebayo,C
 10/25/2021,WAS,Spencer Dinwiddie,PG
@@ -571,7 +571,7 @@ Date,Team,Player,Pos
 10/27/2021,NOP,Jonas Valanciunas,C
 10/27/2021,MIA,Kyle Lowry,PG
 10/27/2021,MIA,Duncan Robinson,SG
-10/27/2021,MIA,Jimmy Butler III,SF
+10/27/2021,MIA,Jimmy Butler,SF
 10/27/2021,MIA,P.J. Tucker,PF
 10/27/2021,MIA,Bam Adebayo,C
 10/27/2021,BRK,James Harden,SG
@@ -726,7 +726,7 @@ Date,Team,Player,Pos
 10/29/2021,CHO,Mason Plumlee,C
 10/29/2021,MIA,Kyle Lowry,PG
 10/29/2021,MIA,Duncan Robinson,SG
-10/29/2021,MIA,Jimmy Butler III,SF
+10/29/2021,MIA,Jimmy Butler,SF
 10/29/2021,MIA,P.J. Tucker,PF
 10/29/2021,MIA,Bam Adebayo,C
 10/29/2021,SAC,Tyrese Haliburton,PG
@@ -831,7 +831,7 @@ Date,Team,Player,Pos
 10/30/2021,CHI,Nikola Vucevic,C
 10/30/2021,MIA,Kyle Lowry,PG
 10/30/2021,MIA,Duncan Robinson,SG
-10/30/2021,MIA,Jimmy Butler III,SF
+10/30/2021,MIA,Jimmy Butler,SF
 10/30/2021,MIA,P.J. Tucker,PF
 10/30/2021,MIA,Dewayne Dedmon,C
 10/30/2021,MEM,Ja Morant,PG
@@ -1031,7 +1031,7 @@ Date,Team,Player,Pos
 11/02/2021,DET,Isaiah Stewart,PF
 11/02/2021,MIA,Kyle Lowry,PG
 11/02/2021,MIA,Duncan Robinson,SG
-11/02/2021,MIA,Jimmy Butler III,SF
+11/02/2021,MIA,Jimmy Butler,SF
 11/02/2021,MIA,P.J. Tucker,PF
 11/02/2021,MIA,Bam Adebayo,C
 11/02/2021,DAL,Jalen Brunson,PG
@@ -1206,7 +1206,7 @@ Date,Team,Player,Pos
 11/04/2021,BOS,Robert Williams III,C
 11/04/2021,MIA,Kyle Lowry,PG
 11/04/2021,MIA,Duncan Robinson,SG
-11/04/2021,MIA,Jimmy Butler III,SF
+11/04/2021,MIA,Jimmy Butler,SF
 11/04/2021,MIA,P.J. Tucker,PF
 11/04/2021,MIA,Bam Adebayo,C
 11/04/2021,HOU,Kevin Porter Jr.,PG
@@ -1336,7 +1336,7 @@ Date,Team,Player,Pos
 11/06/2021,UTA,Rudy Gobert,C
 11/06/2021,MIA,Kyle Lowry,PG
 11/06/2021,MIA,Duncan Robinson,SG
-11/06/2021,MIA,Jimmy Butler III,SF
+11/06/2021,MIA,Jimmy Butler,SF
 11/06/2021,MIA,P.J. Tucker,PF
 11/06/2021,MIA,Bam Adebayo,C
 11/06/2021,PHI,Tyrese Maxey,PG
@@ -1501,7 +1501,7 @@ Date,Team,Player,Pos
 11/08/2021,DAL,Kristaps Porzingis,C
 11/08/2021,MIA,Kyle Lowry,PG
 11/08/2021,MIA,Duncan Robinson,SG
-11/08/2021,MIA,Jimmy Butler III,SF
+11/08/2021,MIA,Jimmy Butler,SF
 11/08/2021,MIA,P.J. Tucker,PF
 11/08/2021,MIA,Bam Adebayo,C
 11/08/2021,DEN,Monte Morris,PG
@@ -1691,7 +1691,7 @@ Date,Team,Player,Pos
 11/10/2021,GSW,Kevon Looney,C
 11/10/2021,MIA,Kyle Lowry,PG
 11/10/2021,MIA,Duncan Robinson,SG
-11/10/2021,MIA,Jimmy Butler III,SF
+11/10/2021,MIA,Jimmy Butler,SF
 11/10/2021,MIA,P.J. Tucker,PF
 11/10/2021,MIA,Bam Adebayo,C
 11/10/2021,LAL,Russell Westbrook,PG
@@ -2156,7 +2156,7 @@ Date,Team,Player,Pos
 11/17/2021,NOP,Jonas Valanciunas,C
 11/17/2021,MIA,Tyler Herro,SG
 11/17/2021,MIA,Duncan Robinson,SG
-11/17/2021,MIA,Jimmy Butler III,SF
+11/17/2021,MIA,Jimmy Butler,SF
 11/17/2021,MIA,P.J. Tucker,PF
 11/17/2021,MIA,Dewayne Dedmon,C
 11/17/2021,LAL,Russell Westbrook,PG
@@ -2236,7 +2236,7 @@ Date,Team,Player,Pos
 11/18/2021,WAS,Montrezl Harrell,C
 11/18/2021,MIA,Kyle Lowry,PG
 11/18/2021,MIA,Duncan Robinson,SG
-11/18/2021,MIA,Jimmy Butler III,SF
+11/18/2021,MIA,Jimmy Butler,SF
 11/18/2021,MIA,P.J. Tucker,PF
 11/18/2021,MIA,Bam Adebayo,C
 11/18/2021,GSW,Jordan Poole,PG
@@ -2401,7 +2401,7 @@ Date,Team,Player,Pos
 11/20/2021,IND,Myles Turner,C
 11/20/2021,MIA,Kyle Lowry,PG
 11/20/2021,MIA,Duncan Robinson,SG
-11/20/2021,MIA,Jimmy Butler III,SF
+11/20/2021,MIA,Jimmy Butler,SF
 11/20/2021,MIA,P.J. Tucker,PF
 11/20/2021,MIA,Bam Adebayo,C
 11/20/2021,WAS,Spencer Dinwiddie,PG
@@ -2621,7 +2621,7 @@ Date,Team,Player,Pos
 11/22/2021,SAC,Richaun Holmes,PF
 11/23/2021,MIA,Kyle Lowry,PG
 11/23/2021,MIA,Duncan Robinson,SG
-11/23/2021,MIA,Jimmy Butler III,SF
+11/23/2021,MIA,Jimmy Butler,SF
 11/23/2021,MIA,P.J. Tucker,PF
 11/23/2021,MIA,Bam Adebayo,C
 11/23/2021,DET,Cory Joseph,PG
@@ -2721,7 +2721,7 @@ Date,Team,Player,Pos
 11/24/2021,MIL,Bobby Portis,PF
 11/24/2021,MIA,Kyle Lowry,PG
 11/24/2021,MIA,Duncan Robinson,SG
-11/24/2021,MIA,Jimmy Butler III,SF
+11/24/2021,MIA,Jimmy Butler,SF
 11/24/2021,MIA,P.J. Tucker,PF
 11/24/2021,MIA,Bam Adebayo,C
 11/24/2021,MIN,D'Angelo Russell,PG
@@ -2951,7 +2951,7 @@ Date,Team,Player,Pos
 11/27/2021,HOU,Christian Wood,PF
 11/27/2021,MIA,Kyle Lowry,PG
 11/27/2021,MIA,Duncan Robinson,SG
-11/27/2021,MIA,Jimmy Butler III,SF
+11/27/2021,MIA,Jimmy Butler,SF
 11/27/2021,MIA,P.J. Tucker,PF
 11/27/2021,MIA,Bam Adebayo,C
 11/27/2021,CHI,Lonzo Ball,PG
@@ -3556,7 +3556,7 @@ Date,Team,Player,Pos
 12/06/2021,MEM,Steven Adams,C
 12/06/2021,MIA,Kyle Lowry,PG
 12/06/2021,MIA,Duncan Robinson,SG
-12/06/2021,MIA,Jimmy Butler III,SF
+12/06/2021,MIA,Jimmy Butler,SF
 12/06/2021,MIA,P.J. Tucker,PF
 12/06/2021,MIA,Dewayne Dedmon,C
 12/06/2021,DEN,Monte Morris,PG
@@ -4837,7 +4837,7 @@ Date,Team,Player,Pos
 12/26/2021,MIA,Gabe Vincent,PG
 12/26/2021,MIA,Duncan Robinson,SG
 12/26/2021,MIA,Max Strus,SG
-12/26/2021,MIA,Jimmy Butler III,SF
+12/26/2021,MIA,Jimmy Butler,SF
 12/26/2021,MIA,Omer Yurtseven,C
 12/26/2021,MEM,Ja Morant,PG
 12/26/2021,MEM,Desmond Bane,SG
@@ -5006,7 +5006,7 @@ Date,Team,Player,Pos
 12/28/2021,WAS,Daniel Gafford,C
 12/28/2021,MIA,Gabe Vincent,PG
 12/28/2021,MIA,Duncan Robinson,SG
-12/28/2021,MIA,Jimmy Butler III,SF
+12/28/2021,MIA,Jimmy Butler,SF
 12/28/2021,MIA,Caleb Martin,PF
 12/28/2021,MIA,Omer Yurtseven,C
 12/28/2021,NYK,Kemba Walker,PG
@@ -5201,7 +5201,7 @@ Date,Team,Player,Pos
 12/31/2021,SAC,Marvin Bagley III,PF
 12/31/2021,MIA,Kyle Lowry,PG
 12/31/2021,MIA,Tyler Herro,SG
-12/31/2021,MIA,Jimmy Butler III,SF
+12/31/2021,MIA,Jimmy Butler,SF
 12/31/2021,MIA,Caleb Martin,PF
 12/31/2021,MIA,Omer Yurtseven,C
 12/31/2021,HOU,Kevin Porter Jr.,PG
@@ -5361,7 +5361,7 @@ Date,Team,Player,Pos
 01/02/2022,CLE,Jarrett Allen,C
 01/02/2022,MIA,Kyle Lowry,PG
 01/02/2022,MIA,Tyler Herro,SG
-01/02/2022,MIA,Jimmy Butler III,SF
+01/02/2022,MIA,Jimmy Butler,SF
 01/02/2022,MIA,Caleb Martin,PF
 01/02/2022,MIA,Omer Yurtseven,C
 01/02/2022,SAC,De'Aaron Fox,PG
@@ -5481,7 +5481,7 @@ Date,Team,Player,Pos
 01/03/2022,POR,Jusuf Nurkic,C
 01/03/2022,MIA,Kyle Lowry,PG
 01/03/2022,MIA,Tyler Herro,SG
-01/03/2022,MIA,Jimmy Butler III,SF
+01/03/2022,MIA,Jimmy Butler,SF
 01/03/2022,MIA,Caleb Martin,PF
 01/03/2022,MIA,Omer Yurtseven,C
 01/03/2022,GSW,Stephen Curry,PG
@@ -6276,7 +6276,7 @@ Date,Team,Player,Pos
 01/14/2022,ATL,Gorgui Dieng,C
 01/14/2022,MIA,Kyle Lowry,PG
 01/14/2022,MIA,Max Strus,SG
-01/14/2022,MIA,Jimmy Butler III,SF
+01/14/2022,MIA,Jimmy Butler,SF
 01/14/2022,MIA,P.J. Tucker,PF
 01/14/2022,MIA,Omer Yurtseven,C
 01/14/2022,CLE,Darius Garland,PG
@@ -6356,7 +6356,7 @@ Date,Team,Player,Pos
 01/15/2022,PHI,Joel Embiid,C
 01/15/2022,MIA,Kyle Lowry,PG
 01/15/2022,MIA,Max Strus,SG
-01/15/2022,MIA,Jimmy Butler III,SF
+01/15/2022,MIA,Jimmy Butler,SF
 01/15/2022,MIA,P.J. Tucker,PF
 01/15/2022,MIA,Omer Yurtseven,C
 01/15/2022,CLE,Darius Garland,PG
@@ -6536,7 +6536,7 @@ Date,Team,Player,Pos
 01/17/2022,TOR,Pascal Siakam,PF
 01/17/2022,MIA,Gabe Vincent,PG
 01/17/2022,MIA,Duncan Robinson,SG
-01/17/2022,MIA,Jimmy Butler III,SF
+01/17/2022,MIA,Jimmy Butler,SF
 01/17/2022,MIA,P.J. Tucker,PF
 01/17/2022,MIA,Bam Adebayo,C
 01/17/2022,PHO,Chris Paul,PG
@@ -6636,7 +6636,7 @@ Date,Team,Player,Pos
 01/19/2022,POR,Jusuf Nurkic,C
 01/19/2022,MIA,Gabe Vincent,PG
 01/19/2022,MIA,Duncan Robinson,SG
-01/19/2022,MIA,Jimmy Butler III,SF
+01/19/2022,MIA,Jimmy Butler,SF
 01/19/2022,MIA,P.J. Tucker,PF
 01/19/2022,MIA,Bam Adebayo,C
 01/19/2022,CLE,Darius Garland,PG
@@ -6791,7 +6791,7 @@ Date,Team,Player,Pos
 01/21/2022,BOS,Robert Williams III,C
 01/21/2022,MIA,Gabe Vincent,PG
 01/21/2022,MIA,Duncan Robinson,SG
-01/21/2022,MIA,Jimmy Butler III,SF
+01/21/2022,MIA,Jimmy Butler,SF
 01/21/2022,MIA,P.J. Tucker,PF
 01/21/2022,MIA,Bam Adebayo,C
 01/21/2022,ATL,Trae Young,PG
@@ -6936,7 +6936,7 @@ Date,Team,Player,Pos
 01/23/2022,LAL,Dwight Howard,C
 01/23/2022,MIA,Gabe Vincent,PG
 01/23/2022,MIA,Duncan Robinson,SG
-01/23/2022,MIA,Jimmy Butler III,SF
+01/23/2022,MIA,Jimmy Butler,SF
 01/23/2022,MIA,P.J. Tucker,PF
 01/23/2022,MIA,Bam Adebayo,C
 01/23/2022,PHI,Tyrese Maxey,PG
@@ -7166,7 +7166,7 @@ Date,Team,Player,Pos
 01/26/2022,NYK,Mitchell Robinson,C
 01/26/2022,MIA,Gabe Vincent,PG
 01/26/2022,MIA,Duncan Robinson,SG
-01/26/2022,MIA,Jimmy Butler III,SF
+01/26/2022,MIA,Jimmy Butler,SF
 01/26/2022,MIA,P.J. Tucker,PF
 01/26/2022,MIA,Bam Adebayo,C
 01/26/2022,SAC,Tyrese Haliburton,PG
@@ -7316,7 +7316,7 @@ Date,Team,Player,Pos
 01/28/2022,LAC,Ivica Zubac,C
 01/28/2022,MIA,Gabe Vincent,PG
 01/28/2022,MIA,Duncan Robinson,SG
-01/28/2022,MIA,Jimmy Butler III,SF
+01/28/2022,MIA,Jimmy Butler,SF
 01/28/2022,MIA,P.J. Tucker,PF
 01/28/2022,MIA,Bam Adebayo,C
 01/28/2022,UTA,Mike Conley,PG
@@ -7396,7 +7396,7 @@ Date,Team,Player,Pos
 01/29/2022,TOR,Pascal Siakam,PF
 01/29/2022,MIA,Gabe Vincent,PG
 01/29/2022,MIA,Duncan Robinson,SG
-01/29/2022,MIA,Jimmy Butler III,SF
+01/29/2022,MIA,Jimmy Butler,SF
 01/29/2022,MIA,P.J. Tucker,PF
 01/29/2022,MIA,Bam Adebayo,C
 01/29/2022,WAS,Spencer Dinwiddie,PG
@@ -7591,7 +7591,7 @@ Date,Team,Player,Pos
 02/01/2022,DET,Jerami Grant,PF
 02/01/2022,MIA,Gabe Vincent,PG
 02/01/2022,MIA,Duncan Robinson,SG
-02/01/2022,MIA,Jimmy Butler III,SF
+02/01/2022,MIA,Jimmy Butler,SF
 02/01/2022,MIA,P.J. Tucker,PF
 02/01/2022,MIA,Bam Adebayo,C
 02/01/2022,TOR,Fred VanVleet,PG
@@ -7751,7 +7751,7 @@ Date,Team,Player,Pos
 02/03/2022,DET,Saddiq Bey,PF
 02/03/2022,MIA,Kyle Lowry,PG
 02/03/2022,MIA,Duncan Robinson,SG
-02/03/2022,MIA,Jimmy Butler III,SF
+02/03/2022,MIA,Jimmy Butler,SF
 02/03/2022,MIA,P.J. Tucker,PF
 02/03/2022,MIA,Bam Adebayo,C
 02/03/2022,SAS,Tre Jones,PG
@@ -7901,7 +7901,7 @@ Date,Team,Player,Pos
 02/05/2022,ORL,Wendell Carter Jr.,C
 02/05/2022,MIA,Kyle Lowry,PG
 02/05/2022,MIA,Duncan Robinson,SG
-02/05/2022,MIA,Jimmy Butler III,SF
+02/05/2022,MIA,Jimmy Butler,SF
 02/05/2022,MIA,P.J. Tucker,PF
 02/05/2022,MIA,Bam Adebayo,C
 02/05/2022,CHO,Terry Rozier,PG
@@ -8041,7 +8041,7 @@ Date,Team,Player,Pos
 02/07/2022,CHO,Mason Plumlee,C
 02/07/2022,MIA,Kyle Lowry,PG
 02/07/2022,MIA,Duncan Robinson,SG
-02/07/2022,MIA,Jimmy Butler III,SF
+02/07/2022,MIA,Jimmy Butler,SF
 02/07/2022,MIA,P.J. Tucker,PF
 02/07/2022,MIA,Bam Adebayo,C
 02/07/2022,WAS,Aaron Holiday,PG
@@ -8261,7 +8261,7 @@ Date,Team,Player,Pos
 02/10/2022,WAS,Thomas Bryant,C
 02/10/2022,MIA,Kyle Lowry,PG
 02/10/2022,MIA,Duncan Robinson,SG
-02/10/2022,MIA,Jimmy Butler III,SF
+02/10/2022,MIA,Jimmy Butler,SF
 02/10/2022,MIA,P.J. Tucker,PF
 02/10/2022,MIA,Bam Adebayo,C
 02/10/2022,NOP,CJ McCollum,PG
@@ -8456,7 +8456,7 @@ Date,Team,Player,Pos
 02/12/2022,BRK,Blake Griffin,PF
 02/12/2022,MIA,Kyle Lowry,PG
 02/12/2022,MIA,Duncan Robinson,SG
-02/12/2022,MIA,Jimmy Butler III,SF
+02/12/2022,MIA,Jimmy Butler,SF
 02/12/2022,MIA,P.J. Tucker,PF
 02/12/2022,MIA,Bam Adebayo,C
 02/12/2022,LAL,Russell Westbrook,PG
@@ -8626,7 +8626,7 @@ Date,Team,Player,Pos
 02/15/2022,DAL,Dwight Powell,C
 02/15/2022,MIA,Kyle Lowry,PG
 02/15/2022,MIA,Duncan Robinson,SG
-02/15/2022,MIA,Jimmy Butler III,SF
+02/15/2022,MIA,Jimmy Butler,SF
 02/15/2022,MIA,P.J. Tucker,PF
 02/15/2022,MIA,Bam Adebayo,C
 02/15/2022,MEM,Tyus Jones,PG
@@ -8781,7 +8781,7 @@ Date,Team,Player,Pos
 02/16/2022,LAL,Anthony Davis,C
 02/17/2022,MIA,Kyle Lowry,PG
 02/17/2022,MIA,Duncan Robinson,SG
-02/17/2022,MIA,Jimmy Butler III,SF
+02/17/2022,MIA,Jimmy Butler,SF
 02/17/2022,MIA,P.J. Tucker,PF
 02/17/2022,MIA,Bam Adebayo,C
 02/17/2022,CHO,LaMelo Ball,PG
@@ -8941,7 +8941,7 @@ Date,Team,Player,Pos
 02/25/2022,CHO,Mason Plumlee,C
 02/25/2022,MIA,Kyle Lowry,PG
 02/25/2022,MIA,Duncan Robinson,SG
-02/25/2022,MIA,Jimmy Butler III,SF
+02/25/2022,MIA,Jimmy Butler,SF
 02/25/2022,MIA,P.J. Tucker,PF
 02/25/2022,MIA,Bam Adebayo,C
 02/25/2022,NYK,RJ Barrett,SG
@@ -9026,7 +9026,7 @@ Date,Team,Player,Pos
 02/26/2022,SAS,Zach Collins,C
 02/26/2022,MIA,Kyle Lowry,PG
 02/26/2022,MIA,Duncan Robinson,SG
-02/26/2022,MIA,Jimmy Butler III,SF
+02/26/2022,MIA,Jimmy Butler,SF
 02/26/2022,MIA,P.J. Tucker,PF
 02/26/2022,MIA,Bam Adebayo,C
 02/26/2022,WAS,Raul Neto,PG
@@ -9166,7 +9166,7 @@ Date,Team,Player,Pos
 02/28/2022,CHI,Nikola Vucevic,C
 02/28/2022,MIA,Gabe Vincent,PG
 02/28/2022,MIA,Duncan Robinson,SG
-02/28/2022,MIA,Jimmy Butler III,SF
+02/28/2022,MIA,Jimmy Butler,SF
 02/28/2022,MIA,P.J. Tucker,PF
 02/28/2022,MIA,Bam Adebayo,C
 02/28/2022,TOR,Malachi Flynn,PG
@@ -9321,7 +9321,7 @@ Date,Team,Player,Pos
 03/02/2022,HOU,Christian Wood,PF
 03/02/2022,MIA,Gabe Vincent,PG
 03/02/2022,MIA,Duncan Robinson,SG
-03/02/2022,MIA,Jimmy Butler III,SF
+03/02/2022,MIA,Jimmy Butler,SF
 03/02/2022,MIA,P.J. Tucker,PF
 03/02/2022,MIA,Bam Adebayo,C
 03/02/2022,MIL,Jrue Holiday,PG
@@ -9546,7 +9546,7 @@ Date,Team,Player,Pos
 03/05/2022,PHI,Joel Embiid,C
 03/05/2022,MIA,Gabe Vincent,PG
 03/05/2022,MIA,Duncan Robinson,SG
-03/05/2022,MIA,Jimmy Butler III,SF
+03/05/2022,MIA,Jimmy Butler,SF
 03/05/2022,MIA,P.J. Tucker,PF
 03/05/2022,MIA,Bam Adebayo,C
 03/05/2022,GSW,Stephen Curry,PG
@@ -9666,7 +9666,7 @@ Date,Team,Player,Pos
 03/07/2022,HOU,Alperen Sengun,C
 03/07/2022,MIA,Kyle Lowry,PG
 03/07/2022,MIA,Duncan Robinson,SG
-03/07/2022,MIA,Jimmy Butler III,SF
+03/07/2022,MIA,Jimmy Butler,SF
 03/07/2022,MIA,P.J. Tucker,PF
 03/07/2022,MIA,Bam Adebayo,C
 03/07/2022,POR,Brandon Williams,PG
@@ -9966,7 +9966,7 @@ Date,Team,Player,Pos
 03/11/2022,CLE,Lauri Markkanen,PF
 03/11/2022,MIA,Kyle Lowry,PG
 03/11/2022,MIA,Duncan Robinson,SG
-03/11/2022,MIA,Jimmy Butler III,SF
+03/11/2022,MIA,Jimmy Butler,SF
 03/11/2022,MIA,P.J. Tucker,PF
 03/11/2022,MIA,Bam Adebayo,C
 03/11/2022,CHO,LaMelo Ball,PG
@@ -10286,7 +10286,7 @@ Date,Team,Player,Pos
 03/15/2022,DET,Jerami Grant,PF
 03/15/2022,MIA,Kyle Lowry,PG
 03/15/2022,MIA,Duncan Robinson,SG
-03/15/2022,MIA,Jimmy Butler III,SF
+03/15/2022,MIA,Jimmy Butler,SF
 03/15/2022,MIA,P.J. Tucker,PF
 03/15/2022,MIA,Bam Adebayo,C
 03/15/2022,PHO,Cameron Payne,PG
@@ -10721,7 +10721,7 @@ Date,Team,Player,Pos
 03/21/2022,BRK,Nicolas Claxton,C
 03/21/2022,MIA,Kyle Lowry,PG
 03/21/2022,MIA,Duncan Robinson,SG
-03/21/2022,MIA,Jimmy Butler III,SF
+03/21/2022,MIA,Jimmy Butler,SF
 03/21/2022,MIA,P.J. Tucker,PF
 03/21/2022,MIA,Bam Adebayo,C
 03/21/2022,PHI,Tyrese Maxey,PG
@@ -10866,7 +10866,7 @@ Date,Team,Player,Pos
 03/23/2022,GSW,Kevon Looney,C
 03/23/2022,MIA,Kyle Lowry,PG
 03/23/2022,MIA,Duncan Robinson,SG
-03/23/2022,MIA,Jimmy Butler III,SF
+03/23/2022,MIA,Jimmy Butler,SF
 03/23/2022,MIA,P.J. Tucker,PF
 03/23/2022,MIA,Bam Adebayo,C
 03/23/2022,PHO,Cameron Payne,PG
@@ -11006,7 +11006,7 @@ Date,Team,Player,Pos
 03/25/2022,NYK,Jericho Sims,C
 03/25/2022,MIA,Kyle Lowry,PG
 03/25/2022,MIA,Duncan Robinson,SG
-03/25/2022,MIA,Jimmy Butler III,SF
+03/25/2022,MIA,Jimmy Butler,SF
 03/25/2022,MIA,P.J. Tucker,PF
 03/25/2022,MIA,Bam Adebayo,C
 03/25/2022,DAL,Luka Doncic,PG
@@ -11086,7 +11086,7 @@ Date,Team,Player,Pos
 03/26/2022,BRK,Andre Drummond,C
 03/26/2022,MIA,Kyle Lowry,PG
 03/26/2022,MIA,Duncan Robinson,SG
-03/26/2022,MIA,Jimmy Butler III,SF
+03/26/2022,MIA,Jimmy Butler,SF
 03/26/2022,MIA,P.J. Tucker,PF
 03/26/2022,MIA,Bam Adebayo,C
 03/26/2022,MIL,George Hill,PG
@@ -11236,7 +11236,7 @@ Date,Team,Player,Pos
 03/28/2022,SAC,Damian Jones,C
 03/28/2022,MIA,Kyle Lowry,PG
 03/28/2022,MIA,Max Strus,SG
-03/28/2022,MIA,Jimmy Butler III,SF
+03/28/2022,MIA,Jimmy Butler,SF
 03/28/2022,MIA,P.J. Tucker,PF
 03/28/2022,MIA,Bam Adebayo,C
 03/28/2022,CHI,Ayo Dosunmu,PG
@@ -11381,7 +11381,7 @@ Date,Team,Player,Pos
 03/30/2022,NYK,Mitchell Robinson,C
 03/30/2022,MIA,Kyle Lowry,PG
 03/30/2022,MIA,Max Strus,SG
-03/30/2022,MIA,Jimmy Butler III,SF
+03/30/2022,MIA,Jimmy Butler,SF
 03/30/2022,MIA,P.J. Tucker,PF
 03/30/2022,MIA,Bam Adebayo,C
 03/30/2022,BOS,Marcus Smart,PG
@@ -11621,7 +11621,7 @@ Date,Team,Player,Pos
 04/02/2022,ATL,Clint Capela,C
 04/02/2022,MIA,Kyle Lowry,PG
 04/02/2022,MIA,Max Strus,SG
-04/02/2022,MIA,Jimmy Butler III,SF
+04/02/2022,MIA,Jimmy Butler,SF
 04/02/2022,MIA,P.J. Tucker,PF
 04/02/2022,MIA,Bam Adebayo,C
 04/02/2022,CHI,Ayo Dosunmu,PG
@@ -11806,7 +11806,7 @@ Date,Team,Player,Pos
 04/05/2022,CHO,Mason Plumlee,C
 04/05/2022,MIA,Gabe Vincent,PG
 04/05/2022,MIA,Max Strus,SG
-04/05/2022,MIA,Jimmy Butler III,SF
+04/05/2022,MIA,Jimmy Butler,SF
 04/05/2022,MIA,P.J. Tucker,PF
 04/05/2022,MIA,Bam Adebayo,C
 04/05/2022,POR,Kris Dunn,PG
@@ -12056,7 +12056,7 @@ Date,Team,Player,Pos
 04/08/2022,ATL,Clint Capela,C
 04/08/2022,MIA,Kyle Lowry,PG
 04/08/2022,MIA,Max Strus,SG
-04/08/2022,MIA,Jimmy Butler III,SF
+04/08/2022,MIA,Jimmy Butler,SF
 04/08/2022,MIA,Caleb Martin,PF
 04/08/2022,MIA,Bam Adebayo,C
 04/08/2022,CHO,Terry Rozier,PG
@@ -12396,7 +12396,7 @@ Date,Team,Player,Pos
 04/17/2022,ATL,Onyeka Okongwu,C
 04/17/2022,MIA,Kyle Lowry,PG
 04/17/2022,MIA,Max Strus,SG
-04/17/2022,MIA,Jimmy Butler III,SF
+04/17/2022,MIA,Jimmy Butler,SF
 04/17/2022,MIA,P.J. Tucker,PF
 04/17/2022,MIA,Bam Adebayo,C
 04/17/2022,BRK,Kyrie Irving,PG
@@ -12466,7 +12466,7 @@ Date,Team,Player,Pos
 04/19/2022,ATL,John Collins,PF
 04/19/2022,MIA,Kyle Lowry,PG
 04/19/2022,MIA,Max Strus,SG
-04/19/2022,MIA,Jimmy Butler III,SF
+04/19/2022,MIA,Jimmy Butler,SF
 04/19/2022,MIA,P.J. Tucker,PF
 04/19/2022,MIA,Bam Adebayo,C
 04/19/2022,MIN,Patrick Beverley,PG
@@ -12551,7 +12551,7 @@ Date,Team,Player,Pos
 04/21/2022,DEN,Nikola Jokic,C
 04/22/2022,MIA,Kyle Lowry,PG
 04/22/2022,MIA,Max Strus,SG
-04/22/2022,MIA,Jimmy Butler III,SF
+04/22/2022,MIA,Jimmy Butler,SF
 04/22/2022,MIA,P.J. Tucker,PF
 04/22/2022,MIA,Bam Adebayo,C
 04/22/2022,ATL,Trae Young,PG
@@ -12641,7 +12641,7 @@ Date,Team,Player,Pos
 04/24/2022,DEN,Nikola Jokic,C
 04/24/2022,MIA,Gabe Vincent,PG
 04/24/2022,MIA,Max Strus,SG
-04/24/2022,MIA,Jimmy Butler III,SF
+04/24/2022,MIA,Jimmy Butler,SF
 04/24/2022,MIA,P.J. Tucker,PF
 04/24/2022,MIA,Bam Adebayo,C
 04/24/2022,ATL,Trae Young,PG
@@ -12806,7 +12806,7 @@ Date,Team,Player,Pos
 05/02/2022,PHI,DeAndre Jordan,C
 05/02/2022,MIA,Gabe Vincent,PG
 05/02/2022,MIA,Max Strus,SG
-05/02/2022,MIA,Jimmy Butler III,SF
+05/02/2022,MIA,Jimmy Butler,SF
 05/02/2022,MIA,P.J. Tucker,PF
 05/02/2022,MIA,Bam Adebayo,C
 05/02/2022,DAL,Jalen Brunson,PG
@@ -12846,7 +12846,7 @@ Date,Team,Player,Pos
 05/04/2022,PHI,DeAndre Jordan,C
 05/04/2022,MIA,Gabe Vincent,PG
 05/04/2022,MIA,Max Strus,SG
-05/04/2022,MIA,Jimmy Butler III,SF
+05/04/2022,MIA,Jimmy Butler,SF
 05/04/2022,MIA,P.J. Tucker,PF
 05/04/2022,MIA,Bam Adebayo,C
 05/04/2022,DAL,Luka Doncic,PG
@@ -12861,7 +12861,7 @@ Date,Team,Player,Pos
 05/04/2022,PHO,Deandre Ayton,C
 05/06/2022,MIA,Kyle Lowry,PG
 05/06/2022,MIA,Max Strus,SG
-05/06/2022,MIA,Jimmy Butler III,SF
+05/06/2022,MIA,Jimmy Butler,SF
 05/06/2022,MIA,P.J. Tucker,PF
 05/06/2022,MIA,Bam Adebayo,C
 05/06/2022,PHI,Tyrese Maxey,PG
@@ -12911,7 +12911,7 @@ Date,Team,Player,Pos
 05/08/2022,DAL,Dwight Powell,C
 05/08/2022,MIA,Kyle Lowry,PG
 05/08/2022,MIA,Max Strus,SG
-05/08/2022,MIA,Jimmy Butler III,SF
+05/08/2022,MIA,Jimmy Butler,SF
 05/08/2022,MIA,P.J. Tucker,PF
 05/08/2022,MIA,Bam Adebayo,C
 05/08/2022,PHI,Tyrese Maxey,PG
@@ -12946,7 +12946,7 @@ Date,Team,Player,Pos
 05/10/2022,PHI,Joel Embiid,C
 05/10/2022,MIA,Gabe Vincent,PG
 05/10/2022,MIA,Max Strus,SG
-05/10/2022,MIA,Jimmy Butler III,SF
+05/10/2022,MIA,Jimmy Butler,SF
 05/10/2022,MIA,P.J. Tucker,PF
 05/10/2022,MIA,Bam Adebayo,C
 05/10/2022,DAL,Luka Doncic,PG
@@ -12981,7 +12981,7 @@ Date,Team,Player,Pos
 05/11/2022,MEM,Steven Adams,C
 05/12/2022,MIA,Gabe Vincent,PG
 05/12/2022,MIA,Max Strus,SG
-05/12/2022,MIA,Jimmy Butler III,SF
+05/12/2022,MIA,Jimmy Butler,SF
 05/12/2022,MIA,P.J. Tucker,PF
 05/12/2022,MIA,Bam Adebayo,C
 05/12/2022,PHI,Tyrese Maxey,PG
@@ -13046,7 +13046,7 @@ Date,Team,Player,Pos
 05/17/2022,BOS,Robert Williams III,C
 05/17/2022,MIA,Gabe Vincent,PG
 05/17/2022,MIA,Max Strus,SG
-05/17/2022,MIA,Jimmy Butler III,SF
+05/17/2022,MIA,Jimmy Butler,SF
 05/17/2022,MIA,P.J. Tucker,PF
 05/17/2022,MIA,Bam Adebayo,C
 05/18/2022,DAL,Jalen Brunson,PG
@@ -13066,7 +13066,7 @@ Date,Team,Player,Pos
 05/19/2022,BOS,Al Horford,C
 05/19/2022,MIA,Gabe Vincent,PG
 05/19/2022,MIA,Max Strus,SG
-05/19/2022,MIA,Jimmy Butler III,SF
+05/19/2022,MIA,Jimmy Butler,SF
 05/19/2022,MIA,P.J. Tucker,PF
 05/19/2022,MIA,Bam Adebayo,C
 05/20/2022,DAL,Luka Doncic,PG
@@ -13081,7 +13081,7 @@ Date,Team,Player,Pos
 05/20/2022,GSW,Kevon Looney,C
 05/21/2022,MIA,Kyle Lowry,PG
 05/21/2022,MIA,Max Strus,SG
-05/21/2022,MIA,Jimmy Butler III,SF
+05/21/2022,MIA,Jimmy Butler,SF
 05/21/2022,MIA,P.J. Tucker,PF
 05/21/2022,MIA,Bam Adebayo,C
 05/21/2022,BOS,Marcus Smart,PG
@@ -13101,7 +13101,7 @@ Date,Team,Player,Pos
 05/22/2022,DAL,Dwight Powell,C
 05/23/2022,MIA,Kyle Lowry,PG
 05/23/2022,MIA,Max Strus,SG
-05/23/2022,MIA,Jimmy Butler III,SF
+05/23/2022,MIA,Jimmy Butler,SF
 05/23/2022,MIA,P.J. Tucker,PF
 05/23/2022,MIA,Bam Adebayo,C
 05/23/2022,BOS,Jaylen Brown,SG
@@ -13126,7 +13126,7 @@ Date,Team,Player,Pos
 05/25/2022,BOS,Al Horford,C
 05/25/2022,MIA,Kyle Lowry,PG
 05/25/2022,MIA,Max Strus,SG
-05/25/2022,MIA,Jimmy Butler III,SF
+05/25/2022,MIA,Jimmy Butler,SF
 05/25/2022,MIA,P.J. Tucker,PF
 05/25/2022,MIA,Bam Adebayo,C
 05/26/2022,DAL,Luka Doncic,PG
@@ -13141,7 +13141,7 @@ Date,Team,Player,Pos
 05/26/2022,GSW,Kevon Looney,C
 05/27/2022,MIA,Kyle Lowry,PG
 05/27/2022,MIA,Max Strus,SG
-05/27/2022,MIA,Jimmy Butler III,SF
+05/27/2022,MIA,Jimmy Butler,SF
 05/27/2022,MIA,P.J. Tucker,PF
 05/27/2022,MIA,Bam Adebayo,C
 05/27/2022,BOS,Marcus Smart,PG
@@ -13156,7 +13156,7 @@ Date,Team,Player,Pos
 05/29/2022,BOS,Al Horford,C
 05/29/2022,MIA,Kyle Lowry,PG
 05/29/2022,MIA,Max Strus,SG
-05/29/2022,MIA,Jimmy Butler III,SF
+05/29/2022,MIA,Jimmy Butler,SF
 05/29/2022,MIA,P.J. Tucker,PF
 05/29/2022,MIA,Bam Adebayo,C
 06/02/2022,BOS,Marcus Smart,PG
