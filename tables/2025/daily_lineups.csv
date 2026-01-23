@@ -6559,26 +6559,6 @@ Date,Team,Player,Pos
 01/21/2026,SAC,DeMar DeRozan,SF
 01/21/2026,SAC,Precious Achiuwa,PF
 01/21/2026,SAC,Maxime Raynaud,C
-01/22/2026,HOU,Amen Thompson,SG
-01/22/2026,HOU,Josh Okogie,SG
-01/22/2026,HOU,Kevin Durant,PF
-01/22/2026,HOU,Jabari Smith Jr.,PF
-01/22/2026,HOU,Alperen Sengun,C
-01/22/2026,PHI,Tyrese Maxey,PG
-01/22/2026,PHI,VJ Edgecombe,SG
-01/22/2026,PHI,Paul George,SF
-01/22/2026,PHI,Kelly Oubre Jr.,SF
-01/22/2026,PHI,Joel Embiid,C
-01/22/2026,CHO,LaMelo Ball,PG
-01/22/2026,CHO,Kon Knueppel,SG
-01/22/2026,CHO,Miles Bridges,SF
-01/22/2026,CHO,Brandon Miller,SF
-01/22/2026,CHO,Moussa Diabate,PF
-01/22/2026,ORL,Anthony Black,PG
-01/22/2026,ORL,Desmond Bane,SG
-01/22/2026,ORL,Paolo Banchero,PF
-01/22/2026,ORL,Tristan da Silva,PF
-01/22/2026,ORL,Wendell Carter Jr.,C
 01/22/2026,DEN,Jamal Murray,PG
 01/22/2026,DEN,Jalen Pickett,SG
 01/22/2026,DEN,Peyton Watson,SF
@@ -6589,6 +6569,26 @@ Date,Team,Player,Pos
 01/22/2026,WAS,Khris Middleton,SF
 01/22/2026,WAS,Kyshawn George,SF
 01/22/2026,WAS,Alexandre Sarr,PF
+01/22/2026,HOU,Amen Thompson,SG
+01/22/2026,HOU,Josh Okogie,SG
+01/22/2026,HOU,Jabari Smith Jr.,PF
+01/22/2026,HOU,Kevin Durant,PF
+01/22/2026,HOU,Alperen Sengun,C
+01/22/2026,PHI,Tyrese Maxey,PG
+01/22/2026,PHI,VJ Edgecombe,SG
+01/22/2026,PHI,Paul George,SF
+01/22/2026,PHI,Kelly Oubre Jr.,SF
+01/22/2026,PHI,Joel Embiid,C
+01/22/2026,CHO,LaMelo Ball,PG
+01/22/2026,CHO,Kon Knueppel,SG
+01/22/2026,CHO,Brandon Miller,SF
+01/22/2026,CHO,Miles Bridges,SF
+01/22/2026,CHO,Moussa Diabate,PF
+01/22/2026,ORL,Anthony Black,PG
+01/22/2026,ORL,Desmond Bane,SG
+01/22/2026,ORL,Paolo Banchero,PF
+01/22/2026,ORL,Tristan da Silva,PF
+01/22/2026,ORL,Wendell Carter Jr.,C
 01/22/2026,GSW,Stephen Curry,PG
 01/22/2026,GSW,Brandin Podziemski,SG
 01/22/2026,GSW,Moses Moody,SG
@@ -6600,12 +6600,12 @@ Date,Team,Player,Pos
 01/22/2026,DAL,Caleb Martin,PF
 01/22/2026,DAL,Dwight Powell,C
 01/22/2026,CHI,Coby White,SG
-01/22/2026,CHI,Matas Buzelis,SF
 01/22/2026,CHI,Isaac Okoro,SF
+01/22/2026,CHI,Matas Buzelis,SF
 01/22/2026,CHI,Jalen Smith,PF
 01/22/2026,CHI,Nikola Vucevic,C
-01/22/2026,MIN,Donte DiVincenzo,SG
 01/22/2026,MIN,Anthony Edwards,SG
+01/22/2026,MIN,Donte DiVincenzo,SG
 01/22/2026,MIN,Jaden McDaniels,PF
 01/22/2026,MIN,Julius Randle,PF
 01/22/2026,MIN,Rudy Gobert,C
@@ -6615,9 +6615,9 @@ Date,Team,Player,Pos
 01/22/2026,SAS,Harrison Barnes,SF
 01/22/2026,SAS,Victor Wembanyama,PF
 01/22/2026,UTA,Keyonte George,SG
+01/22/2026,UTA,Svi Mykhailiuk,SF
 01/22/2026,UTA,Cody Williams,SF
 01/22/2026,UTA,Ace Bailey,SF
-01/22/2026,UTA,Svi Mykhailiuk,SF
 01/22/2026,UTA,Jusuf Nurkic,C
 01/22/2026,LAL,Luka Doncic,PG
 01/22/2026,LAL,Marcus Smart,PG
@@ -6649,6 +6649,26 @@ Date,Team,Player,Pos
 01/23/2026,DET,Duncan Robinson,SG
 01/23/2026,DET,Tobias Harris,SF
 01/23/2026,DET,Jalen Duren,C
+01/23/2026,PHO,Collin Gillespie,PG
+01/23/2026,PHO,Devin Booker,SG
+01/23/2026,PHO,Dillon Brooks,SF
+01/23/2026,PHO,Royce O'Neale,PF
+01/23/2026,PHO,Mark Williams,C
+01/23/2026,ATL,Dyson Daniels,PG
+01/23/2026,ATL,Nickeil Alexander-Walker,SG
+01/23/2026,ATL,Luke Kennard,SG
+01/23/2026,ATL,Jalen Johnson,PF
+01/23/2026,ATL,Onyeka Okongwu,C
+01/23/2026,BOS,Payton Pritchard,PG
+01/23/2026,BOS,Jaylen Brown,SG
+01/23/2026,BOS,Derrick White,SG
+01/23/2026,BOS,Sam Hauser,SF
+01/23/2026,BOS,Neemias Queta,C
+01/23/2026,BRK,Terance Mann,PG
+01/23/2026,BRK,Egor Demin,PG
+01/23/2026,BRK,Michael Porter Jr.,SF
+01/23/2026,BRK,Noah Clowney,PF
+01/23/2026,BRK,Nicolas Claxton,C
 01/23/2026,SAC,Russell Westbrook,PG
 01/23/2026,SAC,Zach LaVine,SG
 01/23/2026,SAC,DeMar DeRozan,SF
@@ -6659,46 +6679,26 @@ Date,Team,Player,Pos
 01/23/2026,CLE,Dean Wade,PF
 01/23/2026,CLE,Evan Mobley,PF
 01/23/2026,CLE,Jarrett Allen,C
-01/23/2026,PHO,Devin Booker,SG
-01/23/2026,PHO,Jalen Green,SG
-01/23/2026,PHO,Dillon Brooks,SF
-01/23/2026,PHO,Royce O'Neale,PF
-01/23/2026,PHO,Mark Williams,C
-01/23/2026,ATL,Dyson Daniels,PG
-01/23/2026,ATL,Nickeil Alexander-Walker,SG
-01/23/2026,ATL,Luke Kennard,SG
-01/23/2026,ATL,Jalen Johnson,PF
-01/23/2026,ATL,Onyeka Okongwu,C
-01/23/2026,BOS,Payton Pritchard,PG
-01/23/2026,BOS,Derrick White,SG
-01/23/2026,BOS,Jaylen Brown,SG
-01/23/2026,BOS,Sam Hauser,SF
-01/23/2026,BOS,Neemias Queta,C
-01/23/2026,BRK,Terance Mann,PG
-01/23/2026,BRK,Egor Demin,PG
-01/23/2026,BRK,Michael Porter Jr.,SF
-01/23/2026,BRK,Noah Clowney,PF
-01/23/2026,BRK,Nicolas Claxton,C
-01/23/2026,NOP,Jeremiah Fears,PG
-01/23/2026,NOP,Trey Murphy III,SF
-01/23/2026,NOP,Herbert Jones,SF
-01/23/2026,NOP,Zion Williamson,PF
-01/23/2026,NOP,Derik Queen,C
-01/23/2026,MEM,Cam Spencer,SG
-01/23/2026,MEM,Cedric Coward,SG
-01/23/2026,MEM,Jaylen Wells,SF
-01/23/2026,MEM,Jaren Jackson Jr.,PF
-01/23/2026,MEM,Jock Landale,C
 01/23/2026,IND,Andrew Nembhard,PG
 01/23/2026,IND,Ben Sheppard,SF
 01/23/2026,IND,Aaron Nesmith,PF
 01/23/2026,IND,Pascal Siakam,PF
 01/23/2026,IND,Jay Huff,C
-01/23/2026,OKC,Cason Wallace,PG
 01/23/2026,OKC,Shai Gilgeous-Alexander,PG
+01/23/2026,OKC,Cason Wallace,PG
 01/23/2026,OKC,Luguentz Dort,SF
 01/23/2026,OKC,Jaylin Williams,PF
 01/23/2026,OKC,Chet Holmgren,C
+01/23/2026,NOP,Jeremiah Fears,PG
+01/23/2026,NOP,Herbert Jones,SF
+01/23/2026,NOP,Trey Murphy III,SF
+01/23/2026,NOP,Zion Williamson,PF
+01/23/2026,NOP,Derik Queen,C
+01/23/2026,MEM,Cedric Coward,SG
+01/23/2026,MEM,Cam Spencer,SG
+01/23/2026,MEM,Jaylen Wells,SF
+01/23/2026,MEM,Jaren Jackson Jr.,PF
+01/23/2026,MEM,Jock Landale,C
 01/23/2026,DEN,Jamal Murray,PG
 01/23/2026,DEN,Peyton Watson,SF
 01/23/2026,DEN,Tim Hardaway Jr.,SF
