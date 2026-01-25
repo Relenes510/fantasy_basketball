@@ -59,10 +59,10 @@ def predict(req: PredictionRequest):
     df['Player'] = df['Player'].astype('category')
     df['Pos'] = df['Pos'].astype('category')
 
-    time =  datetime.now() + timedelta(hours=-8)
+    time = datetime.now() + timedelta(hours=-8)
     df = df[(df.Date == str(time.date())) & (df.Player == req.player_name)].drop(['Season', 'Date', 'PTS'], axis=1)
     df.loc[df['Player'] == req.player_name, 'PTS_h1'] = req.ht_pts
-    pts_prediction = int(ht_model.predict(df))
+    pts_prediction = int(ht_model.predict(df)[0])
 
     return {
         "player": req.player_name,
