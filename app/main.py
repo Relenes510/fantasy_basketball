@@ -40,6 +40,7 @@ def root():
 
 @app.get("/health")
 def health():
+    df = pd.read_csv("tables/2025/ht_api_input.csv")
     return {"status": "ok", "rows": df.shape[0], "time": datetime.now()}
 
 
