@@ -4,7 +4,6 @@ from pydantic import BaseModel
 
 from datetime import datetime
 import pandas as pd
-import numpy as np
 
 from xgboost import XGBRegressor
 import xgboost as xgb
@@ -58,7 +57,7 @@ def predict(req: PredictionRequest):
     df['Player'] = df['Player'].astype('category')
     df['Pos'] = df['Pos'].astype('category')
     df = df[(df.Date == str(datetime.now().date())) & (df.Player == req.player_name)].drop(['Season', 'Date', 'PTS'], axis=1)
-    df['PTS_h1'] = np.where(df.Player == req.player_name, req.ht_pts, df.PTS_h1)
+    df.loc[df['Player'] == req.player_name, 'PTS_h1'] = req.ht_pts
     pts_prediction = int(ht_model.predict(df))
 
     return {
