@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 
-from datetime import datetime
+from datetime import datetime, timedelta
 import pandas as pd
 
 from xgboost import XGBRegressor
@@ -41,7 +41,8 @@ def root():
 @app.get("/health")
 def health():
     df = pd.read_csv("tables/2025/ht_api_input.csv")
-    return {"status": "ok", "rows": df.shape[0], "time": datetime.now()}
+    time =  datetime.now() + timedelta(hours=-8)
+    return {"status": "ok", "rows": df.shape[0], "time": time.date()}
 
 
 @app.post("/predict", response_model=PredictionResponse)
@@ -57,7 +58,9 @@ def predict(req: PredictionRequest):
     df['Opp'] = df['Opp'].astype('category')
     df['Player'] = df['Player'].astype('category')
     df['Pos'] = df['Pos'].astype('category')
-    df = df[(df.Date == str(datetime.now().date())) & (df.Player == req.player_name)].drop(['Season', 'Date', 'PTS'], axis=1)
+
+    time =  datetime.now() + timedelta(hours=-8)
+    df = df[(df.Date == str(time.date())) & (df.Player == req.player_name)].drop(['Season', 'Date', 'PTS'], axis=1)
     df.loc[df['Player'] == req.player_name, 'PTS_h1'] = req.ht_pts
     pts_prediction = int(ht_model.predict(df))
 
