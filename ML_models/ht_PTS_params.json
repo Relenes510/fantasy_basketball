@@ -1,0 +1,1 @@
+{"learning_rate": 0.043801481965689386, "max_depth": 3, "min_child_weight": 6, "subsample": 0.7657506783291828, "colsample_bytree": 0.8880761816053027, "gamma": 0.24776755391985905, "reg_lambda": 4.712299532780405, "reg_alpha": 0.7976750642992704, "objective": "reg:squarederror", "enable_categorical": true, "tree_method": "hist", "device": "cuda", "seed": 42}
