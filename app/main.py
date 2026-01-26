@@ -22,6 +22,7 @@ class PredictionRequest(BaseModel):
 class PredictionResponse(BaseModel):
     player: str
     predicted_final_pts: float
+    predicted_minutes: float
 
 # -------------------------
 # Routes
@@ -63,8 +64,10 @@ def predict(req: PredictionRequest):
     df = df[(df.Date == str(time.date())) & (df.Player == req.player_name)].drop(['Season', 'Date', 'PTS'], axis=1)
     df.loc[df['Player'] == req.player_name, 'PTS_h1'] = req.ht_pts
     pts_prediction = int(ht_model.predict(df)[0])
+    mp_prediction = float(round(df.MP.iloc[0], 2))
 
     return {
         "player": req.player_name,
-        "predicted_final_pts": pts_prediction
+        "predicted_final_pts": pts_prediction,
+        "predicted_minutes": mp_prediction
     }
