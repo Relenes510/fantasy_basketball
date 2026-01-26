@@ -43,7 +43,7 @@ def root():
 def health():
     df = pd.read_csv("tables/2025/ht_api_input.csv")
     time =  datetime.now() + timedelta(hours=-8)
-    return {"status": "ok", "rows": df.shape[0], "time": time.date()}
+    return {"status": "ok", "rows": df.shape[0], "time": time}
 
 
 @app.post("/predict", response_model=PredictionResponse)
