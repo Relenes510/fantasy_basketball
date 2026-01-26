@@ -3,6 +3,7 @@
 - Author: Rodolfo Elenes
 - Email contact: rodolfoe7157@gmail.com
 - [Halftime Points Model Predictor](https://fantasy-basketball-zbmx.onrender.com/)
+  - Please allow it at least a minute to spin up
 
 Hello! This project is about creating and maintaining ML models that help assist in creating player prop bets for sportsbook betting. 
 There are active CI/CD pipeline processes in place through Github Actions + cronho.st that actively update my tables with starting lineups
