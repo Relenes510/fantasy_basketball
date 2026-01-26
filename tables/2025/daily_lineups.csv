@@ -6829,8 +6829,8 @@ Date,Team,Player,Pos
 01/25/2026,PHO,Grayson Allen,SF
 01/25/2026,PHO,Royce O'Neale,PF
 01/25/2026,PHO,Mark Williams,C
-01/25/2026,BRK,Egor Demin,PG
 01/25/2026,BRK,Terance Mann,PG
+01/25/2026,BRK,Egor Demin,PG
 01/25/2026,BRK,Drake Powell,SG
 01/25/2026,BRK,Michael Porter Jr.,SF
 01/25/2026,BRK,Nicolas Claxton,C
@@ -6869,6 +6869,16 @@ Date,Team,Player,Pos
 01/26/2026,CLE,Evan Mobley,PF
 01/26/2026,CLE,Dean Wade,PF
 01/26/2026,CLE,Jarrett Allen,C
+01/26/2026,POR,Shaedon Sharpe,SG
+01/26/2026,POR,Deni Avdija,SF
+01/26/2026,POR,Toumani Camara,SF
+01/26/2026,POR,Sidy Cissoko,SF
+01/26/2026,POR,Donovan Clingan,C
+01/26/2026,BOS,Payton Pritchard,PG
+01/26/2026,BOS,Derrick White,SG
+01/26/2026,BOS,Jaylen Brown,SG
+01/26/2026,BOS,Sam Hauser,SF
+01/26/2026,BOS,Neemias Queta,C
 01/26/2026,MEM,Vince Williams Jr.,SG
 01/26/2026,MEM,Cedric Coward,SG
 01/26/2026,MEM,Jaylen Wells,SF
@@ -6884,25 +6894,15 @@ Date,Team,Player,Pos
 01/26/2026,LAL,LeBron James,SF
 01/26/2026,LAL,Jake LaRavia,PF
 01/26/2026,LAL,Deandre Ayton,C
-01/26/2026,CHI,Coby White,SG
 01/26/2026,CHI,Josh Giddey,SG
+01/26/2026,CHI,Coby White,SG
 01/26/2026,CHI,Matas Buzelis,SF
 01/26/2026,CHI,Isaac Okoro,SF
 01/26/2026,CHI,Nikola Vucevic,C
-01/26/2026,POR,Shaedon Sharpe,SG
-01/26/2026,POR,Deni Avdija,SF
-01/26/2026,POR,Toumani Camara,SF
-01/26/2026,POR,Sidy Cissoko,SF
-01/26/2026,POR,Donovan Clingan,C
-01/26/2026,BOS,Payton Pritchard,PG
-01/26/2026,BOS,Derrick White,SG
-01/26/2026,BOS,Jaylen Brown,SG
-01/26/2026,BOS,Sam Hauser,SF
-01/26/2026,BOS,Neemias Queta,C
-01/26/2026,GSW,Stephen Curry,PG
 01/26/2026,GSW,Will Richard,SG
 01/26/2026,GSW,Moses Moody,SG
-01/26/2026,GSW,Draymond Green,PF
+01/26/2026,GSW,Brandin Podziemski,SG
+01/26/2026,GSW,Gui Santos,SF
 01/26/2026,GSW,Quinten Post,C
 01/26/2026,MIN,Donte DiVincenzo,SG
 01/26/2026,MIN,Anthony Edwards,SG
