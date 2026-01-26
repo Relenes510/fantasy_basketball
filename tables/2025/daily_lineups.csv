@@ -6789,6 +6789,16 @@ Date,Team,Player,Pos
 01/25/2026,DET,Duncan Robinson,SG
 01/25/2026,DET,Tobias Harris,SF
 01/25/2026,DET,Jalen Duren,C
+01/25/2026,DEN,Jamal Murray,PG
+01/25/2026,DEN,Jalen Pickett,SG
+01/25/2026,DEN,Peyton Watson,SF
+01/25/2026,DEN,Spencer Jones,PF
+01/25/2026,DEN,Jonas Valanciunas,C
+01/25/2026,MEM,Cedric Coward,SG
+01/25/2026,MEM,Cam Spencer,SG
+01/25/2026,MEM,Jaylen Wells,SF
+01/25/2026,MEM,Jaren Jackson Jr.,PF
+01/25/2026,MEM,Jock Landale,C
 01/25/2026,GSW,Stephen Curry,PG
 01/25/2026,GSW,Brandin Podziemski,SG
 01/25/2026,GSW,Moses Moody,SG
@@ -6815,8 +6825,8 @@ Date,Team,Player,Pos
 01/25/2026,DAL,P.J. Washington,PF
 01/25/2026,DAL,Daniel Gafford,C
 01/25/2026,MIL,Ryan Rollins,SG
-01/25/2026,MIL,AJ Green,SG
 01/25/2026,MIL,Gary Trent Jr.,SG
+01/25/2026,MIL,AJ Green,SG
 01/25/2026,MIL,Kyle Kuzma,PF
 01/25/2026,MIL,Myles Turner,C
 01/25/2026,NOP,Jeremiah Fears,PG
@@ -6825,8 +6835,8 @@ Date,Team,Player,Pos
 01/25/2026,NOP,Zion Williamson,PF
 01/25/2026,NOP,Derik Queen,C
 01/25/2026,SAS,De'Aaron Fox,PG
-01/25/2026,SAS,Stephon Castle,SG
 01/25/2026,SAS,Devin Vassell,SG
+01/25/2026,SAS,Stephon Castle,SG
 01/25/2026,SAS,Harrison Barnes,SF
 01/25/2026,SAS,Victor Wembanyama,PF
 01/25/2026,MIA,Kasparas Jakucionis,PG
@@ -6871,11 +6881,11 @@ Date,Team,Player,Pos
 01/26/2026,MIN,Rudy Gobert,C
 01/26/2026,TOR,Immanuel Quickley,PG
 01/26/2026,TOR,RJ Barrett,SG
-01/26/2026,TOR,Scottie Barnes,SF
 01/26/2026,TOR,Brandon Ingram,SF
+01/26/2026,TOR,Scottie Barnes,SF
 01/26/2026,TOR,Collin Murray-Boyles,PF
-01/26/2026,OKC,Cason Wallace,PG
 01/26/2026,OKC,Shai Gilgeous-Alexander,PG
+01/26/2026,OKC,Cason Wallace,PG
 01/26/2026,OKC,Isaiah Joe,SG
 01/26/2026,OKC,Luguentz Dort,SF
 01/26/2026,OKC,Chet Holmgren,C
@@ -6895,8 +6905,8 @@ Date,Team,Player,Pos
 01/26/2026,NOP,Zion Williamson,PF
 01/26/2026,NOP,Derik Queen,C
 01/26/2026,SAS,De'Aaron Fox,PG
-01/26/2026,SAS,Devin Vassell,SG
 01/26/2026,SAS,Stephon Castle,SG
+01/26/2026,SAS,Devin Vassell,SG
 01/26/2026,SAS,Harrison Barnes,SF
 01/26/2026,SAS,Victor Wembanyama,PF
 01/26/2026,MIA,Kasparas Jakucionis,PG
