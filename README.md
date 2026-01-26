@@ -37,6 +37,8 @@ No proprietary or confidential data is included.
 ## Acknowledgements
 This project uses the Python package nbainjuries by
 [@mxufc29](https://github.com/mxufc29)
+
+and Public ESPN API by 
 [@pseudo-r](https://github.com/pseudo-r/Public-ESPN-API?tab=readme-ov-file)
 
 Thanks to the authors for making it publicly available.
