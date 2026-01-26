@@ -150,8 +150,8 @@ DET,Isaiah Stewart,C
 DET,Cade Cunningham,PG
 DET,Jalen Duren,C
 DET,Daniss Jenkins,PG
-DET,Caris LeVert,SG
 DET,Paul Reed,C
+DET,Caris LeVert,SG
 DET,Tobias Harris,PF
 DET,Jaden Ivey,SG
 DET,Chaz Lanier,SG
@@ -166,17 +166,17 @@ GSW,Moses Moody,SG
 GSW,Gary Payton II,SG
 GSW,Will Richard,SG
 GSW,Buddy Hield,SG
-GSW,Jimmy Butler,SF
 GSW,Draymond Green,PF
+GSW,Jimmy Butler,SF
 GSW,Stephen Curry,PG
 GSW,Gui Santos,PF
 GSW,Trayce Jackson-Davis,C
 GSW,Pat Spencer,PG
 GSW,Al Horford,C
-GSW,Jonathan Kuminga,PF
 GSW,De'Anthony Melton,PG
-GSW,Seth Curry,SG
+GSW,Jonathan Kuminga,PF
 GSW,LJ Cryer,PG
+GSW,Seth Curry,SG
 GSW,Malevy Leons,SF
 HOU,Amen Thompson,PG
 HOU,Reed Sheppard,SG
@@ -267,9 +267,9 @@ MEM,Brandon Clarke,PF
 MEM,Ty Jerome,SG
 MEM,Scotty Pippen Jr.,PG
 MIA,Dru Smith,SG
-MIA,Kel'el Ware,C
 MIA,Simone Fontecchio,SF
 MIA,Andrew Wiggins,SF
+MIA,Kel'el Ware,C
 MIA,Jaime Jaquez Jr.,SF
 MIA,Norman Powell,SG
 MIA,Davion Mitchell,PG
@@ -277,8 +277,8 @@ MIA,Bam Adebayo,C
 MIA,Pelle Larsson,SG
 MIA,Nikola Jovic,PF
 MIA,Kasparas Jakucionis,PG
-MIA,Keshad Johnson,SF
 MIA,Myron Gardner,SF
+MIA,Keshad Johnson,SF
 MIA,Tyler Herro,SG
 MIA,Jahmir Young,PG
 MIA,Vladislav Goldin,C
@@ -324,8 +324,8 @@ NOP,Saddiq Bey,SF
 NOP,Yves Missi,C
 NOP,Micah Peavy,SG
 NOP,Jose Alvarado,PG
-NOP,Jordan Hawkins,SG
 NOP,Karlo Matkovic,PF
+NOP,Jordan Hawkins,SG
 NOP,Zion Williamson,PF
 NOP,Bryce McGowens,SG
 NOP,Jordan Poole,PG
@@ -359,10 +359,10 @@ OKC,Ajay Mitchell,SG
 OKC,Chet Holmgren,PF
 OKC,Isaiah Joe,SG
 OKC,Luguentz Dort,SF
-OKC,Alex Caruso,SG
-OKC,Branden Carlson,C
 OKC,Aaron Wiggins,SG
+OKC,Alex Caruso,SG
 OKC,Jaylin Williams,PF
+OKC,Branden Carlson,C
 OKC,Chris Youngblood,SG
 OKC,Kenrich Williams,PF
 OKC,Jalen Williams,SG
@@ -450,8 +450,8 @@ SAC,Maxime Raynaud,C
 SAC,Dennis Schroder,PG
 SAC,Zach LaVine,SG
 SAC,Drew Eubanks,C
-SAC,Keegan Murray,PF
 SAC,Dylan Cardwell,C
+SAC,Keegan Murray,PF
 SAC,Domantas Sabonis,C
 SAC,Devin Carter,PG
 SAC,Doug McDermott,SF
@@ -483,8 +483,8 @@ TOR,Brandon Ingram,SF
 TOR,Sandro Mamukelashvili,C
 TOR,Immanuel Quickley,PG
 TOR,Ochai Agbaji,SG
-TOR,Collin Murray-Boyles,PF
 TOR,Ja'Kobe Walter,SG
+TOR,Collin Murray-Boyles,PF
 TOR,Jamison Battle,SF
 TOR,RJ Barrett,SF
 TOR,Jakob Poeltl,C
