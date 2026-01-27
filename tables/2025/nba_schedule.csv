@@ -683,13 +683,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-25,7:00p,New Orleans Pelicans,NOP,104.0,San Antonio Spurs,SAS,95.0,0,Frost Bank Center,0,0,0,0,1
 2026-01-25,8:00p,Miami Heat,MIA,111.0,Phoenix Suns,PHO,102.0,0,Mortgage Matchup Center,1,0,0,0,1
 2026-01-25,9:00p,Brooklyn Nets,BRK,89.0,Los Angeles Clippers,LAC,126.0,0,Intuit Dome,0,0,0,0,1
-2026-01-26,1:30p,Indiana Pacers,IND,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
-2026-01-26,3:00p,Philadelphia 76ers,PHI,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-01-26,7:00p,Orlando Magic,ORL,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-01-26,8:00p,Portland Trail Blazers,POR,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-01-26,8:00p,Los Angeles Lakers,LAL,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-01-26,8:00p,Memphis Grizzlies,MEM,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
-2026-01-26,9:30p,Golden State Warriors,GSW,,Minnesota Timberwolves,MIN,,0,Target Center,1,1,0,0,0
+2026-01-26,1:30p,Indiana Pacers,IND,116.0,Atlanta Hawks,ATL,132.0,0,State Farm Arena,0,0,0,0,1
+2026-01-26,3:00p,Philadelphia 76ers,PHI,93.0,Charlotte Hornets,CHO,130.0,0,Spectrum Center,0,0,0,0,1
+2026-01-26,7:00p,Orlando Magic,ORL,98.0,Cleveland Cavaliers,CLE,114.0,0,Rocket Arena,0,0,0,0,1
+2026-01-26,8:00p,Portland Trail Blazers,POR,94.0,Boston Celtics,BOS,102.0,0,TD Garden,0,0,0,0,1
+2026-01-26,8:00p,Los Angeles Lakers,LAL,129.0,Chicago Bulls,CHI,118.0,0,United Center,0,0,0,0,1
+2026-01-26,8:00p,Memphis Grizzlies,MEM,99.0,Houston Rockets,HOU,108.0,0,Toyota Center,0,0,0,0,1
+2026-01-26,9:30p,Golden State Warriors,GSW,83.0,Minnesota Timberwolves,MIN,108.0,0,Target Center,1,1,0,0,1
 2026-01-27,7:00p,Portland Trail Blazers,POR,,Washington Wizards,WAS,,0,Capital One Arena,1,0,0,0,0
 2026-01-27,7:30p,Sacramento Kings,SAC,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
 2026-01-27,8:00p,New Orleans Pelicans,NOP,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
