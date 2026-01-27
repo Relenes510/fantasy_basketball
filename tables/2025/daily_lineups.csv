@@ -6869,6 +6869,16 @@ Date,Team,Player,Pos
 01/26/2026,CLE,Evan Mobley,PF
 01/26/2026,CLE,Dean Wade,PF
 01/26/2026,CLE,Jarrett Allen,C
+01/26/2026,POR,Jrue Holiday,PG
+01/26/2026,POR,Shaedon Sharpe,SG
+01/26/2026,POR,Toumani Camara,SF
+01/26/2026,POR,Sidy Cissoko,SF
+01/26/2026,POR,Donovan Clingan,C
+01/26/2026,BOS,Payton Pritchard,PG
+01/26/2026,BOS,Derrick White,SG
+01/26/2026,BOS,Jaylen Brown,SG
+01/26/2026,BOS,Sam Hauser,SF
+01/26/2026,BOS,Neemias Queta,C
 01/26/2026,MEM,Cedric Coward,SG
 01/26/2026,MEM,Cam Spencer,SG
 01/26/2026,MEM,Jaylen Wells,SF
@@ -6879,16 +6889,6 @@ Date,Team,Player,Pos
 01/26/2026,HOU,Jabari Smith Jr.,PF
 01/26/2026,HOU,Kevin Durant,PF
 01/26/2026,HOU,Alperen Sengun,C
-01/26/2026,POR,Jrue Holiday,PG
-01/26/2026,POR,Shaedon Sharpe,SG
-01/26/2026,POR,Sidy Cissoko,SF
-01/26/2026,POR,Toumani Camara,SF
-01/26/2026,POR,Donovan Clingan,C
-01/26/2026,BOS,Payton Pritchard,PG
-01/26/2026,BOS,Derrick White,SG
-01/26/2026,BOS,Jaylen Brown,SG
-01/26/2026,BOS,Sam Hauser,SF
-01/26/2026,BOS,Neemias Queta,C
 01/26/2026,LAL,Marcus Smart,PG
 01/26/2026,LAL,Luka Doncic,PG
 01/26/2026,LAL,LeBron James,SF
@@ -6906,8 +6906,8 @@ Date,Team,Player,Pos
 01/26/2026,GSW,Quinten Post,C
 01/26/2026,MIN,Mike Conley,PG
 01/26/2026,MIN,Donte DiVincenzo,SG
-01/26/2026,MIN,Julius Randle,PF
 01/26/2026,MIN,Jaden McDaniels,PF
+01/26/2026,MIN,Julius Randle,PF
 01/26/2026,MIN,Rudy Gobert,C
 01/27/2026,POR,Jrue Holiday,PG
 01/27/2026,POR,Shaedon Sharpe,SG
@@ -6916,8 +6916,8 @@ Date,Team,Player,Pos
 01/27/2026,POR,Donovan Clingan,C
 01/27/2026,WAS,Bub Carrington,PG
 01/27/2026,WAS,Tre Johnson,SG
-01/27/2026,WAS,Khris Middleton,SF
 01/27/2026,WAS,Kyshawn George,SF
+01/27/2026,WAS,Khris Middleton,SF
 01/27/2026,WAS,Alexandre Sarr,PF
 01/27/2026,SAC,Russell Westbrook,PG
 01/27/2026,SAC,Keon Ellis,SG
@@ -6931,11 +6931,11 @@ Date,Team,Player,Pos
 01/27/2026,NYK,Karl-Anthony Towns,PF
 01/27/2026,NOP,Herbert Jones,SF
 01/27/2026,NOP,Trey Murphy III,SF
-01/27/2026,NOP,Saddiq Bey,PF
 01/27/2026,NOP,Zion Williamson,PF
+01/27/2026,NOP,Saddiq Bey,PF
 01/27/2026,NOP,Derik Queen,C
-01/27/2026,OKC,Cason Wallace,PG
 01/27/2026,OKC,Shai Gilgeous-Alexander,PG
+01/27/2026,OKC,Cason Wallace,PG
 01/27/2026,OKC,Luguentz Dort,SF
 01/27/2026,OKC,Jaylin Williams,PF
 01/27/2026,OKC,Chet Holmgren,C
@@ -6955,8 +6955,8 @@ Date,Team,Player,Pos
 01/27/2026,BRK,Michael Porter Jr.,SF
 01/27/2026,BRK,Nicolas Claxton,C
 01/27/2026,PHO,Collin Gillespie,PG
-01/27/2026,PHO,Grayson Allen,SF
 01/27/2026,PHO,Dillon Brooks,SF
+01/27/2026,PHO,Grayson Allen,SF
 01/27/2026,PHO,Royce O'Neale,PF
 01/27/2026,PHO,Mark Williams,C
 01/27/2026,DET,Cade Cunningham,PG
