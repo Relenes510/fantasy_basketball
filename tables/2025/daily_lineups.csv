@@ -6925,8 +6925,8 @@ Date,Team,Player,Pos
 01/27/2026,SAC,Precious Achiuwa,PF
 01/27/2026,SAC,Domantas Sabonis,C
 01/27/2026,NYK,Jalen Brunson,PG
-01/27/2026,NYK,OG Anunoby,SF
 01/27/2026,NYK,Mikal Bridges,SF
+01/27/2026,NYK,OG Anunoby,SF
 01/27/2026,NYK,Josh Hart,SF
 01/27/2026,NYK,Karl-Anthony Towns,PF
 01/27/2026,NOP,Herbert Jones,SF
@@ -6955,8 +6955,8 @@ Date,Team,Player,Pos
 01/27/2026,BRK,Michael Porter Jr.,SF
 01/27/2026,BRK,Nicolas Claxton,C
 01/27/2026,PHO,Jordan Goodwin,PG
-01/27/2026,PHO,Dillon Brooks,SF
 01/27/2026,PHO,Grayson Allen,SF
+01/27/2026,PHO,Dillon Brooks,SF
 01/27/2026,PHO,Royce O'Neale,PF
 01/27/2026,PHO,Mark Williams,C
 01/27/2026,DET,Cade Cunningham,PG
@@ -6975,20 +6975,10 @@ Date,Team,Player,Pos
 01/27/2026,LAC,John Collins,PF
 01/27/2026,LAC,Ivica Zubac,C
 01/27/2026,UTA,Isaiah Collier,PG
-01/27/2026,UTA,Ace Bailey,SF
 01/27/2026,UTA,Cody Williams,SF
+01/27/2026,UTA,Ace Bailey,SF
 01/27/2026,UTA,Kevin Love,PF
 01/27/2026,UTA,Lauri Markkanen,PF
-01/28/2026,LAL,Marcus Smart,PG
-01/28/2026,LAL,Luka Doncic,PG
-01/28/2026,LAL,LeBron James,SF
-01/28/2026,LAL,Jake LaRavia,PF
-01/28/2026,LAL,Deandre Ayton,C
-01/28/2026,CLE,Craig Porter Jr.,PG
-01/28/2026,CLE,Donovan Mitchell,SG
-01/28/2026,CLE,Jaylon Tyson,SF
-01/28/2026,CLE,Dean Wade,PF
-01/28/2026,CLE,Jarrett Allen,C
 01/28/2026,CHI,Josh Giddey,SG
 01/28/2026,CHI,Coby White,SG
 01/28/2026,CHI,Matas Buzelis,SF
@@ -6999,6 +6989,16 @@ Date,Team,Player,Pos
 01/28/2026,IND,Aaron Nesmith,PF
 01/28/2026,IND,Pascal Siakam,PF
 01/28/2026,IND,Jay Huff,C
+01/28/2026,LAL,Marcus Smart,PG
+01/28/2026,LAL,Luka Doncic,PG
+01/28/2026,LAL,LeBron James,SF
+01/28/2026,LAL,Jake LaRavia,PF
+01/28/2026,LAL,Deandre Ayton,C
+01/28/2026,CLE,Craig Porter Jr.,PG
+01/28/2026,CLE,Donovan Mitchell,SG
+01/28/2026,CLE,Jaylon Tyson,SF
+01/28/2026,CLE,Dean Wade,PF
+01/28/2026,CLE,Jarrett Allen,C
 01/28/2026,ATL,Dyson Daniels,PG
 01/28/2026,ATL,CJ McCollum,PG
 01/28/2026,ATL,Nickeil Alexander-Walker,SG
@@ -7014,14 +7014,14 @@ Date,Team,Player,Pos
 01/28/2026,ORL,Tristan da Silva,PF
 01/28/2026,ORL,Paolo Banchero,PF
 01/28/2026,ORL,Wendell Carter Jr.,C
-01/28/2026,MIA,Davion Mitchell,PG
+01/28/2026,MIA,Kasparas Jakucionis,PG
 01/28/2026,MIA,Pelle Larsson,SG
 01/28/2026,MIA,Norman Powell,SG
 01/28/2026,MIA,Andrew Wiggins,SF
 01/28/2026,MIA,Bam Adebayo,C
 01/28/2026,NYK,Jalen Brunson,PG
-01/28/2026,NYK,Josh Hart,SF
 01/28/2026,NYK,OG Anunoby,SF
+01/28/2026,NYK,Josh Hart,SF
 01/28/2026,NYK,Mikal Bridges,SF
 01/28/2026,NYK,Karl-Anthony Towns,PF
 01/28/2026,TOR,Immanuel Quickley,PG
@@ -7031,8 +7031,8 @@ Date,Team,Player,Pos
 01/28/2026,TOR,Collin Murray-Boyles,PF
 01/28/2026,CHO,LaMelo Ball,PG
 01/28/2026,CHO,Kon Knueppel,SG
-01/28/2026,CHO,Brandon Miller,SF
 01/28/2026,CHO,Miles Bridges,SF
+01/28/2026,CHO,Brandon Miller,SF
 01/28/2026,CHO,Ryan Kalkbrenner,C
 01/28/2026,MEM,Cedric Coward,SG
 01/28/2026,MEM,Vince Williams Jr.,SG
