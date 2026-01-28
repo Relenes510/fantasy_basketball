@@ -114,11 +114,21 @@ def get_live_stat():
 
 @app.post("/predict", response_model=PredictionResponse)
 def predict(req: PredictionRequest):
-    ht_booster = xgb.Booster()
-    ht_booster.load_model("ML_models/ht_PTS_model.json")
-    ht_model = XGBRegressor()
-    ht_model._Booster = ht_booster
+    ht_booster_mean = xgb.Booster()
+    ht_booster_mean.load_model("ML_models/ht_PTS_mean_model.json")
+    ht_model_mean = XGBRegressor()
+    ht_model_mean._Booster = ht_booster_mean
 
+    ht_booster_Qlow = xgb.Booster()
+    ht_booster_Qlow.load_model("ML_models/ht_PTS_Qlow_model.json")
+    ht_model_Qlow = XGBRegressor()
+    ht_model_Qlow._Booster = ht_booster_Qlow
+
+    ht_booster_Qhigh = xgb.Booster()
+    ht_booster_Qhigh.load_model("ML_models/ht_PTS_Qhigh_model.json")
+    ht_model_Qhigh = XGBRegressor()
+    ht_model_Qhigh._Booster = ht_booster_Qhigh
+    
     df = pd.read_csv("tables/2025/ht_api_input.csv")
     df['Date'] = pd.to_datetime(df.Date)
     df['Team'] = df['Team'].astype('category')
@@ -131,7 +141,6 @@ def predict(req: PredictionRequest):
 
     df_ht = get_live_stat()
     df_ht = df_ht[df_ht.PLAYER == req.player_name]
-
     if df_ht.shape[0] > 0:
         for catg in ['MP', 'PTS', 'FG', 'FGA', 'FT', 'FTA', 'TPM', 'TPA', 'PF', 'TeamPTS_pct', 'TeamFGA_pct', 'Spread']:
             if catg in ['TeamPTS_pct', 'TeamFGA_pct']:
@@ -139,12 +148,24 @@ def predict(req: PredictionRequest):
             else:
                 ht_stat = int(df_ht[catg].iloc[0])
             df.loc[df['Player'] == req.player_name, f'{catg}_h1'] = ht_stat
-
         df.loc[(df['role'] == 2) & (df['MP_h1'] < 5), 'role'] = 3
         df.loc[df['Player'] == req.player_name, 'MP_h2'] = df['MP'] - df['MP_h1']
-        df.loc[df['Player'] == req.player_name, 'PTSDiff'] = df['PTS_h1'] - df['PTS_h1_base']
+        for col in ['PTS', 'FG', 'FGA']:
+            df.loc[df['Player'] == req.player_name, f'{col}Diff'] = df[f'{col}_h1'] - df[f'{col}_h1_base']
         df = df.drop(['MP'], axis=1)
-        pts_prediction = int(round(ht_model.predict(df)[0], 0))
+        pts_prediction_qlow = int(round(ht_model_Qlow.predict(df)[0], 0))
+        pts_prediction_mean = int(round(ht_model_mean.predict(df)[0], 0))
+        pts_prediction_qhigh = int(round(ht_model_Qhigh.predict(df)[0], 0))
+        
+        spread_factor = (df['Spread_h1'].abs() / 20).clip(lower=0, upper=1).iloc[0]
+        if df['Spread_h1'].iloc[0] < 0:
+            # favored → ceiling matters more
+            pts_prediction = int(round(pts_prediction_mean * (1 - spread_factor) +
+                                pts_prediction_qhigh * spread_factor, 0))
+        else:
+            # underdog → floor matters more
+            pts_prediction = int(round(pts_prediction_mean * (1 - spread_factor) +
+                                pts_prediction_qlow * spread_factor, 0))
 
         return {
             "player": req.player_name,
