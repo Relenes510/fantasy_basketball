@@ -98,7 +98,7 @@ def get_live_stat():
             df[f'{col}A'] = df[col].str.split('-').str[1]
     df = df.drop(['FG', '3PT', 'FT'], axis=1).rename(columns={"MIN": "MP", "3PTM": "TPM", "3PTA": "TPA", "FGM": "FG", "FTM": "FT"})
     for col in df.columns.difference(['TEAM', 'PLAYER', 'STARTER', 'OPP']):
-        df[col] = df[col].astype(int)
+        df[col] = df[col].replace('--', 0).astype(int)
     
     df['TeamPTS'] = (df.sort_values(['TEAM']).groupby(['TEAM'])['PTS'].transform('sum'))
     df['TeamPTS_pct'] = df['PTS'] / df['TeamPTS']
