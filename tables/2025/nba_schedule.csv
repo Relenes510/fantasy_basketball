@@ -690,13 +690,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-26,8:00p,Los Angeles Lakers,LAL,129.0,Chicago Bulls,CHI,118.0,0,United Center,0,0,0,0,1
 2026-01-26,8:00p,Memphis Grizzlies,MEM,99.0,Houston Rockets,HOU,108.0,0,Toyota Center,0,0,0,0,1
 2026-01-26,9:30p,Golden State Warriors,GSW,83.0,Minnesota Timberwolves,MIN,108.0,0,Target Center,1,1,0,0,1
-2026-01-27,7:00p,Portland Trail Blazers,POR,,Washington Wizards,WAS,,0,Capital One Arena,1,0,0,0,0
-2026-01-27,7:30p,Sacramento Kings,SAC,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
-2026-01-27,8:00p,New Orleans Pelicans,NOP,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
-2026-01-27,8:00p,Milwaukee Bucks,MIL,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,1,0,0,0
-2026-01-27,9:00p,Detroit Pistons,DET,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-01-27,9:00p,Brooklyn Nets,BRK,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
-2026-01-27,10:00p,Los Angeles Clippers,LAC,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
+2026-01-27,7:00p,Portland Trail Blazers,POR,111.0,Washington Wizards,WAS,115.0,0,Capital One Arena,1,0,0,0,1
+2026-01-27,7:30p,Sacramento Kings,SAC,87.0,New York Knicks,NYK,103.0,0,Madison Square Garden (IV),0,0,0,0,1
+2026-01-27,8:00p,New Orleans Pelicans,NOP,95.0,Oklahoma City Thunder,OKC,104.0,0,Paycom Center,0,0,0,0,1
+2026-01-27,8:00p,Milwaukee Bucks,MIL,122.0,Philadelphia 76ers,PHI,139.0,0,Xfinity Mobile Arena,0,1,0,0,1
+2026-01-27,9:00p,Detroit Pistons,DET,109.0,Denver Nuggets,DEN,107.0,0,Ball Arena,0,0,0,0,1
+2026-01-27,9:00p,Brooklyn Nets,BRK,102.0,Phoenix Suns,PHO,106.0,0,Mortgage Matchup Center,0,0,0,0,1
+2026-01-27,10:00p,Los Angeles Clippers,LAC,115.0,Utah Jazz,UTA,103.0,0,Delta Center,0,0,0,0,1
 2026-01-28,7:00p,Los Angeles Lakers,LAL,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
 2026-01-28,7:00p,Chicago Bulls,CHI,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-01-28,7:30p,Atlanta Hawks,ATL,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
