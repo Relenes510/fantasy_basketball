@@ -30,16 +30,158 @@ class PredictionResponse(BaseModel):
 # Routes
 # -------------------------
 @app.get("/", response_class=HTMLResponse)
-def root():
-    return """
-    <html>
-    <head><title>NBA API Home</title></head>
-    <body>
-    <h1>Welcome to the NBA API!</h1>
-    <p>Click <a href='/docs'>here</a> to explore the API.</p>
-    </body>
-    </html>
-    """
+def ui():
+    df = pd.read_csv("tables/2025/ht_api_input.csv")
+    df['Date'] = pd.to_datetime(df.Date)
+    time = datetime.now() + timedelta(hours=-8)
+    df = df[df.Date == str(time.date())]
+    player_list = df.sort_values('Player').Player.unique().tolist()
+
+    html_content = f"""
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Predictor</title>
+    <style>
+        /* Reset and body styling */
+        body {{
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            background-color: #f5f5f5;
+        }}
+
+        .container {{
+            width: 100%;
+            max-width: 500px; /* looks good on desktop */
+            background: #fff;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }}
+
+        h1 {{
+            font-size: 1.8rem;
+            text-align: center;
+            margin-bottom: 20px;
+        }}
+
+        label {{
+            font-weight: bold;
+            display: block;
+            margin-bottom: 8px;
+        }}
+
+        select, button {{
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            margin-bottom: 16px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }}
+
+        button {{
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }}
+
+        button:hover {{
+            background-color: #0056b3;
+        }}
+
+        #result {{
+            font-size: 1.1rem;
+            text-align: center;
+            margin-top: 10px;
+        }}
+
+        /* Responsive text */
+        @media (max-width: 480px) {{
+            h1 {{
+                font-size: 1.4rem;
+            }}
+            select, button {{
+                padding: 10px;
+                font-size: 14px;
+            }}
+            #result {{
+                font-size: 1rem;
+            }}
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NBA Live Points Predictor</h1>
+
+        <label for="player">Select player:</label>
+        <select id="player">
+            <option value="">--Select a player--</option>
+        </select>
+
+        <button onclick="predict()">Predict</button>
+
+        <div id="result"></div>
+    </div>
+
+    <script>
+        const players = {player_list};
+        const select = document.getElementById("player");
+        players.forEach(p => {{
+            const opt = document.createElement("option");
+            opt.value = p;
+            opt.text = p;
+            select.add(opt);
+        }});
+
+        async function predict() {{
+            const player = select.value;
+            const resultDiv = document.getElementById("result");
+            if (!player) {{
+                resultDiv.innerHTML = "<p style='color:red;'>Please select a player!</p>";
+                return;
+            }}
+            resultDiv.innerHTML = "Loading...";
+
+            try {{
+                const res = await fetch("/predict", {{
+                    method: "POST",
+                    headers: {{ "Content-Type": "application/json" }},
+                    body: JSON.stringify({{ player_name: player }})
+                }});
+
+                if (!res.ok) {{
+                    const text = await res.text();
+                    throw new Error(`Server error: ${{res.status}}\\n${{text}}`);
+                }}
+
+                const data = await res.json();
+                resultDiv.innerHTML = `
+                    <p><b>${{data.player}}</b></p>
+                    <p>Current: ${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
+                    <p><b>Predicted Final: ${{data.predicted_final_pts}} pts</b></p>
+                `;
+            }} catch (err) {{
+                resultDiv.innerHTML = `<p style="color:red;">Error: ${{err.message}}</p>`;
+                console.error(err);
+            }}
+        }}
+    </script>
+</body>
+</html>
+"""
+    return HTMLResponse(content=html_content)
 
 @app.get("/health")
 def health():
