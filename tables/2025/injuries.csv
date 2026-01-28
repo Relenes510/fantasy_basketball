@@ -6151,15 +6151,21 @@ Date,Team,Player,Status,Reason
 01/28/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
 01/28/2026,CLE,Luke Travers,Out,G League - Two-Way
 01/28/2026,ATL,N'Faly Dante,Out,Injury/Illness - Right Knee; Torn ACL
-01/28/2026,ATL,RayJ Dennis,Doubtful,G League - Two-Way
-01/28/2026,ATL,Nikola Djurisic,Doubtful,G League - On Assignment
-01/28/2026,ATL,Caleb Houstan,Doubtful,G League - Two-Way
-01/28/2026,ATL,Asa Newell,Doubtful,G League - On Assignment
+01/28/2026,ATL,RayJ Dennis,Out,G League - Two-Way
+01/28/2026,ATL,Nikola Djurisic,Out,G League - On Assignment
+01/28/2026,ATL,Caleb Houstan,Out,G League - Two-Way
+01/28/2026,ATL,Asa Newell,Out,G League - On Assignment
 01/28/2026,ATL,Kristaps Porzingis,Out,Injury/Illness - Left Achilles; Tendinitis
 01/28/2026,ATL,Zaccharie Risacher,Out,Injury/Illness - Left Knee; Bone Contusion
-01/28/2026,BOS,Luka Garza,Questionable,Injury/Illness - Illness; Non-Covid
-01/28/2026,BOS,Neemias Queta,Doubtful,Injury/Illness - Illness; Non-Covid
+01/28/2026,BOS,Neemias Queta,Out,Injury/Illness - Illness; Non-Covid
 01/28/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
+01/28/2026,NYK,Pacome Dadiet,Out,G League - On Assignment
+01/28/2026,NYK,Josh Hart,Questionable,Injury/Illness - Right Ankle; Soreness
+01/28/2026,NYK,Trey Jemison III,Out,G League - Two-Way
+01/28/2026,NYK,Dillon Jones,Out,G League - Two-Way
+01/28/2026,NYK,Miles McBride,Out,Injury/Illness - Left Ankle; Left Ankle Management
+01/28/2026,NYK,Kevin McCullar Jr.,Out,G League - Two-Way
+01/28/2026,NYK,Mitchell Robinson,Out,Injury/Illness - Left Ankle; Left Ankle Injury Management
 01/28/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
 01/28/2026,TOR,A.J. Lawson,Out,G League - Two-Way
 01/28/2026,TOR,Alijah Martin,Out,G League - Two-Way
@@ -6188,7 +6194,7 @@ Date,Team,Player,Status,Reason
 01/28/2026,MIN,Leonard Miller,Questionable,Injury/Illness - Low Back; Spasms
 01/28/2026,MIN,Terrence Shannon Jr.,Out,Injury/Illness - Left Foot; Abductor Hallucis Strain
 01/28/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
-01/28/2026,DAL,Moussa Cisse,Questionable,G League - Two-Way
+01/28/2026,DAL,Moussa Cisse,Doubtful,G League - Two-Way
 01/28/2026,DAL,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 01/28/2026,DAL,Dante Exum,Out,Injury/Illness - Right Knee; Surgery
 01/28/2026,DAL,Cooper Flagg,Questionable,Injury/Illness - Left Ankle; Injury Management
@@ -6196,6 +6202,7 @@ Date,Team,Player,Status,Reason
 01/28/2026,DAL,Miles Kelly,Questionable,G League - Two-Way
 01/28/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
 01/28/2026,DAL,Ryan Nembhard,Probable,G League - Two-Way
+01/28/2026,DAL,Klay Thompson,Questionable,Injury/Illness - Left Knee; Soreness
 01/28/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Tear
 01/28/2026,GSW,LJ Cryer,Questionable,Injury/Illness - Left Hamstring; Tightness
 01/28/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
