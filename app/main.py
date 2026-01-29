@@ -248,17 +248,22 @@ def get_live_stat():
             df[f'{col}M'] = df[col].str.split('-').str[0]
             df[f'{col}A'] = df[col].str.split('-').str[1]
     df = df.drop(['FG', '3PT', 'FT'], axis=1, errors='ignore')
-    df = df.rename(columns={"MIN": "MP", "3PTM": "TPM", "3PTA": "TPA", "FGM": "FG", "FTM": "FT"})
+    df = df.rename(columns={"MIN": "MP", "3PTM": "TPM", "3PTA": "TPA", "FGM": "FG", "FTM": "FT", "OREB": "ORB", "TO": "TOV"})
     for col in df.columns.difference(['TEAM', 'PLAYER', 'STARTER', 'OPP']):
         df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
     
-    df['TeamPTS'] = (df.sort_values(['TEAM']).groupby(['TEAM'])['PTS'].transform('sum'))
-    df['TeamPTS_pct'] = df['PTS'] / df['TeamPTS']
-    df['TeamFGA'] = (df.sort_values(['TEAM']).groupby(['TEAM'])['FGA'].transform('sum'))
-    df['TeamFGA_pct'] = df['FGA'] / df['TeamFGA']
+    for col in ['PTS', 'FGA', 'FTA', 'ORB', 'TOV']:
+        df[f'Team{col}'] = (df.sort_values(['TEAM']).groupby(['TEAM'])[col].transform('sum'))
+        if col in ['PTS', 'FGA']:
+            df[f'Team{col}_pct'] = df[f'{col}'] / df[f'Team{col}']
     
     df['OppTeamPTS'] = df['OPP'].map(df.groupby('TEAM')['TeamPTS'].first().to_dict())
     df['Spread'] = df['TeamPTS'] - df['OppTeamPTS']
+    
+    df['Player_Pace'] = df.apply(lambda row: (row['FGA'] + 0.44 * row['FTA']) / row['MP'] if row['MP'] > 0 else 0, axis=1)
+    df['Team_Pace'] = ((df['TeamFGA'] + 0.44 * df['TeamFTA'] - df['TeamORB'] + df['TeamTOV']) / 120)
+    df['Player_Pace_Rel'] = df['Player_Pace'] / df['Team_Pace']
+    df['Pace_Minutes_Interaction'] = df['Player_Pace'] * df['MP']
     
     df = df.drop(['TeamPTS', 'OppTeamPTS', 'TeamFGA'], axis=1)
     
@@ -267,17 +272,17 @@ def get_live_stat():
 @app.post("/predict", response_model=PredictionResponse)
 def predict(req: PredictionRequest):
     ht_booster_mean = xgb.Booster()
-    ht_booster_mean.load_model("ML_models/ht_PTS_mean_model.json")
+    ht_booster_mean.load_model("ML_models/dev/ht_PTS_mean_model.json")
     ht_model_mean = XGBRegressor()
     ht_model_mean._Booster = ht_booster_mean
 
     ht_booster_Qlow = xgb.Booster()
-    ht_booster_Qlow.load_model("ML_models/ht_PTS_Qlow_model.json")
+    ht_booster_Qlow.load_model("ML_models/dev/ht_PTS_Qlow_model.json")
     ht_model_Qlow = XGBRegressor()
     ht_model_Qlow._Booster = ht_booster_Qlow
 
     ht_booster_Qhigh = xgb.Booster()
-    ht_booster_Qhigh.load_model("ML_models/ht_PTS_Qhigh_model.json")
+    ht_booster_Qhigh.load_model("ML_models/dev/ht_PTS_Qhigh_model.json")
     ht_model_Qhigh = XGBRegressor()
     ht_model_Qhigh._Booster = ht_booster_Qhigh
     
@@ -297,7 +302,7 @@ def predict(req: PredictionRequest):
     df_preds = df_preds[(df_preds.Date == str(time.date())) & (df_preds.Player == req.player_name)]
     if df_preds.shape[0]> 0:
         pregm_mins = float(round(df_preds['MP'].iloc[0], 1))
-        pregm_pts = float(round(df_preds['PTS_proj'].iloc[0], 1))
+        pregm_pts = float(round(df_preds['PTS_proj'].iloc[0], 2))
     else:
         pregm_mins = 0
         pregm_pts = 0
@@ -311,8 +316,9 @@ def predict(req: PredictionRequest):
             else:
                 ht_stat = int(df_ht[catg].iloc[0])
             df.loc[df['Player'] == req.player_name, f'{catg}_h1'] = ht_stat
-        df.loc[(df['role'] == 2) & (df['MP_h1'] < 5), 'role'] = 3
-        df.loc[df['Player'] == req.player_name, 'MP_h2'] = df['MP'] - df['MP_h1']
+        df.loc[df['Player'] == req.player_name, 'PTS_proj'] = pregm_pts
+        df.loc[df['Player'] == req.player_name, 'Player_Pace_Rel'] = df_ht['Player_Pace_Rel'].iloc[0]
+        df.loc[df['Player'] == req.player_name, 'Pace_Minutes_Interaction'] = df_ht['Pace_Minutes_Interaction'].iloc[0]
         for col in ['PTS', 'FG', 'FGA']:
             df.loc[df['Player'] == req.player_name, f'{col}Diff'] = df[f'{col}_h1'] - df[f'{col}_h1_base']
         df = df.drop(['MP'], axis=1)
