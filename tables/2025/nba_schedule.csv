@@ -697,15 +697,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-27,9:00p,Detroit Pistons,DET,109.0,Denver Nuggets,DEN,107.0,0,Ball Arena,0,0,0,0,1
 2026-01-27,9:00p,Brooklyn Nets,BRK,102.0,Phoenix Suns,PHO,106.0,0,Mortgage Matchup Center,0,0,0,0,1
 2026-01-27,10:00p,Los Angeles Clippers,LAC,115.0,Utah Jazz,UTA,103.0,0,Delta Center,0,0,0,0,1
-2026-01-28,7:00p,Los Angeles Lakers,LAL,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-01-28,7:00p,Chicago Bulls,CHI,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-01-28,7:30p,Atlanta Hawks,ATL,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-01-28,7:30p,Orlando Magic,ORL,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-01-28,7:30p,New York Knicks,NYK,,Toronto Raptors,TOR,,0,Scotiabank Arena,1,0,0,0,0
-2026-01-28,8:00p,Charlotte Hornets,CHO,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-01-28,8:30p,Minnesota Timberwolves,MIN,,Dallas Mavericks,DAL,,0,American Airlines Center,0,0,0,0,0
-2026-01-28,9:00p,Golden State Warriors,GSW,,Utah Jazz,UTA,,0,Delta Center,0,1,0,0,0
-2026-01-28,9:30p,San Antonio Spurs,SAS,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
+2026-01-28,7:00p,Los Angeles Lakers,LAL,99.0,Cleveland Cavaliers,CLE,129.0,0,Rocket Arena,0,0,0,0,1
+2026-01-28,7:00p,Chicago Bulls,CHI,110.0,Indiana Pacers,IND,113.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-01-28,7:30p,Atlanta Hawks,ATL,117.0,Boston Celtics,BOS,106.0,0,TD Garden,0,0,0,0,1
+2026-01-28,7:30p,Orlando Magic,ORL,133.0,Miami Heat,MIA,124.0,0,Kaseya Center,0,0,0,0,1
+2026-01-28,7:30p,New York Knicks,NYK,119.0,Toronto Raptors,TOR,92.0,0,Scotiabank Arena,1,0,0,0,1
+2026-01-28,8:00p,Charlotte Hornets,CHO,112.0,Memphis Grizzlies,MEM,97.0,0,FedExForum,0,0,0,0,1
+2026-01-28,8:30p,Minnesota Timberwolves,MIN,118.0,Dallas Mavericks,DAL,105.0,0,American Airlines Center,0,0,0,0,1
+2026-01-28,9:00p,Golden State Warriors,GSW,140.0,Utah Jazz,UTA,124.0,0,Delta Center,0,1,0,0,1
+2026-01-28,9:30p,San Antonio Spurs,SAS,111.0,Houston Rockets,HOU,99.0,0,Toyota Center,0,0,0,0,1
 2026-01-29,7:00p,Sacramento Kings,SAC,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
 2026-01-29,7:00p,Milwaukee Bucks,MIL,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
 2026-01-29,8:00p,Houston Rockets,HOU,,Atlanta Hawks,ATL,,0,State Farm Arena,1,1,0,0,0
