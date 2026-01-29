@@ -26,6 +26,8 @@ class PredictionResponse(BaseModel):
     current_pts: int
     current_mins: int
     predicted_final_pts: int
+    pregame_mins_preds: float
+    pregame_pts_preds: float
 
 # -------------------------
 # Routes
@@ -38,16 +40,7 @@ def ui():
     time = datetime.now() + timedelta(hours=-8)
     df = df[df.Date == str(time.date())]
 
-    # Build { TEAM: [players...] }
-    team_players = (
-        df[['Team', 'Player']]
-        .drop_duplicates()
-        .sort_values(['Team', 'Player'])
-        .groupby('Team')['Player']
-        .apply(list)
-        .to_dict()
-    )
-
+    team_players = (df[['Team', 'Player']].drop_duplicates().sort_values(['Team', 'Player']).groupby('Team')['Player'].apply(list).to_dict())
     team_players_json = json.dumps(team_players)
 
     html_content = f"""
@@ -185,7 +178,8 @@ def ui():
                 const data = await res.json();
                 resultDiv.innerHTML = `
                     <p><b>${{data.player}}</b></p>
-                    <p>${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
+                    <p>Current Stats: ${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
+                    <p>Pregame Predicted Stats: ${{data.pregame_pts_preds}} pts in ${{data.pregame_mins_preds}} mins</p>
                     <p><b>Predicted Final: ${{data.predicted_final_pts}} pts</b></p>
                 `;
             }} catch (err) {{
@@ -221,9 +215,8 @@ def get_live_stat():
 
         players_teams = boxscore.get("players", [])
         if len(players_teams) < 2:
-            continue  # skip if something weird happens
+            continue
 
-        # Determine opponent for each team
         for i, team_data in enumerate(players_teams):
             team = team_data.get("team", {})
             team_abbr = team.get("abbreviation", "")
@@ -233,7 +226,7 @@ def get_live_stat():
             if not stats_blocks:
                 continue
 
-            stats_block = stats_blocks[0]  # Player-level stats
+            stats_block = stats_blocks[0]
             labels = stats_block.get("labels", stats_block.get("names", []))
             athletes = stats_block.get("athletes", [])
 
@@ -299,6 +292,16 @@ def predict(req: PredictionRequest):
     time = datetime.now() + timedelta(hours=-8)
     df = df[(df.Date == str(time.date())) & (df.Player == req.player_name)].drop(['Season', 'Date', 'PTS'], axis=1)
 
+    df_preds = pd.read_csv("tables/2025/gmday_preds_PTS.csv")
+    df_preds['Date'] = pd.to_datetime(df_preds.Date)
+    df_preds = df_preds[(df_preds.Date == str(time.date())) & (df_preds.Player == req.player_name)]
+    if df_preds.shape[0]> 0:
+        pregm_mins = float(round(df_preds['MP'].iloc[0], 1))
+        pregm_pts = float(round(df_preds['PTS_proj'].iloc[0], 1))
+    else:
+        pregm_mins = 0
+        pregm_pts = 0
+
     df_ht = get_live_stat()
     df_ht = df_ht[df_ht.PLAYER == req.player_name]
     if df_ht.shape[0] > 0:
@@ -331,12 +334,16 @@ def predict(req: PredictionRequest):
             "player": req.player_name,
             "current_mins": int(df_ht['MP'].iloc[0]),
             "current_pts": int(df_ht['PTS'].iloc[0]),
-            "predicted_final_pts": pts_prediction
+            "predicted_final_pts": pts_prediction,
+            "pregame_mins_preds": pregm_mins,
+            "pregame_pts_preds": pregm_pts
         }
     else:
         return {
             "player": "Player Unavailable",
             "current_mins": 0,
             "current_pts": 0,
-            "predicted_final_pts": 0
+            "predicted_final_pts": 0,
+            "pregame_mins_preds": 0,
+            "pregame_pts_preds": 0
         }
