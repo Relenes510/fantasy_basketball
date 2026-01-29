@@ -4,6 +4,7 @@ from pydantic import BaseModel
 
 from datetime import datetime, timedelta
 import requests
+import json
 import pandas as pd
 
 from xgboost import XGBRegressor
@@ -33,9 +34,21 @@ class PredictionResponse(BaseModel):
 def ui():
     df = pd.read_csv("tables/2025/ht_api_input.csv")
     df['Date'] = pd.to_datetime(df.Date)
+
     time = datetime.now() + timedelta(hours=-8)
     df = df[df.Date == str(time.date())]
-    player_list = df.sort_values('Player').Player.unique().tolist()
+
+    # Build { TEAM: [players...] }
+    team_players = (
+        df[['Team', 'Player']]
+        .drop_duplicates()
+        .sort_values(['Team', 'Player'])
+        .groupby('Team')['Player']
+        .apply(list)
+        .to_dict()
+    )
+
+    team_players_json = json.dumps(team_players)
 
     html_content = f"""
 <!DOCTYPE html>
@@ -45,39 +58,31 @@ def ui():
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NBA Predictor</title>
     <style>
-        /* Reset and body styling */
         body {{
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
             display: flex;
             justify-content: center;
-            align-items: flex-start;
-            min-height: 100vh;
             background-color: #f5f5f5;
         }}
-
         .container {{
             width: 100%;
-            max-width: 500px; /* looks good on desktop */
+            max-width: 500px;
             background: #fff;
             padding: 20px;
             border-radius: 12px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         }}
-
         h1 {{
-            font-size: 1.8rem;
             text-align: center;
             margin-bottom: 20px;
         }}
-
         label {{
             font-weight: bold;
+            margin-bottom: 6px;
             display: block;
-            margin-bottom: 8px;
         }}
-
         select, button {{
             width: 100%;
             padding: 12px;
@@ -85,39 +90,19 @@ def ui():
             margin-bottom: 16px;
             border-radius: 8px;
             border: 1px solid #ccc;
-            box-sizing: border-box;
         }}
-
         button {{
             background-color: #007bff;
             color: white;
             border: none;
             cursor: pointer;
-            transition: background-color 0.2s;
         }}
-
         button:hover {{
             background-color: #0056b3;
         }}
-
         #result {{
-            font-size: 1.1rem;
             text-align: center;
-            margin-top: 10px;
-        }}
-
-        /* Responsive text */
-        @media (max-width: 480px) {{
-            h1 {{
-                font-size: 1.4rem;
-            }}
-            select, button {{
-                padding: 10px;
-                font-size: 14px;
-            }}
-            #result {{
-                font-size: 1rem;
-            }}
+            font-size: 1.1rem;
         }}
     </style>
 </head>
@@ -125,8 +110,13 @@ def ui():
     <div class="container">
         <h1>NBA Live Points Predictor</h1>
 
+        <label for="team">Select team:</label>
+        <select id="team">
+            <option value="">--Select a team--</option>
+        </select>
+
         <label for="player">Select player:</label>
-        <select id="player">
+        <select id="player" disabled>
             <option value="">--Select a player--</option>
         </select>
 
@@ -136,22 +126,48 @@ def ui():
     </div>
 
     <script>
-        const players = {player_list};
-        const select = document.getElementById("player");
-        players.forEach(p => {{
+        const teamPlayers = {team_players_json};
+
+        const teamSelect = document.getElementById("team");
+        const playerSelect = document.getElementById("player");
+
+        // Populate team dropdown
+        Object.keys(teamPlayers).sort().forEach(team => {{
             const opt = document.createElement("option");
-            opt.value = p;
-            opt.text = p;
-            select.add(opt);
+            opt.value = team;
+            opt.textContent = team;
+            teamSelect.appendChild(opt);
+        }});
+
+        // Update players when team changes
+        teamSelect.addEventListener("change", () => {{
+            playerSelect.innerHTML = '<option value="">--Select a player--</option>';
+            const players = teamPlayers[teamSelect.value];
+
+            if (!players) {{
+                playerSelect.disabled = true;
+                return;
+            }}
+
+            players.forEach(p => {{
+                const opt = document.createElement("option");
+                opt.value = p;
+                opt.textContent = p;
+                playerSelect.appendChild(opt);
+            }});
+
+            playerSelect.disabled = false;
         }});
 
         async function predict() {{
-            const player = select.value;
+            const player = playerSelect.value;
             const resultDiv = document.getElementById("result");
+
             if (!player) {{
-                resultDiv.innerHTML = "<p style='color:red;'>Please select a player!</p>";
+                resultDiv.innerHTML = "<p style='color:red;'>Select a player</p>";
                 return;
             }}
+
             resultDiv.innerHTML = "Loading...";
 
             try {{
@@ -163,17 +179,17 @@ def ui():
 
                 if (!res.ok) {{
                     const text = await res.text();
-                    throw new Error(`Server error: ${{res.status}}\\n${{text}}`);
+                    throw new Error(`Server error ${{res.status}}`);
                 }}
 
                 const data = await res.json();
                 resultDiv.innerHTML = `
                     <p><b>${{data.player}}</b></p>
-                    <p>Current: ${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
+                    <p>${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
                     <p><b>Predicted Final: ${{data.predicted_final_pts}} pts</b></p>
                 `;
             }} catch (err) {{
-                resultDiv.innerHTML = `<p style="color:red;">Error: ${{err.message}}</p>`;
+                resultDiv.innerHTML = `<p style="color:red;">${{err.message}}</p>`;
                 console.error(err);
             }}
         }}
@@ -274,6 +290,7 @@ def predict(req: PredictionRequest):
     
     df = pd.read_csv("tables/2025/ht_api_input.csv")
     df['Date'] = pd.to_datetime(df.Date)
+    
     df['Team'] = df['Team'].astype('category')
     df['Opp'] = df['Opp'].astype('category')
     df['Player'] = df['Player'].astype('category')
