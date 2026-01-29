@@ -6984,8 +6984,8 @@ Date,Team,Player,Pos
 01/28/2026,LAL,LeBron James,SF
 01/28/2026,LAL,Jake LaRavia,PF
 01/28/2026,LAL,Deandre Ayton,C
-01/28/2026,CLE,Donovan Mitchell,SG
 01/28/2026,CLE,Sam Merrill,SG
+01/28/2026,CLE,Donovan Mitchell,SG
 01/28/2026,CLE,Jaylon Tyson,SF
 01/28/2026,CLE,Dean Wade,PF
 01/28/2026,CLE,Jarrett Allen,C
@@ -7010,8 +7010,8 @@ Date,Team,Player,Pos
 01/28/2026,MIA,Andrew Wiggins,SF
 01/28/2026,MIA,Bam Adebayo,C
 01/28/2026,NYK,Jalen Brunson,PG
-01/28/2026,NYK,Josh Hart,SF
 01/28/2026,NYK,OG Anunoby,SF
+01/28/2026,NYK,Josh Hart,SF
 01/28/2026,NYK,Mikal Bridges,SF
 01/28/2026,NYK,Karl-Anthony Towns,PF
 01/28/2026,TOR,Immanuel Quickley,PG
@@ -7069,7 +7069,7 @@ Date,Team,Player,Pos
 01/28/2026,HOU,Kevin Durant,PF
 01/28/2026,HOU,Jabari Smith Jr.,PF
 01/28/2026,HOU,Alperen Sengun,C
-01/29/2026,SAC,Russell Westbrook,PG
+01/29/2026,SAC,Dennis Schroder,PG
 01/29/2026,SAC,Zach LaVine,SG
 01/29/2026,SAC,DeMar DeRozan,SF
 01/29/2026,SAC,Precious Achiuwa,PF
@@ -7086,12 +7086,12 @@ Date,Team,Player,Pos
 01/29/2026,MIL,Myles Turner,C
 01/29/2026,WAS,Bub Carrington,PG
 01/29/2026,WAS,Bilal Coulibaly,SG
-01/29/2026,WAS,Kyshawn George,SF
 01/29/2026,WAS,Khris Middleton,SF
+01/29/2026,WAS,Kyshawn George,SF
 01/29/2026,WAS,Alexandre Sarr,PF
 01/29/2026,MIA,Kasparas Jakucionis,PG
-01/29/2026,MIA,Pelle Larsson,SG
 01/29/2026,MIA,Norman Powell,SG
+01/29/2026,MIA,Pelle Larsson,SG
 01/29/2026,MIA,Andrew Wiggins,SF
 01/29/2026,MIA,Bam Adebayo,C
 01/29/2026,CHI,Jevon Carter,SG
@@ -7107,8 +7107,8 @@ Date,Team,Player,Pos
 01/29/2026,ATL,Dyson Daniels,PG
 01/29/2026,ATL,Nickeil Alexander-Walker,SG
 01/29/2026,ATL,Corey Kispert,SF
-01/29/2026,ATL,Jalen Johnson,PF
-01/29/2026,ATL,Onyeka Okongwu,C
+01/29/2026,ATL,Mouhamed Gueye,PF
+01/29/2026,ATL,Christian Koloko,C
 01/29/2026,CHO,LaMelo Ball,PG
 01/29/2026,CHO,Kon Knueppel,SG
 01/29/2026,CHO,Brandon Miller,SF
@@ -7116,8 +7116,8 @@ Date,Team,Player,Pos
 01/29/2026,CHO,Moussa Diabate,PF
 01/29/2026,DAL,Brandon Williams,PG
 01/29/2026,DAL,Max Christie,SG
-01/29/2026,DAL,Naji Marshall,SF
 01/29/2026,DAL,Cooper Flagg,PF
+01/29/2026,DAL,P.J. Washington,PF
 01/29/2026,DAL,Daniel Gafford,C
 01/29/2026,BRK,Nolan Traore,PG
 01/29/2026,BRK,Terance Mann,PG
@@ -7135,7 +7135,7 @@ Date,Team,Player,Pos
 01/29/2026,DET,Tobias Harris,SF
 01/29/2026,DET,Jalen Duren,C
 01/29/2026,PHO,Collin Gillespie,PG
-01/29/2026,PHO,Jalen Green,SG
+01/29/2026,PHO,Grayson Allen,SF
 01/29/2026,PHO,Dillon Brooks,SF
 01/29/2026,PHO,Royce O'Neale,PF
 01/29/2026,PHO,Mark Williams,C
@@ -7146,6 +7146,6 @@ Date,Team,Player,Pos
 01/29/2026,OKC,Isaiah Hartenstein,C
 01/29/2026,MIN,Anthony Edwards,SG
 01/29/2026,MIN,Donte DiVincenzo,SG
-01/29/2026,MIN,Julius Randle,PF
 01/29/2026,MIN,Jaden McDaniels,PF
+01/29/2026,MIN,Julius Randle,PF
 01/29/2026,MIN,Rudy Gobert,C
