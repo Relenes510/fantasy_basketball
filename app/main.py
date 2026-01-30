@@ -26,6 +26,8 @@ class PredictionResponse(BaseModel):
     current_pts: int
     current_mins: int
     predicted_final_pts: int
+    pts_prediction_qlow: int
+    pts_prediction_qhigh: int
     pregame_mins_preds: float
     pregame_pts_preds: float
 
@@ -180,7 +182,7 @@ def ui():
                     <p><b>${{data.player}}</b></p>
                     <p>Current Stats: ${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
                     <p>Pregame Predicted Stats: ${{data.pregame_pts_preds}} pts in ${{data.pregame_mins_preds}} mins</p>
-                    <p><b>Predicted Final: ${{data.predicted_final_pts}} pts</b></p>
+                    <p><b>Predicted Final Ranges: Low: ${{data.pts_prediction_qlow}} pts / Avg: ${{data.predicted_final_pts}} pts / High: ${{data.pts_prediction_qhigh}} pts</b></p>
                 `;
             }} catch (err) {{
                 resultDiv.innerHTML = `<p style="color:red;">${{err.message}}</p>`;
@@ -264,7 +266,7 @@ def get_live_stat():
     df['Team_Pace'] = ((df['TeamFGA'] + 0.44 * df['TeamFTA'] - df['TeamORB'] + df['TeamTOV']) / 120)
     df['Player_Pace_Rel'] = df['Player_Pace'] / df['Team_Pace']
     df['Pace_Minutes_Interaction'] = df['Player_Pace'] * df['MP']
-    
+
     df = df.drop(['TeamPTS', 'OppTeamPTS', 'TeamFGA'], axis=1)
     
     return df
@@ -272,17 +274,17 @@ def get_live_stat():
 @app.post("/predict", response_model=PredictionResponse)
 def predict(req: PredictionRequest):
     ht_booster_mean = xgb.Booster()
-    ht_booster_mean.load_model("ML_models/dev/ht_PTS_mean_model.json")
+    ht_booster_mean.load_model("ML_models/ht_PTS_mean_model.json")
     ht_model_mean = XGBRegressor()
     ht_model_mean._Booster = ht_booster_mean
 
     ht_booster_Qlow = xgb.Booster()
-    ht_booster_Qlow.load_model("ML_models/dev/ht_PTS_Qlow_model.json")
+    ht_booster_Qlow.load_model("ML_models/ht_PTS_Qlow_model.json")
     ht_model_Qlow = XGBRegressor()
     ht_model_Qlow._Booster = ht_booster_Qlow
 
     ht_booster_Qhigh = xgb.Booster()
-    ht_booster_Qhigh.load_model("ML_models/dev/ht_PTS_Qhigh_model.json")
+    ht_booster_Qhigh.load_model("ML_models/ht_PTS_Qhigh_model.json")
     ht_model_Qhigh = XGBRegressor()
     ht_model_Qhigh._Booster = ht_booster_Qhigh
     
@@ -297,16 +299,6 @@ def predict(req: PredictionRequest):
     time = datetime.now() + timedelta(hours=-8)
     df = df[(df.Date == str(time.date())) & (df.Player == req.player_name)].drop(['Season', 'Date', 'PTS'], axis=1)
 
-    df_preds = pd.read_csv("tables/2025/gmday_preds_PTS.csv")
-    df_preds['Date'] = pd.to_datetime(df_preds.Date)
-    df_preds = df_preds[(df_preds.Date == str(time.date())) & (df_preds.Player == req.player_name)]
-    if df_preds.shape[0]> 0:
-        pregm_mins = float(round(df_preds['MP'].iloc[0], 1))
-        pregm_pts = float(round(df_preds['PTS_proj'].iloc[0], 2))
-    else:
-        pregm_mins = 0
-        pregm_pts = 0
-
     df_ht = get_live_stat()
     df_ht = df_ht[df_ht.PLAYER == req.player_name]
     if df_ht.shape[0] > 0:
@@ -316,33 +308,25 @@ def predict(req: PredictionRequest):
             else:
                 ht_stat = int(df_ht[catg].iloc[0])
             df.loc[df['Player'] == req.player_name, f'{catg}_h1'] = ht_stat
-        df.loc[df['Player'] == req.player_name, 'PTS_proj'] = pregm_pts
+            
         df.loc[df['Player'] == req.player_name, 'Player_Pace_Rel'] = df_ht['Player_Pace_Rel'].iloc[0]
         df.loc[df['Player'] == req.player_name, 'Pace_Minutes_Interaction'] = df_ht['Pace_Minutes_Interaction'].iloc[0]
-        for col in ['PTS', 'FG', 'FGA']:
-            df.loc[df['Player'] == req.player_name, f'{col}Diff'] = df[f'{col}_h1'] - df[f'{col}_h1_base']
-        df = df.drop(['MP'], axis=1)
+        df.loc[df['MP_proj'] > 0, 'MP_proj_pct'] = ((df['MP_proj'] - df['MP_h1']) / df['MP_proj'])
+        df.loc[df['PTS_proj'] > 0, 'PTS_proj_pct'] = ((df['PTS_proj'] - df['PTS_h1']) / df['PTS_proj'])
+        
         pts_prediction_qlow = int(round(ht_model_Qlow.predict(df)[0], 0))
         pts_prediction_mean = int(round(ht_model_mean.predict(df)[0], 0))
         pts_prediction_qhigh = int(round(ht_model_Qhigh.predict(df)[0], 0))
-        
-        spread_factor = (df['Spread_h1'].abs() / 20).clip(lower=0, upper=1).iloc[0]
-        if df['Spread_h1'].iloc[0] < 0:
-            # favored → ceiling matters more
-            pts_prediction = int(round(pts_prediction_mean * (1 - spread_factor) +
-                                pts_prediction_qhigh * spread_factor, 0))
-        else:
-            # underdog → floor matters more
-            pts_prediction = int(round(pts_prediction_mean * (1 - spread_factor) +
-                                pts_prediction_qlow * spread_factor, 0))
 
         return {
             "player": req.player_name,
             "current_mins": int(df_ht['MP'].iloc[0]),
             "current_pts": int(df_ht['PTS'].iloc[0]),
-            "predicted_final_pts": pts_prediction,
-            "pregame_mins_preds": pregm_mins,
-            "pregame_pts_preds": pregm_pts
+            "predicted_final_pts": pts_prediction_mean,
+            "pts_prediction_qlow": pts_prediction_qlow,
+            "pts_prediction_qhigh": pts_prediction_qhigh,
+            "pregame_mins_preds": float(round(df['MP_proj'].iloc[0], 2)),
+            "pregame_pts_preds": float(round(df['PTS_proj'].iloc[0], 2))
         }
     else:
         return {
@@ -350,6 +334,8 @@ def predict(req: PredictionRequest):
             "current_mins": 0,
             "current_pts": 0,
             "predicted_final_pts": 0,
+            "pts_prediction_qlow": 0,
+            "pts_prediction_qhigh": 0,
             "pregame_mins_preds": 0,
             "pregame_pts_preds": 0
         }
