@@ -1,18 +1,18 @@
 Team,Player,Pos
 ATL,Nickeil Alexander-Walker,SG
-ATL,Onyeka Okongwu,C
 ATL,Dyson Daniels,SG
 ATL,Mouhamed Gueye,PF
-ATL,Jalen Johnson,SF
+ATL,Onyeka Okongwu,C
 ATL,Vit Krejci,PG
+ATL,Jalen Johnson,SF
 ATL,Luke Kennard,SG
 ATL,Keaton Wallace,PG
 ATL,Zaccharie Risacher,SF
 ATL,Asa Newell,PF
 ATL,Kristaps Porzingis,C
-ATL,Caleb Houstan,SF
 ATL,CJ McCollum,PG
 ATL,Corey Kispert,SF
+ATL,Caleb Houstan,SF
 ATL,Christian Koloko,C
 ATL,N'Faly Dante,C
 ATL,RayJ Dennis,PG
@@ -34,15 +34,15 @@ BOS,Chris Boucher,PF
 BOS,Ron Harper Jr.,SF
 BOS,Max Shulga,SG
 BOS,Jayson Tatum,PF
-BRK,Noah Clowney,PF
 BRK,Nic Claxton,C
 BRK,Day'Ron Sharpe,C
-BRK,Egor Dmin,PG
+BRK,Noah Clowney,PF
 BRK,Terance Mann,SG
+BRK,Egor Dmin,PG
 BRK,Michael Porter Jr.,SF
 BRK,Tyrese Martin,SG
-BRK,Ziaire Williams,SF
 BRK,Drake Powell,SG
+BRK,Ziaire Williams,SF
 BRK,Danny Wolf,PF
 BRK,Jalen Wilson,PF
 BRK,Nolan Traore,PG
@@ -53,15 +53,15 @@ BRK,Tyson Etienne,PG
 BRK,Haywood Highsmith,SF
 BRK,Chaney Johnson,SF
 CHO,Sion James,SG
-CHO,Miles Bridges,PF
 CHO,Kon Knueppel,SF
+CHO,Miles Bridges,PF
 CHO,Moussa Diabate,C
 CHO,Collin Sexton,SG
 CHO,LaMelo Ball,PG
 CHO,Ryan Kalkbrenner,C
 CHO,Brandon Miller,SF
-CHO,Tre Mann,PG
 CHO,Tidjane Salaun,PF
+CHO,Tre Mann,PG
 CHO,Liam McNeeley,SF
 CHO,Josh Green,SG
 CHO,Pat Connaughton,SG
@@ -105,6 +105,7 @@ CLE,Larry Nance Jr.,PF
 CLE,Luke Travers,SG
 CLE,Chuma Okeke,F
 CLE,Max Strus,SF
+CLE,Tristan Enaruna,SF
 DAL,Naji Marshall,SF
 DAL,Cooper Flagg,SF
 DAL,Max Christie,SG
@@ -116,8 +117,8 @@ DAL,Ryan Nembhard,PG
 DAL,Dwight Powell,C
 DAL,Jaden Hardy,SG
 DAL,Daniel Gafford,C
-DAL,D'Angelo Russell,PG
 DAL,Moussa Cisse,C
+DAL,D'Angelo Russell,PG
 DAL,Anthony Davis,PF
 DAL,Miles Kelly,PG
 DAL,Dereck Lively II,C
@@ -130,8 +131,8 @@ DEN,Jamal Murray,PG
 DEN,Spencer Jones,SF
 DEN,Jonas Valanciunas,C
 DEN,Zeke Nnaji,PF
-DEN,Nikola Jokic,C
 DEN,Jalen Pickett,SG
+DEN,Nikola Jokic,C
 DEN,Cameron Johnson,SF
 DEN,Julian Strawther,SG
 DEN,Aaron Gordon,PF
@@ -149,9 +150,9 @@ DET,Cade Cunningham,PG
 DET,Jalen Duren,C
 DET,Daniss Jenkins,PG
 DET,Paul Reed,C
-DET,Caris LeVert,SG
 DET,Tobias Harris,PF
 DET,Jaden Ivey,SG
+DET,Caris LeVert,SG
 DET,Chaz Lanier,SG
 DET,Marcus Sasser,PG
 DET,Bobi Klintman,SF
@@ -188,8 +189,8 @@ HOU,Aaron Holiday,PG
 HOU,Jae'Sean Tate,SF
 HOU,Tari Eason,PF
 HOU,JD Davison,PG
-HOU,Dorian Finney-Smith,PF
 HOU,Jeff Green,PF
+HOU,Dorian Finney-Smith,PF
 HOU,Isaiah Crawford,SF
 HOU,Fred VanVleet,PG
 HOU,Tristen Newton,SG
@@ -197,7 +198,6 @@ IND,Jarace Walker,PF
 IND,Jay Huff,C
 IND,Pascal Siakam,PF
 IND,Andrew Nembhard,PG
-IND,Tony Bradley,C
 IND,Ben Sheppard,SG
 IND,T.J. McConnell,PG
 IND,Isaiah Jackson,C
@@ -307,8 +307,8 @@ MIN,Mike Conley,PG
 MIN,Bones Hyland,PG
 MIN,Anthony Edwards,SG
 MIN,Rob Dillingham,PG
-MIN,Terrence Shannon Jr.,SG
 MIN,Joan Beringer,PF
+MIN,Terrence Shannon Jr.,SG
 MIN,Leonard Miller,SF
 MIN,Johnny Juzang,SG
 MIN,Joe Ingles,SF
@@ -352,8 +352,8 @@ NYK,P.J. Tucker,F
 NYK,Dillon Jones,SF
 OKC,Shai Gilgeous-Alexander,PG
 OKC,Cason Wallace,SG
-OKC,Ajay Mitchell,SG
 OKC,Chet Holmgren,PF
+OKC,Ajay Mitchell,SG
 OKC,Isaiah Joe,SG
 OKC,Luguentz Dort,SF
 OKC,Aaron Wiggins,SG
@@ -363,9 +363,9 @@ OKC,Alex Caruso,SG
 OKC,Chris Youngblood,SG
 OKC,Kenrich Williams,PF
 OKC,Brooks Barnhizer,SG
-OKC,Jalen Williams,SG
 OKC,Isaiah Hartenstein,C
 OKC,Ousmane Dieng,C
+OKC,Jalen Williams,SG
 OKC,Thomas Sorber,C
 OKC,Nikola Topic,PG
 ORL,Desmond Bane,SG
@@ -386,8 +386,8 @@ ORL,Moritz Wagner,C
 ORL,Orlando Robinson,C
 ORL,Colin Castleton,C
 PHI,Tyrese Maxey,PG
-PHI,Quentin Grimes,SG
 PHI,VJ Edgecombe,SG
+PHI,Quentin Grimes,SG
 PHI,Jabari Walker,PF
 PHI,Adem Bona,C
 PHI,Dominick Barlow,PF
@@ -396,8 +396,8 @@ PHI,Justin Edwards,SF
 PHI,Jared McCain,SG
 PHI,Joel Embiid,C
 PHI,Paul George,PF
-PHI,Trendon Watford,PF
 PHI,Kelly Oubre Jr.,SF
+PHI,Trendon Watford,PF
 PHI,Johni Broome,C
 PHI,Eric Gordon,SG
 PHI,Kyle Lowry,PG
@@ -408,8 +408,8 @@ PHO,Oso Ighodaro,PF
 PHO,Collin Gillespie,PG
 PHO,Jordan Goodwin,PG
 PHO,Mark Williams,C
-PHO,Devin Booker,SG
 PHO,Dillon Brooks,SF
+PHO,Devin Booker,SG
 PHO,Ryan Dunn,SF
 PHO,Grayson Allen,SG
 PHO,Nick Richards,C
@@ -444,8 +444,8 @@ SAC,Nique Clifford,SG
 SAC,Precious Achiuwa,C
 SAC,Keon Ellis,SG
 SAC,Maxime Raynaud,C
-SAC,Malik Monk,SG
 SAC,Dennis Schroder,PG
+SAC,Malik Monk,SG
 SAC,Zach LaVine,SG
 SAC,Drew Eubanks,C
 SAC,Dylan Cardwell,C
