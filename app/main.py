@@ -311,8 +311,8 @@ def predict(req: PredictionRequest):
             
         df.loc[df['Player'] == req.player_name, 'Player_Pace_Rel'] = df_ht['Player_Pace_Rel'].iloc[0]
         df.loc[df['Player'] == req.player_name, 'Pace_Minutes_Interaction'] = df_ht['Pace_Minutes_Interaction'].iloc[0]
-        df.loc[df['MP_proj'] > 0, 'MP_proj_pct'] = ((df['MP_proj'] - df['MP_h1']) / df['MP_proj'])
-        df.loc[df['PTS_proj'] > 0, 'PTS_proj_pct'] = ((df['PTS_proj'] - df['PTS_h1']) / df['PTS_proj'])
+        for col in ['MP', 'PTS', 'FG', 'FGA']:
+            df.loc[df[f'{col}_proj'] > 0, f'{col}_proj_pct'] = ((df[f'{col}_h1'] - df[f'{col}_proj']) / df[f'{col}_proj'])
         
         pts_prediction_qlow = int(round(ht_model_Qlow.predict(df)[0], 0))
         pts_prediction_mean = int(round(ht_model_mean.predict(df)[0], 0))
