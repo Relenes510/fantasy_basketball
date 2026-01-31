@@ -7161,12 +7161,12 @@ Date,Team,Player,Pos
 01/30/2026,WAS,Alexandre Sarr,PF
 01/30/2026,TOR,Immanuel Quickley,PG
 01/30/2026,TOR,RJ Barrett,SG
-01/30/2026,TOR,Brandon Ingram,SF
 01/30/2026,TOR,Scottie Barnes,SF
+01/30/2026,TOR,Brandon Ingram,SF
 01/30/2026,TOR,Collin Murray-Boyles,PF
 01/30/2026,ORL,Anthony Black,PG
-01/30/2026,ORL,Jalen Suggs,SG
 01/30/2026,ORL,Desmond Bane,SG
+01/30/2026,ORL,Jalen Suggs,SG
 01/30/2026,ORL,Paolo Banchero,PF
 01/30/2026,ORL,Wendell Carter Jr.,C
 01/30/2026,SAC,Dennis Schroder,PG
@@ -7191,8 +7191,8 @@ Date,Team,Player,Pos
 01/30/2026,NOP,Derik Queen,C
 01/30/2026,POR,Jrue Holiday,PG
 01/30/2026,POR,Shaedon Sharpe,SG
-01/30/2026,POR,Toumani Camara,SF
 01/30/2026,POR,Deni Avdija,SF
+01/30/2026,POR,Toumani Camara,SF
 01/30/2026,POR,Donovan Clingan,C
 01/30/2026,NYK,Jalen Brunson,PG
 01/30/2026,NYK,OG Anunoby,SF
@@ -7238,47 +7238,17 @@ Date,Team,Player,Pos
 01/30/2026,GSW,Moses Moody,SG
 01/30/2026,GSW,Brandin Podziemski,SG
 01/30/2026,GSW,Draymond Green,PF
-01/30/2026,GSW,Quinten Post,C
+01/30/2026,GSW,Al Horford,C
 01/31/2026,LAL,Marcus Smart,PG
 01/31/2026,LAL,Luka Doncic,PG
 01/31/2026,LAL,LeBron James,SF
 01/31/2026,LAL,Jake LaRavia,PF
 01/31/2026,LAL,Deandre Ayton,C
 01/31/2026,WAS,Bub Carrington,PG
-01/31/2026,WAS,Justin Champagnie,SG
 01/31/2026,WAS,Bilal Coulibaly,SG
+01/31/2026,WAS,Justin Champagnie,SG
 01/31/2026,WAS,Kyshawn George,SF
 01/31/2026,WAS,Alexandre Sarr,PF
-01/31/2026,TOR,Immanuel Quickley,PG
-01/31/2026,TOR,RJ Barrett,SG
-01/31/2026,TOR,Brandon Ingram,SF
-01/31/2026,TOR,Scottie Barnes,SF
-01/31/2026,TOR,Collin Murray-Boyles,PF
-01/31/2026,ORL,Anthony Black,PG
-01/31/2026,ORL,Jalen Suggs,SG
-01/31/2026,ORL,Desmond Bane,SG
-01/31/2026,ORL,Paolo Banchero,PF
-01/31/2026,ORL,Wendell Carter Jr.,C
-01/31/2026,POR,Jrue Holiday,PG
-01/31/2026,POR,Shaedon Sharpe,SG
-01/31/2026,POR,Toumani Camara,SF
-01/31/2026,POR,Deni Avdija,SF
-01/31/2026,POR,Donovan Clingan,C
-01/31/2026,NYK,Jalen Brunson,PG
-01/31/2026,NYK,Josh Hart,SF
-01/31/2026,NYK,OG Anunoby,SF
-01/31/2026,NYK,Mikal Bridges,SF
-01/31/2026,NYK,Karl-Anthony Towns,PF
-01/31/2026,MEM,Cam Spencer,SG
-01/31/2026,MEM,Cedric Coward,SG
-01/31/2026,MEM,Jaylen Wells,SF
-01/31/2026,MEM,Jaren Jackson Jr.,PF
-01/31/2026,MEM,Jock Landale,C
-01/31/2026,NOP,Trey Murphy III,SF
-01/31/2026,NOP,Herbert Jones,SF
-01/31/2026,NOP,Saddiq Bey,PF
-01/31/2026,NOP,Zion Williamson,PF
-01/31/2026,NOP,Derik Queen,C
 01/31/2026,SAC,Dennis Schroder,PG
 01/31/2026,SAC,Zach LaVine,SG
 01/31/2026,SAC,DeMar DeRozan,SF
@@ -7289,6 +7259,36 @@ Date,Team,Player,Pos
 01/31/2026,BOS,Baylor Scheierman,SG
 01/31/2026,BOS,Sam Hauser,SF
 01/31/2026,BOS,Neemias Queta,C
+01/31/2026,TOR,Immanuel Quickley,PG
+01/31/2026,TOR,RJ Barrett,SG
+01/31/2026,TOR,Brandon Ingram,SF
+01/31/2026,TOR,Scottie Barnes,SF
+01/31/2026,TOR,Collin Murray-Boyles,PF
+01/31/2026,ORL,Anthony Black,PG
+01/31/2026,ORL,Desmond Bane,SG
+01/31/2026,ORL,Jalen Suggs,SG
+01/31/2026,ORL,Paolo Banchero,PF
+01/31/2026,ORL,Wendell Carter Jr.,C
+01/31/2026,MEM,Cam Spencer,SG
+01/31/2026,MEM,Cedric Coward,SG
+01/31/2026,MEM,Jaylen Wells,SF
+01/31/2026,MEM,Jaren Jackson Jr.,PF
+01/31/2026,MEM,Jock Landale,C
+01/31/2026,NOP,Trey Murphy III,SF
+01/31/2026,NOP,Herbert Jones,SF
+01/31/2026,NOP,Saddiq Bey,PF
+01/31/2026,NOP,Zion Williamson,PF
+01/31/2026,NOP,Derik Queen,C
+01/31/2026,POR,Jrue Holiday,PG
+01/31/2026,POR,Shaedon Sharpe,SG
+01/31/2026,POR,Toumani Camara,SF
+01/31/2026,POR,Deni Avdija,SF
+01/31/2026,POR,Donovan Clingan,C
+01/31/2026,NYK,Jalen Brunson,PG
+01/31/2026,NYK,OG Anunoby,SF
+01/31/2026,NYK,Mikal Bridges,SF
+01/31/2026,NYK,Josh Hart,SF
+01/31/2026,NYK,Karl-Anthony Towns,PF
 01/31/2026,LAC,Kris Dunn,PG
 01/31/2026,LAC,James Harden,SG
 01/31/2026,LAC,Kawhi Leonard,SF
@@ -7312,12 +7312,12 @@ Date,Team,Player,Pos
 01/31/2026,BRK,Terance Mann,PG
 01/31/2026,BRK,Egor Demin,PG
 01/31/2026,BRK,Nolan Traore,PG
-01/31/2026,BRK,Danny Wolf,C
 01/31/2026,BRK,Nicolas Claxton,C
+01/31/2026,BRK,Danny Wolf,C
 01/31/2026,UTA,Keyonte George,SG
 01/31/2026,UTA,Ace Bailey,SF
-01/31/2026,UTA,Cody Williams,SF
 01/31/2026,UTA,Svi Mykhailiuk,SF
+01/31/2026,UTA,Cody Williams,SF
 01/31/2026,UTA,Kyle Filipowski,C
 01/31/2026,DET,Cade Cunningham,PG
 01/31/2026,DET,Ausar Thompson,SG
@@ -7328,4 +7328,4 @@ Date,Team,Player,Pos
 01/31/2026,GSW,Moses Moody,SG
 01/31/2026,GSW,Brandin Podziemski,SG
 01/31/2026,GSW,Draymond Green,PF
-01/31/2026,GSW,Quinten Post,C
+01/31/2026,GSW,Al Horford,C
