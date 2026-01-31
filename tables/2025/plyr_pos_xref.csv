@@ -21,8 +21,8 @@ BOS,Anfernee Simons,SG
 BOS,Payton Pritchard,PG
 BOS,Sam Hauser,PF
 BOS,Derrick White,SG
-BOS,Jaylen Brown,SF
 BOS,Neemias Queta,C
+BOS,Jaylen Brown,SF
 BOS,Jordan Walsh,PF
 BOS,Hugo Gonzalez,SF
 BOS,Baylor Scheierman,SG
@@ -91,8 +91,8 @@ CHI,Yuki Kawamura,PG
 CLE,Donovan Mitchell,SG
 CLE,Jaylon Tyson,SG
 CLE,Craig Porter Jr.,PG
-CLE,Evan Mobley,PF
 CLE,De'Andre Hunter,SF
+CLE,Evan Mobley,PF
 CLE,Dean Wade,PF
 CLE,Nae'Qwan Tomlin,PF
 CLE,Jarrett Allen,C
@@ -162,13 +162,13 @@ DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
 GSW,Quinten Post,PF
 GSW,Moses Moody,SG
-GSW,Gary Payton II,SG
 GSW,Will Richard,SG
+GSW,Gary Payton II,SG
 GSW,Buddy Hield,SG
 GSW,Draymond Green,PF
 GSW,Stephen Curry,PG
-GSW,Jimmy Butler,SF
 GSW,Gui Santos,PF
+GSW,Jimmy Butler,SF
 GSW,Trayce Jackson-Davis,C
 GSW,Pat Spencer,PG
 GSW,Al Horford,C
@@ -249,9 +249,9 @@ MEM,Jaylen Wells,SG
 MEM,Cam Spencer,SG
 MEM,Kentavious Caldwell-Pope,SG
 MEM,Jaren Jackson Jr.,C
-MEM,Santi Aldama,PF
 MEM,Cedric Coward,SG
 MEM,Jock Landale,C
+MEM,Santi Aldama,PF
 MEM,Vince Williams Jr.,PG
 MEM,John Konchar,SG
 MEM,GG Jackson II,PF
@@ -333,8 +333,8 @@ NOP,DeAndre Jordan,C
 NOP,Hunter Dickinson,C
 NOP,Dejounte Murray,PG
 NYK,Mikal Bridges,SF
-NYK,Jordan Clarkson,SG
 NYK,Karl-Anthony Towns,C
+NYK,Jordan Clarkson,SG
 NYK,Jalen Brunson,PG
 NYK,Tyler Kolek,PG
 NYK,Guerschon Yabusele,C
@@ -348,8 +348,8 @@ NYK,Landry Shamet,SG
 NYK,Pacome Dadiet,SG
 NYK,Kevin McCullar Jr.,SF
 NYK,Trey Jemison,C
-NYK,P.J. Tucker,F
 NYK,Dillon Jones,SF
+NYK,P.J. Tucker,F
 OKC,Shai Gilgeous-Alexander,PG
 OKC,Cason Wallace,SG
 OKC,Chet Holmgren,PF
@@ -379,8 +379,8 @@ ORL,Paolo Banchero,PF
 ORL,Jase Richardson,SG
 ORL,Noah Penda,SF
 ORL,Jett Howard,SF
-ORL,Franz Wagner,SF
 ORL,Jalen Suggs,PG
+ORL,Franz Wagner,SF
 ORL,Jamal Cain,SF
 ORL,Moritz Wagner,C
 ORL,Orlando Robinson,C
@@ -409,8 +409,8 @@ PHO,Collin Gillespie,PG
 PHO,Jordan Goodwin,PG
 PHO,Mark Williams,C
 PHO,Dillon Brooks,SF
-PHO,Devin Booker,SG
 PHO,Ryan Dunn,SF
+PHO,Devin Booker,SG
 PHO,Grayson Allen,SG
 PHO,Nick Richards,C
 PHO,Rasheer Fleming,PF
@@ -520,10 +520,10 @@ WAS,Khris Middleton,SF
 WAS,Tristan Vukcevic,C
 WAS,Bilal Coulibaly,SG
 WAS,Malaki Branham,SG
-WAS,AJ Johnson,SG
 WAS,Anthony Gill,PF
-WAS,Cam Whitmore,SF
+WAS,AJ Johnson,SG
 WAS,Jamir Watkins,SG
+WAS,Cam Whitmore,SF
 WAS,Sharife Cooper,PG
 WAS,Skal Labissiere,PF
 WAS,Trae Young,PG

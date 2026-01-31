@@ -714,16 +714,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-29,9:00p,Brooklyn Nets,BRK,103.0,Denver Nuggets,DEN,107.0,0,Ball Arena,0,0,0,0,1
 2026-01-29,9:00p,Detroit Pistons,DET,96.0,Phoenix Suns,PHO,114.0,0,Mortgage Matchup Center,0,0,0,0,1
 2026-01-29,9:30p,Oklahoma City Thunder,OKC,111.0,Minnesota Timberwolves,MIN,123.0,0,Target Center,0,1,0,0,1
-2026-01-30,7:00p,Los Angeles Lakers,LAL,,Washington Wizards,WAS,,0,Capital One Arena,0,1,0,0,0
-2026-01-30,7:30p,Sacramento Kings,SAC,,Boston Celtics,BOS,,0,TD Garden,1,0,0,0,0
-2026-01-30,7:30p,Memphis Grizzlies,MEM,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,0,0,0,0
-2026-01-30,7:30p,Portland Trail Blazers,POR,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
-2026-01-30,7:30p,Toronto Raptors,TOR,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
-2026-01-30,9:00p,Los Angeles Clippers,LAC,,Denver Nuggets,DEN,,0,Ball Arena,0,1,0,0,0
-2026-01-30,9:00p,Cleveland Cavaliers,CLE,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,1,0,0,0
-2026-01-30,9:30p,Brooklyn Nets,BRK,,Utah Jazz,UTA,,0,Delta Center,1,0,0,0,0
-2026-01-30,10:00p,Detroit Pistons,DET,,Golden State Warriors,GSW,,0,Chase Center,1,0,0,0,0
-2026-01-31,3:00p,San Antonio Spurs,SAS,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
+2026-01-30,7:00p,Los Angeles Lakers,LAL,142.0,Washington Wizards,WAS,111.0,0,Capital One Arena,0,1,0,0,1
+2026-01-30,7:30p,Sacramento Kings,SAC,93.0,Boston Celtics,BOS,112.0,0,TD Garden,1,0,0,0,1
+2026-01-30,7:30p,Memphis Grizzlies,MEM,106.0,New Orleans Pelicans,NOP,114.0,0,Smoothie King Center,0,0,0,0,1
+2026-01-30,7:30p,Portland Trail Blazers,POR,97.0,New York Knicks,NYK,127.0,0,Madison Square Garden (IV),0,0,0,0,1
+2026-01-30,7:30p,Toronto Raptors,TOR,120.0,Orlando Magic,ORL,130.0,0,Kia Center,0,0,0,0,1
+2026-01-30,9:00p,Los Angeles Clippers,LAC,109.0,Denver Nuggets,DEN,122.0,0,Ball Arena,0,1,0,0,1
+2026-01-30,9:00p,Cleveland Cavaliers,CLE,113.0,Phoenix Suns,PHO,126.0,0,Mortgage Matchup Center,0,1,0,0,1
+2026-01-30,9:30p,Brooklyn Nets,BRK,109.0,Utah Jazz,UTA,99.0,0,Delta Center,1,0,0,0,1
+2026-01-30,10:00p,Detroit Pistons,DET,131.0,Golden State Warriors,GSW,124.0,0,Chase Center,1,0,0,0,1
+2026-01-31,12:00p,San Antonio Spurs,SAS,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2026-01-31,7:00p,Atlanta Hawks,ATL,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-01-31,7:30p,New Orleans Pelicans,NOP,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,1,0,0,0,0
 2026-01-31,8:00p,Minnesota Timberwolves,MIN,,Memphis Grizzlies,MEM,,0,FedExForum,0,1,0,0,0
