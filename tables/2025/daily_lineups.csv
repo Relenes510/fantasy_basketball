@@ -7149,36 +7149,16 @@ Date,Team,Player,Pos
 01/29/2026,MIN,Julius Randle,PF
 01/29/2026,MIN,Jaden McDaniels,PF
 01/29/2026,MIN,Rudy Gobert,C
-01/30/2026,LAL,Marcus Smart,PG
 01/30/2026,LAL,Luka Doncic,PG
+01/30/2026,LAL,Marcus Smart,PG
 01/30/2026,LAL,LeBron James,SF
 01/30/2026,LAL,Jake LaRavia,PF
 01/30/2026,LAL,Deandre Ayton,C
 01/30/2026,WAS,Bub Carrington,PG
-01/30/2026,WAS,Bilal Coulibaly,SG
 01/30/2026,WAS,Justin Champagnie,SG
+01/30/2026,WAS,Bilal Coulibaly,SG
 01/30/2026,WAS,Kyshawn George,SF
 01/30/2026,WAS,Alexandre Sarr,PF
-01/30/2026,SAC,Dennis Schroder,PG
-01/30/2026,SAC,Zach LaVine,SG
-01/30/2026,SAC,DeMar DeRozan,SF
-01/30/2026,SAC,Precious Achiuwa,PF
-01/30/2026,SAC,Maxime Raynaud,C
-01/30/2026,BOS,Payton Pritchard,PG
-01/30/2026,BOS,Baylor Scheierman,SG
-01/30/2026,BOS,Derrick White,SG
-01/30/2026,BOS,Sam Hauser,SF
-01/30/2026,BOS,Neemias Queta,C
-01/30/2026,MEM,Cam Spencer,SG
-01/30/2026,MEM,Cedric Coward,SG
-01/30/2026,MEM,Jaylen Wells,SF
-01/30/2026,MEM,Jaren Jackson Jr.,PF
-01/30/2026,MEM,Jock Landale,C
-01/30/2026,NOP,Herbert Jones,SF
-01/30/2026,NOP,Trey Murphy III,SF
-01/30/2026,NOP,Zion Williamson,PF
-01/30/2026,NOP,Saddiq Bey,PF
-01/30/2026,NOP,Derik Queen,C
 01/30/2026,TOR,Immanuel Quickley,PG
 01/30/2026,TOR,RJ Barrett,SG
 01/30/2026,TOR,Brandon Ingram,SF
@@ -7189,6 +7169,26 @@ Date,Team,Player,Pos
 01/30/2026,ORL,Jalen Suggs,SG
 01/30/2026,ORL,Paolo Banchero,PF
 01/30/2026,ORL,Wendell Carter Jr.,C
+01/30/2026,SAC,Dennis Schroder,PG
+01/30/2026,SAC,Zach LaVine,SG
+01/30/2026,SAC,DeMar DeRozan,SF
+01/30/2026,SAC,Precious Achiuwa,PF
+01/30/2026,SAC,Maxime Raynaud,C
+01/30/2026,BOS,Payton Pritchard,PG
+01/30/2026,BOS,Derrick White,SG
+01/30/2026,BOS,Baylor Scheierman,SG
+01/30/2026,BOS,Sam Hauser,SF
+01/30/2026,BOS,Neemias Queta,C
+01/30/2026,MEM,Cam Spencer,SG
+01/30/2026,MEM,Cedric Coward,SG
+01/30/2026,MEM,Jaylen Wells,SF
+01/30/2026,MEM,Jaren Jackson Jr.,PF
+01/30/2026,MEM,Jock Landale,C
+01/30/2026,NOP,Herbert Jones,SF
+01/30/2026,NOP,Trey Murphy III,SF
+01/30/2026,NOP,Saddiq Bey,PF
+01/30/2026,NOP,Zion Williamson,PF
+01/30/2026,NOP,Derik Queen,C
 01/30/2026,POR,Jrue Holiday,PG
 01/30/2026,POR,Shaedon Sharpe,SG
 01/30/2026,POR,Toumani Camara,SF
@@ -7256,8 +7256,8 @@ Date,Team,Player,Pos
 01/31/2026,ATL,Christian Koloko,C
 01/31/2026,IND,Andrew Nembhard,PG
 01/31/2026,IND,Johnny Furphy,SF
-01/31/2026,IND,Aaron Nesmith,PF
 01/31/2026,IND,Pascal Siakam,PF
+01/31/2026,IND,Aaron Nesmith,PF
 01/31/2026,IND,Jay Huff,C
 01/31/2026,NOP,Herbert Jones,SF
 01/31/2026,NOP,Trey Murphy III,SF
@@ -7281,8 +7281,8 @@ Date,Team,Player,Pos
 01/31/2026,MIA,Bam Adebayo,C
 01/31/2026,MIN,Anthony Edwards,SG
 01/31/2026,MIN,Donte DiVincenzo,SG
-01/31/2026,MIN,Julius Randle,PF
 01/31/2026,MIN,Jaden McDaniels,PF
+01/31/2026,MIN,Julius Randle,PF
 01/31/2026,MIN,Rudy Gobert,C
 01/31/2026,MEM,Cedric Coward,SG
 01/31/2026,MEM,Cam Spencer,SG
@@ -7291,11 +7291,11 @@ Date,Team,Player,Pos
 01/31/2026,MEM,Jock Landale,C
 01/31/2026,DAL,Max Christie,SG
 01/31/2026,DAL,Naji Marshall,SF
-01/31/2026,DAL,P.J. Washington,PF
 01/31/2026,DAL,Cooper Flagg,PF
+01/31/2026,DAL,P.J. Washington,PF
 01/31/2026,DAL,Daniel Gafford,C
 01/31/2026,HOU,Amen Thompson,SG
 01/31/2026,HOU,Josh Okogie,SG
-01/31/2026,HOU,Kevin Durant,PF
 01/31/2026,HOU,Jabari Smith Jr.,PF
+01/31/2026,HOU,Kevin Durant,PF
 01/31/2026,HOU,Alperen Sengun,C
