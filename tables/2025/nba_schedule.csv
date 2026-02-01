@@ -723,19 +723,19 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-01-30,9:00p,Cleveland Cavaliers,CLE,113.0,Phoenix Suns,PHO,126.0,0,Mortgage Matchup Center,0,1,0,0,1
 2026-01-30,9:30p,Brooklyn Nets,BRK,109.0,Utah Jazz,UTA,99.0,0,Delta Center,1,0,0,0,1
 2026-01-30,10:00p,Detroit Pistons,DET,131.0,Golden State Warriors,GSW,124.0,0,Chase Center,1,0,0,0,1
-2026-01-31,12:00p,San Antonio Spurs,SAS,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-01-31,7:00p,Atlanta Hawks,ATL,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-01-31,7:30p,New Orleans Pelicans,NOP,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,1,0,0,0,0
-2026-01-31,8:00p,Minnesota Timberwolves,MIN,,Memphis Grizzlies,MEM,,0,FedExForum,0,1,0,0,0
-2026-01-31,8:00p,Chicago Bulls,CHI,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-01-31,8:30p,Dallas Mavericks,DAL,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
+2026-01-31,12:00p,San Antonio Spurs,SAS,106.0,Charlotte Hornets,CHO,111.0,0,Spectrum Center,0,0,0,0,1
+2026-01-31,7:00p,Atlanta Hawks,ATL,124.0,Indiana Pacers,IND,129.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-01-31,7:30p,New Orleans Pelicans,NOP,114.0,Philadelphia 76ers,PHI,124.0,0,Xfinity Mobile Arena,1,0,0,0,1
+2026-01-31,8:00p,Minnesota Timberwolves,MIN,131.0,Memphis Grizzlies,MEM,114.0,0,FedExForum,0,1,0,0,1
+2026-01-31,8:00p,Chicago Bulls,CHI,125.0,Miami Heat,MIA,118.0,0,Kaseya Center,0,0,0,0,1
+2026-01-31,8:30p,Dallas Mavericks,DAL,107.0,Houston Rockets,HOU,111.0,0,Toyota Center,0,0,0,0,1
 2026-02-01,3:30p,Milwaukee Bucks,MIL,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-02-01,4:00p,Orlando Magic,ORL,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,1,0,0,0
 2026-02-01,6:00p,Brooklyn Nets,BRK,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
 2026-02-01,6:00p,Chicago Bulls,CHI,,Miami Heat,MIA,,0,Kaseya Center,1,1,0,0,0
 2026-02-01,6:00p,Utah Jazz,UTA,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
 2026-02-01,6:00p,Sacramento Kings,SAC,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
 2026-02-01,7:00p,Los Angeles Lakers,LAL,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
+2026-02-01,7:00p,Orlando Magic,ORL,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,1,0,0,0
 2026-02-01,8:00p,Los Angeles Clippers,LAC,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
 2026-02-01,9:00p,Cleveland Cavaliers,CLE,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
 2026-02-01,9:30p,Oklahoma City Thunder,OKC,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
