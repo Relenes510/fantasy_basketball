@@ -7256,8 +7256,8 @@ Date,Team,Player,Pos
 01/31/2026,ATL,Mouhamed Gueye,PF
 01/31/2026,IND,Andrew Nembhard,PG
 01/31/2026,IND,Johnny Furphy,SF
-01/31/2026,IND,Jarace Walker,PF
 01/31/2026,IND,Aaron Nesmith,PF
+01/31/2026,IND,Jarace Walker,PF
 01/31/2026,IND,Pascal Siakam,PF
 01/31/2026,NOP,Herbert Jones,SF
 01/31/2026,NOP,Trey Murphy III,SF
@@ -7329,6 +7329,16 @@ Date,Team,Player,Pos
 02/01/2026,WAS,Khris Middleton,SF
 02/01/2026,WAS,Kyshawn George,SF
 02/01/2026,WAS,Alexandre Sarr,PF
+02/01/2026,CHI,Coby White,SG
+02/01/2026,CHI,Matas Buzelis,SF
+02/01/2026,CHI,Isaac Okoro,SF
+02/01/2026,CHI,Patrick Williams,PF
+02/01/2026,CHI,Nikola Vucevic,C
+02/01/2026,MIA,Kasparas Jakucionis,PG
+02/01/2026,MIA,Pelle Larsson,SG
+02/01/2026,MIA,Myron Gardner,SF
+02/01/2026,MIA,Andrew Wiggins,SF
+02/01/2026,MIA,Bam Adebayo,C
 02/01/2026,UTA,Isaiah Collier,PG
 02/01/2026,UTA,Svi Mykhailiuk,SF
 02/01/2026,UTA,Ace Bailey,SF
@@ -7339,18 +7349,8 @@ Date,Team,Player,Pos
 02/01/2026,TOR,Brandon Ingram,SF
 02/01/2026,TOR,Scottie Barnes,SF
 02/01/2026,TOR,Collin Murray-Boyles,PF
-02/01/2026,CHI,Coby White,SG
-02/01/2026,CHI,Matas Buzelis,SF
-02/01/2026,CHI,Isaac Okoro,SF
-02/01/2026,CHI,Patrick Williams,PF
-02/01/2026,CHI,Nikola Vucevic,C
-02/01/2026,MIA,Kasparas Jakucionis,PG
-02/01/2026,MIA,Norman Powell,SG
-02/01/2026,MIA,Pelle Larsson,SG
-02/01/2026,MIA,Andrew Wiggins,SF
-02/01/2026,MIA,Bam Adebayo,C
-02/01/2026,LAL,Marcus Smart,PG
 02/01/2026,LAL,Luka Doncic,PG
+02/01/2026,LAL,Marcus Smart,PG
 02/01/2026,LAL,LeBron James,SF
 02/01/2026,LAL,Jake LaRavia,PF
 02/01/2026,LAL,Deandre Ayton,C
@@ -7389,8 +7389,8 @@ Date,Team,Player,Pos
 02/01/2026,POR,Sidy Cissoko,SF
 02/01/2026,POR,Toumani Camara,SF
 02/01/2026,POR,Donovan Clingan,C
-02/01/2026,OKC,Shai Gilgeous-Alexander,PG
 02/01/2026,OKC,Cason Wallace,PG
+02/01/2026,OKC,Shai Gilgeous-Alexander,PG
 02/01/2026,OKC,Luguentz Dort,SF
 02/01/2026,OKC,Jaylin Williams,PF
 02/01/2026,OKC,Chet Holmgren,C
