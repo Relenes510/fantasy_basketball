@@ -7271,8 +7271,8 @@ Date,Team,Player,Pos
 01/31/2026,PHI,Joel Embiid,C
 01/31/2026,MIN,Anthony Edwards,SG
 01/31/2026,MIN,Donte DiVincenzo,SG
-01/31/2026,MIN,Jaden McDaniels,PF
 01/31/2026,MIN,Julius Randle,PF
+01/31/2026,MIN,Jaden McDaniels,PF
 01/31/2026,MIN,Rudy Gobert,C
 01/31/2026,MEM,Cedric Coward,SG
 01/31/2026,MEM,Cam Spencer,SG
@@ -7291,11 +7291,71 @@ Date,Team,Player,Pos
 01/31/2026,MIA,Bam Adebayo,C
 01/31/2026,DAL,Max Christie,SG
 01/31/2026,DAL,Naji Marshall,SF
-01/31/2026,DAL,Cooper Flagg,PF
 01/31/2026,DAL,P.J. Washington,PF
+01/31/2026,DAL,Cooper Flagg,PF
 01/31/2026,DAL,Daniel Gafford,C
-01/31/2026,HOU,Josh Okogie,SG
 01/31/2026,HOU,Amen Thompson,SG
-01/31/2026,HOU,Jabari Smith Jr.,PF
+01/31/2026,HOU,Josh Okogie,SG
 01/31/2026,HOU,Kevin Durant,PF
+01/31/2026,HOU,Jabari Smith Jr.,PF
 01/31/2026,HOU,Alperen Sengun,C
+02/01/2026,SAS,De'Aaron Fox,PG
+02/01/2026,SAS,Devin Vassell,SG
+02/01/2026,SAS,Stephon Castle,SG
+02/01/2026,SAS,Julian Champagnie,SF
+02/01/2026,SAS,Victor Wembanyama,PF
+02/01/2026,CHO,LaMelo Ball,PG
+02/01/2026,CHO,Kon Knueppel,SG
+02/01/2026,CHO,Miles Bridges,SF
+02/01/2026,CHO,Brandon Miller,SF
+02/01/2026,CHO,Moussa Diabate,PF
+02/01/2026,ATL,Dyson Daniels,PG
+02/01/2026,ATL,Nickeil Alexander-Walker,SG
+02/01/2026,ATL,Zaccharie Risacher,SF
+02/01/2026,ATL,Jalen Johnson,PF
+02/01/2026,ATL,Christian Koloko,C
+02/01/2026,IND,Andrew Nembhard,PG
+02/01/2026,IND,Johnny Furphy,SF
+02/01/2026,IND,Pascal Siakam,PF
+02/01/2026,IND,Aaron Nesmith,PF
+02/01/2026,IND,Jay Huff,C
+02/01/2026,NOP,Herbert Jones,SF
+02/01/2026,NOP,Trey Murphy III,SF
+02/01/2026,NOP,Saddiq Bey,PF
+02/01/2026,NOP,Zion Williamson,PF
+02/01/2026,NOP,Derik Queen,C
+02/01/2026,PHI,Tyrese Maxey,PG
+02/01/2026,PHI,VJ Edgecombe,SG
+02/01/2026,PHI,Kelly Oubre Jr.,SF
+02/01/2026,PHI,Dominick Barlow,PF
+02/01/2026,PHI,Joel Embiid,C
+02/01/2026,MIN,Donte DiVincenzo,SG
+02/01/2026,MIN,Anthony Edwards,SG
+02/01/2026,MIN,Julius Randle,PF
+02/01/2026,MIN,Jaden McDaniels,PF
+02/01/2026,MIN,Rudy Gobert,C
+02/01/2026,MEM,Cedric Coward,SG
+02/01/2026,MEM,Cam Spencer,SG
+02/01/2026,MEM,Jaylen Wells,SF
+02/01/2026,MEM,Jaren Jackson Jr.,PF
+02/01/2026,MEM,Jock Landale,C
+02/01/2026,CHI,Ayo Dosunmu,PG
+02/01/2026,CHI,Kevin Huerter,SG
+02/01/2026,CHI,Matas Buzelis,SF
+02/01/2026,CHI,Isaac Okoro,SF
+02/01/2026,CHI,Patrick Williams,PF
+02/01/2026,MIA,Kasparas Jakucionis,PG
+02/01/2026,MIA,Pelle Larsson,SG
+02/01/2026,MIA,Jaime Jaquez Jr.,SF
+02/01/2026,MIA,Andrew Wiggins,SF
+02/01/2026,MIA,Bam Adebayo,C
+02/01/2026,DAL,Max Christie,SG
+02/01/2026,DAL,Naji Marshall,SF
+02/01/2026,DAL,P.J. Washington,PF
+02/01/2026,DAL,Cooper Flagg,PF
+02/01/2026,DAL,Daniel Gafford,C
+02/01/2026,HOU,Amen Thompson,SG
+02/01/2026,HOU,Josh Okogie,SG
+02/01/2026,HOU,Jabari Smith Jr.,PF
+02/01/2026,HOU,Kevin Durant,PF
+02/01/2026,HOU,Alperen Sengun,C
