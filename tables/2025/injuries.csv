@@ -6425,7 +6425,7 @@ Date,Team,Player,Status,Reason
 01/31/2026,CHO,KJ Simpson,Out,G League - Two-Way
 02/01/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
 02/01/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
-02/01/2026,MIL,Gary Harris,Probable,Injury/Illness - Left Hamstring; Soreness
+02/01/2026,MIL,Gary Harris,Out,Injury/Illness - Left Hamstring; Soreness
 02/01/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Right Oblique Muscle; Strain
 02/01/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
 02/01/2026,BOS,Ron Harper Jr.,Out,G League - Two-Way
@@ -6481,10 +6481,8 @@ Date,Team,Player,Status,Reason
 02/01/2026,NYK,Trey Jemison III,Questionable,G League - Two-Way
 02/01/2026,NYK,Miles McBride,Out,Injury/Illness - Left Ankle; Left Ankle Injury Management
 02/01/2026,NYK,Kevin McCullar Jr.,Questionable,G League - Two-Way
-02/01/2026,ORL,Colin Castleton,Out,G League - Two-Way
-02/01/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain injury management
 02/01/2026,PHO,Devin Booker,Out,Injury/Illness - Right Ankle; Sprain
-02/01/2026,PHO,Jalen Green,Questionable,Injury/Illness - Right Hamstring; Injury Management; Left Hip Contusion
+02/01/2026,PHO,Jalen Green,Out,Injury/Illness - Right Hamstring; Injury Management; Left Hip Contusion
 02/01/2026,CLE,Tristan Enaruna,Questionable,G League - Two-Way
 02/01/2026,CLE,Darius Garland,Out,Injury/Illness - Right Great Toe; Sprain
 02/01/2026,CLE,Evan Mobley,Out,Injury/Illness - Left Calf; Strain
@@ -6500,6 +6498,12 @@ Date,Team,Player,Status,Reason
 02/01/2026,POR,Matisse Thybulle,Out,Injury/Illness - Right Knee; Tendinopathy
 02/01/2026,POR,Blake Wesley,Questionable,Injury/Illness - Right Foot; Fracture
 02/01/2026,POR,Robert Williams III,Questionable,Injury/Illness - Left Knee; Injury Management
+02/01/2026,ORL,Colin Castleton,Out,G League - Two-Way
+02/01/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain injury management
+02/01/2026,SAS,Stephon Castle,Questionable,Injury/Illness - Left Adductor; Tightness
+02/01/2026,SAS,David Jones Garcia,Out,G League - Two-Way
+02/01/2026,SAS,Jeremy Sochan,Out,Injury/Illness - Left Quad; Strain
+02/01/2026,SAS,Victor Wembanyama,Questionable,Injury/Illness - Left Calf; Soreness
 02/01/2026,OKC,Alex Caruso,Out,Injury/Illness - Right Adductor; Strain
 02/01/2026,OKC,Ajay Mitchell,Out,Injury/Illness - Abdominal; Strain
 02/01/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery

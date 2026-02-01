@@ -7256,9 +7256,9 @@ Date,Team,Player,Pos
 01/31/2026,ATL,Mouhamed Gueye,PF
 01/31/2026,IND,Andrew Nembhard,PG
 01/31/2026,IND,Johnny Furphy,SF
+01/31/2026,IND,Aaron Nesmith,PF
 01/31/2026,IND,Jarace Walker,PF
 01/31/2026,IND,Pascal Siakam,PF
-01/31/2026,IND,Aaron Nesmith,PF
 01/31/2026,NOP,Herbert Jones,SF
 01/31/2026,NOP,Trey Murphy III,SF
 01/31/2026,NOP,Saddiq Bey,PF
@@ -7271,8 +7271,8 @@ Date,Team,Player,Pos
 01/31/2026,PHI,Joel Embiid,C
 01/31/2026,MIN,Anthony Edwards,SG
 01/31/2026,MIN,Donte DiVincenzo,SG
-01/31/2026,MIN,Julius Randle,PF
 01/31/2026,MIN,Jaden McDaniels,PF
+01/31/2026,MIN,Julius Randle,PF
 01/31/2026,MIN,Rudy Gobert,C
 01/31/2026,MEM,Ty Jerome,PG
 01/31/2026,MEM,Vince Williams Jr.,SG
@@ -7281,8 +7281,8 @@ Date,Team,Player,Pos
 01/31/2026,MEM,Jock Landale,C
 01/31/2026,CHI,Ayo Dosunmu,PG
 01/31/2026,CHI,Kevin Huerter,SG
-01/31/2026,CHI,Isaac Okoro,SF
 01/31/2026,CHI,Matas Buzelis,SF
+01/31/2026,CHI,Isaac Okoro,SF
 01/31/2026,CHI,Patrick Williams,PF
 01/31/2026,MIA,Kasparas Jakucionis,PG
 01/31/2026,MIA,Pelle Larsson,SG
@@ -7291,8 +7291,8 @@ Date,Team,Player,Pos
 01/31/2026,MIA,Bam Adebayo,C
 01/31/2026,DAL,Max Christie,SG
 01/31/2026,DAL,Naji Marshall,SF
-01/31/2026,DAL,P.J. Washington,PF
 01/31/2026,DAL,Cooper Flagg,PF
+01/31/2026,DAL,P.J. Washington,PF
 01/31/2026,DAL,Daniel Gafford,C
 01/31/2026,HOU,Amen Thompson,SG
 01/31/2026,HOU,Tari Eason,SF
@@ -7309,8 +7309,8 @@ Date,Team,Player,Pos
 02/01/2026,BOS,Derrick White,SG
 02/01/2026,BOS,Sam Hauser,SF
 02/01/2026,BOS,Neemias Queta,C
-02/01/2026,BRK,Terance Mann,PG
 02/01/2026,BRK,Egor Demin,PG
+02/01/2026,BRK,Terance Mann,PG
 02/01/2026,BRK,Drake Powell,SG
 02/01/2026,BRK,Michael Porter Jr.,SF
 02/01/2026,BRK,Nicolas Claxton,C
@@ -7329,16 +7329,6 @@ Date,Team,Player,Pos
 02/01/2026,WAS,Khris Middleton,SF
 02/01/2026,WAS,Kyshawn George,SF
 02/01/2026,WAS,Alexandre Sarr,PF
-02/01/2026,CHI,Coby White,SG
-02/01/2026,CHI,Matas Buzelis,SF
-02/01/2026,CHI,Isaac Okoro,SF
-02/01/2026,CHI,Patrick Williams,PF
-02/01/2026,CHI,Nikola Vucevic,C
-02/01/2026,MIA,Kasparas Jakucionis,PG
-02/01/2026,MIA,Pelle Larsson,SG
-02/01/2026,MIA,Norman Powell,SG
-02/01/2026,MIA,Andrew Wiggins,SF
-02/01/2026,MIA,Bam Adebayo,C
 02/01/2026,UTA,Isaiah Collier,PG
 02/01/2026,UTA,Svi Mykhailiuk,SF
 02/01/2026,UTA,Ace Bailey,SF
@@ -7349,6 +7339,16 @@ Date,Team,Player,Pos
 02/01/2026,TOR,Brandon Ingram,SF
 02/01/2026,TOR,Scottie Barnes,SF
 02/01/2026,TOR,Collin Murray-Boyles,PF
+02/01/2026,CHI,Coby White,SG
+02/01/2026,CHI,Matas Buzelis,SF
+02/01/2026,CHI,Isaac Okoro,SF
+02/01/2026,CHI,Patrick Williams,PF
+02/01/2026,CHI,Nikola Vucevic,C
+02/01/2026,MIA,Kasparas Jakucionis,PG
+02/01/2026,MIA,Pelle Larsson,SG
+02/01/2026,MIA,Norman Powell,SG
+02/01/2026,MIA,Andrew Wiggins,SF
+02/01/2026,MIA,Bam Adebayo,C
 02/01/2026,ORL,Anthony Black,PG
 02/01/2026,ORL,Desmond Bane,SG
 02/01/2026,ORL,Jalen Suggs,SG
@@ -7370,7 +7370,7 @@ Date,Team,Player,Pos
 02/01/2026,NYK,Josh Hart,SF
 02/01/2026,NYK,Karl-Anthony Towns,PF
 02/01/2026,LAC,Kris Dunn,PG
-02/01/2026,LAC,James Harden,SG
+02/01/2026,LAC,Jordan Miller,SF
 02/01/2026,LAC,Kawhi Leonard,SF
 02/01/2026,LAC,John Collins,PF
 02/01/2026,LAC,Ivica Zubac,C
@@ -7389,8 +7389,8 @@ Date,Team,Player,Pos
 02/01/2026,POR,Sidy Cissoko,SF
 02/01/2026,POR,Toumani Camara,SF
 02/01/2026,POR,Donovan Clingan,C
-02/01/2026,OKC,Cason Wallace,PG
 02/01/2026,OKC,Shai Gilgeous-Alexander,PG
+02/01/2026,OKC,Cason Wallace,PG
 02/01/2026,OKC,Luguentz Dort,SF
 02/01/2026,OKC,Jaylin Williams,PF
 02/01/2026,OKC,Chet Holmgren,C
