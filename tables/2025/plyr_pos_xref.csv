@@ -73,21 +73,21 @@ CHO,Antonio Reeves,SG
 CHI,Matas Buzelis,PF
 CHI,Nikola Vucevic,C
 CHI,Patrick Williams,PF
-CHI,Kevin Huerter,SF
 CHI,Ayo Dosunmu,SG
-CHI,Jalen Smith,C
+CHI,Kevin Huerter,SF
 CHI,Isaac Okoro,SG
+CHI,Jalen Smith,C
 CHI,Tre Jones,PG
-CHI,Josh Giddey,PG
 CHI,Julian Phillips,SF
+CHI,Josh Giddey,PG
 CHI,Dalen Terry,SG
 CHI,Coby White,SG
 CHI,Jevon Carter,PG
 CHI,Lachlan Olbrich,C
 CHI,Zach Collins,C
 CHI,Emanuel Miller,PF
-CHI,Noa Essengue,PF
 CHI,Yuki Kawamura,PG
+CHI,Noa Essengue,PF
 CLE,Donovan Mitchell,SG
 CLE,Jaylon Tyson,SG
 CLE,Craig Porter Jr.,PG
@@ -99,13 +99,13 @@ CLE,Jarrett Allen,C
 CLE,Tyrese Proctor,PG
 CLE,Thomas Bryant,C
 CLE,Lonzo Ball,PG
-CLE,Darius Garland,PG
 CLE,Sam Merrill,SG
+CLE,Darius Garland,PG
 CLE,Larry Nance Jr.,PF
 CLE,Luke Travers,SG
+CLE,Tristan Enaruna,SF
 CLE,Chuma Okeke,F
 CLE,Max Strus,SF
-CLE,Tristan Enaruna,SF
 DAL,Naji Marshall,SF
 DAL,Cooper Flagg,SF
 DAL,Max Christie,SG
@@ -213,8 +213,8 @@ IND,Obi Toppin,PF
 IND,Tyrese Haliburton,PG
 LAC,Kris Dunn,PG
 LAC,Nicolas Batum,PF
-LAC,James Harden,PG
 LAC,John Collins,PF
+LAC,James Harden,PG
 LAC,Ivica Zubac,C
 LAC,Brook Lopez,C
 LAC,Kobe Sanders,SG
@@ -239,11 +239,11 @@ LAL,Rui Hachimura,PF
 LAL,LeBron James,SF
 LAL,Gabe Vincent,PG
 LAL,Bronny James,SG
-LAL,Austin Reaves,SG
 LAL,Nick Smith Jr.,SG
+LAL,Austin Reaves,SG
 LAL,Maxi Kleber,PF
-LAL,Adou Thiero,SF
 LAL,Drew Timme,PF
+LAL,Adou Thiero,SF
 LAL,Chris Manon,SG
 MEM,Jaylen Wells,SG
 MEM,Cam Spencer,SG
@@ -360,8 +360,8 @@ OKC,Aaron Wiggins,SG
 OKC,Jaylin Williams,PF
 OKC,Branden Carlson,C
 OKC,Alex Caruso,SG
-OKC,Chris Youngblood,SG
 OKC,Kenrich Williams,PF
+OKC,Chris Youngblood,SG
 OKC,Brooks Barnhizer,SG
 OKC,Isaiah Hartenstein,C
 OKC,Ousmane Dieng,C
@@ -412,10 +412,10 @@ PHO,Dillon Brooks,SF
 PHO,Ryan Dunn,SF
 PHO,Devin Booker,SG
 PHO,Grayson Allen,SG
-PHO,Nick Richards,C
 PHO,Rasheer Fleming,PF
-PHO,Nigel Hayes-Davis,SF
+PHO,Nick Richards,C
 PHO,Isaiah Livers,PF
+PHO,Nigel Hayes-Davis,SF
 PHO,Jamaree Bouyea,PG
 PHO,Khaman Maluach,C
 PHO,Jalen Green,SG
@@ -423,12 +423,12 @@ PHO,Koby Brea,SG
 POR,Toumani Camara,PF
 POR,Shaedon Sharpe,SG
 POR,Donovan Clingan,C
-POR,Deni Avdija,SF
 POR,Sidy Cissoko,SF
+POR,Deni Avdija,SF
 POR,Rayan Rupert,SG
 POR,Caleb Love,SG
-POR,Kris Murray,SF
 POR,Jerami Grant,PF
+POR,Kris Murray,SF
 POR,Robert Williams,C
 POR,Duop Reath,C
 POR,Yang Hansen,C
@@ -442,10 +442,10 @@ SAC,DeMar DeRozan,PF
 SAC,Russell Westbrook,SF
 SAC,Nique Clifford,SG
 SAC,Precious Achiuwa,C
-SAC,Keon Ellis,SG
 SAC,Maxime Raynaud,C
-SAC,Dennis Schroder,PG
+SAC,Keon Ellis,SG
 SAC,Malik Monk,SG
+SAC,Dennis Schroder,PG
 SAC,Zach LaVine,SG
 SAC,Drew Eubanks,C
 SAC,Dylan Cardwell,C
@@ -460,15 +460,15 @@ SAS,Keldon Johnson,SF
 SAS,Julian Champagnie,SF
 SAS,Harrison Barnes,PF
 SAS,De'Aaron Fox,PG
-SAS,Stephon Castle,PG
 SAS,Luke Kornet,C
+SAS,Stephon Castle,PG
 SAS,Dylan Harper,SG
 SAS,Carter Bryant,PF
 SAS,Devin Vassell,SG
 SAS,Victor Wembanyama,C
 SAS,Kelly Olynyk,C
-SAS,Jeremy Sochan,PF
 SAS,Lindy Waters III,SG
+SAS,Jeremy Sochan,PF
 SAS,Jordan McLaughlin,PG
 SAS,Bismack Biyombo,C
 SAS,David Jones Garcia,SF
@@ -511,17 +511,17 @@ UTA,Georges Niang,PF
 UTA,John Tonje,SG
 WAS,Bub Carrington,PG
 WAS,Justin Champagnie,SF
-WAS,Tre Johnson,SG
 WAS,Will Riley,SF
-WAS,Alex Sarr,C
 WAS,Kyshawn George,SF
+WAS,Tre Johnson,SG
+WAS,Alex Sarr,C
 WAS,Marvin Bagley III,PF
 WAS,Khris Middleton,SF
 WAS,Tristan Vukcevic,C
 WAS,Bilal Coulibaly,SG
 WAS,Malaki Branham,SG
-WAS,Anthony Gill,PF
 WAS,AJ Johnson,SG
+WAS,Anthony Gill,PF
 WAS,Jamir Watkins,SG
 WAS,Cam Whitmore,SF
 WAS,Sharife Cooper,PG
