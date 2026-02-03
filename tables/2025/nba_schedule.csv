@@ -739,10 +739,10 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-01,9:00p,Cleveland Cavaliers,CLE,130.0,Portland Trail Blazers,POR,111.0,0,Moda Center,0,0,0,0,1
 2026-02-01,9:00p,Orlando Magic,ORL,103.0,San Antonio Spurs,SAS,112.0,0,Frost Bank Center,0,1,0,0,1
 2026-02-01,9:30p,Oklahoma City Thunder,OKC,121.0,Denver Nuggets,DEN,111.0,0,Ball Arena,0,0,0,0,1
-2026-02-02,3:00p,New Orleans Pelicans,NOP,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-02-02,7:00p,Houston Rockets,HOU,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-02-02,7:30p,Minnesota Timberwolves,MIN,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-02-02,10:00p,Philadelphia 76ers,PHI,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,1,0,0,0
+2026-02-02,3:00p,New Orleans Pelicans,NOP,95.0,Charlotte Hornets,CHO,102.0,0,Spectrum Center,0,0,0,0,1
+2026-02-02,7:00p,Houston Rockets,HOU,118.0,Indiana Pacers,IND,114.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-02-02,7:30p,Minnesota Timberwolves,MIN,128.0,Memphis Grizzlies,MEM,137.0,0,FedExForum,0,0,0,0,1
+2026-02-02,10:00p,Philadelphia 76ers,PHI,128.0,Los Angeles Clippers,LAC,113.0,0,Intuit Dome,0,1,0,0,1
 2026-02-03,7:00p,Denver Nuggets,DEN,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
 2026-02-03,7:00p,Utah Jazz,UTA,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,1,0,0,0
 2026-02-03,7:00p,New York Knicks,NYK,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0

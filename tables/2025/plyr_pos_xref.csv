@@ -4,7 +4,6 @@ ATL,Dyson Daniels,SG
 ATL,Mouhamed Gueye,PF
 ATL,Onyeka Okongwu,C
 ATL,Jalen Johnson,SF
-ATL,Vit Krejci,PG
 ATL,Luke Kennard,SG
 ATL,Keaton Wallace,PG
 ATL,Zaccharie Risacher,SF
@@ -17,6 +16,7 @@ ATL,Christian Koloko,C
 ATL,N'Faly Dante,C
 ATL,RayJ Dennis,PG
 ATL,Nikola Djurisic,SF
+ATL,Duop Reath,C
 BOS,Anfernee Simons,SG
 BOS,Payton Pritchard,PG
 BOS,Sam Hauser,PF
@@ -82,16 +82,14 @@ CHI,Julian Phillips,SF
 CHI,Josh Giddey,PG
 CHI,Dalen Terry,SG
 CHI,Coby White,SG
-CHI,Jevon Carter,PG
 CHI,Lachlan Olbrich,C
 CHI,Zach Collins,C
-CHI,Emanuel Miller,PF
 CHI,Yuki Kawamura,PG
 CHI,Noa Essengue,PF
+CHI,Dario Saric,C
 CLE,Donovan Mitchell,SG
 CLE,Jaylon Tyson,SG
 CLE,Craig Porter Jr.,PG
-CLE,De'Andre Hunter,SF
 CLE,Evan Mobley,PF
 CLE,Dean Wade,PF
 CLE,Nae'Qwan Tomlin,PF
@@ -102,9 +100,11 @@ CLE,Lonzo Ball,PG
 CLE,Sam Merrill,SG
 CLE,Darius Garland,PG
 CLE,Larry Nance Jr.,PF
-CLE,Luke Travers,SG
 CLE,Tristan Enaruna,SF
 CLE,Chuma Okeke,F
+CLE,Dennis Schroder,PG
+CLE,Emanuel Miller,PF
+CLE,Keon Ellis,SG
 CLE,Max Strus,SF
 DAL,Naji Marshall,SF
 DAL,Cooper Flagg,SF
@@ -184,8 +184,8 @@ HOU,Jabari Smith Jr.,PF
 HOU,Kevin Durant,SF
 HOU,Clint Capela,C
 HOU,Alperen Sengun,C
-HOU,Steven Adams,C
 HOU,Aaron Holiday,PG
+HOU,Steven Adams,C
 HOU,Jae'Sean Tate,SF
 HOU,Tari Eason,PF
 HOU,JD Davison,PG
@@ -260,8 +260,8 @@ MEM,Ja Morant,PG
 MEM,Javon Small,PG
 MEM,Zach Edey,C
 MEM,Jahmai Mashack,SG
-MEM,Brandon Clarke,PF
 MEM,Ty Jerome,SG
+MEM,Brandon Clarke,PF
 MEM,Scotty Pippen Jr.,PG
 MIA,Dru Smith,SG
 MIA,Simone Fontecchio,SF
@@ -324,9 +324,9 @@ NOP,Jose Alvarado,PG
 NOP,Karlo Matkovic,PF
 NOP,Zion Williamson,PF
 NOP,Jordan Hawkins,SG
+NOP,Herbert Jones,SF
 NOP,Bryce McGowens,SG
 NOP,Jordan Poole,PG
-NOP,Herbert Jones,SF
 NOP,Kevon Looney,C
 NOP,Trey Alexander,SG
 NOP,DeAndre Jordan,C
@@ -349,7 +349,6 @@ NYK,Pacome Dadiet,SG
 NYK,Kevin McCullar Jr.,SF
 NYK,Trey Jemison,C
 NYK,Dillon Jones,SF
-NYK,P.J. Tucker,F
 OKC,Shai Gilgeous-Alexander,PG
 OKC,Cason Wallace,SG
 OKC,Chet Holmgren,PF
@@ -392,8 +391,8 @@ PHI,Jabari Walker,PF
 PHI,Adem Bona,C
 PHI,Dominick Barlow,PF
 PHI,Andre Drummond,C
-PHI,Justin Edwards,SF
 PHI,Jared McCain,SG
+PHI,Justin Edwards,SF
 PHI,Joel Embiid,C
 PHI,Paul George,PF
 PHI,Kelly Oubre Jr.,SF
@@ -430,12 +429,12 @@ POR,Caleb Love,SG
 POR,Jerami Grant,PF
 POR,Kris Murray,SF
 POR,Robert Williams,C
-POR,Duop Reath,C
 POR,Yang Hansen,C
 POR,Jrue Holiday,PG
 POR,Javonte Cooke,SG
 POR,Blake Wesley,SG
 POR,Matisse Thybulle,SG
+POR,Vit Krejci,PG
 POR,Damian Lillard,PG
 POR,Scoot Henderson,PG
 SAC,DeMar DeRozan,PF
@@ -443,9 +442,7 @@ SAC,Russell Westbrook,SF
 SAC,Nique Clifford,SG
 SAC,Precious Achiuwa,C
 SAC,Maxime Raynaud,C
-SAC,Keon Ellis,SG
 SAC,Malik Monk,SG
-SAC,Dennis Schroder,PG
 SAC,Zach LaVine,SG
 SAC,Drew Eubanks,C
 SAC,Dylan Cardwell,C
@@ -453,9 +450,9 @@ SAC,Keegan Murray,PF
 SAC,Domantas Sabonis,C
 SAC,Devin Carter,PG
 SAC,Doug McDermott,SF
-SAC,Dario Saric,C
 SAC,Daeqwon Plowden,SG
 SAC,Isaiah Stevens,PG
+SAC,De'Andre Hunter,SF
 SAS,Keldon Johnson,SF
 SAS,Julian Champagnie,SF
 SAS,Harrison Barnes,PF
