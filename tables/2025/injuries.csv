@@ -6638,42 +6638,73 @@ Date,Team,Player,Status,Reason
 02/03/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
 02/03/2026,POR,Kris Murray,Out,Injury/Illness - Lumbar; Strain
 02/03/2026,POR,Matisse Thybulle,Out,Injury/Illness - Right Knee; Tendinopathy
-02/04/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
-02/04/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
-02/04/2026,MEM,Scotty Pippen Jr.,Doubtful,Injury/Illness - Left Great Toe; Surgery Recovery
-02/04/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
-02/04/2026,NOP,Dejounte Murray,Out,Injury/Illness - Right Achilles; Rupture
-02/04/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
-02/04/2026,SAS,Lindy Waters III,Out,Injury/Illness - Left Knee; Hyperextension
-02/04/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Back; Lower; Strain
-02/04/2026,CLE,Evan Mobley,Out,Injury/Illness - Left Calf; Strain
-02/04/2026,HOU,Tristen Newton,Out,G League - Two-Way
-02/04/2026,MEM,Georges Niang,Out,Trade Pending
-02/04/2026,MIN,Terrence Shannon Jr.,Out,Injury/Illness - Left Foot; Abductor Hallucis Strain
-02/04/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
-02/04/2026,SAC,Domantas Sabonis,Questionable,Injury/Illness - Lower Back; Soreness
-02/04/2026,SAS,Jeremy Sochan,Out,Injury/Illness - Left Quad; Strain
-02/04/2026,TOR,Alijah Martin,Out,G League - Two-Way
-02/04/2026,CLE,Emanuel Miller,Out,G League - Two-Way
-02/04/2026,HOU,Dorian Finney-Smith,Out,Injury/Illness - Left Ankle; Injury Management
-02/04/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
-02/04/2026,MIN,Julius Randle,Questionable,Injury/Illness - Left Thumb; Soreness
-02/04/2026,NOP,Trey Alexander,Out,G League - Two-Way
-02/04/2026,SAC,Daeqwon Plowden,Out,G League - Two-Way
-02/04/2026,SAS,Kelly Olynyk,Questionable,Injury/Illness - Left Foot; Soreness
-02/04/2026,TOR,A.J. Lawson,Out,G League - Two-Way
-02/04/2026,CLE,Darius Garland,Out,Injury/Illness - Right Great Toe; Sprain
-02/04/2026,HOU,Kevin Durant,Probable,Injury/Illness - Left Ankle; Sprain
-02/04/2026,MEM,Taylor Hendricks,Out,Trade Pending
-02/04/2026,MIN,Enrique Freeman,Out,G League - Two-Way
-02/04/2026,SAC,Keegan Murray,Out,Injury/Illness - Left Ankle; Sprain
-02/04/2026,SAS,David Jones Garcia,Out,G League - Two-Way
-02/04/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
-02/04/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
-02/04/2026,MEM,Walter Clayton Jr.,Out,Trade Pending
+02/04/2026,DEN,Tamar Bates,Out,Injury/Illness - Left Foot; Surgery
+02/04/2026,DEN,Christian Braun,Probable,Injury/Illness - Left Ankle; Sprain
+02/04/2026,DEN,Aaron Gordon,Out,Injury/Illness - Right Hamstring; Strain
+02/04/2026,DEN,Cameron Johnson,Out,Injury/Illness - Right Knee; Bone Bruise
+02/04/2026,DEN,Curtis Jones,Out,G League - Two-Way
+02/04/2026,NYK,Josh Hart,Out,Injury/Illness - Left Ankle; Sprain
+02/04/2026,NYK,Miles McBride,Out,Injury/Illness - Left Ankle; Left Ankle Injury Management
 02/04/2026,MIN,Anthony Edwards,Questionable,Injury/Illness - Left Elbow; Soreness
-02/04/2026,SAS,Dylan Harper,Questionable,Injury/Illness - Right Ankle; Soreness
-02/04/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
+02/04/2026,MIN,Enrique Freeman,Out,G League - Two-Way
+02/04/2026,MIN,Julius Randle,Questionable,Injury/Illness - Left Thumb; Soreness
+02/04/2026,MIN,Terrence Shannon Jr.,Out,Injury/Illness - Left Foot; Abductor Hallucis Strain
+02/04/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
+02/04/2026,TOR,Ochai Agbaji,Out,Not With Team
+02/04/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
+02/04/2026,TOR,A.J. Lawson,Out,G League - Two-Way
+02/04/2026,TOR,Alijah Martin,Out,G League - Two-Way
+02/04/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Back; Lower; Strain
+02/04/2026,BOS,Chris Boucher,Out,Personal Reasons
+02/04/2026,BOS,Jaylen Brown,Doubtful,Injury/Illness - Left Hamstring; Tightness and Right Knee Soreness
+02/04/2026,BOS,Sam Hauser,Out,Injury/Illness - Right Thumb; Strain
+02/04/2026,BOS,Anfernee Simons,Out,Personal Reasons
+02/04/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
+02/04/2026,BOS,Amari Williams,Out,G League - Two-Way
+02/04/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
+02/04/2026,HOU,Kevin Durant,Probable,Injury/Illness - Left Ankle; Sprain
+02/04/2026,HOU,Dorian Finney-Smith,Out,Injury/Illness - Left Ankle; Injury Management
+02/04/2026,HOU,Tristen Newton,Out,G League - Two-Way
+02/04/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
+02/04/2026,NOP,Trey Alexander,Out,G League - Two-Way
+02/04/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
+02/04/2026,NOP,Dejounte Murray,Out,Injury/Illness - Right Achilles; Rupture
+02/04/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
+02/04/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
+02/04/2026,MIL,Cole Anthony,Probable,Injury/Illness - Left Ankle; Sprain
+02/04/2026,MIL,Gary Harris,Out,Injury/Illness - Left Hamstring; Strain
+02/04/2026,MIL,Bobby Portis,Out,Injury/Illness - Right Hip; Contusion
+02/04/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
+02/04/2026,MIL,Myles Turner,Probable,Injury/Illness - Left Ankle; Sprain
+02/04/2026,OKC,Alex Caruso,Out,Injury/Illness - Right Adductor; Injury Management
+02/04/2026,OKC,Ousmane Dieng,Out,Not With Team
+02/04/2026,OKC,Luguentz Dort,Out,Injury/Illness - Right Patellofemoral joint; Inflammation
+02/04/2026,OKC,Shai Gilgeous-Alexander,Out,Injury/Illness - Abdominal; Strain
+02/04/2026,OKC,Isaiah Hartenstein,Out,Injury/Illness - Right Eye; Corneal Abrasion
+02/04/2026,OKC,Chet Holmgren,Out,Injury/Illness - Low Back; Spasms
+02/04/2026,OKC,Ajay Mitchell,Out,Injury/Illness - Abdominal; Strain
+02/04/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
+02/04/2026,OKC,Nikola Topic,Out,Injury/Illness - N/a; Surgical Recovery
+02/04/2026,OKC,Jalen Williams,Out,Injury/Illness - Right Hamstring; Strain
 02/04/2026,SAS,Stephon Castle,Questionable,Injury/Illness - Left Adductor; Tightness
-02/04/2026,MEM,Kyle Anderson,Out,Trade Pending
+02/04/2026,SAS,Dylan Harper,Questionable,Injury/Illness - Right Ankle; Soreness
+02/04/2026,SAS,David Jones Garcia,Out,G League - Two-Way
+02/04/2026,SAS,Kelly Olynyk,Questionable,Injury/Illness - Left Foot; Soreness
+02/04/2026,SAS,Jeremy Sochan,Out,Injury/Illness - Left Quad; Strain
+02/04/2026,SAS,Lindy Waters III,Out,Injury/Illness - Left Knee; Hyperextension
 02/04/2026,MEM,Santi Aldama,Questionable,Injury/Illness - Right Knee; Injury Management
+02/04/2026,MEM,Kyle Anderson,Out,Trade Pending
+02/04/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
+02/04/2026,MEM,Walter Clayton Jr.,Out,Trade Pending
+02/04/2026,MEM,Taylor Hendricks,Out,Trade Pending
+02/04/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
+02/04/2026,MEM,Georges Niang,Out,Trade Pending
+02/04/2026,MEM,Scotty Pippen Jr.,Doubtful,Injury/Illness - Left Great Toe; Surgery Recovery
+02/04/2026,SAC,Keegan Murray,Out,Injury/Illness - Left Ankle; Sprain
+02/04/2026,SAC,Daeqwon Plowden,Out,G League - Two-Way
+02/04/2026,SAC,Domantas Sabonis,Questionable,Injury/Illness - Lower Back; Soreness
+02/04/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
+02/04/2026,CLE,Darius Garland,Out,Injury/Illness - Right Great Toe; Sprain
+02/04/2026,CLE,Emanuel Miller,Out,G League - Two-Way
+02/04/2026,CLE,Evan Mobley,Out,Injury/Illness - Left Calf; Strain
+02/04/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
