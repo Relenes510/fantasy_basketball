@@ -743,16 +743,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-02,7:00p,Houston Rockets,HOU,118.0,Indiana Pacers,IND,114.0,0,Gainbridge Fieldhouse,0,0,0,0,1
 2026-02-02,7:30p,Minnesota Timberwolves,MIN,128.0,Memphis Grizzlies,MEM,137.0,0,FedExForum,0,0,0,0,1
 2026-02-02,10:00p,Philadelphia 76ers,PHI,128.0,Los Angeles Clippers,LAC,113.0,0,Intuit Dome,0,1,0,0,1
-2026-02-03,7:00p,Denver Nuggets,DEN,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
-2026-02-03,7:00p,Utah Jazz,UTA,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,1,0,0,0
-2026-02-03,7:00p,New York Knicks,NYK,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2026-02-03,7:30p,Los Angeles Lakers,LAL,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-02-03,7:30p,Atlanta Hawks,ATL,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-02-03,8:00p,Boston Celtics,BOS,,Dallas Mavericks,DAL,,0,American Airlines Center,0,0,0,0,0
-2026-02-03,8:00p,Chicago Bulls,CHI,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
-2026-02-03,8:00p,Orlando Magic,ORL,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
-2026-02-03,10:00p,Philadelphia 76ers,PHI,,Golden State Warriors,GSW,,0,Chase Center,1,0,0,0,0
-2026-02-03,11:00p,Phoenix Suns,PHO,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
+2026-02-03,7:00p,Denver Nuggets,DEN,121.0,Detroit Pistons,DET,124.0,0,Little Caesars Arena,0,0,0,0,1
+2026-02-03,7:00p,Utah Jazz,UTA,131.0,Indiana Pacers,IND,122.0,0,Gainbridge Fieldhouse,0,1,0,0,1
+2026-02-03,7:00p,New York Knicks,NYK,132.0,Washington Wizards,WAS,101.0,0,Capital One Arena,0,0,0,0,1
+2026-02-03,7:30p,Los Angeles Lakers,LAL,125.0,Brooklyn Nets,BRK,109.0,0,Barclays Center,0,0,0,0,1
+2026-02-03,7:30p,Atlanta Hawks,ATL,127.0,Miami Heat,MIA,115.0,0,Kaseya Center,0,0,0,0,1
+2026-02-03,8:00p,Boston Celtics,BOS,110.0,Dallas Mavericks,DAL,100.0,0,American Airlines Center,0,0,0,0,1
+2026-02-03,8:00p,Chicago Bulls,CHI,115.0,Milwaukee Bucks,MIL,131.0,0,Fiserv Forum,0,0,0,0,1
+2026-02-03,8:00p,Orlando Magic,ORL,92.0,Oklahoma City Thunder,OKC,128.0,0,Paycom Center,0,0,0,0,1
+2026-02-03,10:00p,Philadelphia 76ers,PHI,113.0,Golden State Warriors,GSW,94.0,0,Chase Center,1,0,0,0,1
+2026-02-03,11:00p,Phoenix Suns,PHO,130.0,Portland Trail Blazers,POR,125.0,0,Moda Center,0,0,0,0,1
 2026-02-04,7:00p,Denver Nuggets,DEN,,New York Knicks,NYK,,0,Madison Square Garden (IV),1,1,0,0,0
 2026-02-04,7:30p,Minnesota Timberwolves,MIN,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
 2026-02-04,8:00p,Boston Celtics,BOS,,Houston Rockets,HOU,,0,Toyota Center,1,0,0,0,0

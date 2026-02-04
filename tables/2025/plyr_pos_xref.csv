@@ -2,8 +2,8 @@ Team,Player,Pos
 ATL,Nickeil Alexander-Walker,SG
 ATL,Dyson Daniels,SG
 ATL,Mouhamed Gueye,PF
-ATL,Onyeka Okongwu,C
 ATL,Jalen Johnson,SF
+ATL,Onyeka Okongwu,C
 ATL,Luke Kennard,SG
 ATL,Keaton Wallace,PG
 ATL,Zaccharie Risacher,SF
@@ -17,8 +17,8 @@ ATL,N'Faly Dante,C
 ATL,RayJ Dennis,PG
 ATL,Nikola Djurisic,SF
 ATL,Duop Reath,C
-BOS,Anfernee Simons,SG
 BOS,Payton Pritchard,PG
+BOS,Anfernee Simons,SG
 BOS,Sam Hauser,PF
 BOS,Derrick White,SG
 BOS,Neemias Queta,C
@@ -37,11 +37,11 @@ BOS,Jayson Tatum,PF
 BRK,Nic Claxton,C
 BRK,Day'Ron Sharpe,C
 BRK,Noah Clowney,PF
-BRK,Terance Mann,SG
 BRK,Egor Dmin,PG
+BRK,Terance Mann,SG
 BRK,Michael Porter Jr.,SF
-BRK,Tyrese Martin,SG
 BRK,Drake Powell,SG
+BRK,Tyrese Martin,SG
 BRK,Ziaire Williams,SF
 BRK,Danny Wolf,PF
 BRK,Jalen Wilson,PF
@@ -112,8 +112,8 @@ DAL,Max Christie,SG
 DAL,Klay Thompson,SF
 DAL,Brandon Williams,PG
 DAL,Caleb Martin,SF
-DAL,P.J. Washington,PF
 DAL,Ryan Nembhard,PG
+DAL,P.J. Washington,PF
 DAL,Dwight Powell,C
 DAL,Daniel Gafford,C
 DAL,Jaden Hardy,SG
@@ -149,8 +149,8 @@ DET,Isaiah Stewart,C
 DET,Cade Cunningham,PG
 DET,Jalen Duren,C
 DET,Daniss Jenkins,PG
-DET,Paul Reed,C
 DET,Tobias Harris,PF
+DET,Paul Reed,C
 DET,Jaden Ivey,SG
 DET,Caris LeVert,SG
 DET,Chaz Lanier,SG
@@ -166,8 +166,8 @@ GSW,Will Richard,SG
 GSW,Gary Payton II,SG
 GSW,Buddy Hield,SG
 GSW,Draymond Green,PF
-GSW,Stephen Curry,PG
 GSW,Gui Santos,PF
+GSW,Stephen Curry,PG
 GSW,Jimmy Butler,SF
 GSW,Trayce Jackson-Davis,C
 GSW,Pat Spencer,PG
@@ -199,8 +199,8 @@ IND,Jay Huff,C
 IND,Pascal Siakam,PF
 IND,Andrew Nembhard,PG
 IND,Ben Sheppard,SG
-IND,T.J. McConnell,PG
 IND,Isaiah Jackson,C
+IND,T.J. McConnell,PG
 IND,Johnny Furphy,SG
 IND,Aaron Nesmith,SF
 IND,Bennedict Mathurin,SF
@@ -239,8 +239,8 @@ LAL,Rui Hachimura,PF
 LAL,LeBron James,SF
 LAL,Gabe Vincent,PG
 LAL,Bronny James,SG
-LAL,Nick Smith Jr.,SG
 LAL,Austin Reaves,SG
+LAL,Nick Smith Jr.,SG
 LAL,Maxi Kleber,PF
 LAL,Drew Timme,PF
 LAL,Adou Thiero,SF
@@ -265,12 +265,12 @@ MEM,Brandon Clarke,PF
 MEM,Scotty Pippen Jr.,PG
 MIA,Dru Smith,SG
 MIA,Simone Fontecchio,SF
-MIA,Andrew Wiggins,SF
 MIA,Kel'el Ware,C
+MIA,Andrew Wiggins,SF
 MIA,Jaime Jaquez Jr.,SF
-MIA,Norman Powell,SG
 MIA,Bam Adebayo,C
 MIA,Pelle Larsson,SG
+MIA,Norman Powell,SG
 MIA,Davion Mitchell,PG
 MIA,Nikola Jovic,PF
 MIA,Kasparas Jakucionis,PG
@@ -282,12 +282,12 @@ MIA,Vladislav Goldin,C
 MIA,Terry Rozier,PG
 MIL,Ryan Rollins,PG
 MIL,Bobby Portis,PF
-MIL,Myles Turner,C
 MIL,Kyle Kuzma,PF
+MIL,Myles Turner,C
 MIL,A.J. Green,SG
 MIL,Gary Trent Jr.,SG
-MIL,Gary Harris,SG
 MIL,Cole Anthony,PG
+MIL,Gary Harris,SG
 MIL,Jericho Sims,C
 MIL,Giannis Antetokounmpo,PF
 MIL,Amir Coffey,SG
@@ -357,13 +357,13 @@ OKC,Isaiah Joe,SG
 OKC,Luguentz Dort,SF
 OKC,Aaron Wiggins,SG
 OKC,Jaylin Williams,PF
-OKC,Branden Carlson,C
 OKC,Alex Caruso,SG
+OKC,Branden Carlson,C
 OKC,Kenrich Williams,PF
 OKC,Chris Youngblood,SG
-OKC,Brooks Barnhizer,SG
 OKC,Isaiah Hartenstein,C
 OKC,Ousmane Dieng,C
+OKC,Brooks Barnhizer,SG
 OKC,Jalen Williams,SG
 OKC,Thomas Sorber,C
 OKC,Nikola Topic,PG
@@ -394,9 +394,9 @@ PHI,Andre Drummond,C
 PHI,Jared McCain,SG
 PHI,Justin Edwards,SF
 PHI,Joel Embiid,C
-PHI,Paul George,PF
 PHI,Kelly Oubre Jr.,SF
 PHI,Trendon Watford,PF
+PHI,Paul George,PF
 PHI,Johni Broome,C
 PHI,Eric Gordon,SG
 PHI,Kyle Lowry,PG
@@ -424,11 +424,11 @@ POR,Shaedon Sharpe,SG
 POR,Donovan Clingan,C
 POR,Sidy Cissoko,SF
 POR,Deni Avdija,SF
-POR,Rayan Rupert,SG
 POR,Caleb Love,SG
+POR,Rayan Rupert,SG
 POR,Jerami Grant,PF
-POR,Kris Murray,SF
 POR,Robert Williams,C
+POR,Kris Murray,SF
 POR,Yang Hansen,C
 POR,Jrue Holiday,PG
 POR,Javonte Cooke,SG
@@ -489,8 +489,8 @@ TOR,A.J. Lawson,SG
 TOR,Alijah Martin,SG
 TOR,Chucky Hepburn,PG
 UTA,Kyle Filipowski,C
-UTA,Keyonte George,PG
 UTA,Brice Sensabaugh,SF
+UTA,Keyonte George,PG
 UTA,Walter Clayton,PG
 UTA,Ace Bailey,SF
 UTA,Isaiah Collier,PG
@@ -510,12 +510,12 @@ WAS,Bub Carrington,PG
 WAS,Justin Champagnie,SF
 WAS,Will Riley,SF
 WAS,Kyshawn George,SF
-WAS,Tre Johnson,SG
 WAS,Alex Sarr,C
+WAS,Tre Johnson,SG
 WAS,Marvin Bagley III,PF
 WAS,Khris Middleton,SF
-WAS,Tristan Vukcevic,C
 WAS,Bilal Coulibaly,SG
+WAS,Tristan Vukcevic,C
 WAS,Malaki Branham,SG
 WAS,AJ Johnson,SG
 WAS,Anthony Gill,PF
