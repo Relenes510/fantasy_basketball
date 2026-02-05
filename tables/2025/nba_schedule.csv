@@ -753,13 +753,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-03,8:00p,Orlando Magic,ORL,92.0,Oklahoma City Thunder,OKC,128.0,0,Paycom Center,0,0,0,0,1
 2026-02-03,10:00p,Philadelphia 76ers,PHI,113.0,Golden State Warriors,GSW,94.0,0,Chase Center,1,0,0,0,1
 2026-02-03,11:00p,Phoenix Suns,PHO,130.0,Portland Trail Blazers,POR,125.0,0,Moda Center,0,0,0,0,1
-2026-02-04,7:00p,Denver Nuggets,DEN,,New York Knicks,NYK,,0,Madison Square Garden (IV),1,1,0,0,0
-2026-02-04,7:30p,Minnesota Timberwolves,MIN,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2026-02-04,8:00p,Boston Celtics,BOS,,Houston Rockets,HOU,,0,Toyota Center,1,0,0,0,0
-2026-02-04,8:00p,New Orleans Pelicans,NOP,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,1,0,0,0
-2026-02-04,9:30p,Oklahoma City Thunder,OKC,,San Antonio Spurs,SAS,,0,Frost Bank Center,1,0,0,0,0
-2026-02-04,10:00p,Memphis Grizzlies,MEM,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
-2026-02-04,10:30p,Cleveland Cavaliers,CLE,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2026-02-04,7:00p,Denver Nuggets,DEN,127.0,New York Knicks,NYK,134.0,2,Madison Square Garden (IV),1,1,0,0,1
+2026-02-04,7:30p,Minnesota Timberwolves,MIN,128.0,Toronto Raptors,TOR,126.0,0,Scotiabank Arena,0,0,0,0,1
+2026-02-04,8:00p,Boston Celtics,BOS,114.0,Houston Rockets,HOU,93.0,0,Toyota Center,1,0,0,0,1
+2026-02-04,8:00p,New Orleans Pelicans,NOP,137.0,Milwaukee Bucks,MIL,141.0,1,Fiserv Forum,0,1,0,0,1
+2026-02-04,9:30p,Oklahoma City Thunder,OKC,106.0,San Antonio Spurs,SAS,116.0,0,Frost Bank Center,1,0,0,0,1
+2026-02-04,10:00p,Memphis Grizzlies,MEM,129.0,Sacramento Kings,SAC,125.0,0,Golden 1 Center,0,0,0,0,1
+2026-02-04,10:30p,Cleveland Cavaliers,CLE,124.0,Los Angeles Clippers,LAC,91.0,0,Intuit Dome,0,0,0,0,1
 2026-02-05,7:00p,Washington Wizards,WAS,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
 2026-02-05,7:00p,Brooklyn Nets,BRK,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
 2026-02-05,7:30p,Utah Jazz,UTA,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0

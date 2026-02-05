@@ -18,9 +18,9 @@ ATL,RayJ Dennis,PG
 ATL,Nikola Djurisic,SF
 ATL,Duop Reath,C
 BOS,Payton Pritchard,PG
+BOS,Derrick White,SG
 BOS,Anfernee Simons,SG
 BOS,Sam Hauser,PF
-BOS,Derrick White,SG
 BOS,Neemias Queta,C
 BOS,Jaylen Brown,SF
 BOS,Jordan Walsh,PF
@@ -90,8 +90,8 @@ CHI,Dario Saric,C
 CLE,Donovan Mitchell,SG
 CLE,Jaylon Tyson,SG
 CLE,Craig Porter Jr.,PG
-CLE,Evan Mobley,PF
 CLE,Dean Wade,PF
+CLE,Evan Mobley,PF
 CLE,Nae'Qwan Tomlin,PF
 CLE,Jarrett Allen,C
 CLE,Tyrese Proctor,PG
@@ -101,10 +101,10 @@ CLE,Sam Merrill,SG
 CLE,Darius Garland,PG
 CLE,Larry Nance Jr.,PF
 CLE,Tristan Enaruna,SF
-CLE,Chuma Okeke,F
 CLE,Dennis Schroder,PG
-CLE,Emanuel Miller,PF
 CLE,Keon Ellis,SG
+CLE,Chuma Okeke,F
+CLE,Emanuel Miller,PF
 CLE,Max Strus,SF
 DAL,Naji Marshall,SF
 DAL,Cooper Flagg,SF
@@ -131,10 +131,10 @@ DEN,Jamal Murray,PG
 DEN,Spencer Jones,SF
 DEN,Jonas Valanciunas,C
 DEN,Zeke Nnaji,PF
-DEN,Jalen Pickett,SG
 DEN,Nikola Jokic,C
-DEN,Cameron Johnson,SF
+DEN,Jalen Pickett,SG
 DEN,Julian Strawther,SG
+DEN,Cameron Johnson,SF
 DEN,Aaron Gordon,PF
 DEN,Hunter Tyson,PF
 DEN,Christian Braun,SG
@@ -248,12 +248,8 @@ LAL,Chris Manon,SG
 MEM,Jaylen Wells,SG
 MEM,Cam Spencer,SG
 MEM,Kentavious Caldwell-Pope,SG
-MEM,Jaren Jackson Jr.,C
 MEM,Cedric Coward,SG
-MEM,Jock Landale,C
 MEM,Santi Aldama,PF
-MEM,Vince Williams Jr.,PG
-MEM,John Konchar,SG
 MEM,GG Jackson II,PF
 MEM,Olivier-Maxence Prosper,PF
 MEM,Ja Morant,PG
@@ -262,7 +258,11 @@ MEM,Zach Edey,C
 MEM,Jahmai Mashack,SG
 MEM,Ty Jerome,SG
 MEM,Brandon Clarke,PF
+MEM,Walter Clayton,PG
 MEM,Scotty Pippen Jr.,PG
+MEM,Kyle Anderson,SF
+MEM,Georges Niang,PF
+MEM,Taylor Hendricks,PF
 MIA,Dru Smith,SG
 MIA,Simone Fontecchio,SF
 MIA,Kel'el Ware,C
@@ -287,8 +287,8 @@ MIL,Myles Turner,C
 MIL,A.J. Green,SG
 MIL,Gary Trent Jr.,SG
 MIL,Cole Anthony,PG
-MIL,Gary Harris,SG
 MIL,Jericho Sims,C
+MIL,Gary Harris,SG
 MIL,Giannis Antetokounmpo,PF
 MIL,Amir Coffey,SG
 MIL,Kevin Porter Jr.,PG
@@ -309,8 +309,8 @@ MIN,Anthony Edwards,SG
 MIN,Rob Dillingham,PG
 MIN,Joan Beringer,PF
 MIN,Terrence Shannon Jr.,SG
-MIN,Leonard Miller,SF
 MIN,Johnny Juzang,SG
+MIN,Leonard Miller,SF
 MIN,Joe Ingles,SF
 MIN,Rocco Zikarsky,C
 MIN,Enrique Freeman,PF
@@ -337,12 +337,12 @@ NYK,Karl-Anthony Towns,C
 NYK,Jordan Clarkson,SG
 NYK,Jalen Brunson,PG
 NYK,Tyler Kolek,PG
-NYK,Guerschon Yabusele,C
 NYK,OG Anunoby,PF
+NYK,Guerschon Yabusele,C
 NYK,Mohamed Diawara,SF
 NYK,Josh Hart,SF
-NYK,Miles McBride,SG
 NYK,Mitchell Robinson,C
+NYK,Miles McBride,SG
 NYK,Ariel Hukporti,C
 NYK,Landry Shamet,SG
 NYK,Pacome Dadiet,SG
@@ -357,13 +357,13 @@ OKC,Isaiah Joe,SG
 OKC,Luguentz Dort,SF
 OKC,Aaron Wiggins,SG
 OKC,Jaylin Williams,PF
-OKC,Alex Caruso,SG
 OKC,Branden Carlson,C
+OKC,Alex Caruso,SG
 OKC,Kenrich Williams,PF
 OKC,Chris Youngblood,SG
+OKC,Brooks Barnhizer,SG
 OKC,Isaiah Hartenstein,C
 OKC,Ousmane Dieng,C
-OKC,Brooks Barnhizer,SG
 OKC,Jalen Williams,SG
 OKC,Thomas Sorber,C
 OKC,Nikola Topic,PG
@@ -440,14 +440,14 @@ POR,Scoot Henderson,PG
 SAC,DeMar DeRozan,PF
 SAC,Russell Westbrook,SF
 SAC,Nique Clifford,SG
-SAC,Precious Achiuwa,C
 SAC,Maxime Raynaud,C
+SAC,Precious Achiuwa,C
 SAC,Malik Monk,SG
 SAC,Zach LaVine,SG
 SAC,Drew Eubanks,C
 SAC,Dylan Cardwell,C
-SAC,Keegan Murray,PF
 SAC,Domantas Sabonis,C
+SAC,Keegan Murray,PF
 SAC,Devin Carter,PG
 SAC,Doug McDermott,SF
 SAC,Daeqwon Plowden,SG
@@ -477,8 +477,8 @@ TOR,Scottie Barnes,PF
 TOR,Brandon Ingram,SF
 TOR,Sandro Mamukelashvili,C
 TOR,Immanuel Quickley,PG
-TOR,Ochai Agbaji,SG
 TOR,Ja'Kobe Walter,SG
+TOR,Ochai Agbaji,SG
 TOR,Collin Murray-Boyles,PF
 TOR,Jamison Battle,SF
 TOR,RJ Barrett,SF
@@ -491,20 +491,20 @@ TOR,Chucky Hepburn,PG
 UTA,Kyle Filipowski,C
 UTA,Brice Sensabaugh,SF
 UTA,Keyonte George,PG
-UTA,Walter Clayton,PG
 UTA,Ace Bailey,SF
 UTA,Isaiah Collier,PG
 UTA,Svi Mykhailiuk,SF
 UTA,Jusuf Nurkic,C
 UTA,Lauri Markkanen,PF
 UTA,Cody Williams,SG
-UTA,Taylor Hendricks,PF
 UTA,Kevin Love,PF
-UTA,Kyle Anderson,SF
 UTA,Elijah Harkless,SG
 UTA,Walker Kessler,C
 UTA,Oscar Tshiebwe,C
-UTA,Georges Niang,PF
+UTA,Jaren Jackson Jr.,C
+UTA,Vince Williams Jr.,SG
+UTA,John Konchar,SG
+UTA,Jock Landale,C
 UTA,John Tonje,SG
 WAS,Bub Carrington,PG
 WAS,Justin Champagnie,SF
