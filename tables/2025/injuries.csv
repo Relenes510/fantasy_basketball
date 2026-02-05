@@ -6699,11 +6699,13 @@ Date,Team,Player,Status,Reason
 02/04/2026,CLE,Emanuel Miller,Out,G League - Two-Way
 02/04/2026,CLE,Evan Mobley,Out,Injury/Illness - Left Calf; Strain
 02/04/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
+02/05/2026,BRK,Ochai Agbaji,Out,Not With Team
 02/05/2026,BRK,Tyson Etienne,Out,G League - Two-Way
 02/05/2026,BRK,Haywood Highsmith,Out,"Injury/Illness - Right Knee; Surgery, Injury Recovery"
 02/05/2026,BRK,Chaney Johnson,Out,G League - Two-Way
 02/05/2026,BRK,E.J. Liddell,Out,G League - Two-Way
-02/05/2026,BRK,Cam Thomas,Out,Personal Reasons
+02/05/2026,BRK,Tyrese Martin,Out,Not With Team
+02/05/2026,BRK,Cam Thomas,Out,Not With Team
 02/05/2026,ORL,Colin Castleton,Out,G League - Two-Way
 02/05/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain injury management
 02/05/2026,WAS,Marvin Bagley III,Out,Not With Team
@@ -6732,29 +6734,42 @@ Date,Team,Player,Status,Reason
 02/05/2026,CHI,Nikola Vucevic,Out,Not With Team
 02/05/2026,TOR,RJ Barrett,Out,Injury/Illness - Right Knee; Sprain - injury management
 02/05/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
-02/05/2026,TOR,A.J. Lawson,Out,G League - Two-Way
-02/05/2026,TOR,Alijah Martin,Out,G League - Two-Way
 02/05/2026,TOR,Chris Paul,Out,Not With Team
 02/05/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Back; Lower; strain
+02/05/2026,UTA,Lonzo Ball,Out,Trade Pending
 02/05/2026,UTA,Keyonte George,Out,Injury/Illness - Left Ankle; Sprain
 02/05/2026,UTA,Jaren Jackson Jr.,Out,Trade Pending
 02/05/2026,UTA,Walker Kessler,Out,Injury/Illness - Left Shoulder; Injury Recovery
 02/05/2026,UTA,John Konchar,Out,Trade Pending
-02/05/2026,UTA,Jock Landale,Out,Trade Pending
 02/05/2026,UTA,Kevin Love,Questionable,Injury/Illness - N/A; Illness
 02/05/2026,UTA,Vince Williams Jr.,Out,Trade Pending
 02/05/2026,ATL,N'Faly Dante,Out,Injury/Illness - Right Knee; Torn ACL
-02/05/2026,ATL,RayJ Dennis,Doubtful,G League - Two-Way
-02/05/2026,ATL,Nikola Djurisic,Doubtful,G League - On Assignment
-02/05/2026,ATL,Caleb Houstan,Doubtful,G League - Two-Way
-02/05/2026,ATL,Onyeka Okongwu,Questionable,Injury/Illness - Dental; Fracture
-02/05/2026,ATL,Kristaps Porzingis,Questionable,Injury/Illness - N/A; Illness
-02/05/2026,ATL,Duop Reath,Out,Injury/Illness - Right Foot; Stress Fracture
+02/05/2026,ATL,RayJ Dennis,Out,G League - Two-Way
+02/05/2026,ATL,Nikola Djurisic,Out,G League - On Assignment
+02/05/2026,ATL,Caleb Houstan,Out,G League - Two-Way
+02/05/2026,ATL,Luke Kennard,Out,Not With Team
+02/05/2026,ATL,Onyeka Okongwu,Out,Injury/Illness - Dental; Fracture
+02/05/2026,ATL,Kristaps Porzingis,Out,Not With Team
+02/05/2026,ATL,Duop Reath,Out,Not With Team
+02/05/2026,CHO,Mike Conley,Out,Not With Team
 02/05/2026,CHO,PJ Hall,Out,G League - Two-Way
+02/05/2026,CHO,Tyus Jones,Out,Not With Team
 02/05/2026,CHO,Liam McNeeley,Out,G League - On Assignment
 02/05/2026,CHO,Antonio Reeves,Out,G League - Two-Way
 02/05/2026,CHO,Tidjane Salaun,Questionable,Injury/Illness - N/A; Illness
 02/05/2026,CHO,KJ Simpson,Out,Injury/Illness - Left Hip Flexor; Strain
+02/05/2026,CHO,Coby White,Out,Injury/Illness - Left Calf; Strain
+02/05/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
+02/05/2026,HOU,Tari Eason,Questionable,Injury/Illness - Left Lower Leg; Injury Management
+02/05/2026,HOU,Tristen Newton,Out,G League - Two-Way
+02/05/2026,HOU,Jae'Sean Tate,Out,Injury/Illness - Left Wrist; Contusion
+02/05/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
+02/05/2026,SAS,Dylan Harper,Questionable,Injury/Illness - Right Ankle; Sprain
+02/05/2026,SAS,David Jones Garcia,Out,G League - Two-Way
+02/05/2026,SAS,Luke Kornet,Out,Injury/Illness - Left Adductor; Tightness/Left Ankle Soreness
+02/05/2026,SAS,Kelly Olynyk,Questionable,Injury/Illness - Left Foot; Sprain
+02/05/2026,SAS,Jeremy Sochan,Out,Injury/Illness - Left Quad; Strain
+02/05/2026,SAS,Lindy Waters III,Out,Injury/Illness - Left Knee; Hyperextension
 02/05/2026,DAL,Moussa Cisse,Probable,G League - Two-Way
 02/05/2026,DAL,Anthony Davis,Out,Not With Team
 02/05/2026,DAL,Dante Exum,Out,Not With Team
@@ -6768,14 +6783,20 @@ Date,Team,Player,Status,Reason
 02/05/2026,DAL,P.J. Washington,Out,Concussion Protocol
 02/05/2026,DAL,Brandon Williams,Questionable,Injury/Illness - Right Lower Leg; Contusion
 02/05/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Tear
-02/05/2026,GSW,LJ Cryer,Questionable,Injury/Illness - Left Hamstring; Injury Management
+02/05/2026,GSW,LJ Cryer,Out,Injury/Illness - Left Hamstring; Injury Management
 02/05/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
 02/05/2026,GSW,Stephen Curry,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
-02/05/2026,GSW,Jonathan Kuminga,Out,Injury/Illness - Left Knee; Bone Bruise
+02/05/2026,GSW,Buddy Hield,Out,Not With Team
+02/05/2026,GSW,Trayce Jackson-Davis,Out,Not With Team
+02/05/2026,GSW,Jonathan Kuminga,Out,Not With Team
+02/05/2026,GSW,De'Anthony Melton,Questionable,Injury/Illness - Left Knee; Soreness
 02/05/2026,PHO,Devin Booker,Out,Injury/Illness - Right Ankle; Sprain
-02/05/2026,PHO,Jalen Green,Questionable,Injury/Illness - Right Hamstring; Injury Management; Left Hip Contusion
+02/05/2026,PHO,Jalen Green,Out,Injury/Illness - Right Hamstring; Injury Management; Left Hip Contusion
+02/05/2026,PHO,Nigel Hayes-Davis,Out,Not With Team
+02/05/2026,PHO,Nick Richards,Out,Not With Team
 02/05/2026,PHI,Joel Embiid,Questionable,Injury/Illness - Right Knee; Injury Management
 02/05/2026,PHI,Paul George,Out,League Suspension
-02/05/2026,PHI,Jared McCain,Out,Not With Team
+02/05/2026,PHI,Eric Gordon,Out,Not With Team
 02/05/2026,LAL,Jaxson Hayes,Out,League Suspension
 02/05/2026,LAL,Adou Thiero,Out,Injury/Illness - Right MCL; Sprain
+02/05/2026,LAL,Gabe Vincent,Out,Not With Team
