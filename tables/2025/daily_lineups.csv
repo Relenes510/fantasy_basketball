@@ -7559,10 +7559,10 @@ Date,Team,Player,Pos
 02/04/2026,TOR,Scottie Barnes,SF
 02/04/2026,TOR,Brandon Ingram,SF
 02/04/2026,TOR,Collin Murray-Boyles,PF
-02/04/2026,BOS,Payton Pritchard,PG
-02/04/2026,BOS,Derrick White,SG
 02/04/2026,BOS,Baylor Scheierman,SG
-02/04/2026,BOS,Jordan Walsh,SF
+02/04/2026,BOS,Derrick White,SG
+02/04/2026,BOS,Ron Harper Jr.,SF
+02/04/2026,BOS,Luka Garza,C
 02/04/2026,BOS,Neemias Queta,C
 02/04/2026,HOU,Amen Thompson,SG
 02/04/2026,HOU,Tari Eason,SF
@@ -7576,7 +7576,7 @@ Date,Team,Player,Pos
 02/04/2026,NOP,Derik Queen,C
 02/04/2026,MIL,AJ Green,SG
 02/04/2026,MIL,Ryan Rollins,SG
-02/04/2026,MIL,Pete Nance,PF
+02/04/2026,MIL,Amir Coffey,PF
 02/04/2026,MIL,Kyle Kuzma,PF
 02/04/2026,MIL,Myles Turner,C
 02/04/2026,OKC,Cason Wallace,PG
@@ -7599,8 +7599,8 @@ Date,Team,Player,Pos
 02/04/2026,SAC,DeMar DeRozan,SF
 02/04/2026,SAC,Precious Achiuwa,PF
 02/04/2026,SAC,Domantas Sabonis,C
-02/04/2026,CLE,Sam Merrill,SG
 02/04/2026,CLE,Donovan Mitchell,SG
+02/04/2026,CLE,Sam Merrill,SG
 02/04/2026,CLE,Jaylon Tyson,SF
 02/04/2026,CLE,Dean Wade,PF
 02/04/2026,CLE,Jarrett Allen,C
@@ -7629,24 +7629,24 @@ Date,Team,Player,Pos
 02/05/2026,TOR,Scottie Barnes,SF
 02/05/2026,TOR,Brandon Ingram,SF
 02/05/2026,TOR,Collin Murray-Boyles,PF
-02/05/2026,BOS,Payton Pritchard,PG
 02/05/2026,BOS,Derrick White,SG
 02/05/2026,BOS,Baylor Scheierman,SG
-02/05/2026,BOS,Jordan Walsh,SF
+02/05/2026,BOS,Ron Harper Jr.,SF
+02/05/2026,BOS,Luka Garza,C
 02/05/2026,BOS,Neemias Queta,C
 02/05/2026,HOU,Amen Thompson,SG
 02/05/2026,HOU,Tari Eason,SF
-02/05/2026,HOU,Kevin Durant,PF
 02/05/2026,HOU,Jabari Smith Jr.,PF
+02/05/2026,HOU,Kevin Durant,PF
 02/05/2026,HOU,Alperen Sengun,C
-02/05/2026,NOP,Trey Murphy III,SF
 02/05/2026,NOP,Herbert Jones,SF
-02/05/2026,NOP,Saddiq Bey,PF
+02/05/2026,NOP,Trey Murphy III,SF
 02/05/2026,NOP,Zion Williamson,PF
+02/05/2026,NOP,Saddiq Bey,PF
 02/05/2026,NOP,Derik Queen,C
 02/05/2026,MIL,AJ Green,SG
 02/05/2026,MIL,Ryan Rollins,SG
-02/05/2026,MIL,Pete Nance,PF
+02/05/2026,MIL,Amir Coffey,PF
 02/05/2026,MIL,Kyle Kuzma,PF
 02/05/2026,MIL,Myles Turner,C
 02/05/2026,OKC,Cason Wallace,PG
@@ -7662,15 +7662,15 @@ Date,Team,Player,Pos
 02/05/2026,MEM,Cam Spencer,SG
 02/05/2026,MEM,Cedric Coward,SG
 02/05/2026,MEM,Jaylen Wells,SF
-02/05/2026,MEM,GG Jackson II,PF
 02/05/2026,MEM,Jaren Jackson Jr.,PF
+02/05/2026,MEM,GG Jackson II,PF
 02/05/2026,SAC,Russell Westbrook,PG
 02/05/2026,SAC,Zach LaVine,SG
 02/05/2026,SAC,DeMar DeRozan,SF
 02/05/2026,SAC,Precious Achiuwa,PF
 02/05/2026,SAC,Domantas Sabonis,C
-02/05/2026,CLE,Donovan Mitchell,SG
 02/05/2026,CLE,Sam Merrill,SG
+02/05/2026,CLE,Donovan Mitchell,SG
 02/05/2026,CLE,Jaylon Tyson,SF
 02/05/2026,CLE,Dean Wade,PF
 02/05/2026,CLE,Jarrett Allen,C
