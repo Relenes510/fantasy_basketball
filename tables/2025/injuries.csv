@@ -6716,32 +6716,29 @@ Date,Team,Player,Status,Reason
 02/05/2026,WAS,Khris Middleton,Out,Not With Team
 02/05/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 02/05/2026,WAS,Trae Young,Out,Injury/Illness - Right Knee; MCL Sprain; Quad Contusion
-02/05/2026,DET,Cade Cunningham,Questionable,Injury/Illness - Right Wrist; Injury Management
-02/05/2026,DET,Tobias Harris,Questionable,Injury/Illness - Left Hip; Soreness
+02/05/2026,DET,Tobias Harris,Out,Injury/Illness - Left Hip; Soreness
 02/05/2026,DET,Daniss Jenkins,Out,G League - Two-Way
 02/05/2026,DET,Dario Saric,Out,Not With Team
 02/05/2026,DET,Tolu Smith,Out,G League - Two-Way
 02/05/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Sprain
-02/05/2026,CHI,Ousmane Dieng,Questionable,Trade Pending
+02/05/2026,CHI,Ousmane Dieng,Out,Not With Team
 02/05/2026,CHI,Ayo Dosunmu,Out,Not With Team
 02/05/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
 02/05/2026,CHI,Josh Giddey,Out,Injury/Illness - Left Hamstring; Strain
-02/05/2026,CHI,Jaden Ivey,Probable,Trade Pending
 02/05/2026,CHI,Tre Jones,Out,Injury/Illness - Left Hamstring; Strain
 02/05/2026,CHI,Julian Phillips,Out,Not With Team
-02/05/2026,CHI,Collin Sexton,Questionable,Trade Pending
-02/05/2026,CHI,Dalen Terry,Out,Not With Team
-02/05/2026,CHI,Nikola Vucevic,Out,Not With Team
+02/05/2026,CHI,Collin Sexton,Out,Trade Pending
 02/05/2026,TOR,RJ Barrett,Out,Injury/Illness - Right Knee; Sprain - injury management
 02/05/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
 02/05/2026,TOR,Chris Paul,Out,Not With Team
 02/05/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Back; Lower; strain
 02/05/2026,UTA,Lonzo Ball,Out,Trade Pending
+02/05/2026,UTA,Chris Boucher,Out,Trade Pending
 02/05/2026,UTA,Keyonte George,Out,Injury/Illness - Left Ankle; Sprain
 02/05/2026,UTA,Jaren Jackson Jr.,Out,Trade Pending
 02/05/2026,UTA,Walker Kessler,Out,Injury/Illness - Left Shoulder; Injury Recovery
 02/05/2026,UTA,John Konchar,Out,Trade Pending
-02/05/2026,UTA,Kevin Love,Questionable,Injury/Illness - N/A; Illness
+02/05/2026,UTA,Kevin Love,Out,Injury/Illness - N/A; Illness
 02/05/2026,UTA,Vince Williams Jr.,Out,Trade Pending
 02/05/2026,ATL,N'Faly Dante,Out,Injury/Illness - Right Knee; Torn ACL
 02/05/2026,ATL,RayJ Dennis,Out,G League - Two-Way
@@ -6756,7 +6753,7 @@ Date,Team,Player,Status,Reason
 02/05/2026,CHO,Tyus Jones,Out,Not With Team
 02/05/2026,CHO,Liam McNeeley,Out,G League - On Assignment
 02/05/2026,CHO,Antonio Reeves,Out,G League - Two-Way
-02/05/2026,CHO,Tidjane Salaun,Questionable,Injury/Illness - N/A; Illness
+02/05/2026,CHO,Tidjane Salaun,Out,Injury/Illness - N/A; Illness
 02/05/2026,CHO,KJ Simpson,Out,Injury/Illness - Left Hip Flexor; Strain
 02/05/2026,CHO,Coby White,Out,Injury/Illness - Left Calf; Strain
 02/05/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
@@ -6794,6 +6791,7 @@ Date,Team,Player,Status,Reason
 02/05/2026,PHO,Jalen Green,Out,Injury/Illness - Right Hamstring; Injury Management; Left Hip Contusion
 02/05/2026,PHO,Nigel Hayes-Davis,Out,Not With Team
 02/05/2026,PHO,Nick Richards,Out,Not With Team
+02/05/2026,PHI,Patrick Baldwin Jr.,Doubtful,Not With Team
 02/05/2026,PHI,Joel Embiid,Questionable,Injury/Illness - Right Knee; Injury Management
 02/05/2026,PHI,Paul George,Out,League Suspension
 02/05/2026,PHI,Eric Gordon,Out,Not With Team
