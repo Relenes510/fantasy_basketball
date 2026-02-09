@@ -6975,7 +6975,6 @@ Date,Team,Player,Status,Reason
 02/08/2026,BOS,Sam Hauser,Out,Injury/Illness - Low Back; Spasms
 02/08/2026,BOS,Max Shulga,Out,G League - Two-Way
 02/08/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
-02/09/2026,DET,Jalen Duren,Probable,Injury/Illness - Right Knee; Soreness
 02/09/2026,DET,Ronald Holland II,Out,Personal Reasons
 02/09/2026,DET,Bobi Klintman,Out,G League - On Assignment
 02/09/2026,DET,Chaz Lanier,Out,G League - On Assignment
@@ -6989,11 +6988,11 @@ Date,Team,Player,Status,Reason
 02/09/2026,CHO,Coby White,Out,Injury/Illness - Left Calf; Strain
 02/09/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Sprain
 02/09/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
-02/09/2026,CHI,Josh Giddey,Doubtful,Injury/Illness - Left Hamstring; Strain
-02/09/2026,CHI,Tre Jones,Doubtful,Injury/Illness - Left Hamstring; Strain
+02/09/2026,CHI,Josh Giddey,Out,Injury/Illness - Left Hamstring; Strain
+02/09/2026,CHI,Tre Jones,Out,Injury/Illness - Left Hamstring; Strain
 02/09/2026,CHI,Yuki Kawamura,Out,G League - Two-Way
 02/09/2026,CHI,Mac McClung,Out,G League - Two-Way
-02/09/2026,CHI,Jalen Smith,Questionable,Injury/Illness - Right Calf; Strain
+02/09/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
 02/09/2026,BRK,Egor Demin,Out,Rest
 02/09/2026,BRK,Tyson Etienne,Out,G League - Two-Way
 02/09/2026,BRK,Chaney Johnson,Out,G League - Two-Way
@@ -7002,23 +7001,21 @@ Date,Team,Player,Status,Reason
 02/09/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
 02/09/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
 02/09/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
-02/09/2026,ORL,Wendell Carter Jr.,Questionable,Injury/Illness - Left Ankle; Soreness
 02/09/2026,ORL,Colin Castleton,Out,G League - Two-Way
 02/09/2026,UTA,Keyonte George,Out,Injury/Illness - Right Ankle; Sprain
 02/09/2026,UTA,Walker Kessler,Out,Injury/Illness - Left Shoulder; Injury Recovery
 02/09/2026,UTA,Kevin Love,Out,Rest
-02/09/2026,MIA,Bam Adebayo,Probable,Injury/Illness - Right Hip; Tightness
 02/09/2026,MIA,Vladislav Goldin,Out,G League - Two-Way
 02/09/2026,MIA,Tyler Herro,Out,Injury/Illness - Right Costochondral; Injury the the Ribs
 02/09/2026,MIA,Keshad Johnson,Out,G League - On Assignment
-02/09/2026,MIA,Pelle Larsson,Doubtful,Injury/Illness - Right Forearm; Strain
-02/09/2026,MIA,Norman Powell,Questionable,Injury/Illness - Low Back; Back Tightness
+02/09/2026,MIA,Pelle Larsson,Out,Injury/Illness - Right Forearm; Strain
+02/09/2026,MIA,Norman Powell,Out,Injury/Illness - Low Back; Back Tightness
 02/09/2026,MIA,Terry Rozier,Out,Not With Team
-02/09/2026,ATL,Dyson Daniels,Questionable,Injury/Illness - Right Ankle; Inflammation
+02/09/2026,ATL,Dyson Daniels,Out,Injury/Illness - Right Ankle; Inflammation
 02/09/2026,ATL,RayJ Dennis,Out,G League - Two-Way
 02/09/2026,ATL,Nikola Djurisic,Out,G League - On Assignment
 02/09/2026,ATL,Caleb Houstan,Out,G League - Two-Way
-02/09/2026,ATL,Jalen Johnson,Questionable,Injury/Illness - Left Knee; Inflammation
+02/09/2026,ATL,Jalen Johnson,Out,Injury/Illness - Left Knee; Inflammation
 02/09/2026,ATL,Jonathan Kuminga,Out,Injury/Illness - Left Knee; Bone Bruise
 02/09/2026,MIN,Johnny Juzang,Out,G League - Two-Way
 02/09/2026,MIN,Terrence Shannon Jr.,Out,G League - On Assignment
