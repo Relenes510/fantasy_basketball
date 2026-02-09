@@ -19,8 +19,8 @@ ATL,Jonathan Kuminga,PF
 ATL,Gabe Vincent,PG
 BOS,Payton Pritchard,PG
 BOS,Derrick White,SG
-BOS,Sam Hauser,PF
 BOS,Neemias Queta,C
+BOS,Sam Hauser,PF
 BOS,Jaylen Brown,SF
 BOS,Hugo Gonzalez,SF
 BOS,Baylor Scheierman,SG
@@ -261,8 +261,8 @@ MIA,Kel'el Ware,C
 MIA,Andrew Wiggins,SF
 MIA,Jaime Jaquez Jr.,SF
 MIA,Bam Adebayo,C
-MIA,Pelle Larsson,SG
 MIA,Norman Powell,SG
+MIA,Pelle Larsson,SG
 MIA,Davion Mitchell,PG
 MIA,Nikola Jovic,PF
 MIA,Kasparas Jakucionis,PG
@@ -301,10 +301,10 @@ MIN,Joan Beringer,PF
 MIN,Terrence Shannon Jr.,SG
 MIN,Johnny Juzang,SG
 MIN,Joe Ingles,SF
-MIN,Julian Phillips,SF
 MIN,Ayo Dosunmu,SG
-MIN,Rocco Zikarsky,C
+MIN,Julian Phillips,SF
 MIN,Enrique Freeman,PF
+MIN,Rocco Zikarsky,C
 NOP,Jeremiah Fears,PG
 NOP,Derik Queen,C
 NOP,Trey Murphy III,SF
@@ -472,8 +472,8 @@ TOR,Jamison Battle,SF
 TOR,RJ Barrett,SF
 TOR,Jonathan Mogbo,PF
 TOR,Jakob Poeltl,C
-TOR,Garrett Temple,SG
 TOR,A.J. Lawson,SG
+TOR,Garrett Temple,SG
 TOR,Alijah Martin,SG
 TOR,Chucky Hepburn,PG
 TOR,Trayce Jackson-Davis,C

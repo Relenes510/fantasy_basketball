@@ -784,10 +784,10 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-07,9:00p,Philadelphia 76ers,PHI,109.0,Phoenix Suns,PHO,103.0,0,Mortgage Matchup Center,0,0,0,0,1
 2026-02-07,10:00p,Memphis Grizzlies,MEM,115.0,Portland Trail Blazers,POR,122.0,0,Moda Center,1,1,0,0,1
 2026-02-07,10:00p,Cleveland Cavaliers,CLE,132.0,Sacramento Kings,SAC,126.0,0,Golden 1 Center,0,1,0,0,1
-2026-02-08,12:30p,New York Knicks,NYK,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-02-08,2:00p,Miami Heat,MIA,,Washington Wizards,WAS,,0,Capital One Arena,0,1,0,0,0
-2026-02-08,3:00p,Los Angeles Clippers,LAC,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
-2026-02-08,3:00p,Indiana Pacers,IND,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
+2026-02-08,12:30p,New York Knicks,NYK,111.0,Boston Celtics,BOS,89.0,0,TD Garden,0,0,0,0,1
+2026-02-08,2:00p,Miami Heat,MIA,132.0,Washington Wizards,WAS,101.0,0,Capital One Arena,0,1,0,0,1
+2026-02-08,3:00p,Los Angeles Clippers,LAC,115.0,Minnesota Timberwolves,MIN,96.0,0,Target Center,0,0,0,0,1
+2026-02-08,3:00p,Indiana Pacers,IND,104.0,Toronto Raptors,TOR,122.0,0,Scotiabank Arena,0,0,0,0,1
 2026-02-09,7:00p,Detroit Pistons,DET,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2026-02-09,7:30p,Chicago Bulls,CHI,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
 2026-02-09,7:30p,Utah Jazz,UTA,,Miami Heat,MIA,,0,Kaseya Center,0,1,0,0,0
