@@ -7899,6 +7899,16 @@ Date,Team,Player,Pos
 02/09/2026,CHO,Miles Bridges,SF
 02/09/2026,CHO,Brandon Miller,SF
 02/09/2026,CHO,Moussa Diabate,PF
+02/09/2026,CHI,Anfernee Simons,SG
+02/09/2026,CHI,Jaden Ivey,SG
+02/09/2026,CHI,Coby White,SG
+02/09/2026,CHI,Matas Buzelis,SF
+02/09/2026,CHI,Isaac Okoro,SF
+02/09/2026,BRK,Terance Mann,PG
+02/09/2026,BRK,Nolan Traore,PG
+02/09/2026,BRK,Noah Clowney,PF
+02/09/2026,BRK,Nicolas Claxton,C
+02/09/2026,BRK,Danny Wolf,C
 02/09/2026,UTA,Isaiah Collier,PG
 02/09/2026,UTA,Ace Bailey,SF
 02/09/2026,UTA,Lauri Markkanen,PF
@@ -7919,26 +7929,6 @@ Date,Team,Player,Pos
 02/09/2026,ORL,Jalen Suggs,SG
 02/09/2026,ORL,Paolo Banchero,PF
 02/09/2026,ORL,Wendell Carter Jr.,C
-02/09/2026,CHI,Anfernee Simons,SG
-02/09/2026,CHI,Jaden Ivey,SG
-02/09/2026,CHI,Coby White,SG
-02/09/2026,CHI,Matas Buzelis,SF
-02/09/2026,CHI,Isaac Okoro,SF
-02/09/2026,BRK,Terance Mann,PG
-02/09/2026,BRK,Nolan Traore,PG
-02/09/2026,BRK,Noah Clowney,PF
-02/09/2026,BRK,Nicolas Claxton,C
-02/09/2026,BRK,Danny Wolf,C
-02/09/2026,SAC,Russell Westbrook,PG
-02/09/2026,SAC,Nique Clifford,SF
-02/09/2026,SAC,DeMar DeRozan,SF
-02/09/2026,SAC,Precious Achiuwa,PF
-02/09/2026,SAC,Maxime Raynaud,C
-02/09/2026,NOP,Trey Murphy III,SF
-02/09/2026,NOP,Herbert Jones,SF
-02/09/2026,NOP,Zion Williamson,PF
-02/09/2026,NOP,Saddiq Bey,PF
-02/09/2026,NOP,Derik Queen,C
 02/09/2026,ATL,CJ McCollum,PG
 02/09/2026,ATL,Nickeil Alexander-Walker,SG
 02/09/2026,ATL,Zaccharie Risacher,SF
@@ -7949,6 +7939,16 @@ Date,Team,Player,Pos
 02/09/2026,MIN,Julius Randle,PF
 02/09/2026,MIN,Jaden McDaniels,PF
 02/09/2026,MIN,Rudy Gobert,C
+02/09/2026,SAC,Russell Westbrook,PG
+02/09/2026,SAC,Nique Clifford,SF
+02/09/2026,SAC,DeMar DeRozan,SF
+02/09/2026,SAC,Precious Achiuwa,PF
+02/09/2026,SAC,Maxime Raynaud,C
+02/09/2026,NOP,Trey Murphy III,SF
+02/09/2026,NOP,Herbert Jones,SF
+02/09/2026,NOP,Zion Williamson,PF
+02/09/2026,NOP,Saddiq Bey,PF
+02/09/2026,NOP,Derik Queen,C
 02/09/2026,CLE,Sam Merrill,SG
 02/09/2026,CLE,James Harden,SG
 02/09/2026,CLE,Donovan Mitchell,SG
@@ -7974,8 +7974,8 @@ Date,Team,Player,Pos
 02/09/2026,MEM,Kyle Anderson,SF
 02/09/2026,MEM,Jaylen Wells,SF
 02/09/2026,MEM,Jaren Jackson Jr.,PF
-02/09/2026,GSW,Pat Spencer,SG
 02/09/2026,GSW,De'Anthony Melton,SG
+02/09/2026,GSW,Pat Spencer,SG
 02/09/2026,GSW,Moses Moody,SG
 02/09/2026,GSW,Gui Santos,SF
 02/09/2026,GSW,Draymond Green,PF
