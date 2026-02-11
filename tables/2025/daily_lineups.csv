@@ -7996,8 +7996,8 @@ Date,Team,Player,Pos
 02/10/2026,IND,Micah Potter,PF
 02/10/2026,NYK,Jalen Brunson,PG
 02/10/2026,NYK,Landry Shamet,SG
-02/10/2026,NYK,Mikal Bridges,SF
 02/10/2026,NYK,Josh Hart,SF
+02/10/2026,NYK,Mikal Bridges,SF
 02/10/2026,NYK,Karl-Anthony Towns,PF
 02/10/2026,LAC,Kris Dunn,PG
 02/10/2026,LAC,Derrick Jones Jr.,SF
@@ -8030,8 +8030,8 @@ Date,Team,Player,Pos
 02/10/2026,LAL,Rui Hachimura,PF
 02/10/2026,LAL,Jaxson Hayes,C
 02/11/2026,WAS,Bub Carrington,PG
-02/11/2026,WAS,Justin Champagnie,SG
 02/11/2026,WAS,Bilal Coulibaly,SG
+02/11/2026,WAS,Justin Champagnie,SG
 02/11/2026,WAS,Khris Middleton,SF
 02/11/2026,WAS,Kyshawn George,SF
 02/11/2026,CLE,Donovan Mitchell,SG
@@ -8069,11 +8069,11 @@ Date,Team,Player,Pos
 02/11/2026,TOR,Brandon Ingram,SF
 02/11/2026,TOR,Scottie Barnes,SF
 02/11/2026,TOR,Sandro Mamukelashvili,PF
-02/11/2026,IND,Andrew Nembhard,PG
+02/11/2026,IND,Kam Jones,PG
+02/11/2026,IND,Taelon Peter,SG
 02/11/2026,IND,Ben Sheppard,SF
-02/11/2026,IND,Pascal Siakam,PF
-02/11/2026,IND,Aaron Nesmith,PF
-02/11/2026,IND,Ivica Zubac,C
+02/11/2026,IND,Jarace Walker,PF
+02/11/2026,IND,Jay Huff,C
 02/11/2026,BRK,Nolan Traore,PG
 02/11/2026,BRK,Egor Demin,PG
 02/11/2026,BRK,Drake Powell,SG
@@ -8099,16 +8099,6 @@ Date,Team,Player,Pos
 02/11/2026,BOS,Jaylen Brown,SG
 02/11/2026,BOS,Sam Hauser,SF
 02/11/2026,BOS,Nikola Vucevic,C
-02/11/2026,MIA,Davion Mitchell,PG
-02/11/2026,MIA,Myron Gardner,SF
-02/11/2026,MIA,Jaime Jaquez Jr.,SF
-02/11/2026,MIA,Andrew Wiggins,SF
-02/11/2026,MIA,Bam Adebayo,C
-02/11/2026,NOP,Trey Murphy III,SF
-02/11/2026,NOP,Herbert Jones,SF
-02/11/2026,NOP,Zion Williamson,PF
-02/11/2026,NOP,Saddiq Bey,PF
-02/11/2026,NOP,Derik Queen,C
 02/11/2026,POR,Jrue Holiday,PG
 02/11/2026,POR,Toumani Camara,SF
 02/11/2026,POR,Deni Avdija,SF
@@ -8119,6 +8109,16 @@ Date,Team,Player,Pos
 02/11/2026,MIN,Julius Randle,PF
 02/11/2026,MIN,Jaden McDaniels,PF
 02/11/2026,MIN,Rudy Gobert,C
+02/11/2026,MIA,Davion Mitchell,PG
+02/11/2026,MIA,Myron Gardner,SF
+02/11/2026,MIA,Jaime Jaquez Jr.,SF
+02/11/2026,MIA,Andrew Wiggins,SF
+02/11/2026,MIA,Bam Adebayo,C
+02/11/2026,NOP,Trey Murphy III,SF
+02/11/2026,NOP,Herbert Jones,SF
+02/11/2026,NOP,Zion Williamson,PF
+02/11/2026,NOP,Saddiq Bey,PF
+02/11/2026,NOP,Derik Queen,C
 02/11/2026,LAC,Kris Dunn,PG
 02/11/2026,LAC,James Harden,SG
 02/11/2026,LAC,Cam Christie,SG
@@ -8129,26 +8129,6 @@ Date,Team,Player,Pos
 02/11/2026,HOU,Jabari Smith Jr.,PF
 02/11/2026,HOU,Kevin Durant,PF
 02/11/2026,HOU,Alperen Sengun,C
-02/11/2026,SAC,Devin Carter,PG
-02/11/2026,SAC,DeMar DeRozan,SF
-02/11/2026,SAC,Nique Clifford,SF
-02/11/2026,SAC,Precious Achiuwa,PF
-02/11/2026,SAC,Maxime Raynaud,C
-02/11/2026,UTA,Isaiah Collier,PG
-02/11/2026,UTA,Cody Williams,SF
-02/11/2026,UTA,Ace Bailey,SF
-02/11/2026,UTA,Jaren Jackson Jr.,PF
-02/11/2026,UTA,Jusuf Nurkic,C
-02/11/2026,OKC,Cason Wallace,PG
-02/11/2026,OKC,Jalen Williams,SF
-02/11/2026,OKC,Luguentz Dort,SF
-02/11/2026,OKC,Isaiah Hartenstein,C
-02/11/2026,OKC,Chet Holmgren,C
-02/11/2026,PHO,Devin Booker,SG
-02/11/2026,PHO,Jalen Green,SG
-02/11/2026,PHO,Dillon Brooks,SF
-02/11/2026,PHO,Royce O'Neale,PF
-02/11/2026,PHO,Mark Williams,C
 02/11/2026,MEM,Ty Jerome,PG
 02/11/2026,MEM,Cam Spencer,SG
 02/11/2026,MEM,Kyle Anderson,SF
@@ -8159,6 +8139,26 @@ Date,Team,Player,Pos
 02/11/2026,DEN,Spencer Jones,PF
 02/11/2026,DEN,Cameron Johnson,PF
 02/11/2026,DEN,Nikola Jokic,C
+02/11/2026,OKC,Cason Wallace,PG
+02/11/2026,OKC,Luguentz Dort,SF
+02/11/2026,OKC,Jalen Williams,SF
+02/11/2026,OKC,Chet Holmgren,C
+02/11/2026,OKC,Isaiah Hartenstein,C
+02/11/2026,PHO,Devin Booker,SG
+02/11/2026,PHO,Jalen Green,SG
+02/11/2026,PHO,Dillon Brooks,SF
+02/11/2026,PHO,Royce O'Neale,PF
+02/11/2026,PHO,Mark Williams,C
+02/11/2026,SAC,Devin Carter,PG
+02/11/2026,SAC,DeMar DeRozan,SF
+02/11/2026,SAC,Nique Clifford,SF
+02/11/2026,SAC,Precious Achiuwa,PF
+02/11/2026,SAC,Maxime Raynaud,C
+02/11/2026,UTA,Isaiah Collier,PG
+02/11/2026,UTA,Cody Williams,SF
+02/11/2026,UTA,Ace Bailey,SF
+02/11/2026,UTA,Jaren Jackson Jr.,PF
+02/11/2026,UTA,Jusuf Nurkic,C
 02/11/2026,SAS,De'Aaron Fox,PG
 02/11/2026,SAS,Devin Vassell,SG
 02/11/2026,SAS,Stephon Castle,SG

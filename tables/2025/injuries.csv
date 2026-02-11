@@ -7095,13 +7095,10 @@ Date,Team,Player,Status,Reason
 02/10/2026,LAL,LeBron James,Out,Injury/Illness - Left Foot; Arthritis
 02/10/2026,LAL,Austin Reaves,Out,Injury/Illness - Left Calf; Injury Management
 02/10/2026,LAL,Marcus Smart,Out,Injury/Illness - Right Ankle; Soreness
-02/11/2026,ATL,Dyson Daniels,Questionable,Injury/Illness - Right Ankle; Inflammation
 02/11/2026,ATL,RayJ Dennis,Out,G League - Two-Way
-02/11/2026,ATL,Nikola Djurisic,Out,G League - On Assignment
+02/11/2026,ATL,Nikola Djurisic,Out,Coach's Decision
 02/11/2026,ATL,Caleb Houstan,Out,G League - Two-Way
-02/11/2026,ATL,Jalen Johnson,Questionable,Injury/Illness - Left Knee; Inflammation
 02/11/2026,ATL,Jonathan Kuminga,Out,Injury/Illness - Left Knee; Bone Bruise
-02/11/2026,ATL,Zaccharie Risacher,Questionable,Injury/Illness - Left Quad; Contusion
 02/11/2026,CHO,Miles Bridges,Out,League Suspension
 02/11/2026,CHO,Moussa Diabate,Out,League Suspension
 02/11/2026,CHO,Tosan Evbuomwan,Out,G League - Two-Way
@@ -7110,14 +7107,14 @@ Date,Team,Player,Status,Reason
 02/11/2026,CHO,Coby White,Out,Injury/Illness - Left Calf; Strain
 02/11/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
 02/11/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
-02/11/2026,MIL,Pete Nance,Questionable,Injury/Illness - Left Ankle; Sprain
 02/11/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
-02/11/2026,MIL,Ryan Rollins,Questionable,Injury/Illness - Right Foot; Plantar Fasciitis
+02/11/2026,MIL,Ryan Rollins,Out,Injury/Illness - Right Foot; Plantar Fasciitis
 02/11/2026,ORL,Colin Castleton,Out,G League - Two-Way
 02/11/2026,ORL,Jett Howard,Out,Injury/Illness - Left Ankle; Sprain
 02/11/2026,WAS,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 02/11/2026,WAS,D'Angelo Russell,Out,Not With Team
-02/11/2026,WAS,Tristan Vukcevic,Questionable,Injury/Illness - N/a; Illness
+02/11/2026,WAS,Alex Sarr,Questionable,Injury/Illness - Right Hamstring; Tightness
+02/11/2026,WAS,Tristan Vukcevic,Out,Injury/Illness - N/a; Illness
 02/11/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 02/11/2026,WAS,Trae Young,Out,Injury/Illness - Right Knee; MCL Sprain; Quad Contusion
 02/11/2026,CLE,Emanuel Miller,Out,G League - Two-Way
@@ -7126,12 +7123,12 @@ Date,Team,Player,Status,Reason
 02/11/2026,CLE,Dean Wade,Out,Injury/Illness - Left Ankle; Sprain
 02/11/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Sprain
 02/11/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Sprain
-02/11/2026,CHI,Josh Giddey,Doubtful,Injury/Illness - Left Hamstring; Strain
-02/11/2026,CHI,Tre Jones,Doubtful,Injury/Illness - Left Hamstring; Strain
+02/11/2026,CHI,Josh Giddey,Out,Injury/Illness - Left Hamstring; Strain
+02/11/2026,CHI,Tre Jones,Out,Injury/Illness - Left Hamstring; Strain
 02/11/2026,CHI,Yuki Kawamura,Out,G League - Two-Way
 02/11/2026,CHI,Mac McClung,Out,G League - Two-Way
-02/11/2026,CHI,Isaac Okoro,Questionable,Injury/Illness - Left Knee; Soreness
-02/11/2026,CHI,Jalen Smith,Doubtful,Injury/Illness - Right Calf; Strain
+02/11/2026,CHI,Isaac Okoro,Out,Injury/Illness - Left Knee; Soreness
+02/11/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
 02/11/2026,BOS,Max Shulga,Out,G League - Two-Way
 02/11/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
 02/11/2026,BOS,John Tonje,Out,G League - Two-Way
@@ -7146,16 +7143,36 @@ Date,Team,Player,Status,Reason
 02/11/2026,TOR,Collin Murray-Boyles,Out,Injury/Illness - Left Thumb; Sprain - injury management
 02/11/2026,TOR,Chris Paul,Out,Not With Team
 02/11/2026,TOR,Jakob Poeltl,Questionable,Return to Competition Reconditioning
-02/11/2026,BRK,Nic Claxton,Doubtful,Injury/Illness - Right Hip; Soreness
-02/11/2026,BRK,Noah Clowney,Probable,Injury/Illness - Left Ankle; Sprain
+02/11/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
+02/11/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
+02/11/2026,IND,Quenton Jackson,Probable,G League - Two-Way
+02/11/2026,IND,T.J. McConnell,Out,Injury/Illness - Right Hamstring; Soreness
+02/11/2026,IND,Andrew Nembhard,Out,Injury/Illness - Low Back; Injury Management
+02/11/2026,IND,Aaron Nesmith,Out,Injury/Illness - Low Back; Soreness
+02/11/2026,IND,Taelon Peter,Probable,G League - Two-Way
+02/11/2026,IND,Micah Potter,Questionable,Injury/Illness - Left Ankle; Sprain
+02/11/2026,IND,Pascal Siakam,Out,Injury/Illness - Left Hamstring; Soreness
+02/11/2026,IND,Ethan Thompson,Probable,G League - Two-Way
+02/11/2026,IND,Obi Toppin,Out,Injury/Illness - Right Foot; Stress Fracture
+02/11/2026,IND,Jarace Walker,Questionable,Injury/Illness - N/A; Illness
+02/11/2026,IND,Ivica Zubac,Out,Injury/Illness - Left Ankle; Sprain
+02/11/2026,BRK,Nic Claxton,Out,Injury/Illness - Right Hip; Soreness
 02/11/2026,BRK,Tyson Etienne,Out,G League - Two-Way
 02/11/2026,BRK,Chaney Johnson,Out,G League - Two-Way
 02/11/2026,BRK,E.J. Liddell,Out,G League - Two-Way
 02/11/2026,BRK,Michael Porter Jr.,Out,Injury/Illness - Right Knee; Tendinitis
+02/11/2026,NYK,OG Anunoby,Out,Injury/Illness - Right Toe; Toenail Avulsion
+02/11/2026,NYK,Pacome Dadiet,Out,G League - On Assignment
+02/11/2026,NYK,Miles McBride,Out,Injury/Illness - Pelvic; Core Muscle Surgery
 02/11/2026,PHI,Dominick Barlow,Questionable,Injury/Illness - N/a; Illness
-02/11/2026,PHI,Joel Embiid,Questionable,Injury/Illness - Right Knee; Injury Management
+02/11/2026,PHI,Joel Embiid,Out,Injury/Illness - Right Knee; Injury Management
 02/11/2026,PHI,Paul George,Out,League Suspension
-02/11/2026,PHI,Quentin Grimes,Questionable,Injury/Illness - N/a; Illness
+02/11/2026,PHI,Quentin Grimes,Out,Injury/Illness - N/a; Illness
+02/11/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
+02/11/2026,HOU,Tari Eason,Questionable,Injury/Illness - Left Lower Leg; Injury Management
+02/11/2026,HOU,Dorian Finney-Smith,Out,Injury/Illness - Left Ankle; Injury Management
+02/11/2026,HOU,Alperen Sengun,Probable,Injury/Illness - Left Lower Leg; Contusion
+02/11/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
 02/11/2026,MIA,Tyler Herro,Out,Injury/Illness - Right Costochondral; Injury to the Ribs
 02/11/2026,MIA,Pelle Larsson,Out,Injury/Illness - Right Forearm; Strain
 02/11/2026,MIA,Norman Powell,Out,Injury/Illness - Low Back; Tightness
@@ -7164,7 +7181,7 @@ Date,Team,Player,Status,Reason
 02/11/2026,NOP,Trey Alexander,Out,G League - Two-Way
 02/11/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
 02/11/2026,NOP,Dejounte Murray,Out,Injury/Illness - Right Achilles; Rupture
-02/11/2026,NOP,Micah Peavy,Questionable,Injury/Illness - Right Great Toe; Sprain
+02/11/2026,NOP,Micah Peavy,Out,Injury/Illness - Right Great Toe; Sprain
 02/11/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
 02/11/2026,POR,Kris Murray,Out,Injury/Illness - Lumbar; Strain
 02/11/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left Calf; Strain
@@ -7192,6 +7209,11 @@ Date,Team,Player,Status,Reason
 02/11/2026,OKC,Ajay Mitchell,Out,Injury/Illness - Abdominal; Strain
 02/11/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
 02/11/2026,OKC,Nikola Topic,Out,G League - On Assignment
+02/11/2026,PHO,Grayson Allen,Out,Injury/Illness - Right Knee; Sprain
+02/11/2026,PHO,Cole Anthony,Out,Not With Team
+02/11/2026,PHO,Devin Booker,Questionable,Injury/Illness - Right Ankle; Injury Management
+02/11/2026,PHO,Jalen Green,Questionable,Injury/Illness - Right Hamstring; Injury Management
+02/11/2026,PHO,Isaiah Livers,Out,Injury/Illness - Left Shoulder; Sprain
 02/11/2026,SAC,De'Andre Hunter,Out,Injury/Illness - Left Eye; Iritis
 02/11/2026,SAC,Zach LaVine,Out,Injury/Illness - Right 5th Finger; Tendon Injury
 02/11/2026,SAC,Malik Monk,Out,Injury/Illness - N/a; Illness
@@ -7200,6 +7222,12 @@ Date,Team,Player,Status,Reason
 02/11/2026,SAC,Russell Westbrook,Out,Injury/Illness - Left Ankle; Soreness
 02/11/2026,UTA,Keyonte George,Out,Injury/Illness - Right Ankle; Sprain
 02/11/2026,UTA,Walker Kessler,Out,Injury/Illness - Left Shoulder; Injury recovery
+02/11/2026,SAS,Stephon Castle,Questionable,Injury/Illness - Right Pelvic; Contusion
+02/11/2026,SAS,Harrison Ingram,Out,G League - Two-Way
+02/11/2026,SAS,David Jones Garcia,Out,G League - Two-Way
+02/11/2026,SAS,Jeremy Sochan,Out,Not With Team
+02/11/2026,SAS,Stanley Umude,Out,G League - Two-Way
+02/11/2026,SAS,Lindy Waters III,Out,Injury/Illness - Left Knee; Hyperextension
 02/11/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Tear
 02/11/2026,GSW,LJ Cryer,Out,Injury/Illness - Left Hamstring; Injury Management
 02/11/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
