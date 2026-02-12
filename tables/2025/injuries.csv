@@ -7172,7 +7172,7 @@ Date,Team,Player,Status,Reason
 02/11/2026,MIA,Andrew Wiggins,Out,Injury/Illness - Left Toe; Inflammation
 02/11/2026,NOP,Trey Alexander,Out,G League - Two-Way
 02/11/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
-02/11/2026,NOP,Yves Missi,Questionable,Injury/Illness - Left Calf; Soreness
+02/11/2026,NOP,Yves Missi,Out,Injury/Illness - Left Calf; Soreness
 02/11/2026,NOP,Dejounte Murray,Out,Injury/Illness - Right Achilles; Rupture
 02/11/2026,NOP,Micah Peavy,Out,Injury/Illness - Right Great Toe; Sprain
 02/11/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
@@ -7184,17 +7184,15 @@ Date,Team,Player,Status,Reason
 02/11/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
 02/11/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Injury Management
 02/11/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
-02/11/2026,MEM,Walter Clayton Jr.,Doubtful,Injury/Illness - Right Calf; Contusion
-02/11/2026,MEM,Cedric Coward,Doubtful,Injury/Illness - Right Knee; Soreness
+02/11/2026,MEM,Walter Clayton Jr.,Out,Injury/Illness - Right Calf; Contusion
+02/11/2026,MEM,Cedric Coward,Out,Injury/Illness - Right Knee; Soreness
 02/11/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Stress Reaction
 02/11/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
+02/11/2026,MEM,Javon Small,Out,G League - Two-Way
 02/11/2026,DEN,Tamar Bates,Out,Injury/Illness - Left Foot; Surgery
-02/11/2026,DEN,Christian Braun,Probable,Injury/Illness - Left Ankle; Sprain
 02/11/2026,DEN,Aaron Gordon,Out,Injury/Illness - Right Hamstring; Strain
-02/11/2026,DEN,Nikola Jokic,Probable,Injury/Illness - Left Ankle; Sprain
 02/11/2026,DEN,Curtis Jones,Out,G League - Two-Way
-02/11/2026,DEN,Spencer Jones,Questionable,Concussion Protocol
-02/11/2026,DEN,Jamal Murray,Probable,Injury/Illness - Left Hip; Inflammation
+02/11/2026,DEN,Spencer Jones,Out,Concussion Protocol
 02/11/2026,DEN,Peyton Watson,Out,Injury/Illness - Right Hamstring; Strain
 02/11/2026,OKC,Brooks Barnhizer,Out,G League - Two-Way
 02/11/2026,OKC,Shai Gilgeous-Alexander,Out,Injury/Illness - Abdominal; Strain
@@ -7224,6 +7222,5 @@ Date,Team,Player,Status,Reason
 02/11/2026,GSW,LJ Cryer,Out,Injury/Illness - Left Hamstring; Injury Management
 02/11/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
 02/11/2026,GSW,Stephen Curry,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
-02/11/2026,GSW,De'Anthony Melton,Questionable,Injury/Illness - Left Gluteal; Contusion
 02/11/2026,GSW,Kristaps Porzingis,Out,Injury/Illness - Left Achilles Tendon; Injury Management
-02/11/2026,GSW,Will Richard,Questionable,Injury/Illness - Right Knee; Contusion
+02/11/2026,GSW,Will Richard,Out,Injury/Illness - Right Knee; Contusion
