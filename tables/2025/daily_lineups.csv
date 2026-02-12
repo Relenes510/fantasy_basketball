@@ -8042,11 +8042,11 @@ Date,Team,Player,Pos
 02/11/2026,MIL,Kevin Porter Jr.,PG
 02/11/2026,MIL,AJ Green,SG
 02/11/2026,MIL,Kyle Kuzma,PF
-02/11/2026,MIL,Myles Turner,C
 02/11/2026,MIL,Jericho Sims,C
+02/11/2026,MIL,Myles Turner,C
 02/11/2026,ORL,Anthony Black,PG
-02/11/2026,ORL,Desmond Bane,SG
 02/11/2026,ORL,Jalen Suggs,SG
+02/11/2026,ORL,Desmond Bane,SG
 02/11/2026,ORL,Paolo Banchero,PF
 02/11/2026,ORL,Wendell Carter Jr.,C
 02/11/2026,ATL,Dyson Daniels,PG
@@ -8129,28 +8129,18 @@ Date,Team,Player,Pos
 02/11/2026,HOU,Jabari Smith Jr.,PF
 02/11/2026,HOU,Kevin Durant,PF
 02/11/2026,HOU,Alperen Sengun,C
-02/11/2026,OKC,Cason Wallace,PG
-02/11/2026,OKC,Jalen Williams,SF
-02/11/2026,OKC,Luguentz Dort,SF
-02/11/2026,OKC,Chet Holmgren,C
-02/11/2026,OKC,Isaiah Hartenstein,C
-02/11/2026,PHO,Collin Gillespie,PG
-02/11/2026,PHO,Ryan Dunn,SF
-02/11/2026,PHO,Dillon Brooks,SF
-02/11/2026,PHO,Royce O'Neale,PF
-02/11/2026,PHO,Mark Williams,C
 02/11/2026,SAC,Devin Carter,PG
 02/11/2026,SAC,DeMar DeRozan,SF
 02/11/2026,SAC,Nique Clifford,SF
 02/11/2026,SAC,Precious Achiuwa,PF
 02/11/2026,SAC,Maxime Raynaud,C
 02/11/2026,UTA,Isaiah Collier,PG
-02/11/2026,UTA,Cody Williams,SF
 02/11/2026,UTA,Ace Bailey,SF
+02/11/2026,UTA,Lauri Markkanen,PF
 02/11/2026,UTA,Jaren Jackson Jr.,PF
 02/11/2026,UTA,Jusuf Nurkic,C
 02/11/2026,MEM,Ty Jerome,PG
-02/11/2026,MEM,Cam Spencer,SG
+02/11/2026,MEM,Jahmai Mashack,SF
 02/11/2026,MEM,Kyle Anderson,SF
 02/11/2026,MEM,Jaylen Wells,SF
 02/11/2026,MEM,Jaren Jackson Jr.,PF
@@ -8159,6 +8149,16 @@ Date,Team,Player,Pos
 02/11/2026,DEN,Julian Strawther,SF
 02/11/2026,DEN,Cameron Johnson,PF
 02/11/2026,DEN,Nikola Jokic,C
+02/11/2026,OKC,Cason Wallace,PG
+02/11/2026,OKC,Luguentz Dort,SF
+02/11/2026,OKC,Jalen Williams,SF
+02/11/2026,OKC,Chet Holmgren,C
+02/11/2026,OKC,Isaiah Hartenstein,C
+02/11/2026,PHO,Collin Gillespie,PG
+02/11/2026,PHO,Jordan Goodwin,PG
+02/11/2026,PHO,Dillon Brooks,SF
+02/11/2026,PHO,Royce O'Neale,PF
+02/11/2026,PHO,Mark Williams,C
 02/11/2026,SAS,De'Aaron Fox,PG
 02/11/2026,SAS,Devin Vassell,SG
 02/11/2026,SAS,Stephon Castle,SG
@@ -8169,16 +8169,6 @@ Date,Team,Player,Pos
 02/11/2026,GSW,Moses Moody,SG
 02/11/2026,GSW,Draymond Green,PF
 02/11/2026,GSW,Al Horford,C
-02/12/2026,MIL,Kevin Porter Jr.,PG
-02/12/2026,MIL,AJ Green,SG
-02/12/2026,MIL,Kyle Kuzma,PF
-02/12/2026,MIL,Myles Turner,C
-02/12/2026,MIL,Jericho Sims,C
-02/12/2026,ORL,Anthony Black,PG
-02/12/2026,ORL,Desmond Bane,SG
-02/12/2026,ORL,Jalen Suggs,SG
-02/12/2026,ORL,Paolo Banchero,PF
-02/12/2026,ORL,Wendell Carter Jr.,C
 02/12/2026,WAS,Bub Carrington,PG
 02/12/2026,WAS,Tre Johnson,SG
 02/12/2026,WAS,Jamir Watkins,SG
@@ -8189,6 +8179,16 @@ Date,Team,Player,Pos
 02/12/2026,CLE,Sam Merrill,SG
 02/12/2026,CLE,Jaylon Tyson,SF
 02/12/2026,CLE,Jarrett Allen,C
+02/12/2026,MIL,Kevin Porter Jr.,PG
+02/12/2026,MIL,AJ Green,SG
+02/12/2026,MIL,Kyle Kuzma,PF
+02/12/2026,MIL,Myles Turner,C
+02/12/2026,MIL,Jericho Sims,C
+02/12/2026,ORL,Anthony Black,PG
+02/12/2026,ORL,Jalen Suggs,SG
+02/12/2026,ORL,Desmond Bane,SG
+02/12/2026,ORL,Paolo Banchero,PF
+02/12/2026,ORL,Wendell Carter Jr.,C
 02/12/2026,ATL,Dyson Daniels,PG
 02/12/2026,ATL,Nickeil Alexander-Walker,SG
 02/12/2026,ATL,Zaccharie Risacher,SF
@@ -8199,6 +8199,16 @@ Date,Team,Player,Pos
 02/12/2026,CHO,Brandon Miller,SF
 02/12/2026,CHO,Grant Williams,PF
 02/12/2026,CHO,Ryan Kalkbrenner,C
+02/12/2026,DET,Cade Cunningham,PG
+02/12/2026,DET,Duncan Robinson,SG
+02/12/2026,DET,Ausar Thompson,SG
+02/12/2026,DET,Tobias Harris,SF
+02/12/2026,DET,Paul Reed,PF
+02/12/2026,TOR,Immanuel Quickley,PG
+02/12/2026,TOR,RJ Barrett,SG
+02/12/2026,TOR,Brandon Ingram,SF
+02/12/2026,TOR,Scottie Barnes,SF
+02/12/2026,TOR,Jakob Poeltl,C
 02/12/2026,IND,Kam Jones,PG
 02/12/2026,IND,Ben Sheppard,SF
 02/12/2026,IND,Jarace Walker,PF
@@ -8219,16 +8229,6 @@ Date,Team,Player,Pos
 02/12/2026,PHI,Kelly Oubre Jr.,SF
 02/12/2026,PHI,Dominick Barlow,PF
 02/12/2026,PHI,Adem Bona,C
-02/12/2026,DET,Cade Cunningham,PG
-02/12/2026,DET,Duncan Robinson,SG
-02/12/2026,DET,Ausar Thompson,SG
-02/12/2026,DET,Tobias Harris,SF
-02/12/2026,DET,Paul Reed,PF
-02/12/2026,TOR,Immanuel Quickley,PG
-02/12/2026,TOR,RJ Barrett,SG
-02/12/2026,TOR,Brandon Ingram,SF
-02/12/2026,TOR,Scottie Barnes,SF
-02/12/2026,TOR,Jakob Poeltl,C
 02/12/2026,CHI,Collin Sexton,PG
 02/12/2026,CHI,Anfernee Simons,SG
 02/12/2026,CHI,Coby White,SG
@@ -8240,12 +8240,12 @@ Date,Team,Player,Pos
 02/12/2026,BOS,Sam Hauser,SF
 02/12/2026,BOS,Neemias Queta,C
 02/12/2026,MIA,Davion Mitchell,PG
-02/12/2026,MIA,Simone Fontecchio,SF
 02/12/2026,MIA,Myron Gardner,SF
+02/12/2026,MIA,Simone Fontecchio,SF
 02/12/2026,MIA,Kel'el Ware,C
 02/12/2026,MIA,Bam Adebayo,C
-02/12/2026,NOP,Trey Murphy III,SF
 02/12/2026,NOP,Herbert Jones,SF
+02/12/2026,NOP,Trey Murphy III,SF
 02/12/2026,NOP,Zion Williamson,PF
 02/12/2026,NOP,Saddiq Bey,PF
 02/12/2026,NOP,Derik Queen,C
@@ -8269,28 +8269,28 @@ Date,Team,Player,Pos
 02/12/2026,MIN,Julius Randle,PF
 02/12/2026,MIN,Jaden McDaniels,PF
 02/12/2026,MIN,Rudy Gobert,C
+02/12/2026,OKC,Cason Wallace,PG
+02/12/2026,OKC,Jalen Williams,SF
+02/12/2026,OKC,Luguentz Dort,SF
+02/12/2026,OKC,Isaiah Hartenstein,C
+02/12/2026,OKC,Chet Holmgren,C
+02/12/2026,PHO,Collin Gillespie,PG
+02/12/2026,PHO,Jordan Goodwin,PG
+02/12/2026,PHO,Dillon Brooks,SF
+02/12/2026,PHO,Royce O'Neale,PF
+02/12/2026,PHO,Mark Williams,C
 02/12/2026,SAC,Devin Carter,PG
 02/12/2026,SAC,DeMar DeRozan,SF
 02/12/2026,SAC,Nique Clifford,SF
 02/12/2026,SAC,Precious Achiuwa,PF
 02/12/2026,SAC,Maxime Raynaud,C
 02/12/2026,UTA,Isaiah Collier,PG
-02/12/2026,UTA,Cody Williams,SF
 02/12/2026,UTA,Ace Bailey,SF
+02/12/2026,UTA,Lauri Markkanen,PF
 02/12/2026,UTA,Jaren Jackson Jr.,PF
 02/12/2026,UTA,Jusuf Nurkic,C
-02/12/2026,OKC,Cason Wallace,PG
-02/12/2026,OKC,Jalen Williams,SF
-02/12/2026,OKC,Luguentz Dort,SF
-02/12/2026,OKC,Chet Holmgren,C
-02/12/2026,OKC,Isaiah Hartenstein,C
-02/12/2026,PHO,Collin Gillespie,PG
-02/12/2026,PHO,Ryan Dunn,SF
-02/12/2026,PHO,Dillon Brooks,SF
-02/12/2026,PHO,Royce O'Neale,PF
-02/12/2026,PHO,Mark Williams,C
 02/12/2026,MEM,Ty Jerome,PG
-02/12/2026,MEM,Cam Spencer,SG
+02/12/2026,MEM,Jahmai Mashack,SF
 02/12/2026,MEM,Kyle Anderson,SF
 02/12/2026,MEM,Jaylen Wells,SF
 02/12/2026,MEM,Jaren Jackson Jr.,PF
