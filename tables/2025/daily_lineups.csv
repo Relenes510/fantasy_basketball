@@ -8032,8 +8032,8 @@ Date,Team,Player,Pos
 02/11/2026,MIL,Kevin Porter Jr.,PG
 02/11/2026,MIL,AJ Green,SG
 02/11/2026,MIL,Kyle Kuzma,PF
-02/11/2026,MIL,Jericho Sims,C
 02/11/2026,MIL,Myles Turner,C
+02/11/2026,MIL,Jericho Sims,C
 02/11/2026,ORL,Anthony Black,PG
 02/11/2026,ORL,Jalen Suggs,SG
 02/11/2026,ORL,Desmond Bane,SG
@@ -8099,16 +8099,6 @@ Date,Team,Player,Pos
 02/11/2026,BOS,Baylor Scheierman,SG
 02/11/2026,BOS,Sam Hauser,SF
 02/11/2026,BOS,Neemias Queta,C
-02/11/2026,POR,Jrue Holiday,PG
-02/11/2026,POR,Toumani Camara,SF
-02/11/2026,POR,Deni Avdija,SF
-02/11/2026,POR,Jerami Grant,PF
-02/11/2026,POR,Donovan Clingan,C
-02/11/2026,MIN,Donte DiVincenzo,SG
-02/11/2026,MIN,Anthony Edwards,SG
-02/11/2026,MIN,Julius Randle,PF
-02/11/2026,MIN,Jaden McDaniels,PF
-02/11/2026,MIN,Rudy Gobert,C
 02/11/2026,MIA,Davion Mitchell,PG
 02/11/2026,MIA,Myron Gardner,SF
 02/11/2026,MIA,Simone Fontecchio,SF
@@ -8119,6 +8109,16 @@ Date,Team,Player,Pos
 02/11/2026,NOP,Zion Williamson,PF
 02/11/2026,NOP,Saddiq Bey,PF
 02/11/2026,NOP,Derik Queen,C
+02/11/2026,POR,Jrue Holiday,PG
+02/11/2026,POR,Toumani Camara,SF
+02/11/2026,POR,Deni Avdija,SF
+02/11/2026,POR,Jerami Grant,PF
+02/11/2026,POR,Donovan Clingan,C
+02/11/2026,MIN,Donte DiVincenzo,SG
+02/11/2026,MIN,Anthony Edwards,SG
+02/11/2026,MIN,Julius Randle,PF
+02/11/2026,MIN,Jaden McDaniels,PF
+02/11/2026,MIN,Rudy Gobert,C
 02/11/2026,LAC,Kris Dunn,PG
 02/11/2026,LAC,James Harden,SG
 02/11/2026,LAC,Kawhi Leonard,SF
@@ -8160,8 +8160,8 @@ Date,Team,Player,Pos
 02/11/2026,UTA,Jaren Jackson Jr.,PF
 02/11/2026,UTA,Jusuf Nurkic,C
 02/11/2026,SAS,De'Aaron Fox,PG
-02/11/2026,SAS,Stephon Castle,SG
 02/11/2026,SAS,Devin Vassell,SG
+02/11/2026,SAS,Stephon Castle,SG
 02/11/2026,SAS,Julian Champagnie,SF
 02/11/2026,SAS,Victor Wembanyama,PF
 02/11/2026,GSW,Moses Moody,SG
@@ -8169,14 +8169,14 @@ Date,Team,Player,Pos
 02/11/2026,GSW,De'Anthony Melton,SG
 02/11/2026,GSW,Gui Santos,SF
 02/11/2026,GSW,Draymond Green,PF
-02/12/2026,MIL,Ryan Rollins,SG
 02/12/2026,MIL,AJ Green,SG
+02/12/2026,MIL,Ryan Rollins,SG
 02/12/2026,MIL,Bobby Portis,PF
 02/12/2026,MIL,Kyle Kuzma,PF
 02/12/2026,MIL,Myles Turner,C
 02/12/2026,OKC,Cason Wallace,PG
+02/12/2026,OKC,Isaiah Joe,SG
 02/12/2026,OKC,Luguentz Dort,SF
-02/12/2026,OKC,Jalen Williams,SF
 02/12/2026,OKC,Isaiah Hartenstein,C
 02/12/2026,OKC,Chet Holmgren,C
 02/12/2026,POR,Jrue Holiday,PG
@@ -8194,8 +8194,8 @@ Date,Team,Player,Pos
 02/12/2026,DAL,Khris Middleton,SF
 02/12/2026,DAL,P.J. Washington,PF
 02/12/2026,DAL,Daniel Gafford,C
-02/12/2026,LAL,Austin Reaves,SG
 02/12/2026,LAL,Dalton Knecht,SG
+02/12/2026,LAL,Austin Reaves,SG
 02/12/2026,LAL,LeBron James,SF
 02/12/2026,LAL,Jake LaRavia,PF
 02/12/2026,LAL,Deandre Ayton,C
