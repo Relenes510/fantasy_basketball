@@ -802,20 +802,20 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-10,8:00p,Los Angeles Clippers,LAC,95.0,Houston Rockets,HOU,102.0,0,Toyota Center,0,0,0,0,1
 2026-02-10,9:00p,Dallas Mavericks,DAL,111.0,Phoenix Suns,PHO,120.0,0,Mortgage Matchup Center,0,0,0,0,1
 2026-02-10,10:30p,San Antonio Spurs,SAS,136.0,Los Angeles Lakers,LAL,108.0,0,Crypto.com Arena,0,1,0,0,1
-2026-02-11,7:00p,Atlanta Hawks,ATL,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-02-11,7:00p,Washington Wizards,WAS,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-02-11,7:00p,Milwaukee Bucks,MIL,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
-2026-02-11,7:30p,Chicago Bulls,CHI,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-02-11,7:30p,Indiana Pacers,IND,,Brooklyn Nets,BRK,,0,Barclays Center,1,0,0,0,0
-2026-02-11,7:30p,New York Knicks,NYK,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,1,0,0,0,0
-2026-02-11,7:30p,Detroit Pistons,DET,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2026-02-11,8:00p,Los Angeles Clippers,LAC,,Houston Rockets,HOU,,0,Toyota Center,1,1,0,0,0
-2026-02-11,8:00p,Portland Trail Blazers,POR,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
-2026-02-11,8:00p,Miami Heat,MIA,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,0,0,0,0
-2026-02-11,9:00p,Memphis Grizzlies,MEM,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-02-11,9:00p,Oklahoma City Thunder,OKC,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,1,0,0,0
-2026-02-11,9:00p,Sacramento Kings,SAC,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
-2026-02-11,10:00p,San Antonio Spurs,SAS,,Golden State Warriors,GSW,,0,Chase Center,1,0,0,0,0
+2026-02-11,7:00p,Atlanta Hawks,ATL,107.0,Charlotte Hornets,CHO,110.0,0,Spectrum Center,0,0,0,0,1
+2026-02-11,7:00p,Washington Wizards,WAS,113.0,Cleveland Cavaliers,CLE,138.0,0,Rocket Arena,0,0,0,0,1
+2026-02-11,7:00p,Milwaukee Bucks,MIL,116.0,Orlando Magic,ORL,108.0,0,Kia Center,0,0,0,0,1
+2026-02-11,7:30p,Chicago Bulls,CHI,105.0,Boston Celtics,BOS,124.0,0,TD Garden,0,0,0,0,1
+2026-02-11,7:30p,Indiana Pacers,IND,115.0,Brooklyn Nets,BRK,110.0,0,Barclays Center,1,0,0,0,1
+2026-02-11,7:30p,New York Knicks,NYK,138.0,Philadelphia 76ers,PHI,89.0,0,Xfinity Mobile Arena,1,0,0,0,1
+2026-02-11,7:30p,Detroit Pistons,DET,113.0,Toronto Raptors,TOR,95.0,0,Scotiabank Arena,0,0,0,0,1
+2026-02-11,8:00p,Los Angeles Clippers,LAC,105.0,Houston Rockets,HOU,102.0,0,Toyota Center,1,1,0,0,1
+2026-02-11,8:00p,Portland Trail Blazers,POR,109.0,Minnesota Timberwolves,MIN,133.0,0,Target Center,0,0,0,0,1
+2026-02-11,8:00p,Miami Heat,MIA,123.0,New Orleans Pelicans,NOP,111.0,0,Smoothie King Center,0,0,0,0,1
+2026-02-11,9:00p,Memphis Grizzlies,MEM,116.0,Denver Nuggets,DEN,122.0,0,Ball Arena,0,0,0,0,1
+2026-02-11,9:00p,Oklahoma City Thunder,OKC,136.0,Phoenix Suns,PHO,109.0,0,Mortgage Matchup Center,0,1,0,0,1
+2026-02-11,9:00p,Sacramento Kings,SAC,93.0,Utah Jazz,UTA,121.0,0,Delta Center,0,0,0,0,1
+2026-02-11,10:00p,San Antonio Spurs,SAS,126.0,Golden State Warriors,GSW,113.0,0,Chase Center,1,0,0,0,1
 2026-02-12,7:30p,Milwaukee Bucks,MIL,,Oklahoma City Thunder,OKC,,0,Paycom Center,1,1,0,0,0
 2026-02-12,9:00p,Portland Trail Blazers,POR,,Utah Jazz,UTA,,0,Delta Center,1,1,0,0,0
 2026-02-12,10:00p,Dallas Mavericks,DAL,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
@@ -869,7 +869,7 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-24,9:00p,Boston Celtics,BOS,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
 2026-02-24,10:00p,Minnesota Timberwolves,MIN,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
 2026-02-24,10:30p,Orlando Magic,ORL,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
-2026-02-25,7:00p,Oklahoma City Thunder,OKC,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
+2026-02-25,7:30p,Oklahoma City Thunder,OKC,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
 2026-02-25,7:30p,Golden State Warriors,GSW,,Memphis Grizzlies,MEM,,0,FedExForum,1,0,0,0,0
 2026-02-25,7:30p,San Antonio Spurs,SAS,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,1,0,0,0
 2026-02-25,8:00p,Sacramento Kings,SAC,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
@@ -1188,12 +1188,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-04-07,10:30p,Dallas Mavericks,DAL,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
 2026-04-07,11:00p,Houston Rockets,HOU,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
 2026-04-08,7:00p,Atlanta Hawks,ATL,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
+2026-04-08,7:00p,Milwaukee Bucks,MIL,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
 2026-04-08,7:00p,Minnesota Timberwolves,MIN,,Orlando Magic,ORL,,0,Kia Center,1,0,0,0,0
-2026-04-08,7:30p,Milwaukee Bucks,MIL,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
-2026-04-08,8:00p,Portland Trail Blazers,POR,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
 2026-04-08,9:00p,Memphis Grizzlies,MEM,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-04-08,10:00p,Oklahoma City Thunder,OKC,,Los Angeles Clippers,LAC,,0,Intuit Dome,1,1,0,0,0
+2026-04-08,9:30p,Portland Trail Blazers,POR,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
 2026-04-08,10:00p,Dallas Mavericks,DAL,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,1,1,0,0,0
+2026-04-08,10:00p,Oklahoma City Thunder,OKC,,Los Angeles Clippers,LAC,,0,Intuit Dome,1,1,0,0,0
 2026-04-09,7:00p,Miami Heat,MIA,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
 2026-04-09,7:00p,Chicago Bulls,CHI,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
 2026-04-09,7:30p,Indiana Pacers,IND,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
