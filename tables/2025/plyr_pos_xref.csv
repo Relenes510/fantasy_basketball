@@ -103,15 +103,15 @@ CLE,Chuma Okeke,F
 CLE,Emanuel Miller,PF
 CLE,Max Strus,SF
 DAL,Naji Marshall,SF
-DAL,Cooper Flagg,SF
 DAL,Max Christie,SG
+DAL,Cooper Flagg,SF
 DAL,Klay Thompson,SF
-DAL,Caleb Martin,SF
 DAL,Brandon Williams,PG
+DAL,Caleb Martin,SF
 DAL,Dwight Powell,C
 DAL,P.J. Washington,PF
-DAL,Ryan Nembhard,PG
 DAL,Daniel Gafford,C
+DAL,Ryan Nembhard,PG
 DAL,Moussa Cisse,C
 DAL,Miles Kelly,PG
 DAL,Dereck Lively II,C
@@ -227,11 +227,11 @@ LAL,Jaxson Hayes,C
 LAL,Jarred Vanderbilt,PF
 LAL,Rui Hachimura,PF
 LAL,Marcus Smart,SG
-LAL,Luka Doncic,PG
 LAL,Dalton Knecht,SF
+LAL,Luka Doncic,PG
 LAL,LeBron James,SF
-LAL,Bronny James,SG
 LAL,Maxi Kleber,PF
+LAL,Bronny James,SG
 LAL,Austin Reaves,SG
 LAL,Nick Smith Jr.,SG
 LAL,Drew Timme,PF
@@ -276,8 +276,8 @@ MIA,Vladislav Goldin,C
 MIA,Terry Rozier,PG
 MIL,Ryan Rollins,PG
 MIL,Bobby Portis,PF
-MIL,Myles Turner,C
 MIL,Kyle Kuzma,PF
+MIL,Myles Turner,C
 MIL,A.J. Green,SG
 MIL,Gary Trent Jr.,SG
 MIL,Jericho Sims,C
@@ -357,8 +357,8 @@ OKC,Brooks Barnhizer,SG
 OKC,Jalen Williams,SG
 OKC,Jared McCain,SG
 OKC,Buddy Boeheim,SF
-OKC,Thomas Sorber,C
 OKC,Nikola Topic,PG
+OKC,Thomas Sorber,C
 ORL,Desmond Bane,SG
 ORL,Anthony Black,PG
 ORL,Wendell Carter Jr.,C
@@ -426,8 +426,8 @@ POR,Jrue Holiday,PG
 POR,Javonte Cooke,SG
 POR,Blake Wesley,SG
 POR,Vit Krejci,PG
-POR,Matisse Thybulle,SG
 POR,Scoot Henderson,PG
+POR,Matisse Thybulle,SG
 POR,Damian Lillard,PG
 SAC,DeMar DeRozan,PF
 SAC,Russell Westbrook,SF
@@ -456,7 +456,6 @@ SAS,Carter Bryant,PF
 SAS,Devin Vassell,SG
 SAS,Victor Wembanyama,C
 SAS,Kelly Olynyk,C
-SAS,Jeremy Sochan,PF
 SAS,Lindy Waters III,SG
 SAS,Jordan McLaughlin,PG
 SAS,Bismack Biyombo,C
@@ -483,22 +482,22 @@ TOR,Chucky Hepburn,PG
 TOR,Chris Paul,G
 UTA,Kyle Filipowski,C
 UTA,Brice Sensabaugh,SF
-UTA,Keyonte George,PG
 UTA,Ace Bailey,SF
+UTA,Keyonte George,PG
 UTA,Isaiah Collier,PG
 UTA,Svi Mykhailiuk,SF
+UTA,Cody Williams,SG
 UTA,Lauri Markkanen,PF
 UTA,Jusuf Nurkic,C
-UTA,Cody Williams,SG
 UTA,Kevin Love,PF
 UTA,Elijah Harkless,SG
 UTA,Walker Kessler,C
-UTA,Jaren Jackson Jr.,C
 UTA,Vince Williams Jr.,SG
 UTA,John Konchar,SG
+UTA,Jaren Jackson Jr.,C
 UTA,Oscar Tshiebwe,C
-UTA,John Tonje,SG
 UTA,Blake Hinson,SF
+UTA,John Tonje,SG
 WAS,Bub Carrington,PG
 WAS,Justin Champagnie,SF
 WAS,Will Riley,SF
@@ -513,6 +512,7 @@ WAS,Cam Whitmore,SF
 WAS,Sharife Cooper,PG
 WAS,Keshon Gilbert,G
 WAS,Jaden Hardy,SG
+WAS,Kadary Richmond,SG
 WAS,D'Angelo Russell,PG
 WAS,Anthony Davis,PF
 WAS,Trae Young,PG

@@ -816,9 +816,9 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-11,9:00p,Oklahoma City Thunder,OKC,136.0,Phoenix Suns,PHO,109.0,0,Mortgage Matchup Center,0,1,0,0,1
 2026-02-11,9:00p,Sacramento Kings,SAC,93.0,Utah Jazz,UTA,121.0,0,Delta Center,0,0,0,0,1
 2026-02-11,10:00p,San Antonio Spurs,SAS,126.0,Golden State Warriors,GSW,113.0,0,Chase Center,1,0,0,0,1
-2026-02-12,7:30p,Milwaukee Bucks,MIL,,Oklahoma City Thunder,OKC,,0,Paycom Center,1,1,0,0,0
-2026-02-12,9:00p,Portland Trail Blazers,POR,,Utah Jazz,UTA,,0,Delta Center,1,1,0,0,0
-2026-02-12,10:00p,Dallas Mavericks,DAL,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
+2026-02-12,7:30p,Milwaukee Bucks,MIL,110.0,Oklahoma City Thunder,OKC,93.0,0,Paycom Center,1,1,0,0,1
+2026-02-12,9:00p,Portland Trail Blazers,POR,135.0,Utah Jazz,UTA,119.0,0,Delta Center,1,1,0,0,1
+2026-02-12,10:00p,Dallas Mavericks,DAL,104.0,Los Angeles Lakers,LAL,124.0,0,Crypto.com Arena,0,0,0,0,1
 2026-02-19,7:00p,Houston Rockets,HOU,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2026-02-19,7:00p,Brooklyn Nets,BRK,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
 2026-02-19,7:00p,Atlanta Hawks,ATL,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
