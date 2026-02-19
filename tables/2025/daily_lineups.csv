@@ -8245,20 +8245,10 @@ Date,Team,Player,Pos
 02/19/2026,IND,Kobe Brown,PF
 02/19/2026,IND,Jay Huff,C
 02/19/2026,WAS,Bub Carrington,PG
-02/19/2026,WAS,Justin Champagnie,SG
 02/19/2026,WAS,Bilal Coulibaly,SG
+02/19/2026,WAS,Justin Champagnie,SG
 02/19/2026,WAS,Khris Middleton,SF
 02/19/2026,WAS,Kyshawn George,SF
-02/19/2026,ATL,Dyson Daniels,PG
-02/19/2026,ATL,Nickeil Alexander-Walker,SG
-02/19/2026,ATL,Zaccharie Risacher,SF
-02/19/2026,ATL,Jalen Johnson,PF
-02/19/2026,ATL,Onyeka Okongwu,C
-02/19/2026,PHI,Tyrese Maxey,PG
-02/19/2026,PHI,VJ Edgecombe,SG
-02/19/2026,PHI,Kelly Oubre Jr.,SF
-02/19/2026,PHI,Dominick Barlow,PF
-02/19/2026,PHI,Andre Drummond,C
 02/19/2026,HOU,Amen Thompson,SG
 02/19/2026,HOU,Tari Eason,SF
 02/19/2026,HOU,Jabari Smith Jr.,PF
@@ -8269,6 +8259,16 @@ Date,Team,Player,Pos
 02/19/2026,CHO,Brandon Miller,SF
 02/19/2026,CHO,Grant Williams,PF
 02/19/2026,CHO,Ryan Kalkbrenner,C
+02/19/2026,ATL,Dyson Daniels,PG
+02/19/2026,ATL,Nickeil Alexander-Walker,SG
+02/19/2026,ATL,Zaccharie Risacher,SF
+02/19/2026,ATL,Jalen Johnson,PF
+02/19/2026,ATL,Onyeka Okongwu,C
+02/19/2026,PHI,Tyrese Maxey,PG
+02/19/2026,PHI,VJ Edgecombe,SG
+02/19/2026,PHI,Kelly Oubre Jr.,SF
+02/19/2026,PHI,Dominick Barlow,PF
+02/19/2026,PHI,Andre Drummond,C
 02/19/2026,DET,Cade Cunningham,PG
 02/19/2026,DET,Duncan Robinson,SG
 02/19/2026,DET,Ausar Thompson,SG
@@ -8285,8 +8285,8 @@ Date,Team,Player,Pos
 02/19/2026,TOR,Brandon Ingram,SF
 02/19/2026,TOR,Jakob Poeltl,C
 02/19/2026,CHI,Coby White,SG
-02/19/2026,CHI,Jaden Ivey,SG
 02/19/2026,CHI,Anfernee Simons,SG
+02/19/2026,CHI,Jaden Ivey,SG
 02/19/2026,CHI,Matas Buzelis,SF
 02/19/2026,CHI,Isaac Okoro,SF
 02/19/2026,PHO,Devin Booker,SG
@@ -8295,8 +8295,8 @@ Date,Team,Player,Pos
 02/19/2026,PHO,Royce O'Neale,PF
 02/19/2026,PHO,Mark Williams,C
 02/19/2026,SAS,De'Aaron Fox,PG
-02/19/2026,SAS,Stephon Castle,SG
 02/19/2026,SAS,Devin Vassell,SG
+02/19/2026,SAS,Stephon Castle,SG
 02/19/2026,SAS,Julian Champagnie,SF
 02/19/2026,SAS,Victor Wembanyama,PF
 02/19/2026,BOS,Derrick White,SG
@@ -8310,8 +8310,8 @@ Date,Team,Player,Pos
 02/19/2026,GSW,Draymond Green,PF
 02/19/2026,GSW,Kristaps Porzingis,C
 02/19/2026,ORL,Anthony Black,PG
-02/19/2026,ORL,Jalen Suggs,SG
 02/19/2026,ORL,Desmond Bane,SG
+02/19/2026,ORL,Jalen Suggs,SG
 02/19/2026,ORL,Paolo Banchero,PF
 02/19/2026,ORL,Wendell Carter Jr.,C
 02/19/2026,SAC,Russell Westbrook,PG
