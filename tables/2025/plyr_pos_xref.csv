@@ -15,7 +15,6 @@ ATL,Jock Landale,C
 ATL,Gabe Vincent,PG
 ATL,Buddy Hield,SG
 ATL,RayJ Dennis,PG
-ATL,Nikola Djurisic,SF
 ATL,Jonathan Kuminga,PF
 BOS,Payton Pritchard,PG
 BOS,Derrick White,SG
@@ -171,7 +170,7 @@ GSW,Malevy Leons,SF
 GSW,LJ Cryer,PG
 GSW,Seth Curry,SG
 GSW,Kristaps Porzingis,C
-GSW,Jeenathan Williams,SG
+GSW,Nate Williams,SG
 HOU,Reed Sheppard,SG
 HOU,Amen Thompson,PG
 HOU,Jabari Smith Jr.,PF
@@ -275,6 +274,7 @@ MIA,Tyler Herro,SG
 MIA,Jahmir Young,PG
 MIA,Vladislav Goldin,C
 MIA,Terry Rozier,PG
+MIA,Trevor Keels,SG
 MIL,Ryan Rollins,PG
 MIL,Bobby Portis,PF
 MIL,Kyle Kuzma,PF
@@ -303,7 +303,6 @@ MIN,Anthony Edwards,SG
 MIN,Mike Conley,PG
 MIN,Joan Beringer,PF
 MIN,Terrence Shannon Jr.,SG
-MIN,Johnny Juzang,SG
 MIN,Joe Ingles,SF
 MIN,Ayo Dosunmu,SG
 MIN,Julian Phillips,SF
@@ -395,6 +394,7 @@ PHI,Johni Broome,C
 PHI,Kyle Lowry,PG
 PHI,MarJon Beauchamp,SF
 PHI,Dalen Terry,SG
+PHI,Cameron Payne,PG
 PHO,Royce O'Neale,SF
 PHO,Oso Ighodaro,PF
 PHO,Collin Gillespie,PG

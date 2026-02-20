@@ -819,16 +819,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-12,7:30p,Milwaukee Bucks,MIL,110.0,Oklahoma City Thunder,OKC,93.0,0,Paycom Center,1,1,0,0,1
 2026-02-12,9:00p,Portland Trail Blazers,POR,135.0,Utah Jazz,UTA,119.0,0,Delta Center,1,1,0,0,1
 2026-02-12,10:00p,Dallas Mavericks,DAL,104.0,Los Angeles Lakers,LAL,124.0,0,Crypto.com Arena,0,0,0,0,1
-2026-02-19,7:00p,Houston Rockets,HOU,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-02-19,7:00p,Brooklyn Nets,BRK,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-02-19,7:00p,Atlanta Hawks,ATL,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
-2026-02-19,7:00p,Indiana Pacers,IND,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2026-02-19,7:30p,Detroit Pistons,DET,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
-2026-02-19,8:00p,Toronto Raptors,TOR,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-02-19,8:30p,Phoenix Suns,PHO,,San Antonio Spurs,SAS,,0,Moody Center,0,0,0,0,0
-2026-02-19,10:00p,Boston Celtics,BOS,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
-2026-02-19,10:00p,Orlando Magic,ORL,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
-2026-02-19,10:30p,Denver Nuggets,DEN,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2026-02-19,7:00p,Houston Rockets,HOU,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,1
+2026-02-19,7:00p,Brooklyn Nets,BRK,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,1
+2026-02-19,7:00p,Atlanta Hawks,ATL,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,1
+2026-02-19,7:00p,Indiana Pacers,IND,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,1
+2026-02-19,7:30p,Detroit Pistons,DET,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,1
+2026-02-19,8:00p,Toronto Raptors,TOR,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,1
+2026-02-19,8:30p,Phoenix Suns,PHO,,San Antonio Spurs,SAS,,0,Moody Center,0,0,0,0,1
+2026-02-19,10:00p,Boston Celtics,BOS,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,1
+2026-02-19,10:00p,Orlando Magic,ORL,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,1
+2026-02-19,10:30p,Denver Nuggets,DEN,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,1
 2026-02-20,7:00p,Cleveland Cavaliers,CLE,,Charlotte Hornets,CHO,,0,Spectrum Center,1,1,0,0,0
 2026-02-20,7:00p,Utah Jazz,UTA,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
 2026-02-20,7:00p,Indiana Pacers,IND,,Washington Wizards,WAS,,0,Capital One Arena,1,1,0,0,0
