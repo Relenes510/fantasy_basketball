@@ -8236,8 +8236,8 @@ Date,Team,Player,Pos
 02/19/2026,BRK,Day'Ron Sharpe,C
 02/19/2026,CLE,Donovan Mitchell,SG
 02/19/2026,CLE,James Harden,SG
-02/19/2026,CLE,Evan Mobley,PF
 02/19/2026,CLE,Dean Wade,PF
+02/19/2026,CLE,Evan Mobley,PF
 02/19/2026,CLE,Jarrett Allen,C
 02/19/2026,ATL,Dyson Daniels,PG
 02/19/2026,ATL,Nickeil Alexander-Walker,SG
@@ -8285,8 +8285,8 @@ Date,Team,Player,Pos
 02/19/2026,TOR,Brandon Ingram,SF
 02/19/2026,TOR,Collin Murray-Boyles,PF
 02/19/2026,CHI,Coby White,SG
-02/19/2026,CHI,Anfernee Simons,SG
 02/19/2026,CHI,Josh Giddey,SG
+02/19/2026,CHI,Anfernee Simons,SG
 02/19/2026,CHI,Matas Buzelis,SF
 02/19/2026,CHI,Isaac Okoro,SF
 02/19/2026,PHO,Collin Gillespie,PG
@@ -8328,17 +8328,7 @@ Date,Team,Player,Pos
 02/19/2026,LAC,Kawhi Leonard,SF
 02/19/2026,LAC,Derrick Jones Jr.,SF
 02/19/2026,LAC,John Collins,PF
-02/19/2026,LAC,Ivica Zubac,C
-02/20/2026,CLE,James Harden,SG
-02/20/2026,CLE,Donovan Mitchell,SG
-02/20/2026,CLE,Sam Merrill,SG
-02/20/2026,CLE,Jaylon Tyson,SF
-02/20/2026,CLE,Jarrett Allen,C
-02/20/2026,CHO,LaMelo Ball,PG
-02/20/2026,CHO,Kon Knueppel,SG
-02/20/2026,CHO,Brandon Miller,SF
-02/20/2026,CHO,Tidjane Salaun,PF
-02/20/2026,CHO,Ryan Kalkbrenner,C
+02/19/2026,LAC,Brook Lopez,C
 02/20/2026,IND,Kam Jones,PG
 02/20/2026,IND,Ben Sheppard,SF
 02/20/2026,IND,Kobe Brown,PF
@@ -8359,6 +8349,16 @@ Date,Team,Player,Pos
 02/20/2026,MEM,Jaylen Wells,SF
 02/20/2026,MEM,Jahmai Mashack,SF
 02/20/2026,MEM,GG Jackson II,PF
+02/20/2026,CLE,James Harden,SG
+02/20/2026,CLE,Donovan Mitchell,SG
+02/20/2026,CLE,Sam Merrill,SG
+02/20/2026,CLE,Jaylon Tyson,SF
+02/20/2026,CLE,Jarrett Allen,C
+02/20/2026,CHO,LaMelo Ball,PG
+02/20/2026,CHO,Kon Knueppel,SG
+02/20/2026,CHO,Brandon Miller,SF
+02/20/2026,CHO,Tidjane Salaun,PF
+02/20/2026,CHO,Ryan Kalkbrenner,C
 02/20/2026,MIA,Davion Mitchell,PG
 02/20/2026,MIA,Norman Powell,SG
 02/20/2026,MIA,Pelle Larsson,SG
