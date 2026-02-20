@@ -8239,6 +8239,16 @@ Date,Team,Player,Pos
 02/19/2026,CLE,Dean Wade,PF
 02/19/2026,CLE,Evan Mobley,PF
 02/19/2026,CLE,Jarrett Allen,C
+02/19/2026,IND,Andrew Nembhard,PG
+02/19/2026,IND,Ben Sheppard,SF
+02/19/2026,IND,Jarace Walker,PF
+02/19/2026,IND,Aaron Nesmith,PF
+02/19/2026,IND,Jay Huff,C
+02/19/2026,WAS,Bub Carrington,PG
+02/19/2026,WAS,Tre Johnson,SG
+02/19/2026,WAS,Bilal Coulibaly,SG
+02/19/2026,WAS,Khris Middleton,SF
+02/19/2026,WAS,Kyshawn George,SF
 02/19/2026,HOU,Amen Thompson,SG
 02/19/2026,HOU,Tari Eason,SF
 02/19/2026,HOU,Jabari Smith Jr.,PF
@@ -8259,16 +8269,6 @@ Date,Team,Player,Pos
 02/19/2026,PHI,Kelly Oubre Jr.,SF
 02/19/2026,PHI,Dominick Barlow,PF
 02/19/2026,PHI,Andre Drummond,C
-02/19/2026,IND,Andrew Nembhard,PG
-02/19/2026,IND,Ben Sheppard,SF
-02/19/2026,IND,Jarace Walker,PF
-02/19/2026,IND,Aaron Nesmith,PF
-02/19/2026,IND,Jay Huff,C
-02/19/2026,WAS,Bub Carrington,PG
-02/19/2026,WAS,Tre Johnson,SG
-02/19/2026,WAS,Bilal Coulibaly,SG
-02/19/2026,WAS,Khris Middleton,SF
-02/19/2026,WAS,Kyshawn George,SF
 02/19/2026,DET,Cade Cunningham,PG
 02/19/2026,DET,Duncan Robinson,SG
 02/19/2026,DET,Ausar Thompson,SG
@@ -8339,26 +8339,6 @@ Date,Team,Player,Pos
 02/20/2026,CLE,Dean Wade,PF
 02/20/2026,CLE,Evan Mobley,PF
 02/20/2026,CLE,Jarrett Allen,C
-02/20/2026,HOU,Amen Thompson,SG
-02/20/2026,HOU,Tari Eason,SF
-02/20/2026,HOU,Jabari Smith Jr.,PF
-02/20/2026,HOU,Kevin Durant,PF
-02/20/2026,HOU,Alperen Sengun,C
-02/20/2026,CHO,LaMelo Ball,PG
-02/20/2026,CHO,Kon Knueppel,SG
-02/20/2026,CHO,Brandon Miller,SF
-02/20/2026,CHO,Grant Williams,PF
-02/20/2026,CHO,Ryan Kalkbrenner,C
-02/20/2026,ATL,Dyson Daniels,PG
-02/20/2026,ATL,Nickeil Alexander-Walker,SG
-02/20/2026,ATL,Zaccharie Risacher,SF
-02/20/2026,ATL,Jalen Johnson,PF
-02/20/2026,ATL,Onyeka Okongwu,C
-02/20/2026,PHI,Tyrese Maxey,PG
-02/20/2026,PHI,VJ Edgecombe,SG
-02/20/2026,PHI,Kelly Oubre Jr.,SF
-02/20/2026,PHI,Dominick Barlow,PF
-02/20/2026,PHI,Andre Drummond,C
 02/20/2026,IND,Andrew Nembhard,PG
 02/20/2026,IND,Ben Sheppard,SF
 02/20/2026,IND,Jarace Walker,PF
@@ -8369,6 +8349,26 @@ Date,Team,Player,Pos
 02/20/2026,WAS,Bilal Coulibaly,SG
 02/20/2026,WAS,Khris Middleton,SF
 02/20/2026,WAS,Kyshawn George,SF
+02/20/2026,ATL,Dyson Daniels,PG
+02/20/2026,ATL,Nickeil Alexander-Walker,SG
+02/20/2026,ATL,Zaccharie Risacher,SF
+02/20/2026,ATL,Jalen Johnson,PF
+02/20/2026,ATL,Onyeka Okongwu,C
+02/20/2026,PHI,Tyrese Maxey,PG
+02/20/2026,PHI,VJ Edgecombe,SG
+02/20/2026,PHI,Kelly Oubre Jr.,SF
+02/20/2026,PHI,Dominick Barlow,PF
+02/20/2026,PHI,Andre Drummond,C
+02/20/2026,HOU,Amen Thompson,SG
+02/20/2026,HOU,Tari Eason,SF
+02/20/2026,HOU,Jabari Smith Jr.,PF
+02/20/2026,HOU,Kevin Durant,PF
+02/20/2026,HOU,Alperen Sengun,C
+02/20/2026,CHO,LaMelo Ball,PG
+02/20/2026,CHO,Kon Knueppel,SG
+02/20/2026,CHO,Brandon Miller,SF
+02/20/2026,CHO,Grant Williams,PF
+02/20/2026,CHO,Ryan Kalkbrenner,C
 02/20/2026,DET,Cade Cunningham,PG
 02/20/2026,DET,Duncan Robinson,SG
 02/20/2026,DET,Ausar Thompson,SG
@@ -8399,16 +8399,6 @@ Date,Team,Player,Pos
 02/20/2026,SAS,Stephon Castle,SG
 02/20/2026,SAS,Julian Champagnie,SF
 02/20/2026,SAS,Victor Wembanyama,PF
-02/20/2026,ORL,Anthony Black,PG
-02/20/2026,ORL,Desmond Bane,SG
-02/20/2026,ORL,Jalen Suggs,SG
-02/20/2026,ORL,Paolo Banchero,PF
-02/20/2026,ORL,Wendell Carter Jr.,C
-02/20/2026,SAC,Russell Westbrook,PG
-02/20/2026,SAC,DeMar DeRozan,SF
-02/20/2026,SAC,Nique Clifford,SF
-02/20/2026,SAC,Precious Achiuwa,PF
-02/20/2026,SAC,Maxime Raynaud,C
 02/20/2026,BOS,Derrick White,SG
 02/20/2026,BOS,Jaylen Brown,SG
 02/20/2026,BOS,Baylor Scheierman,SG
@@ -8419,6 +8409,16 @@ Date,Team,Player,Pos
 02/20/2026,GSW,De'Anthony Melton,SG
 02/20/2026,GSW,Draymond Green,PF
 02/20/2026,GSW,Kristaps Porzingis,C
+02/20/2026,ORL,Anthony Black,PG
+02/20/2026,ORL,Desmond Bane,SG
+02/20/2026,ORL,Jalen Suggs,SG
+02/20/2026,ORL,Paolo Banchero,PF
+02/20/2026,ORL,Wendell Carter Jr.,C
+02/20/2026,SAC,Russell Westbrook,PG
+02/20/2026,SAC,DeMar DeRozan,SF
+02/20/2026,SAC,Nique Clifford,SF
+02/20/2026,SAC,Precious Achiuwa,PF
+02/20/2026,SAC,Maxime Raynaud,C
 02/20/2026,DEN,Jamal Murray,PG
 02/20/2026,DEN,Christian Braun,SG
 02/20/2026,DEN,Cameron Johnson,PF
