@@ -8339,16 +8339,6 @@ Date,Team,Player,Pos
 02/20/2026,WAS,Tre Johnson,SG
 02/20/2026,WAS,Bilal Coulibaly,SG
 02/20/2026,WAS,Tristan Vukcevic,PF
-02/20/2026,UTA,Isaiah Collier,PG
-02/20/2026,UTA,John Konchar,SG
-02/20/2026,UTA,Cody Williams,SF
-02/20/2026,UTA,Ace Bailey,SF
-02/20/2026,UTA,Kyle Filipowski,C
-02/20/2026,MEM,Jaylen Wells,SF
-02/20/2026,MEM,Jahmai Mashack,SF
-02/20/2026,MEM,Taylor Hendricks,PF
-02/20/2026,MEM,GG Jackson II,PF
-02/20/2026,MEM,Lawson Lovering,C
 02/20/2026,CLE,James Harden,SG
 02/20/2026,CLE,Donovan Mitchell,SG
 02/20/2026,CLE,Sam Merrill,SG
@@ -8359,9 +8349,19 @@ Date,Team,Player,Pos
 02/20/2026,CHO,Sion James,SG
 02/20/2026,CHO,Brandon Miller,SF
 02/20/2026,CHO,Ryan Kalkbrenner,C
+02/20/2026,UTA,Isaiah Collier,PG
+02/20/2026,UTA,John Konchar,SG
+02/20/2026,UTA,Cody Williams,SF
+02/20/2026,UTA,Ace Bailey,SF
+02/20/2026,UTA,Kyle Filipowski,C
+02/20/2026,MEM,Jaylen Wells,SF
+02/20/2026,MEM,Jahmai Mashack,SF
+02/20/2026,MEM,Taylor Hendricks,PF
+02/20/2026,MEM,GG Jackson II,PF
+02/20/2026,MEM,Lawson Lovering,C
 02/20/2026,MIA,Davion Mitchell,PG
-02/20/2026,MIA,Pelle Larsson,SG
 02/20/2026,MIA,Norman Powell,SG
+02/20/2026,MIA,Pelle Larsson,SG
 02/20/2026,MIA,Andrew Wiggins,SF
 02/20/2026,MIA,Bam Adebayo,C
 02/20/2026,ATL,Dyson Daniels,PG
@@ -8379,16 +8379,6 @@ Date,Team,Player,Pos
 02/20/2026,MIN,Jaden McDaniels,PF
 02/20/2026,MIN,Julius Randle,PF
 02/20/2026,MIN,Rudy Gobert,C
-02/20/2026,MIL,Kevin Porter Jr.,PG
-02/20/2026,MIL,AJ Green,SG
-02/20/2026,MIL,Ryan Rollins,SG
-02/20/2026,MIL,Kyle Kuzma,PF
-02/20/2026,MIL,Jericho Sims,C
-02/20/2026,NOP,Bryce McGowens,SG
-02/20/2026,NOP,Herbert Jones,SF
-02/20/2026,NOP,Zion Williamson,PF
-02/20/2026,NOP,Saddiq Bey,PF
-02/20/2026,NOP,Derik Queen,C
 02/20/2026,BRK,Egor Demin,PG
 02/20/2026,BRK,Nolan Traore,PG
 02/20/2026,BRK,Michael Porter Jr.,SF
@@ -8399,6 +8389,16 @@ Date,Team,Player,Pos
 02/20/2026,OKC,Luguentz Dort,SF
 02/20/2026,OKC,Isaiah Hartenstein,C
 02/20/2026,OKC,Chet Holmgren,C
+02/20/2026,MIL,Kevin Porter Jr.,PG
+02/20/2026,MIL,AJ Green,SG
+02/20/2026,MIL,Ryan Rollins,SG
+02/20/2026,MIL,Kyle Kuzma,PF
+02/20/2026,MIL,Jericho Sims,C
+02/20/2026,NOP,Bryce McGowens,SG
+02/20/2026,NOP,Herbert Jones,SF
+02/20/2026,NOP,Zion Williamson,PF
+02/20/2026,NOP,Saddiq Bey,PF
+02/20/2026,NOP,Derik Queen,C
 02/20/2026,DEN,Jamal Murray,PG
 02/20/2026,DEN,Christian Braun,SG
 02/20/2026,DEN,Julian Strawther,SF
@@ -8420,8 +8420,8 @@ Date,Team,Player,Pos
 02/20/2026,LAL,LeBron James,SF
 02/20/2026,LAL,Deandre Ayton,C
 02/21/2026,ORL,Anthony Black,PG
-02/21/2026,ORL,Jalen Suggs,SG
 02/21/2026,ORL,Desmond Bane,SG
+02/21/2026,ORL,Jalen Suggs,SG
 02/21/2026,ORL,Paolo Banchero,PF
 02/21/2026,ORL,Wendell Carter Jr.,C
 02/21/2026,PHO,Collin Gillespie,PG
@@ -8434,8 +8434,8 @@ Date,Team,Player,Pos
 02/21/2026,PHI,Kelly Oubre Jr.,SF
 02/21/2026,PHI,Dominick Barlow,PF
 02/21/2026,PHI,Andre Drummond,C
+02/21/2026,NOP,Jeremiah Fears,PG
 02/21/2026,NOP,Herbert Jones,SF
-02/21/2026,NOP,Trey Murphy III,SF
 02/21/2026,NOP,Zion Williamson,PF
 02/21/2026,NOP,Saddiq Bey,PF
 02/21/2026,NOP,Derik Queen,C
@@ -8444,21 +8444,11 @@ Date,Team,Player,Pos
 02/21/2026,MEM,Kyle Anderson,SF
 02/21/2026,MEM,Jaylen Wells,SF
 02/21/2026,MEM,GG Jackson II,PF
-02/21/2026,MIA,Davion Mitchell,PG
+02/21/2026,MIA,Jahmir Young,PG
 02/21/2026,MIA,Norman Powell,SG
 02/21/2026,MIA,Tyler Herro,SG
 02/21/2026,MIA,Andrew Wiggins,SF
 02/21/2026,MIA,Bam Adebayo,C
-02/21/2026,DET,Cade Cunningham,PG
-02/21/2026,DET,Ausar Thompson,SG
-02/21/2026,DET,Duncan Robinson,SG
-02/21/2026,DET,Tobias Harris,SF
-02/21/2026,DET,Jalen Duren,C
-02/21/2026,CHI,Rob Dillingham,PG
-02/21/2026,CHI,Anfernee Simons,SG
-02/21/2026,CHI,Matas Buzelis,SF
-02/21/2026,CHI,Isaac Okoro,SF
-02/21/2026,CHI,Jalen Smith,PF
 02/21/2026,SAC,Russell Westbrook,PG
 02/21/2026,SAC,DeMar DeRozan,SF
 02/21/2026,SAC,Nique Clifford,SF
@@ -8469,6 +8459,16 @@ Date,Team,Player,Pos
 02/21/2026,SAS,Devin Vassell,SG
 02/21/2026,SAS,Julian Champagnie,SF
 02/21/2026,SAS,Victor Wembanyama,PF
+02/21/2026,DET,Cade Cunningham,PG
+02/21/2026,DET,Duncan Robinson,SG
+02/21/2026,DET,Ausar Thompson,SG
+02/21/2026,DET,Tobias Harris,SF
+02/21/2026,DET,Jalen Duren,C
+02/21/2026,CHI,Rob Dillingham,PG
+02/21/2026,CHI,Anfernee Simons,SG
+02/21/2026,CHI,Matas Buzelis,SF
+02/21/2026,CHI,Isaac Okoro,SF
+02/21/2026,CHI,Jalen Smith,PF
 02/21/2026,HOU,Amen Thompson,SG
 02/21/2026,HOU,Tari Eason,SF
 02/21/2026,HOU,Jabari Smith Jr.,PF
