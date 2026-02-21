@@ -25,6 +25,9 @@ class PredictionResponse(BaseModel):
     player: str
     current_pts: int
     current_mins: int
+    current_fouls: int
+    team_pts: int
+    opp_pts: int
     predicted_final_pts: int
     pts_prediction_qlow: int
     pts_prediction_qhigh: int
@@ -181,6 +184,7 @@ def ui():
                 resultDiv.innerHTML = `
                     <p><b>${{data.player}}</b></p>
                     <p>Current Stats: ${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
+                    <p>Player Fouls: ${{data.current_fouls}} | TeamPts: ${{data.team_pts}} | OppPts: ${{data.opp_pts}}</p>
                     <p>Pregame Predicted Stats: ${{data.pregame_pts_preds}} pts in ${{data.pregame_mins_preds}} mins</p>
                     <p><b>Predicted Final Ranges: Low: ${{data.pts_prediction_qlow}} pts / Avg: ${{data.predicted_final_pts}} pts / High: ${{data.pts_prediction_qhigh}} pts</b></p>
                 `;
@@ -266,8 +270,6 @@ def get_live_stat():
     df['Team_Pace'] = ((df['TeamFGA'] + 0.44 * df['TeamFTA'] - df['TeamORB'] + df['TeamTOV']) / 120)
     df['Player_Pace_Rel'] = df['Player_Pace'] / df['Team_Pace']
     df['Pace_Minutes_Interaction'] = df['Player_Pace'] * df['MP']
-
-    df = df.drop(['TeamPTS', 'OppTeamPTS', 'TeamFGA'], axis=1)
     
     return df
 
@@ -301,6 +303,9 @@ def predict(req: PredictionRequest):
 
     df_ht = get_live_stat()
     df_ht = df_ht[df_ht.PLAYER == req.player_name]
+    team_pts = int(df_ht['TeamPTS'].iloc[0])
+    opp_team_pts = int(df_ht['OppTeamPTS'].iloc[0])
+    df_ht = df_ht.drop(['TeamPTS', 'OppTeamPTS', 'TeamFGA'], axis=1)
     if df_ht.shape[0] > 0:
         for catg in ['MP', 'PTS', 'FG', 'FGA', 'FT', 'FTA', 'TPM', 'TPA', 'PF', 'TeamPTS_pct', 'TeamFGA_pct', 'Spread']:
             if catg in ['TeamPTS_pct', 'TeamFGA_pct']:
@@ -322,6 +327,9 @@ def predict(req: PredictionRequest):
             "player": req.player_name,
             "current_mins": int(df_ht['MP'].iloc[0]),
             "current_pts": int(df_ht['PTS'].iloc[0]),
+            "current_fouls": int(df_ht['PF'].iloc[0]),
+            "team_pts": team_pts,
+            "opp_pts": opp_team_pts,
             "predicted_final_pts": pts_prediction_mean,
             "pts_prediction_qlow": pts_prediction_qlow,
             "pts_prediction_qhigh": pts_prediction_qhigh,
@@ -333,6 +341,9 @@ def predict(req: PredictionRequest):
             "player": "Player Unavailable",
             "current_mins": 0,
             "current_pts": 0,
+            "current_fouls": 0,
+            "team_pts": 0,
+            "opp_pts": 0,
             "predicted_final_pts": 0,
             "pts_prediction_qlow": 0,
             "pts_prediction_qhigh": 0,
