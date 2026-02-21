@@ -8329,26 +8329,6 @@ Date,Team,Player,Pos
 02/19/2026,LAC,Derrick Jones Jr.,SF
 02/19/2026,LAC,John Collins,PF
 02/19/2026,LAC,Brook Lopez,C
-02/20/2026,UTA,Isaiah Collier,PG
-02/20/2026,UTA,John Konchar,SG
-02/20/2026,UTA,Cody Williams,SF
-02/20/2026,UTA,Ace Bailey,SF
-02/20/2026,UTA,Kyle Filipowski,C
-02/20/2026,MEM,Jaylen Wells,SF
-02/20/2026,MEM,Jahmai Mashack,SF
-02/20/2026,MEM,Taylor Hendricks,PF
-02/20/2026,MEM,GG Jackson II,PF
-02/20/2026,MEM,Lawson Lovering,C
-02/20/2026,CLE,James Harden,SG
-02/20/2026,CLE,Donovan Mitchell,SG
-02/20/2026,CLE,Sam Merrill,SG
-02/20/2026,CLE,Dean Wade,PF
-02/20/2026,CLE,Jarrett Allen,C
-02/20/2026,CHO,LaMelo Ball,PG
-02/20/2026,CHO,Kon Knueppel,SG
-02/20/2026,CHO,Sion James,SG
-02/20/2026,CHO,Brandon Miller,SF
-02/20/2026,CHO,Ryan Kalkbrenner,C
 02/20/2026,IND,Kam Jones,PG
 02/20/2026,IND,T.J. McConnell,PG
 02/20/2026,IND,Ben Sheppard,SF
@@ -8359,6 +8339,26 @@ Date,Team,Player,Pos
 02/20/2026,WAS,Justin Champagnie,SG
 02/20/2026,WAS,Bilal Coulibaly,SG
 02/20/2026,WAS,Tristan Vukcevic,PF
+02/20/2026,CLE,James Harden,SG
+02/20/2026,CLE,Donovan Mitchell,SG
+02/20/2026,CLE,Sam Merrill,SG
+02/20/2026,CLE,Dean Wade,PF
+02/20/2026,CLE,Jarrett Allen,C
+02/20/2026,CHO,LaMelo Ball,PG
+02/20/2026,CHO,Kon Knueppel,SG
+02/20/2026,CHO,Sion James,SG
+02/20/2026,CHO,Brandon Miller,SF
+02/20/2026,CHO,Ryan Kalkbrenner,C
+02/20/2026,UTA,Isaiah Collier,PG
+02/20/2026,UTA,John Konchar,SG
+02/20/2026,UTA,Cody Williams,SF
+02/20/2026,UTA,Ace Bailey,SF
+02/20/2026,UTA,Kyle Filipowski,C
+02/20/2026,MEM,Jaylen Wells,SF
+02/20/2026,MEM,Jahmai Mashack,SF
+02/20/2026,MEM,Taylor Hendricks,PF
+02/20/2026,MEM,GG Jackson II,PF
+02/20/2026,MEM,Lawson Lovering,C
 02/20/2026,MIA,Davion Mitchell,PG
 02/20/2026,MIA,Norman Powell,SG
 02/20/2026,MIA,Pelle Larsson,SG
@@ -8379,16 +8379,6 @@ Date,Team,Player,Pos
 02/20/2026,MIN,Jaden McDaniels,PF
 02/20/2026,MIN,Julius Randle,PF
 02/20/2026,MIN,Rudy Gobert,C
-02/20/2026,MIL,Kevin Porter Jr.,PG
-02/20/2026,MIL,Ryan Rollins,SG
-02/20/2026,MIL,AJ Green,SG
-02/20/2026,MIL,Kyle Kuzma,PF
-02/20/2026,MIL,Jericho Sims,C
-02/20/2026,NOP,Bryce McGowens,SG
-02/20/2026,NOP,Herbert Jones,SF
-02/20/2026,NOP,Zion Williamson,PF
-02/20/2026,NOP,Saddiq Bey,PF
-02/20/2026,NOP,Derik Queen,C
 02/20/2026,BRK,Egor Demin,PG
 02/20/2026,BRK,Nolan Traore,PG
 02/20/2026,BRK,Michael Porter Jr.,SF
@@ -8399,6 +8389,16 @@ Date,Team,Player,Pos
 02/20/2026,OKC,Luguentz Dort,SF
 02/20/2026,OKC,Isaiah Hartenstein,C
 02/20/2026,OKC,Chet Holmgren,C
+02/20/2026,MIL,Kevin Porter Jr.,PG
+02/20/2026,MIL,Ryan Rollins,SG
+02/20/2026,MIL,AJ Green,SG
+02/20/2026,MIL,Kyle Kuzma,PF
+02/20/2026,MIL,Jericho Sims,C
+02/20/2026,NOP,Bryce McGowens,SG
+02/20/2026,NOP,Herbert Jones,SF
+02/20/2026,NOP,Saddiq Bey,PF
+02/20/2026,NOP,Zion Williamson,PF
+02/20/2026,NOP,Derik Queen,C
 02/20/2026,DEN,Jamal Murray,PG
 02/20/2026,DEN,Christian Braun,SG
 02/20/2026,DEN,Julian Strawther,SF
@@ -8414,8 +8414,8 @@ Date,Team,Player,Pos
 02/20/2026,LAC,Derrick Jones Jr.,SF
 02/20/2026,LAC,John Collins,PF
 02/20/2026,LAC,Ivica Zubac,C
-02/20/2026,LAL,Luka Doncic,PG
 02/20/2026,LAL,Marcus Smart,PG
+02/20/2026,LAL,Luka Doncic,PG
 02/20/2026,LAL,Austin Reaves,SG
 02/20/2026,LAL,LeBron James,SF
 02/20/2026,LAL,Deandre Ayton,C
@@ -8475,7 +8475,7 @@ Date,Team,Player,Pos
 02/21/2026,HOU,Kevin Durant,PF
 02/21/2026,HOU,Alperen Sengun,C
 02/21/2026,NYK,Jalen Brunson,PG
-02/21/2026,NYK,Mikal Bridges,SF
 02/21/2026,NYK,OG Anunoby,SF
+02/21/2026,NYK,Mikal Bridges,SF
 02/21/2026,NYK,Josh Hart,SF
 02/21/2026,NYK,Karl-Anthony Towns,PF
