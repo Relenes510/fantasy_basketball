@@ -7486,6 +7486,7 @@ Date,Team,Player,Status,Reason
 02/22/2026,GSW,LJ Cryer,Out,G League - Two-Way
 02/22/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
 02/22/2026,GSW,Stephen Curry,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
+02/22/2026,GSW,Draymond Green,Out,Injury/Illness - Left Low Back; Soreness
 02/22/2026,GSW,Malevy Leons,Out,G League - Two-Way
 02/22/2026,GSW,Kristaps Porzingis,Out,Injury/Illness - General; Illness
 02/22/2026,GSW,Nate Williams,Out,G League - Two-Way
@@ -7497,25 +7498,17 @@ Date,Team,Player,Status,Reason
 02/22/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
 02/22/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
 02/22/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
-02/22/2026,DAL,Max Christie,Questionable,Injury/Illness - Left Ankle; Sprain
-02/22/2026,DAL,Moussa Cisse,Doubtful,G League - Two-Way
+02/22/2026,DAL,Moussa Cisse,Out,G League - Two-Way
 02/22/2026,DAL,Cooper Flagg,Out,Injury/Illness - Left Midfoot; Sprain
-02/22/2026,DAL,Daniel Gafford,Questionable,Injury/Illness - Right Ankle; Injury Management
 02/22/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
-02/22/2026,DAL,Miles Kelly,Probable,G League - Two-Way
 02/22/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
-02/22/2026,DAL,Caleb Martin,Probable,Injury/Illness - Left Ankle; Sprain
-02/22/2026,DAL,Ryan Nembhard,Doubtful,G League - Two-Way
+02/22/2026,DAL,Ryan Nembhard,Out,G League - Two-Way
 02/22/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
 02/22/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
 02/22/2026,IND,Quenton Jackson,Questionable,G League - Two-Way
-02/22/2026,IND,Kam Jones,Questionable,Injury/Illness - Low Back; Soreness
-02/22/2026,IND,T.J. McConnell,Questionable,Injury/Illness - Right Hamstring; Soreness
-02/22/2026,IND,Andrew Nembhard,Questionable,Injury/Illness - Low Back; Injury Management
+02/22/2026,IND,T.J. McConnell,Out,Injury/Illness - Right Hamstring; Soreness
 02/22/2026,IND,Aaron Nesmith,Out,Injury/Illness - Right Ankle; Sprain
 02/22/2026,IND,Taelon Peter,Questionable,G League - Two-Way
-02/22/2026,IND,Micah Potter,Questionable,Injury/Illness - Left Ankle; Sprain
-02/22/2026,IND,Pascal Siakam,Questionable,Injury/Illness - Left Hamstring; Injury Management
 02/22/2026,IND,Ethan Thompson,Questionable,G League - Two-Way
 02/22/2026,IND,Obi Toppin,Out,Injury/Illness - Right Foot; Stress Fracture
 02/22/2026,IND,Ivica Zubac,Out,Injury/Illness - Left Ankle; Sprain
@@ -7560,6 +7553,13 @@ Date,Team,Player,Status,Reason
 02/22/2026,POR,Caleb Love,Out,G League - Two-Way
 02/22/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left Calf; Strain
 02/22/2026,POR,Hansen Yang,Out,G League - On Assignment
+02/22/2026,PHO,Grayson Allen,Questionable,Injury/Illness - Right Knee & Ankle; Injury Management
+02/22/2026,PHO,Cole Anthony,Out,Not With Team
+02/22/2026,PHO,Devin Booker,Out,Injury/Illness - Right Hip; Strain
+02/22/2026,PHO,Dillon Brooks,Out,Injury/Illness - Left Hand; Fracture
+02/22/2026,PHO,Jordan Goodwin,Out,Injury/Illness - Left Calf; Strain
+02/22/2026,PHO,Jalen Green,Questionable,Injury/Illness - Right Hamstring; Injury Management
+02/22/2026,PHO,Haywood Highsmith,Out,Injury/Illness - Right Knee; Injury Management
 02/22/2026,ORL,Colin Castleton,Out,G League - Two-Way
 02/22/2026,ORL,Alex Morales,Out,G League - Two-Way
 02/22/2026,ORL,Jalen Suggs,Questionable,Injury/Illness - Back; Spasms

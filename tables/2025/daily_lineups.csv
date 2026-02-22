@@ -8421,8 +8421,8 @@ Date,Team,Player,Pos
 02/20/2026,LAL,Deandre Ayton,C
 02/21/2026,ORL,Anthony Black,PG
 02/21/2026,ORL,Desmond Bane,SG
-02/21/2026,ORL,Paolo Banchero,PF
 02/21/2026,ORL,Tristan da Silva,PF
+02/21/2026,ORL,Paolo Banchero,PF
 02/21/2026,ORL,Wendell Carter Jr.,C
 02/21/2026,PHO,Collin Gillespie,PG
 02/21/2026,PHO,Jalen Green,SG
@@ -8437,8 +8437,8 @@ Date,Team,Player,Pos
 02/21/2026,NOP,Herbert Jones,SF
 02/21/2026,NOP,Zion Williamson,PF
 02/21/2026,NOP,Saddiq Bey,PF
-02/21/2026,NOP,Derik Queen,C
 02/21/2026,NOP,DeAndre Jordan,C
+02/21/2026,NOP,Derik Queen,C
 02/21/2026,MEM,Ty Jerome,PG
 02/21/2026,MEM,Walter Clayton Jr.,PG
 02/21/2026,MEM,Jaylen Wells,SF
@@ -8449,6 +8449,16 @@ Date,Team,Player,Pos
 02/21/2026,MIA,Pelle Larsson,SG
 02/21/2026,MIA,Andrew Wiggins,SF
 02/21/2026,MIA,Bam Adebayo,C
+02/21/2026,DET,Cade Cunningham,PG
+02/21/2026,DET,Ausar Thompson,SG
+02/21/2026,DET,Duncan Robinson,SG
+02/21/2026,DET,Tobias Harris,SF
+02/21/2026,DET,Jalen Duren,C
+02/21/2026,CHI,Josh Giddey,SG
+02/21/2026,CHI,Matas Buzelis,SF
+02/21/2026,CHI,Isaac Okoro,SF
+02/21/2026,CHI,Jalen Smith,PF
+02/21/2026,CHI,Guerschon Yabusele,PF
 02/21/2026,SAC,Russell Westbrook,PG
 02/21/2026,SAC,DeMar DeRozan,SF
 02/21/2026,SAC,Precious Achiuwa,PF
@@ -8459,25 +8469,15 @@ Date,Team,Player,Pos
 02/21/2026,SAS,Devin Vassell,SG
 02/21/2026,SAS,Julian Champagnie,SF
 02/21/2026,SAS,Victor Wembanyama,PF
-02/21/2026,DET,Cade Cunningham,PG
-02/21/2026,DET,Duncan Robinson,SG
-02/21/2026,DET,Ausar Thompson,SG
-02/21/2026,DET,Tobias Harris,SF
-02/21/2026,DET,Jalen Duren,C
-02/21/2026,CHI,Josh Giddey,SG
-02/21/2026,CHI,Matas Buzelis,SF
-02/21/2026,CHI,Isaac Okoro,SF
-02/21/2026,CHI,Jalen Smith,PF
-02/21/2026,CHI,Guerschon Yabusele,PF
 02/21/2026,HOU,Amen Thompson,SG
 02/21/2026,HOU,Tari Eason,SF
 02/21/2026,HOU,Jabari Smith Jr.,PF
 02/21/2026,HOU,Kevin Durant,PF
 02/21/2026,HOU,Alperen Sengun,C
 02/21/2026,NYK,Jalen Brunson,PG
-02/21/2026,NYK,OG Anunoby,SF
 02/21/2026,NYK,Josh Hart,SF
 02/21/2026,NYK,Mikal Bridges,SF
+02/21/2026,NYK,OG Anunoby,SF
 02/21/2026,NYK,Karl-Anthony Towns,PF
 02/22/2026,CLE,James Harden,SG
 02/22/2026,CLE,Donovan Mitchell,SG
@@ -8495,14 +8495,14 @@ Date,Team,Player,Pos
 02/22/2026,DEN,Cameron Johnson,PF
 02/22/2026,DEN,Nikola Jokic,C
 02/22/2026,GSW,Moses Moody,SG
-02/22/2026,GSW,Pat Spencer,SG
 02/22/2026,GSW,De'Anthony Melton,SG
+02/22/2026,GSW,Pat Spencer,SG
+02/22/2026,GSW,Gui Santos,SF
 02/22/2026,GSW,Draymond Green,PF
-02/22/2026,GSW,Al Horford,C
 02/22/2026,TOR,Immanuel Quickley,PG
 02/22/2026,TOR,RJ Barrett,SG
+02/22/2026,TOR,Ja'Kobe Walter,SG
 02/22/2026,TOR,Brandon Ingram,SF
-02/22/2026,TOR,Collin Murray-Boyles,PF
 02/22/2026,TOR,Jakob Poeltl,C
 02/22/2026,MIL,Kevin Porter Jr.,PG
 02/22/2026,MIL,AJ Green,SG
@@ -8514,9 +8514,9 @@ Date,Team,Player,Pos
 02/22/2026,BRK,Michael Porter Jr.,SF
 02/22/2026,BRK,Noah Clowney,PF
 02/22/2026,BRK,Nicolas Claxton,C
+02/22/2026,ATL,CJ McCollum,PG
 02/22/2026,ATL,Dyson Daniels,PG
 02/22/2026,ATL,Nickeil Alexander-Walker,SG
-02/22/2026,ATL,Zaccharie Risacher,SF
 02/22/2026,ATL,Jalen Johnson,PF
 02/22/2026,ATL,Onyeka Okongwu,C
 02/22/2026,DAL,Max Christie,SG
@@ -8539,9 +8539,9 @@ Date,Team,Player,Pos
 02/22/2026,WAS,Justin Champagnie,SG
 02/22/2026,WAS,Kyshawn George,SF
 02/22/2026,WAS,Tristan Vukcevic,PF
-02/22/2026,BOS,Baylor Scheierman,SG
 02/22/2026,BOS,Jaylen Brown,SG
 02/22/2026,BOS,Derrick White,SG
+02/22/2026,BOS,Baylor Scheierman,SG
 02/22/2026,BOS,Sam Hauser,SF
 02/22/2026,BOS,Neemias Queta,C
 02/22/2026,LAL,Luka Doncic,PG
@@ -8554,8 +8554,8 @@ Date,Team,Player,Pos
 02/22/2026,PHI,Kelly Oubre Jr.,SF
 02/22/2026,PHI,Dominick Barlow,PF
 02/22/2026,PHI,Andre Drummond,C
-02/22/2026,MIN,Anthony Edwards,SG
 02/22/2026,MIN,Donte DiVincenzo,SG
+02/22/2026,MIN,Anthony Edwards,SG
 02/22/2026,MIN,Jaden McDaniels,PF
 02/22/2026,MIN,Julius Randle,PF
 02/22/2026,MIN,Naz Reid,C
@@ -8585,7 +8585,7 @@ Date,Team,Player,Pos
 02/22/2026,ORL,Paolo Banchero,PF
 02/22/2026,ORL,Wendell Carter Jr.,C
 02/22/2026,LAC,Kris Dunn,PG
-02/22/2026,LAC,Derrick Jones Jr.,SF
 02/22/2026,LAC,Kawhi Leonard,SF
+02/22/2026,LAC,Derrick Jones Jr.,SF
 02/22/2026,LAC,Nicolas Batum,PF
 02/22/2026,LAC,Brook Lopez,C
