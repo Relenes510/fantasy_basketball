@@ -78,9 +78,9 @@ CHI,Zach Collins,C
 CHI,Anfernee Simons,SG
 CHI,Guerschon Yabusele,C
 CHI,Collin Sexton,SG
-CHI,Jaden Ivey,SG
 CHI,Nick Richards,C
 CHI,Rob Dillingham,PG
+CHI,Jaden Ivey,SG
 CHI,Yuki Kawamura,PG
 CHI,Leonard Miller,SF
 CHI,Noa Essengue,PF
@@ -177,8 +177,8 @@ GSW,Nate Williams,SG
 HOU,Reed Sheppard,SG
 HOU,Amen Thompson,PG
 HOU,Jabari Smith Jr.,PF
-HOU,Josh Okogie,SG
 HOU,Kevin Durant,SF
+HOU,Josh Okogie,SG
 HOU,Clint Capela,C
 HOU,Alperen Sengun,C
 HOU,Aaron Holiday,PG
@@ -256,8 +256,8 @@ MEM,Jahmai Mashack,SG
 MEM,Zach Edey,C
 MEM,Ty Jerome,SG
 MEM,Taylor Hendricks,PF
-MEM,Kyle Anderson,SF
 MEM,Scotty Pippen Jr.,PG
+MEM,Kyle Anderson,SF
 MEM,Walter Clayton,PG
 MEM,Lawson Lovering,C
 MEM,Brandon Clarke,PF
@@ -267,9 +267,9 @@ MIA,Kel'el Ware,C
 MIA,Jaime Jaquez Jr.,SF
 MIA,Andrew Wiggins,SF
 MIA,Bam Adebayo,C
-MIA,Davion Mitchell,PG
 MIA,Norman Powell,SG
 MIA,Pelle Larsson,SG
+MIA,Davion Mitchell,PG
 MIA,Nikola Jovic,PF
 MIA,Kasparas Jakucionis,PG
 MIA,Myron Gardner,SF
@@ -277,8 +277,8 @@ MIA,Keshad Johnson,SF
 MIA,Tyler Herro,SG
 MIA,Jahmir Young,PG
 MIA,Vladislav Goldin,C
-MIA,Terry Rozier,PG
 MIA,Trevor Keels,SG
+MIA,Terry Rozier,PG
 MIL,Ryan Rollins,PG
 MIL,Bobby Portis,PF
 MIL,Kyle Kuzma,PF
@@ -374,8 +374,8 @@ ORL,Paolo Banchero,PF
 ORL,Goga Bitadze,C
 ORL,Jase Richardson,SG
 ORL,Noah Penda,SF
-ORL,Jalen Suggs,PG
 ORL,Jett Howard,SF
+ORL,Jalen Suggs,PG
 ORL,Franz Wagner,SF
 ORL,Jamal Cain,SF
 ORL,Moritz Wagner,C
@@ -397,8 +397,8 @@ PHI,Paul George,PF
 PHI,Johni Broome,C
 PHI,Kyle Lowry,PG
 PHI,MarJon Beauchamp,SF
-PHI,Dalen Terry,SG
 PHI,Cameron Payne,PG
+PHI,Dalen Terry,SG
 PHI,Tyrese Martin,SG
 PHO,Royce O'Neale,SF
 PHO,Oso Ighodaro,PF

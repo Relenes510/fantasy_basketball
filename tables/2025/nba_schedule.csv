@@ -838,12 +838,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-20,8:00p,Brooklyn Nets,BRK,86.0,Oklahoma City Thunder,OKC,105.0,0,Paycom Center,1,0,0,0,1
 2026-02-20,10:00p,Los Angeles Clippers,LAC,122.0,Los Angeles Lakers,LAL,125.0,0,Crypto.com Arena,1,0,0,0,1
 2026-02-20,10:00p,Denver Nuggets,DEN,157.0,Portland Trail Blazers,POR,103.0,0,Moda Center,1,0,0,0,1
-2026-02-21,5:00p,Orlando Magic,ORL,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
-2026-02-21,7:00p,Philadelphia 76ers,PHI,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,1,0,0,0
-2026-02-21,8:00p,Detroit Pistons,DET,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-02-21,8:00p,Memphis Grizzlies,MEM,,Miami Heat,MIA,,0,Kaseya Center,1,1,0,0,0
-2026-02-21,8:00p,Sacramento Kings,SAC,,San Antonio Spurs,SAS,,0,Moody Center,0,0,0,0,0
-2026-02-21,8:30p,Houston Rockets,HOU,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
+2026-02-21,5:00p,Orlando Magic,ORL,110.0,Phoenix Suns,PHO,113.0,2,Mortgage Matchup Center,0,0,0,0,1
+2026-02-21,7:00p,Philadelphia 76ers,PHI,111.0,New Orleans Pelicans,NOP,126.0,0,Smoothie King Center,0,1,0,0,1
+2026-02-21,8:00p,Detroit Pistons,DET,126.0,Chicago Bulls,CHI,110.0,0,United Center,0,0,0,0,1
+2026-02-21,8:00p,Memphis Grizzlies,MEM,120.0,Miami Heat,MIA,136.0,0,Kaseya Center,1,1,0,0,1
+2026-02-21,8:00p,Sacramento Kings,SAC,122.0,San Antonio Spurs,SAS,139.0,0,Moody Center,0,0,0,0,1
+2026-02-21,8:30p,Houston Rockets,HOU,106.0,New York Knicks,NYK,108.0,0,Madison Square Garden (IV),0,0,0,0,1
 2026-02-22,1:00p,Cleveland Cavaliers,CLE,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
 2026-02-22,3:30p,Brooklyn Nets,BRK,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
 2026-02-22,3:30p,Denver Nuggets,DEN,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
