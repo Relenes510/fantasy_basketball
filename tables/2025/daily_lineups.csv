@@ -8481,24 +8481,14 @@ Date,Team,Player,Pos
 02/21/2026,NYK,Karl-Anthony Towns,PF
 02/22/2026,CLE,James Harden,SG
 02/22/2026,CLE,Donovan Mitchell,SG
-02/22/2026,CLE,Evan Mobley,PF
 02/22/2026,CLE,Dean Wade,PF
+02/22/2026,CLE,Evan Mobley,PF
 02/22/2026,CLE,Jarrett Allen,C
 02/22/2026,OKC,Cason Wallace,PG
 02/22/2026,OKC,Isaiah Joe,SG
 02/22/2026,OKC,Luguentz Dort,SF
 02/22/2026,OKC,Chet Holmgren,C
 02/22/2026,OKC,Isaiah Hartenstein,C
-02/22/2026,TOR,Immanuel Quickley,PG
-02/22/2026,TOR,RJ Barrett,SG
-02/22/2026,TOR,Ja'Kobe Walter,SG
-02/22/2026,TOR,Brandon Ingram,SF
-02/22/2026,TOR,Jakob Poeltl,C
-02/22/2026,MIL,Kevin Porter Jr.,PG
-02/22/2026,MIL,AJ Green,SG
-02/22/2026,MIL,Ryan Rollins,SG
-02/22/2026,MIL,Kyle Kuzma,PF
-02/22/2026,MIL,Myles Turner,C
 02/22/2026,DEN,Jamal Murray,PG
 02/22/2026,DEN,Christian Braun,SG
 02/22/2026,DEN,Julian Strawther,SF
@@ -8509,6 +8499,16 @@ Date,Team,Player,Pos
 02/22/2026,GSW,Pat Spencer,SG
 02/22/2026,GSW,Gui Santos,SF
 02/22/2026,GSW,Al Horford,C
+02/22/2026,TOR,Immanuel Quickley,PG
+02/22/2026,TOR,RJ Barrett,SG
+02/22/2026,TOR,Ja'Kobe Walter,SG
+02/22/2026,TOR,Brandon Ingram,SF
+02/22/2026,TOR,Jakob Poeltl,C
+02/22/2026,MIL,Kevin Porter Jr.,PG
+02/22/2026,MIL,AJ Green,SG
+02/22/2026,MIL,Ryan Rollins,SG
+02/22/2026,MIL,Kyle Kuzma,PF
+02/22/2026,MIL,Myles Turner,C
 02/22/2026,BRK,Egor Demin,PG
 02/22/2026,BRK,Nolan Traore,PG
 02/22/2026,BRK,Michael Porter Jr.,SF
@@ -8577,8 +8577,8 @@ Date,Team,Player,Pos
 02/22/2026,CHI,Josh Giddey,SG
 02/22/2026,CHI,Isaac Okoro,SF
 02/22/2026,CHI,Matas Buzelis,SF
-02/22/2026,CHI,Guerschon Yabusele,PF
 02/22/2026,CHI,Jalen Smith,PF
+02/22/2026,CHI,Guerschon Yabusele,PF
 02/22/2026,ORL,Anthony Black,PG
 02/22/2026,ORL,Desmond Bane,SG
 02/22/2026,ORL,Paolo Banchero,PF
@@ -8616,6 +8616,6 @@ Date,Team,Player,Pos
 02/23/2026,UTA,Kyle Filipowski,C
 02/23/2026,HOU,Amen Thompson,SG
 02/23/2026,HOU,Tari Eason,SF
-02/23/2026,HOU,Kevin Durant,PF
 02/23/2026,HOU,Jabari Smith Jr.,PF
+02/23/2026,HOU,Kevin Durant,PF
 02/23/2026,HOU,Alperen Sengun,C
