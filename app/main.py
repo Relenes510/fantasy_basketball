@@ -26,8 +26,14 @@ class PredictionRequest(BaseModel):
 
 class PredictionResponse(BaseModel):
     player: str
-    current_pts: int
     current_mins: int
+    current_fgm: int
+    current_fga: int
+    current_tpm: int
+    current_tpa: int
+    current_ftm: int
+    current_fta: int
+    current_pts: int
     current_fouls: int
     team_pts: int
     opp_pts: int
@@ -271,6 +277,7 @@ def ui():
                 resultDiv.innerHTML = `
                     <p><b>${{data.player}}</b></p>
                     <p>Current Stats: ${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
+                    <p>${{data.current_fgm}} for ${{data.current_fga}} FG | ${{data.current_tpm}} for ${{data.current_tpa}} 3PT | ${{data.current_ftm}} for ${{data.current_fta}} FT
                     <p>Player Fouls: ${{data.current_fouls}} | TeamPts: ${{data.team_pts}} | OppPts: ${{data.opp_pts}}</p>
                     <p>Pregame Predicted Stats: ${{data.pregame_pts_preds}} pts in ${{data.pregame_mins_preds}} mins</p>
                     <p><b>Predicted Final Ranges: Low: ${{data.pts_prediction_qlow}} pts / Avg: ${{data.predicted_final_pts}} pts / High: ${{data.pts_prediction_qhigh}} pts</b></p>
@@ -286,8 +293,7 @@ def ui():
             }}
 
         }} catch (err) {{
-            resultDiv.innerHTML = `<p style="color:red;">${{err.message}}</p>`;
-            console.error(err);
+            resultDiv.innerHTML = `<p style="color:red;">Player Unavailable</p>`;
         }}
     }}
 
@@ -385,6 +391,12 @@ def predict(req: PredictionRequest):
             "player": req.player_name,
             "current_mins": 0,
             "current_pts": 0,
+            "current_fgm": 0,
+            "current_fga": 0,
+            "current_tpm": 0,
+            "current_tpa": 0,
+            "current_ftm": 0,
+            "current_fta": 0,
             "current_fouls": 0,
             "team_pts": 0,
             "opp_pts": 0,
@@ -447,6 +459,12 @@ def predict(req: PredictionRequest):
             "player": req.player_name,
             "current_mins": int(df_ht['MP'].iloc[0]),
             "current_pts": int(df_ht['PTS'].iloc[0]),
+            "current_fgm": int(df_ht['FG'].iloc[0]),
+            "current_fga": int(df_ht['FGA'].iloc[0]),
+            "current_tpm": int(df_ht['TPM'].iloc[0]),
+            "current_tpa": int(df_ht['TPA'].iloc[0]),
+            "current_ftm": int(df_ht['FT'].iloc[0]),
+            "current_fta": int(df_ht['FTA'].iloc[0]),
             "current_fouls": int(df_ht['PF'].iloc[0]),
             "team_pts": team_pts,
             "opp_pts": opp_team_pts,
@@ -461,6 +479,12 @@ def predict(req: PredictionRequest):
             "player": "Player Unavailable",
             "current_mins": 0,
             "current_pts": 0,
+            "current_fgm": 0,
+            "current_fga": 0,
+            "current_tpm": 0,
+            "current_tpa": 0,
+            "current_ftm": 0,
+            "current_fta": 0,
             "current_fouls": 0,
             "team_pts": 0,
             "opp_pts": 0,
