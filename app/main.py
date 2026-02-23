@@ -3,7 +3,9 @@ from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 
 from datetime import datetime, timedelta
+import os
 import requests
+from io import StringIO
 import json
 import pandas as pd
 
@@ -20,6 +22,7 @@ app = FastAPI(title="Test NBA API", version="0.1")
 # -------------------------
 class PredictionRequest(BaseModel):
     player_name: str
+    mode: str
 
 class PredictionResponse(BaseModel):
     player: str
@@ -37,9 +40,36 @@ class PredictionResponse(BaseModel):
 # -------------------------
 # Routes
 # -------------------------
+def load_ht_inpt():
+    token = os.getenv("GITHUB_PAT")
+    url = "https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv"
+
+    r = requests.get(url, headers={"Authorization": f"token {token}"})
+    df = pd.read_csv(StringIO(r.text))
+
+    return df
+
+def generate_section(prefix):
+    return f"""
+    <label>Select Team:</label>
+    <select id="{prefix}-team">
+        <option value="">--Select a team--</option>
+    </select>
+
+    <label>Select Player:</label>
+    <select id="{prefix}-player" disabled>
+        <option value="">--Select a player--</option>
+    </select>
+
+    <button onclick="sendPrediction('/predict', '{prefix}')">
+        Predict
+    </button>
+
+    <div id="{prefix}-result" class="result"></div>
+    """
 @app.get("/", response_class=HTMLResponse)
 def ui():
-    df = pd.read_csv("tables/2025/ht_api_input.csv")
+    df = load_ht_inpt()
     df['Date'] = pd.to_datetime(df.Date)
 
     time = datetime.now() + timedelta(hours=-8)
@@ -49,87 +79,143 @@ def ui():
     team_players_json = json.dumps(team_players)
 
     html_content = f"""
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NBA Predictor</title>
+
     <style>
-        body {{
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            justify-content: center;
-            background-color: #f5f5f5;
-        }}
-        .container {{
-            width: 100%;
-            max-width: 500px;
-            background: #fff;
-            padding: 20px;
-            border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        }}
-        h1 {{
-            text-align: center;
-            margin-bottom: 20px;
-        }}
-        label {{
-            font-weight: bold;
-            margin-bottom: 6px;
-            display: block;
-        }}
-        select, button {{
-            width: 100%;
-            padding: 12px;
-            font-size: 16px;
-            margin-bottom: 16px;
-            border-radius: 8px;
-            border: 1px solid #ccc;
-        }}
-        button {{
-            background-color: #007bff;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }}
-        button:hover {{
-            background-color: #0056b3;
-        }}
-        #result {{
-            text-align: center;
-            font-size: 1.1rem;
-        }}
+    body {{
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        background-color: #f5f5f5;
+    }}
+
+    .container {{
+        width: 100%;
+        max-width: 520px;
+        background: #fff;
+        padding: 24px;
+        border-radius: 14px;
+        box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+    }}
+
+    h1 {{
+        text-align: center;
+        margin-bottom: 20px;
+    }}
+
+    .tabs {{
+        display: flex;
+        margin-bottom: 20px;
+    }}
+
+    .tab-btn {{
+        flex: 1;
+        padding: 10px;
+        border: none;
+        background: #e0e0e0;
+        font-weight: bold;
+        cursor: pointer;
+    }}
+
+    .tab-btn.active {{
+        background: #007bff;
+        color: white;
+    }}
+
+    .section {{
+        display: none;
+    }}
+
+    .section.active {{
+        display: block;
+    }}
+
+    label {{
+        font-weight: bold;
+        margin-bottom: 6px;
+        display: block;
+    }}
+
+    select, button {{
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+        margin-bottom: 16px;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+    }}
+
+    button {{
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }}
+
+    button:hover {{
+        background-color: #0056b3;
+    }}
+
+    .result {{
+        text-align: center;
+        font-size: 1.05rem;
+    }}
     </style>
-</head>
-<body>
+    </head>
+
+    <body>
     <div class="container">
-        <h1>NBA Live Points Predictor</h1>
 
-        <label for="team">Select team:</label>
-        <select id="team">
-            <option value="">--Select a team--</option>
-        </select>
+    <h1>NBA Points Predictor</h1>
 
-        <label for="player">Select player:</label>
-        <select id="player" disabled>
-            <option value="">--Select a player--</option>
-        </select>
+    <div class="tabs">
+        <button class="tab-btn active" onclick="switchTab('pregame')">Pregame</button>
+        <button class="tab-btn" onclick="switchTab('live')">Live</button>
+    </div>
 
-        <button onclick="predict()">Predict</button>
+    <!-- LIVE SECTION -->
+    <div id="live" class="section">
+        {generate_section("live")}
+    </div>
 
-        <div id="result"></div>
+    <!-- PREGAME SECTION -->
+    <div id="pregame" class="section active">
+        {generate_section("pregame")}
+    </div>
+
     </div>
 
     <script>
-        const teamPlayers = {team_players_json};
+    const teamPlayers = {team_players_json};
 
-        const teamSelect = document.getElementById("team");
-        const playerSelect = document.getElementById("player");
+    /* -------------------------
+    TAB SWITCHING
+    ------------------------- */
+    function switchTab(tabName) {{
+        document.querySelectorAll('.section')
+            .forEach(sec => sec.classList.remove('active'));
 
-        // Populate team dropdown
+        document.querySelectorAll('.tab-btn')
+            .forEach(btn => btn.classList.remove('active'));
+
+        document.getElementById(tabName).classList.add('active');
+        event.target.classList.add('active');
+    }}
+
+    /* -------------------------
+    DROPDOWN INITIALIZER
+    ------------------------- */
+    function initializeDropdowns(prefix) {{
+        const teamSelect = document.getElementById(prefix + "-team");
+        const playerSelect = document.getElementById(prefix + "-player");
+
         Object.keys(teamPlayers).sort().forEach(team => {{
             const opt = document.createElement("option");
             opt.value = team;
@@ -137,7 +223,6 @@ def ui():
             teamSelect.appendChild(opt);
         }});
 
-        // Update players when team changes
         teamSelect.addEventListener("change", () => {{
             playerSelect.innerHTML = '<option value="">--Select a player--</option>';
             const players = teamPlayers[teamSelect.value];
@@ -156,31 +241,33 @@ def ui():
 
             playerSelect.disabled = false;
         }});
+    }}
 
-        async function predict() {{
-            const player = playerSelect.value;
-            const resultDiv = document.getElementById("result");
+    /* -------------------------
+    API CALL
+    ------------------------- */
+    async function sendPrediction(endpoint, prefix) {{
+        const player = document.getElementById(prefix + "-player").value;
+        const resultDiv = document.getElementById(prefix + "-result");
 
-            if (!player) {{
-                resultDiv.innerHTML = "<p style='color:red;'>Select a player</p>";
-                return;
-            }}
+        if (!player) {{
+            resultDiv.innerHTML = "<p style='color:red;'>Select a player</p>";
+            return;
+        }}
 
-            resultDiv.innerHTML = "Loading...";
+        resultDiv.innerHTML = "Loading...";
 
-            try {{
-                const res = await fetch("/predict", {{
-                    method: "POST",
-                    headers: {{ "Content-Type": "application/json" }},
-                    body: JSON.stringify({{ player_name: player }})
-                }});
+        try {{
+            const res = await fetch(endpoint, {{
+                method: "POST",
+                headers: {{ "Content-Type": "application/json" }},
+                body: JSON.stringify({{ player_name: player, mode: prefix }})
+            }});
 
-                if (!res.ok) {{
-                    const text = await res.text();
-                    throw new Error(`Server error ${{res.status}}`);
-                }}
+            const data = await res.json();
 
-                const data = await res.json();
+            if (prefix == "live") {{
+
                 resultDiv.innerHTML = `
                     <p><b>${{data.player}}</b></p>
                     <p>Current Stats: ${{data.current_pts}} pts in ${{data.current_mins}} mins</p>
@@ -188,24 +275,39 @@ def ui():
                     <p>Pregame Predicted Stats: ${{data.pregame_pts_preds}} pts in ${{data.pregame_mins_preds}} mins</p>
                     <p><b>Predicted Final Ranges: Low: ${{data.pts_prediction_qlow}} pts / Avg: ${{data.predicted_final_pts}} pts / High: ${{data.pts_prediction_qhigh}} pts</b></p>
                 `;
-            }} catch (err) {{
-                resultDiv.innerHTML = `<p style="color:red;">${{err.message}}</p>`;
-                console.error(err);
+
+            }} else if (prefix == "pregame") {{
+
+                resultDiv.innerHTML = `
+                    <p><b>${{data.player}}</b></p>
+                    <p><b>Projected Points:</b> ${{data.pregame_pts_preds}}</p>
+                    <p><b>Projected Minutes:</b> ${{data.pregame_mins_preds}}</p>
+                `;
             }}
+
+        }} catch (err) {{
+            resultDiv.innerHTML = `<p style="color:red;">${{err.message}}</p>`;
+            console.error(err);
         }}
+    }}
+
+    /* -------------------------
+    INIT
+    ------------------------- */
+    initializeDropdowns("live");
+    initializeDropdowns("pregame");
     </script>
-</body>
-</html>
-"""
+
+    </body>
+    </html>
+    """
     return HTMLResponse(content=html_content)
 
 @app.get("/health")
 def health():
-    df = pd.read_csv("tables/2025/ht_api_input.csv")
+    df = load_ht_inpt()
     time =  datetime.now() + timedelta(hours=-8)
     return {"status": "ok", "rows": df.shape[0], "time": time}
-
-
 
 def get_live_stat():
     response = requests.get("https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard")
@@ -275,6 +377,24 @@ def get_live_stat():
 
 @app.post("/predict", response_model=PredictionResponse)
 def predict(req: PredictionRequest):
+
+    if req.mode == "pregame":
+        df = load_ht_inpt()
+        df = df[df.Player == req.player_name]
+        return {
+            "player": req.player_name,
+            "current_mins": 0,
+            "current_pts": 0,
+            "current_fouls": 0,
+            "team_pts": 0,
+            "opp_pts": 0,
+            "predicted_final_pts": 0,
+            "pts_prediction_qlow": 0,
+            "pts_prediction_qhigh": 0,
+            "pregame_mins_preds": float(round(df['MP_proj'].iloc[0], 2)),
+            "pregame_pts_preds": float(round(df['PTS_proj'].iloc[0], 2))
+        }
+
     ht_booster_mean = xgb.Booster()
     ht_booster_mean.load_model("ML_models/ht_PTS_mean_model.json")
     ht_model_mean = XGBRegressor()
@@ -290,7 +410,7 @@ def predict(req: PredictionRequest):
     ht_model_Qhigh = XGBRegressor()
     ht_model_Qhigh._Booster = ht_booster_Qhigh
     
-    df = pd.read_csv("tables/2025/ht_api_input.csv")
+    df = load_ht_inpt()
     df['Date'] = pd.to_datetime(df.Date)
     
     df['Team'] = df['Team'].astype('category')
