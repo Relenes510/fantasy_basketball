@@ -8539,8 +8539,8 @@ Date,Team,Player,Pos
 02/22/2026,WAS,Tre Johnson,SG
 02/22/2026,WAS,Kyshawn George,SF
 02/22/2026,WAS,Anthony Gill,PF
-02/22/2026,BOS,Jaylen Brown,SG
 02/22/2026,BOS,Baylor Scheierman,SG
+02/22/2026,BOS,Jaylen Brown,SG
 02/22/2026,BOS,Derrick White,SG
 02/22/2026,BOS,Sam Hauser,SF
 02/22/2026,BOS,Neemias Queta,C
@@ -8581,13 +8581,13 @@ Date,Team,Player,Pos
 02/22/2026,CHI,Guerschon Yabusele,PF
 02/22/2026,ORL,Anthony Black,PG
 02/22/2026,ORL,Desmond Bane,SG
-02/22/2026,ORL,Paolo Banchero,PF
 02/22/2026,ORL,Tristan da Silva,PF
+02/22/2026,ORL,Paolo Banchero,PF
 02/22/2026,ORL,Wendell Carter Jr.,C
 02/22/2026,LAC,Kris Dunn,PG
 02/22/2026,LAC,Kobe Sanders,SG
-02/22/2026,LAC,Kawhi Leonard,SF
 02/22/2026,LAC,Derrick Jones Jr.,SF
+02/22/2026,LAC,Kawhi Leonard,SF
 02/22/2026,LAC,Brook Lopez,C
 02/23/2026,SAS,De'Aaron Fox,PG
 02/23/2026,SAS,Devin Vassell,SG
@@ -8595,21 +8595,21 @@ Date,Team,Player,Pos
 02/23/2026,SAS,Julian Champagnie,SF
 02/23/2026,SAS,Victor Wembanyama,PF
 02/23/2026,DET,Cade Cunningham,PG
-02/23/2026,DET,Ausar Thompson,SG
 02/23/2026,DET,Duncan Robinson,SG
+02/23/2026,DET,Ausar Thompson,SG
 02/23/2026,DET,Tobias Harris,SF
 02/23/2026,DET,Jalen Duren,C
 02/23/2026,SAC,Russell Westbrook,PG
 02/23/2026,SAC,DeMar DeRozan,SF
-02/23/2026,SAC,Nique Clifford,SF
+02/23/2026,SAC,Keegan Murray,PF
 02/23/2026,SAC,Precious Achiuwa,PF
 02/23/2026,SAC,Maxime Raynaud,C
-02/23/2026,MEM,Ty Jerome,PG
+02/23/2026,MEM,Scotty Pippen Jr.,PG
 02/23/2026,MEM,Cam Spencer,SG
 02/23/2026,MEM,Jaylen Wells,SF
 02/23/2026,MEM,GG Jackson II,PF
-02/23/2026,MEM,Taylor Hendricks,PF
-02/23/2026,UTA,Keyonte George,SG
+02/23/2026,MEM,Olivier-Maxence Prosper,PF
+02/23/2026,UTA,Isaiah Collier,PG
 02/23/2026,UTA,Ace Bailey,SF
 02/23/2026,UTA,Cody Williams,SF
 02/23/2026,UTA,Lauri Markkanen,PF
@@ -8619,3 +8619,33 @@ Date,Team,Player,Pos
 02/23/2026,HOU,Jabari Smith Jr.,PF
 02/23/2026,HOU,Kevin Durant,PF
 02/23/2026,HOU,Alperen Sengun,C
+02/24/2026,SAS,De'Aaron Fox,PG
+02/24/2026,SAS,Devin Vassell,SG
+02/24/2026,SAS,Stephon Castle,SG
+02/24/2026,SAS,Julian Champagnie,SF
+02/24/2026,SAS,Victor Wembanyama,PF
+02/24/2026,DET,Cade Cunningham,PG
+02/24/2026,DET,Ausar Thompson,SG
+02/24/2026,DET,Duncan Robinson,SG
+02/24/2026,DET,Tobias Harris,SF
+02/24/2026,DET,Jalen Duren,C
+02/24/2026,SAC,Russell Westbrook,PG
+02/24/2026,SAC,DeMar DeRozan,SF
+02/24/2026,SAC,Keegan Murray,PF
+02/24/2026,SAC,Precious Achiuwa,PF
+02/24/2026,SAC,Maxime Raynaud,C
+02/24/2026,MEM,Scotty Pippen Jr.,PG
+02/24/2026,MEM,Cam Spencer,SG
+02/24/2026,MEM,Jaylen Wells,SF
+02/24/2026,MEM,GG Jackson II,PF
+02/24/2026,MEM,Olivier-Maxence Prosper,PF
+02/24/2026,UTA,Isaiah Collier,PG
+02/24/2026,UTA,Ace Bailey,SF
+02/24/2026,UTA,Cody Williams,SF
+02/24/2026,UTA,Lauri Markkanen,PF
+02/24/2026,UTA,Kyle Filipowski,C
+02/24/2026,HOU,Amen Thompson,SG
+02/24/2026,HOU,Tari Eason,SF
+02/24/2026,HOU,Kevin Durant,PF
+02/24/2026,HOU,Jabari Smith Jr.,PF
+02/24/2026,HOU,Alperen Sengun,C
