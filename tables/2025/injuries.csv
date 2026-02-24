@@ -7595,13 +7595,9 @@ Date,Team,Player,Status,Reason
 02/24/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
 02/24/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
 02/24/2026,IND,Quenton Jackson,Questionable,G League - Two-Way
-02/24/2026,IND,Kam Jones,Probable,Injury/Illness - Lower Back; Soreness
-02/24/2026,IND,T.J. McConnell,Questionable,Injury/Illness - Right Hamstring; Soreness
-02/24/2026,IND,Andrew Nembhard,Questionable,Injury/Illness - Lower Back; Injury Management
 02/24/2026,IND,Aaron Nesmith,Out,Injury/Illness - Right Ankle; Sprain
 02/24/2026,IND,Taelon Peter,Questionable,G League - Two-Way
-02/24/2026,IND,Micah Potter,Probable,Injury/Illness - Left Ankle; Sprain
-02/24/2026,IND,Pascal Siakam,Doubtful,Injury/Illness - Left Wrist; Sprain
+02/24/2026,IND,Pascal Siakam,Out,Injury/Illness - Left Wrist; Sprain
 02/24/2026,IND,Ethan Thompson,Questionable,G League - Two-Way
 02/24/2026,IND,Obi Toppin,Out,Injury/Illness - Right Foot; Stress Fracture
 02/24/2026,IND,Ivica Zubac,Out,Injury/Illness - Left Ankle; Sprain
@@ -7619,7 +7615,6 @@ Date,Team,Player,Status,Reason
 02/24/2026,BRK,Josh Minott,Out,G League - On Assignment
 02/24/2026,BRK,Ben Saraf,Out,G League - On Assignment
 02/24/2026,NYK,Pacome Dadiet,Out,G League - On Assignment
-02/24/2026,NYK,Dillon Jones,Questionable,G League - Two-Way
 02/24/2026,NYK,Miles McBride,Out,Injury/Illness - Pelvic; Core Muscle Surgery
 02/24/2026,NYK,Kevin McCullar Jr.,Out,G League - Two-Way
 02/24/2026,CLE,Tristan Enaruna,Out,G League - Two-Way
@@ -7642,33 +7637,29 @@ Date,Team,Player,Status,Reason
 02/24/2026,WAS,Alex Sarr,Out,Injury/Illness - Right Hamstring; Strain
 02/24/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 02/24/2026,WAS,Trae Young,Out,Injury/Illness - Right Knee; MCL Sprain; Quad Contusion
-02/24/2026,ATL,RayJ Dennis,Doubtful,G League - Two-Way
-02/24/2026,ATL,Caleb Houstan,Doubtful,G League - Two-Way
-02/24/2026,ATL,Jonathan Kuminga,Questionable,Injury/Illness - Left Knee; Bone Bruise
-02/24/2026,ATL,Asa Newell,Doubtful,G League - On Assignment
+02/24/2026,ATL,RayJ Dennis,Out,G League - Two-Way
+02/24/2026,ATL,Caleb Houstan,Out,G League - Two-Way
+02/24/2026,ATL,Asa Newell,Out,G League - On Assignment
 02/24/2026,CHO,Tosan Evbuomwan,Out,G League - Two-Way
 02/24/2026,CHO,PJ Hall,Out,G League - Two-Way
-02/24/2026,CHO,Ryan Kalkbrenner,Probable,Injury/Illness - Left Ankle; Sprain
 02/24/2026,CHO,Liam McNeeley,Out,Injury/Illness - Left Ankle; Sprain
 02/24/2026,CHO,Antonio Reeves,Out,G League - Two-Way
 02/24/2026,CHO,Tidjane Salaun,Out,G League - On Assignment
-02/24/2026,CHO,Coby White,Probable,Injury/Illness - Left Calf; Strain
-02/24/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Sprain
+02/24/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Surgery
 02/24/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
 02/24/2026,CHI,Jaden Ivey,Out,Injury/Illness - Left Patellofemoral; Pain Syndrome
 02/24/2026,CHI,Yuki Kawamura,Out,G League - Two-Way
 02/24/2026,CHI,Mac McClung,Out,G League - Two-Way
 02/24/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Wrist; Contusion
-02/24/2026,CHI,Jalen Smith,Questionable,Injury/Illness - Left Calf; Strain
+02/24/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
 02/24/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Surgery
 02/24/2026,GSW,LJ Cryer,Out,G League - Two-Way
 02/24/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
 02/24/2026,GSW,Stephen Curry,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
-02/24/2026,GSW,Draymond Green,Questionable,Injury/Illness - Left Low Back; Injury Management
-02/24/2026,GSW,Al Horford,Questionable,Injury/Illness - Left Toe; Injury Management
-02/24/2026,GSW,De'Anthony Melton,Questionable,Injury/Illness - Left Knee; Injury Management
+02/24/2026,GSW,Draymond Green,Probable,Injury/Illness - Left Low Back; Injury Management
+02/24/2026,GSW,Al Horford,Out,Injury/Illness - Left Toe; Injury Management
 02/24/2026,GSW,Kristaps Porzingis,Out,Injury/Illness - General; Illness
-02/24/2026,GSW,Nate Williams,Questionable,G League - Two-Way
+02/24/2026,GSW,Nate Williams,Out,G League - Two-Way
 02/24/2026,NOP,Trey Alexander,Out,G League - Two-Way
 02/24/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
 02/24/2026,NOP,Yves Missi,Out,Injury/Illness - Left Calf; Strain
@@ -7680,10 +7671,10 @@ Date,Team,Player,Status,Reason
 02/24/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
 02/24/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
 02/24/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
-02/24/2026,BOS,Jaylen Brown,Questionable,Injury/Illness - Right Knee; Contusion
+02/24/2026,BOS,Jaylen Brown,Out,Injury/Illness - Right Knee; Contusion
 02/24/2026,BOS,Max Shulga,Out,G League - Two-Way
 02/24/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
-02/24/2026,BOS,Amari Williams,Doubtful,G League - On Assignment
+02/24/2026,BOS,Amari Williams,Out,G League - On Assignment
 02/24/2026,PHO,Grayson Allen,Questionable,Injury/Illness - Right Knee & Ankle; Injury Management
 02/24/2026,PHO,Cole Anthony,Out,Not With Team
 02/24/2026,PHO,Devin Booker,Out,Injury/Illness - Right Hip; Strain
@@ -7691,17 +7682,17 @@ Date,Team,Player,Status,Reason
 02/24/2026,PHO,Jordan Goodwin,Out,Injury/Illness - Left Calf; Strain
 02/24/2026,PHO,Haywood Highsmith,Out,Injury/Illness - Right Knee; Injury Management
 02/24/2026,MIN,Enrique Freeman,Out,G League - Two-Way
-02/24/2026,MIN,Naz Reid,Questionable,Injury/Illness - Right Shoulder; Soreness
 02/24/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
 02/24/2026,POR,Deni Avdija,Out,Injury/Illness - Low Back; Injury Management
 02/24/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
 02/24/2026,POR,Caleb Love,Out,G League - Two-Way
 02/24/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left Calf; Strain
+02/24/2026,POR,Robert Williams III,Questionable,Injury/Illness - Right Foot; Soreness
 02/24/2026,POR,Hansen Yang,Out,G League - On Assignment
 02/24/2026,ORL,Colin Castleton,Out,G League - Two-Way
 02/24/2026,ORL,Alex Morales,Out,G League - Two-Way
 02/24/2026,ORL,Jalen Suggs,Questionable,Injury/Illness - Back; Strain
 02/24/2026,ORL,Franz Wagner,Out,Injury/Illness - Left Ankle; High Ankle Sprain/Injury Management
-02/24/2026,LAL,Jaxson Hayes,Doubtful,Injury/Illness - Right Ankle; Sprain
+02/24/2026,LAL,Jaxson Hayes,Out,Injury/Illness - Right Ankle; Sprain
 02/24/2026,LAL,Bronny James,Out,G League - On Assignment
 02/24/2026,LAL,Adou Thiero,Out,G League - On Assignment
