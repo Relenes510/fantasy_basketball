@@ -12,6 +12,8 @@ import pandas as pd
 from xgboost import XGBRegressor
 import xgboost as xgb
 
+YEAR = 2025
+
 # -------------------------
 # Create FastAPI app
 # -------------------------
@@ -80,7 +82,7 @@ def generate_section(prefix):
     """
 @app.get("/", response_class=HTMLResponse)
 def ui():
-    df = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv", "table")
+    df = load_gh_artfct(f"https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/{YEAR}/ht_api_input.csv", "table")
     df['Date'] = pd.to_datetime(df.Date)
 
     time = datetime.now() + timedelta(hours=-8)
@@ -317,7 +319,7 @@ def ui():
 
 @app.get("/health")
 def health():
-    df = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv", "table")
+    df = load_gh_artfct(f"https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/{YEAR}/ht_api_input.csv", "table")
     time =  datetime.now() + timedelta(hours=-8)
     return {"status": "ok", "rows": df.shape[0], "time": time}
 
@@ -391,7 +393,7 @@ def get_live_stat():
 def predict(req: PredictionRequest):
     time = datetime.now() + timedelta(hours=-8)
 
-    df_lines = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/parlay_lines.csv", "table")
+    df_lines = load_gh_artfct(f"https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/{YEAR}/parlay_lines.csv", "table")
     df_lines = df_lines[(df_lines.Player == req.player_name) & (df_lines.Date == str(time.date()))]
     if df_lines.shape[0] > 0:
         pts_line = float(df_lines['PTS_line'].iloc[0])
@@ -399,7 +401,7 @@ def predict(req: PredictionRequest):
         pts_line = 0
 
     if req.mode == "pregame":
-        df = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv", "table")
+        df = load_gh_artfct(f"https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/{YEAR}/ht_api_input.csv", "table")
         df = df[(df.Player == req.player_name) & (df.Date == str(time.date()))]
         return {
             "player": req.player_name,
@@ -434,7 +436,7 @@ def predict(req: PredictionRequest):
     ht_model_Qhigh = XGBRegressor()
     ht_model_Qhigh._Booster = ht_booster_Qhigh
     
-    df = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv", "table")
+    df = load_gh_artfct(f"https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/{YEAR}/ht_api_input.csv", "table")
     
     df['Team'] = df['Team'].astype('category')
     df['Opp'] = df['Opp'].astype('category')
