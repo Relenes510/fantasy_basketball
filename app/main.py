@@ -47,12 +47,18 @@ class PredictionResponse(BaseModel):
 # -------------------------
 # Routes
 # -------------------------
-def load_gh_tbl(url):
+def load_gh_artfct(url, mode):
     token = os.getenv("GITHUB_PAT")
     r = requests.get(url, headers={"Authorization": f"token {token}"})
-    df = pd.read_csv(StringIO(r.text))
 
-    return df
+    if mode == 'table':
+        df = pd.read_csv(StringIO(r.text))
+        df['Date'] = pd.to_datetime(df.Date)
+        return df
+    else:
+        booster = xgb.Booster()
+        booster.load_model(bytearray(r.content))
+        return booster
 
 def generate_section(prefix):
     return f"""
@@ -74,7 +80,7 @@ def generate_section(prefix):
     """
 @app.get("/", response_class=HTMLResponse)
 def ui():
-    df = load_gh_tbl("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv")
+    df = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv", "table")
     df['Date'] = pd.to_datetime(df.Date)
 
     time = datetime.now() + timedelta(hours=-8)
@@ -311,7 +317,7 @@ def ui():
 
 @app.get("/health")
 def health():
-    df = load_gh_tbl("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv")
+    df = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv", "table")
     time =  datetime.now() + timedelta(hours=-8)
     return {"status": "ok", "rows": df.shape[0], "time": time}
 
@@ -383,16 +389,18 @@ def get_live_stat():
 
 @app.post("/predict", response_model=PredictionResponse)
 def predict(req: PredictionRequest):
-    df_lines = load_gh_tbl("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/parlay_lines.csv")
-    df_lines = df_lines[df_lines.Player == req.player_name]
+    time = datetime.now() + timedelta(hours=-8)
+
+    df_lines = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/parlay_lines.csv", "table")
+    df_lines = df_lines[(df_lines.Player == req.player_name) & (df_lines.Date == str(time.date()))]
     if df_lines.shape[0] > 0:
         pts_line = float(df_lines['PTS_line'].iloc[0])
     else:
         pts_line = 0
 
     if req.mode == "pregame":
-        df = load_gh_tbl("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv")
-        df = df[df.Player == req.player_name]
+        df = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv", "table")
+        df = df[(df.Player == req.player_name) & (df.Date == str(time.date()))]
         return {
             "player": req.player_name,
             "current_mins": 0,
@@ -414,30 +422,24 @@ def predict(req: PredictionRequest):
             "pts_line": pts_line
         }
 
-    ht_booster_mean = xgb.Booster()
-    ht_booster_mean.load_model("ML_models/ht_PTS_mean_model.json")
+    ht_booster_mean = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/ML_models/ht_PTS_mean_model.json", "booster")
     ht_model_mean = XGBRegressor()
     ht_model_mean._Booster = ht_booster_mean
 
-    ht_booster_Qlow = xgb.Booster()
-    ht_booster_Qlow.load_model("ML_models/ht_PTS_Qlow_model.json")
+    ht_booster_Qlow = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/ML_models/ht_PTS_Qlow_model.json", "booster")
     ht_model_Qlow = XGBRegressor()
     ht_model_Qlow._Booster = ht_booster_Qlow
 
-    ht_booster_Qhigh = xgb.Booster()
-    ht_booster_Qhigh.load_model("ML_models/ht_PTS_Qhigh_model.json")
+    ht_booster_Qhigh = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/ML_models/ht_PTS_Qhigh_model.json", "booster")
     ht_model_Qhigh = XGBRegressor()
     ht_model_Qhigh._Booster = ht_booster_Qhigh
     
-    df = load_gh_tbl("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv")
-    df['Date'] = pd.to_datetime(df.Date)
+    df = load_gh_artfct("https://raw.githubusercontent.com/Relenes510/fantasy_basketball/refs/heads/main/tables/2025/ht_api_input.csv", "table")
     
     df['Team'] = df['Team'].astype('category')
     df['Opp'] = df['Opp'].astype('category')
     df['Player'] = df['Player'].astype('category')
     df['Pos'] = df['Pos'].astype('category')
-
-    time = datetime.now() + timedelta(hours=-8)
     df = df[(df.Date == str(time.date())) & (df.Player == req.player_name)].drop(['Season', 'Date', 'PTS'], axis=1)
 
     df_ht = get_live_stat()
