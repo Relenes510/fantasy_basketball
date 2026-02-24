@@ -855,9 +855,9 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-22,8:00p,New York Knicks,NYK,105.0,Chicago Bulls,CHI,99.0,0,United Center,1,1,0,0,1
 2026-02-22,8:00p,Portland Trail Blazers,POR,92.0,Phoenix Suns,PHO,77.0,0,Mortgage Matchup Center,0,1,0,0,1
 2026-02-22,9:00p,Orlando Magic,ORL,111.0,Los Angeles Clippers,LAC,109.0,0,Intuit Dome,1,0,0,0,1
-2026-02-23,7:00p,San Antonio Spurs,SAS,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
-2026-02-23,8:00p,Sacramento Kings,SAC,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-02-23,9:30p,Utah Jazz,UTA,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
+2026-02-23,7:00p,San Antonio Spurs,SAS,114.0,Detroit Pistons,DET,103.0,0,Little Caesars Arena,0,0,0,0,1
+2026-02-23,8:00p,Sacramento Kings,SAC,123.0,Memphis Grizzlies,MEM,114.0,0,FedExForum,0,0,0,0,1
+2026-02-23,9:30p,Utah Jazz,UTA,105.0,Houston Rockets,HOU,125.0,0,Toyota Center,0,0,0,0,1
 2026-02-24,7:00p,Philadelphia 76ers,PHI,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-02-24,7:30p,Washington Wizards,WAS,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
 2026-02-24,7:30p,Dallas Mavericks,DAL,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0

@@ -101,9 +101,9 @@ CLE,Keon Ellis,SG
 CLE,James Harden,PG
 CLE,Tristan Enaruna,SF
 CLE,Chuma Okeke,F
-CLE,Emanuel Miller,PF
 CLE,Max Strus,SF
 CLE,Riley Minix,SF
+CLE,Darius Brown II,G
 DAL,Naji Marshall,SF
 DAL,Max Christie,SG
 DAL,Klay Thompson,SF
@@ -182,8 +182,8 @@ HOU,Josh Okogie,SG
 HOU,Clint Capela,C
 HOU,Alperen Sengun,C
 HOU,Aaron Holiday,PG
-HOU,Jae'Sean Tate,SF
 HOU,Tari Eason,PF
+HOU,Jae'Sean Tate,SF
 HOU,Steven Adams,C
 HOU,JD Davison,PG
 HOU,Dorian Finney-Smith,PF
@@ -223,8 +223,9 @@ LAC,Bradley Beal,SG
 LAC,Bennedict Mathurin,SF
 LAC,TyTy Washington Jr.,PG
 LAC,Isaiah Jackson,C
-LAC,Darius Garland,PG
 LAC,Sean Pedulla,G
+LAC,Darius Garland,PG
+LAC,Norchad Omier,PF
 LAL,Jake LaRavia,PF
 LAL,Deandre Ayton,C
 LAL,Jaxson Hayes,C
@@ -257,10 +258,10 @@ MEM,Zach Edey,C
 MEM,Ty Jerome,SG
 MEM,Taylor Hendricks,PF
 MEM,Scotty Pippen Jr.,PG
-MEM,Kyle Anderson,SF
 MEM,Walter Clayton,PG
-MEM,Lawson Lovering,C
+MEM,Kyle Anderson,SF
 MEM,Brandon Clarke,PF
+MEM,Rayan Rupert,SG
 MIA,Dru Smith,SG
 MIA,Simone Fontecchio,SF
 MIA,Kel'el Ware,C
@@ -423,7 +424,6 @@ POR,Donovan Clingan,C
 POR,Sidy Cissoko,SF
 POR,Deni Avdija,SF
 POR,Shaedon Sharpe,SG
-POR,Rayan Rupert,SG
 POR,Caleb Love,SG
 POR,Jerami Grant,PF
 POR,Robert Williams,C
@@ -445,13 +445,14 @@ SAC,Malik Monk,SG
 SAC,Zach LaVine,SG
 SAC,Drew Eubanks,C
 SAC,Dylan Cardwell,C
-SAC,Devin Carter,PG
 SAC,Keegan Murray,PF
+SAC,Devin Carter,PG
 SAC,Domantas Sabonis,C
 SAC,Doug McDermott,SF
 SAC,Daeqwon Plowden,SG
 SAC,Isaiah Stevens,PG
 SAC,De'Andre Hunter,SF
+SAC,Patrick Baldwin Jr.,SF
 SAS,Keldon Johnson,SF
 SAS,Julian Champagnie,SF
 SAS,Harrison Barnes,PF
@@ -498,9 +499,9 @@ UTA,Lauri Markkanen,PF
 UTA,Jusuf Nurkic,C
 UTA,Kevin Love,PF
 UTA,Elijah Harkless,SG
-UTA,Walker Kessler,C
 UTA,Vince Williams Jr.,SG
 UTA,John Konchar,SG
+UTA,Walker Kessler,C
 UTA,Oscar Tshiebwe,C
 UTA,Jaren Jackson Jr.,C
 UTA,Blake Hinson,SF
@@ -518,7 +519,6 @@ WAS,Cam Whitmore,SF
 WAS,Sharife Cooper,PG
 WAS,Jaden Hardy,SG
 WAS,Alondes Williams,SG
-WAS,Kadary Richmond,SG
 WAS,D'Angelo Russell,PG
 WAS,Anthony Davis,PF
 WAS,Trae Young,PG
