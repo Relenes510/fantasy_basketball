@@ -7686,44 +7686,69 @@ Date,Team,Player,Status,Reason
 02/24/2026,LAL,Jaxson Hayes,Out,Injury/Illness - Right Ankle; Sprain
 02/24/2026,LAL,Bronny James,Out,G League - On Assignment
 02/24/2026,LAL,Adou Thiero,Out,G League - On Assignment
-02/25/2026,DEN,Peyton Watson,Out,Injury/Illness - Right Hamstring; Strain
-02/25/2026,DET,Isaiah Stewart,Out,League Suspension
-02/25/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
-02/25/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
-02/25/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
-02/25/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
-02/25/2026,SAS,Mason Plumlee,Out,Return to Competition Reconditioning
-02/25/2026,TOR,Jonathan Mogbo,Out,G League - On Assignment
-02/25/2026,DEN,Julian Strawther,Probable,Injury/Illness - Left Great Toe; Sprain
-02/25/2026,DET,Wendell Moore Jr.,Out,G League - Two-Way
-02/25/2026,HOU,Amen Thompson,Out,Injury/Illness - Left Quadricep; Tendinitis
-02/25/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Stress Reaction
-02/25/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
-02/25/2026,SAC,Domantas Sabonis,Out,Injury/Illness - Left Knee; Meniscus Repair
-02/25/2026,SAS,Emanuel Miller,Out,G League - Two-Way
-02/25/2026,TOR,Alijah Martin,Out,G League - Two-Way
-02/25/2026,DEN,Jalen Pickett,Out,Injury/Illness - Right Knee; Soreness
-02/25/2026,DET,Chaz Lanier,Out,G League - On Assignment
-02/25/2026,HOU,Jae'Sean Tate,Out,Injury/Illness - Right Knee; Sprain
-02/25/2026,MEM,Cedric Coward,Out,Injury/Illness - Right Knee; Posterior Capsule Sprain
-02/25/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
-02/25/2026,SAC,Zach LaVine,Out,Injury/Illness - Right 5th Finger; Tendon Repair
-02/25/2026,SAS,David Jones Garcia,Out,G League - Two-Way
-02/25/2026,TOR,A.J. Lawson,Out,G League - Two-Way
-02/25/2026,DEN,Jamal Murray,Probable,Injury/Illness - Right Hamstring; Tightness
-02/25/2026,DET,Bobi Klintman,Out,G League - On Assignment
-02/25/2026,HOU,Tristen Newton,Out,G League - Two-Way
-02/25/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
-02/25/2026,SAC,De'Andre Hunter,Out,Injury/Illness - Left Eye; Retinal Repair
-02/25/2026,SAS,Harrison Ingram,Out,G League - Two-Way
-02/25/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
-02/25/2026,DEN,Curtis Jones,Out,G League - Two-Way
-02/25/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
-02/25/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
-02/25/2026,SAC,Devin Carter,Questionable,Injury/Illness - Low Back; Soreness
-02/25/2026,TOR,Scottie Barnes,Questionable,Injury/Illness - Right Quad; Contusion
-02/25/2026,DEN,Aaron Gordon,Out,Injury/Illness - Right Hamstring; Strain
-02/25/2026,MEM,Kyle Anderson,Questionable,Injury/Illness - Right Knee; Patellar Tendinitis
-02/25/2026,SAC,Dylan Cardwell,Out,Injury/Illness - Left Ankle; Sprain
-02/25/2026,DEN,Tamar Bates,Out,Injury/Illness - Left Foot; Surgery
+02/25/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Surgery
+02/25/2026,GSW,LJ Cryer,Out,G League - Two-Way
+02/25/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Irritation
+02/25/2026,GSW,Stephen Curry,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
+02/25/2026,GSW,Draymond Green,Out,Injury/Illness - Left Low Back; Injury Management
+02/25/2026,GSW,De'Anthony Melton,Out,Injury/Illness - Left Knee; Injury Management
+02/25/2026,GSW,Kristaps Porzingis,Out,Injury/Illness - General; Illness
+02/25/2026,GSW,Nate Williams,Out,G League - Two-Way
 02/25/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Injury Management
+02/25/2026,MEM,Kyle Anderson,Questionable,Injury/Illness - Right Knee; Patellar Tendinitis
+02/25/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
+02/25/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
+02/25/2026,MEM,Cedric Coward,Out,Injury/Illness - Right Knee; Posterior Capsule Sprain
+02/25/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Stress Reaction
+02/25/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
+02/25/2026,OKC,Alex Caruso,Doubtful,Injury/Illness - Left Ankle; Sprain
+02/25/2026,OKC,Shai Gilgeous-Alexander,Out,Injury/Illness - Abdominal; Strain
+02/25/2026,OKC,Isaiah Hartenstein,Out,Injury/Illness - Right Soleus; Injury Management
+02/25/2026,OKC,Chet Holmgren,Doubtful,Injury/Illness - Low Back; Spasms
+02/25/2026,OKC,Ajay Mitchell,Out,Injury/Illness - Abdominal; Strain/ Left Ankle Sprain
+02/25/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
+02/25/2026,OKC,Jalen Williams,Out,Injury/Illness - Right Hamstring; Strain
+02/25/2026,DET,Bobi Klintman,Out,G League - On Assignment
+02/25/2026,DET,Chaz Lanier,Out,G League - On Assignment
+02/25/2026,DET,Wendell Moore Jr.,Out,G League - Two-Way
+02/25/2026,DET,Isaiah Stewart,Out,League Suspension
+02/25/2026,SAS,Harrison Ingram,Out,G League - Two-Way
+02/25/2026,SAS,David Jones Garcia,Out,G League - Two-Way
+02/25/2026,SAS,Emanuel Miller,Out,G League - Two-Way
+02/25/2026,SAS,Mason Plumlee,Out,Return to Competition Reconditioning
+02/25/2026,TOR,Scottie Barnes,Questionable,Injury/Illness - Right Quad; Contusion
+02/25/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
+02/25/2026,TOR,A.J. Lawson,Out,G League - Two-Way
+02/25/2026,TOR,Alijah Martin,Out,G League - Two-Way
+02/25/2026,TOR,Jonathan Mogbo,Out,G League - On Assignment
+02/25/2026,CLE,Darius Brown,Out,G League - Two-Way
+02/25/2026,CLE,Tristan Enaruna,Out,G League - Two-Way
+02/25/2026,CLE,James Harden,Questionable,Injury/Illness - Right Thumb; Fracture
+02/25/2026,CLE,Riley Minix,Out,G League - Two-Way
+02/25/2026,CLE,Donovan Mitchell,Out,Injury/Illness - Right Groin; Strain
+02/25/2026,CLE,Evan Mobley,Out,Injury/Illness - Left Calf; Injury Maintenance
+02/25/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
+02/25/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
+02/25/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
+02/25/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
+02/25/2026,SAC,Dylan Cardwell,Out,Injury/Illness - Left Ankle; Sprain
+02/25/2026,SAC,Devin Carter,Questionable,Injury/Illness - Low Back; Soreness
+02/25/2026,SAC,De'Andre Hunter,Out,Injury/Illness - Left Eye; Retinal Repair
+02/25/2026,SAC,Zach LaVine,Out,Injury/Illness - Right 5th Finger; Tendon Repair
+02/25/2026,SAC,Domantas Sabonis,Out,Injury/Illness - Left Knee; Meniscus Repair
+02/25/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
+02/25/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
+02/25/2026,HOU,Tristen Newton,Out,G League - Two-Way
+02/25/2026,HOU,Jae'Sean Tate,Out,Injury/Illness - Right Knee; Sprain
+02/25/2026,HOU,Amen Thompson,Out,Injury/Illness - Left Quadricep; Tendinitis
+02/25/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
+02/25/2026,BOS,Max Shulga,Out,G League - Two-Way
+02/25/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
+02/25/2026,BOS,Amari Williams,Out,G League - On Assignment
+02/25/2026,DEN,Tamar Bates,Out,Injury/Illness - Left Foot; Surgery
+02/25/2026,DEN,Aaron Gordon,Out,Injury/Illness - Right Hamstring; Strain
+02/25/2026,DEN,Curtis Jones,Out,G League - Two-Way
+02/25/2026,DEN,Jamal Murray,Probable,Injury/Illness - Right Hamstring; Tightness
+02/25/2026,DEN,Jalen Pickett,Out,Injury/Illness - Right Knee; Soreness
+02/25/2026,DEN,Julian Strawther,Probable,Injury/Illness - Left Great Toe; Sprain
+02/25/2026,DEN,Peyton Watson,Out,Injury/Illness - Right Hamstring; Strain
