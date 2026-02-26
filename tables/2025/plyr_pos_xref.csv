@@ -28,9 +28,9 @@ BOS,Luka Garza,C
 BOS,Amari Williams,PF
 BOS,Ron Harper Jr.,SF
 BOS,Nikola Vucevic,C
+BOS,Dalano Banton,PG
 BOS,Max Shulga,SG
 BOS,John Tonje,SG
-BOS,Dalano Banton,PG
 BOS,Jayson Tatum,PF
 BRK,Day'Ron Sharpe,C
 BRK,Nic Claxton,C
@@ -100,10 +100,10 @@ CLE,Dennis Schroder,PG
 CLE,Keon Ellis,SG
 CLE,James Harden,PG
 CLE,Tristan Enaruna,SF
+CLE,Darius Brown II,SG
 CLE,Chuma Okeke,F
 CLE,Max Strus,SF
 CLE,Riley Minix,SF
-CLE,Darius Brown II,G
 DAL,Naji Marshall,SF
 DAL,Max Christie,SG
 DAL,Klay Thompson,SF
@@ -125,8 +125,8 @@ DAL,Kyrie Irving,SG
 DEN,Bruce Brown,SG
 DEN,Tim Hardaway Jr.,SG
 DEN,Jamal Murray,PG
-DEN,Peyton Watson,SF
 DEN,Spencer Jones,SF
+DEN,Peyton Watson,SF
 DEN,Jonas Valanciunas,C
 DEN,Nikola Jokic,C
 DEN,Zeke Nnaji,PF
@@ -154,8 +154,8 @@ DET,Chaz Lanier,SG
 DET,Marcus Sasser,PG
 DET,Bobi Klintman,SF
 DET,Tolu Smith,PF
-DET,Wendell Moore Jr.,SG
 DET,Kevin Huerter,SG
+DET,Wendell Moore Jr.,SG
 DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
 GSW,Quinten Post,PF
@@ -175,8 +175,8 @@ GSW,Seth Curry,SG
 GSW,Kristaps Porzingis,C
 GSW,Nate Williams,SG
 HOU,Reed Sheppard,SG
-HOU,Amen Thompson,PG
 HOU,Jabari Smith Jr.,PF
+HOU,Amen Thompson,PG
 HOU,Kevin Durant,SF
 HOU,Josh Okogie,SG
 HOU,Clint Capela,C
@@ -260,8 +260,8 @@ MEM,Taylor Hendricks,PF
 MEM,Scotty Pippen Jr.,PG
 MEM,Walter Clayton,PG
 MEM,Kyle Anderson,SF
-MEM,Brandon Clarke,PF
 MEM,Rayan Rupert,SG
+MEM,Brandon Clarke,PF
 MIA,Dru Smith,SG
 MIA,Kel'el Ware,C
 MIA,Simone Fontecchio,SF
