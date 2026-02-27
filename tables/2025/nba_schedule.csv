@@ -875,16 +875,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-02-25,8:00p,Sacramento Kings,SAC,97.0,Houston Rockets,HOU,128.0,0,Toyota Center,0,0,0,0,1
 2026-02-25,8:00p,Cleveland Cavaliers,CLE,116.0,Milwaukee Bucks,MIL,118.0,0,Fiserv Forum,1,1,0,0,1
 2026-02-25,10:00p,Boston Celtics,BOS,84.0,Denver Nuggets,DEN,103.0,0,Ball Arena,1,0,0,0,1
-2026-02-26,7:00p,Charlotte Hornets,CHO,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-02-26,7:00p,Miami Heat,MIA,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
-2026-02-26,7:30p,Washington Wizards,WAS,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
-2026-02-26,7:30p,San Antonio Spurs,SAS,,Brooklyn Nets,BRK,,0,Barclays Center,1,0,0,0,0
-2026-02-26,7:30p,Houston Rockets,HOU,,Orlando Magic,ORL,,0,Kia Center,1,0,0,0,0
-2026-02-26,8:00p,Portland Trail Blazers,POR,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-02-26,8:30p,Sacramento Kings,SAC,,Dallas Mavericks,DAL,,0,American Airlines Center,1,0,0,0,0
-2026-02-26,9:00p,Los Angeles Lakers,LAL,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
-2026-02-26,9:00p,New Orleans Pelicans,NOP,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
-2026-02-26,10:00p,Minnesota Timberwolves,MIN,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2026-02-26,7:00p,Charlotte Hornets,CHO,133.0,Indiana Pacers,IND,109.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-02-26,7:00p,Miami Heat,MIA,117.0,Philadelphia 76ers,PHI,124.0,0,Xfinity Mobile Arena,0,0,0,0,1
+2026-02-26,7:30p,Washington Wizards,WAS,96.0,Atlanta Hawks,ATL,126.0,0,State Farm Arena,0,0,0,0,1
+2026-02-26,7:30p,San Antonio Spurs,SAS,126.0,Brooklyn Nets,BRK,110.0,0,Barclays Center,1,0,0,0,1
+2026-02-26,7:30p,Houston Rockets,HOU,113.0,Orlando Magic,ORL,108.0,0,Kia Center,1,0,0,0,1
+2026-02-26,8:00p,Portland Trail Blazers,POR,121.0,Chicago Bulls,CHI,112.0,0,United Center,0,0,0,0,1
+2026-02-26,8:30p,Sacramento Kings,SAC,130.0,Dallas Mavericks,DAL,121.0,0,American Airlines Center,1,0,0,0,1
+2026-02-26,9:00p,Los Angeles Lakers,LAL,110.0,Phoenix Suns,PHO,113.0,0,Mortgage Matchup Center,0,0,0,0,1
+2026-02-26,9:00p,New Orleans Pelicans,NOP,129.0,Utah Jazz,UTA,118.0,0,Delta Center,0,0,0,0,1
+2026-02-26,10:00p,Minnesota Timberwolves,MIN,94.0,Los Angeles Clippers,LAC,88.0,0,Intuit Dome,0,0,0,0,1
 2026-02-27,7:00p,Cleveland Cavaliers,CLE,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
 2026-02-27,7:30p,Brooklyn Nets,BRK,,Boston Celtics,BOS,,0,TD Garden,1,0,0,0,0
 2026-02-27,8:00p,New York Knicks,NYK,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
