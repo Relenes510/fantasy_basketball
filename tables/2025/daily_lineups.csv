@@ -8809,16 +8809,6 @@ Date,Team,Player,Pos
 02/26/2026,PHI,Kelly Oubre Jr.,SF
 02/26/2026,PHI,Dominick Barlow,PF
 02/26/2026,PHI,Joel Embiid,C
-02/26/2026,SAS,De'Aaron Fox,PG
-02/26/2026,SAS,Devin Vassell,SG
-02/26/2026,SAS,Stephon Castle,SG
-02/26/2026,SAS,Julian Champagnie,SF
-02/26/2026,SAS,Victor Wembanyama,PF
-02/26/2026,BRK,Nolan Traore,PG
-02/26/2026,BRK,Egor Demin,PG
-02/26/2026,BRK,Michael Porter Jr.,SF
-02/26/2026,BRK,Noah Clowney,PF
-02/26/2026,BRK,Nicolas Claxton,C
 02/26/2026,WAS,Bub Carrington,PG
 02/26/2026,WAS,Bilal Coulibaly,SG
 02/26/2026,WAS,Tre Johnson,SG
@@ -8829,6 +8819,16 @@ Date,Team,Player,Pos
 02/26/2026,ATL,Zaccharie Risacher,SF
 02/26/2026,ATL,Jonathan Kuminga,PF
 02/26/2026,ATL,Onyeka Okongwu,C
+02/26/2026,SAS,De'Aaron Fox,PG
+02/26/2026,SAS,Devin Vassell,SG
+02/26/2026,SAS,Stephon Castle,SG
+02/26/2026,SAS,Julian Champagnie,SF
+02/26/2026,SAS,Victor Wembanyama,PF
+02/26/2026,BRK,Egor Demin,PG
+02/26/2026,BRK,Nolan Traore,PG
+02/26/2026,BRK,Michael Porter Jr.,SF
+02/26/2026,BRK,Noah Clowney,PF
+02/26/2026,BRK,Nicolas Claxton,C
 02/26/2026,HOU,Amen Thompson,SG
 02/26/2026,HOU,Tari Eason,SF
 02/26/2026,HOU,Kevin Durant,PF
@@ -8836,8 +8836,8 @@ Date,Team,Player,Pos
 02/26/2026,HOU,Alperen Sengun,C
 02/26/2026,ORL,Anthony Black,PG
 02/26/2026,ORL,Desmond Bane,SG
-02/26/2026,ORL,Paolo Banchero,PF
 02/26/2026,ORL,Tristan da Silva,PF
+02/26/2026,ORL,Paolo Banchero,PF
 02/26/2026,ORL,Wendell Carter Jr.,C
 02/26/2026,POR,Jrue Holiday,PG
 02/26/2026,POR,Scoot Henderson,PG
@@ -8873,9 +8873,9 @@ Date,Team,Player,Pos
 02/26/2026,NOP,Herbert Jones,SF
 02/26/2026,NOP,Saddiq Bey,PF
 02/26/2026,NOP,Zion Williamson,PF
-02/26/2026,NOP,Derik Queen,C
+02/26/2026,NOP,DeAndre Jordan,C
 02/26/2026,UTA,Isaiah Collier,PG
-02/26/2026,UTA,Brice Sensabaugh,SF
+02/26/2026,UTA,John Konchar,SG
 02/26/2026,UTA,Ace Bailey,SF
 02/26/2026,UTA,Cody Williams,SF
 02/26/2026,UTA,Kyle Filipowski,C
@@ -8909,16 +8909,6 @@ Date,Team,Player,Pos
 02/27/2026,PHI,Kelly Oubre Jr.,SF
 02/27/2026,PHI,Dominick Barlow,PF
 02/27/2026,PHI,Joel Embiid,C
-02/27/2026,HOU,Amen Thompson,SG
-02/27/2026,HOU,Tari Eason,SF
-02/27/2026,HOU,Kevin Durant,PF
-02/27/2026,HOU,Jabari Smith Jr.,PF
-02/27/2026,HOU,Alperen Sengun,C
-02/27/2026,ORL,Anthony Black,PG
-02/27/2026,ORL,Desmond Bane,SG
-02/27/2026,ORL,Tristan da Silva,PF
-02/27/2026,ORL,Paolo Banchero,PF
-02/27/2026,ORL,Wendell Carter Jr.,C
 02/27/2026,SAS,De'Aaron Fox,PG
 02/27/2026,SAS,Devin Vassell,SG
 02/27/2026,SAS,Stephon Castle,SG
@@ -8939,6 +8929,16 @@ Date,Team,Player,Pos
 02/27/2026,ATL,Zaccharie Risacher,SF
 02/27/2026,ATL,Jonathan Kuminga,PF
 02/27/2026,ATL,Onyeka Okongwu,C
+02/27/2026,HOU,Amen Thompson,SG
+02/27/2026,HOU,Tari Eason,SF
+02/27/2026,HOU,Kevin Durant,PF
+02/27/2026,HOU,Jabari Smith Jr.,PF
+02/27/2026,HOU,Alperen Sengun,C
+02/27/2026,ORL,Anthony Black,PG
+02/27/2026,ORL,Desmond Bane,SG
+02/27/2026,ORL,Tristan da Silva,PF
+02/27/2026,ORL,Paolo Banchero,PF
+02/27/2026,ORL,Wendell Carter Jr.,C
 02/27/2026,POR,Jrue Holiday,PG
 02/27/2026,POR,Scoot Henderson,PG
 02/27/2026,POR,Toumani Camara,SF
@@ -8973,11 +8973,11 @@ Date,Team,Player,Pos
 02/27/2026,NOP,Herbert Jones,SF
 02/27/2026,NOP,Saddiq Bey,PF
 02/27/2026,NOP,Zion Williamson,PF
-02/27/2026,NOP,Derik Queen,C
+02/27/2026,NOP,DeAndre Jordan,C
 02/27/2026,UTA,Isaiah Collier,PG
-02/27/2026,UTA,Brice Sensabaugh,SF
-02/27/2026,UTA,Ace Bailey,SF
+02/27/2026,UTA,John Konchar,SG
 02/27/2026,UTA,Cody Williams,SF
+02/27/2026,UTA,Ace Bailey,SF
 02/27/2026,UTA,Kyle Filipowski,C
 02/27/2026,MIN,Anthony Edwards,SG
 02/27/2026,MIN,Donte DiVincenzo,SG
