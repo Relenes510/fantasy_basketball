@@ -7938,8 +7938,6 @@ Date,Team,Player,Status,Reason
 03/01/2026,NYK,Trey Jemison III,Out,G League - Two-Way
 03/01/2026,NYK,Dillon Jones,Out,G League - Two-Way
 03/01/2026,NYK,Miles McBride,Out,Injury/Illness - Pelvic; Core Muscle Surgery
-03/01/2026,CLE,Keon Ellis,Questionable,Injury/Illness - Left Index Finger; Fracture
-03/01/2026,CLE,James Harden,Questionable,Injury/Illness - Right Thumb; Fracture
 03/01/2026,CLE,Riley Minix,Out,G League - Two-Way
 03/01/2026,CLE,Donovan Mitchell,Out,Injury/Illness - Right Groin; Strain
 03/01/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
@@ -7965,9 +7963,8 @@ Date,Team,Player,Status,Reason
 03/01/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
 03/01/2026,DEN,Tamar Bates,Out,Injury/Illness - Left Foot; Surgery
 03/01/2026,DEN,Aaron Gordon,Out,Injury/Illness - Right Hamstring; Strain
-03/01/2026,DEN,Cameron Johnson,Probable,Injury/Illness - Right Ankle; Inflammation
 03/01/2026,DEN,Curtis Jones,Out,G League - Two-Way
-03/01/2026,DEN,Spencer Jones,Questionable,Injury/Illness - Right Shoulder; Strain
+03/01/2026,DEN,Spencer Jones,Out,Injury/Illness - Right Shoulder; Strain
 03/01/2026,DEN,Peyton Watson,Out,Injury/Illness - Right Hamstring; Strain
 03/01/2026,MEM,Santi Aldama,Doubtful,Injury/Illness - Right Knee; Injury Management
 03/01/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
@@ -8009,6 +8006,7 @@ Date,Team,Player,Status,Reason
 03/01/2026,OKC,Branden Carlson,Out,Injury/Illness - Low Back; Strain
 03/01/2026,OKC,Ajay Mitchell,Out,Injury/Illness - Abdominal; Strain/ Left Ankle sprain
 03/01/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
+03/01/2026,OKC,Nikola Topic,Out,G League - On Assignment
 03/01/2026,OKC,Jalen Williams,Out,Injury/Illness - Right Hamstring; Strain
 03/01/2026,DAL,Marvin Bagley III,Out,Injury/Illness - Neck; Sprain
 03/01/2026,DAL,Moussa Cisse,Questionable,G League - Two-Way
