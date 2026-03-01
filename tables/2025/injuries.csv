@@ -7966,22 +7966,21 @@ Date,Team,Player,Status,Reason
 03/01/2026,DEN,Curtis Jones,Out,G League - Two-Way
 03/01/2026,DEN,Spencer Jones,Out,Injury/Illness - Right Shoulder; Strain
 03/01/2026,DEN,Peyton Watson,Out,Injury/Illness - Right Hamstring; Strain
-03/01/2026,MEM,Santi Aldama,Doubtful,Injury/Illness - Right Knee; Injury Management
+03/01/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Injury Management
 03/01/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
 03/01/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
-03/01/2026,MEM,Cedric Coward,Doubtful,Injury/Illness - Right Knee; Posterior Capsule Sprain
+03/01/2026,MEM,Cedric Coward,Out,Injury/Illness - Right Knee; Posterior Capsule Sprain
 03/01/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Stress Reaction
 03/01/2026,MEM,Taj Gibson,Out,Return to Competition Reconditioning
-03/01/2026,MEM,Ty Jerome,Doubtful,Injury/Illness - Left Thigh; Contusion
+03/01/2026,MEM,Ty Jerome,Out,Injury/Illness - Left Thigh; Contusion
 03/01/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
 03/01/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
 03/01/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
-03/01/2026,IND,Andrew Nembhard,Questionable,Injury/Illness - Low Back and Neck; Soreness
+03/01/2026,IND,Andrew Nembhard,Out,Injury/Illness - Low Back and Neck; Soreness
 03/01/2026,IND,Aaron Nesmith,Out,Injury/Illness - Right Ankle; Sprain
-03/01/2026,IND,Taelon Peter,Questionable,G League - Two-Way
-03/01/2026,IND,Pascal Siakam,Doubtful,Injury/Illness - Left Wrist; Sprain
-03/01/2026,IND,Ethan Thompson,Questionable,G League - Two-Way
-03/01/2026,IND,Obi Toppin,Probable,Injury/Illness - Right Foot; Stress Fracture
+03/01/2026,IND,Pascal Siakam,Out,Injury/Illness - Left Wrist; Sprain
+03/01/2026,IND,Jalen Slawson,Out,G League - Two-Way
+03/01/2026,IND,Ethan Thompson,Out,G League - Two-Way
 03/01/2026,IND,Ivica Zubac,Out,Injury/Illness - Left Ankle; Sprain
 03/01/2026,DET,Isaac Jones,Out,G League - Two-Way
 03/01/2026,DET,Bobi Klintman,Out,G League - On Assignment
@@ -8027,9 +8026,13 @@ Date,Team,Player,Status,Reason
 03/01/2026,BOS,Max Shulga,Questionable,G League - Two-Way
 03/01/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
 03/01/2026,BOS,Amari Williams,Questionable,G League - On Assignment
+03/01/2026,NOP,Trey Alexander,Out,G League - Two-Way
+03/01/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
+03/01/2026,NOP,Zion Williamson,Questionable,Injury/Illness - Right Ankle; Sprain
 03/01/2026,SAC,Dylan Cardwell,Out,Injury/Illness - Left Ankle; Sprain
 03/01/2026,SAC,De'Andre Hunter,Out,Injury/Illness - Left Eye; Retinal Repair
 03/01/2026,SAC,Zach LaVine,Out,Injury/Illness - Right 5th Finger; Tendon Repair
 03/01/2026,SAC,Keegan Murray,Out,Injury/Illness - Left Ankle; Sprain
 03/01/2026,SAC,Domantas Sabonis,Out,Injury/Illness - Left Knee; Meniscus Repair
 03/01/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
+03/01/2026,LAL,LeBron James,Questionable,Injury/Illness - Left Foot; Arthritis
