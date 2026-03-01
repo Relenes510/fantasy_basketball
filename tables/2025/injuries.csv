@@ -7934,18 +7934,17 @@ Date,Team,Player,Status,Reason
 03/01/2026,SAS,David Jones Garcia,Out,G League - Two-Way
 03/01/2026,SAS,Emanuel Miller,Out,G League - Two-Way
 03/01/2026,SAS,Mason Plumlee,Out,Return to Competition Reconditioning
-03/01/2026,NYK,Pacome Dadiet,Questionable,G League - On Assignment
-03/01/2026,NYK,Trey Jemison III,Questionable,G League - Two-Way
-03/01/2026,NYK,Dillon Jones,Questionable,G League - Two-Way
+03/01/2026,NYK,Pacome Dadiet,Out,G League - On Assignment
+03/01/2026,NYK,Trey Jemison III,Out,G League - Two-Way
+03/01/2026,NYK,Dillon Jones,Out,G League - Two-Way
 03/01/2026,NYK,Miles McBride,Out,Injury/Illness - Pelvic; Core Muscle Surgery
-03/01/2026,NYK,Kevin McCullar Jr.,Questionable,G League - Two-Way
 03/01/2026,CLE,Keon Ellis,Questionable,Injury/Illness - Left Index Finger; Fracture
 03/01/2026,CLE,James Harden,Questionable,Injury/Illness - Right Thumb; Fracture
 03/01/2026,CLE,Riley Minix,Out,G League - Two-Way
 03/01/2026,CLE,Donovan Mitchell,Out,Injury/Illness - Right Groin; Strain
 03/01/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
 03/01/2026,CLE,Dean Wade,Out,Injury/Illness - Right Ankle; Sprain
-03/01/2026,BRK,Nic Claxton,Questionable,Injury/Illness - Right Thumb; Sprain
+03/01/2026,BRK,Nic Claxton,Out,Injury/Illness - Right Thumb; Sprain
 03/01/2026,BRK,Egor Demin,Out,Injury/Illness - Left Plantar Fascia; Injury Management
 03/01/2026,BRK,Tyson Etienne,Out,G League - Two-Way
 03/01/2026,BRK,Chaney Johnson,Out,G League - Two-Way
@@ -7953,7 +7952,7 @@ Date,Team,Player,Status,Reason
 03/01/2026,BRK,Drake Powell,Out,G League - On Assignment
 03/01/2026,MIL,Alex Antetokounmpo,Out,G League - Two-Way
 03/01/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Right Calf; Strain
-03/01/2026,MIL,Thanasis Antetokounmpo,Questionable,Injury/Illness - N/a; Illness
+03/01/2026,MIL,Thanasis Antetokounmpo,Out,Injury/Illness - N/a; Illness
 03/01/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery
 03/01/2026,MIL,Cormac Ryan,Out,G League - Two-Way
 03/01/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Surgery
@@ -7993,9 +7992,17 @@ Date,Team,Player,Status,Reason
 03/01/2026,DET,Chaz Lanier,Out,G League - On Assignment
 03/01/2026,DET,Wendell Moore Jr.,Out,G League - Two-Way
 03/01/2026,DET,Isaiah Stewart,Out,League Suspension
+03/01/2026,ORL,Anthony Black,Questionable,Injury/Illness - Right Quad; Contusion
 03/01/2026,ORL,Colin Castleton,Out,G League - Two-Way
 03/01/2026,ORL,Alex Morales,Out,G League - Two-Way
 03/01/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain injury management
+03/01/2026,POR,Deni Avdija,Out,Injury/Illness - Low Back; Injury Management
+03/01/2026,POR,Sidy Cissoko,Questionable,Injury/Illness - Illness; .
+03/01/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
+03/01/2026,POR,Caleb Love,Out,G League - Two-Way
+03/01/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left Fibula; Stress reaction
+03/01/2026,POR,Robert Williams III,Out,Injury/Illness - Left Knee; Injury Management
+03/01/2026,POR,Hansen Yang,Questionable,Injury/Illness - Mid Back; Soreness
 03/01/2026,ATL,Nickeil Alexander-Walker,Questionable,Injury/Illness - Left Foot; Sprain
 03/01/2026,ATL,RayJ Dennis,Doubtful,G League - Two-Way
 03/01/2026,ATL,Jalen Johnson,Questionable,Injury/Illness - Left Hip Flexor; Irritation
@@ -8013,12 +8020,12 @@ Date,Team,Player,Status,Reason
 03/01/2026,DAL,Naji Marshall,Questionable,Injury/Illness - Right Finger; Contusion
 03/01/2026,DAL,Caleb Martin,Questionable,Injury/Illness - Low Back; Soreness
 03/01/2026,DAL,P.J. Washington,Doubtful,Injury/Illness - Left Ankle; Sprain
-03/01/2026,PHI,MarJon Beauchamp,Doubtful,G League - Two-Way
+03/01/2026,PHI,MarJon Beauchamp,Out,G League - Two-Way
 03/01/2026,PHI,Johni Broome,Out,Injury/Illness - Right Knee; Meniscus Tear
 03/01/2026,PHI,Joel Embiid,Out,Injury/Illness - Right Oblique; Strain
 03/01/2026,PHI,Paul George,Out,League Suspension
-03/01/2026,PHI,Tyrese Martin,Doubtful,G League - Two-Way
-03/01/2026,PHI,Dalen Terry,Doubtful,G League - Two-Way
+03/01/2026,PHI,Tyrese Martin,Out,G League - Two-Way
+03/01/2026,PHI,Dalen Terry,Out,G League - Two-Way
 03/01/2026,BOS,Baylor Scheierman,Questionable,Injury/Illness - Left Thumb; Fracture
 03/01/2026,BOS,Max Shulga,Questionable,G League - Two-Way
 03/01/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair
