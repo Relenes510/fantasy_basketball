@@ -8087,17 +8087,18 @@ Date,Team,Player,Status,Reason
 03/03/2026,CLE,Darius Brown,Out,G League - Two-Way
 03/03/2026,CLE,Donovan Mitchell,Out,Injury/Illness - Right Groin; Strain
 03/03/2026,CLE,Max Strus,Out,Injury/Illness - Left Foot; Surgery - Jones Fracture
-03/03/2026,CLE,Dean Wade,Questionable,Injury/Illness - Right Ankle; Sprain
+03/03/2026,CLE,Dean Wade,Out,Injury/Illness - Right Ankle; Sprain
 03/03/2026,WAS,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 03/03/2026,WAS,Kyshawn George,Out,Injury/Illness - Left Elbow; Sprain
-03/03/2026,WAS,Anthony Gill,Questionable,Injury/Illness - N/a; Illness
+03/03/2026,WAS,Anthony Gill,Out,Injury/Illness - N/a; Illness
 03/03/2026,WAS,D'Angelo Russell,Out,Not With Team
 03/03/2026,WAS,Alex Sarr,Out,Injury/Illness - Right Hamstring; Strain
 03/03/2026,WAS,Tristan Vukcevic,Out,Injury/Illness - Left Thigh; Contusion
 03/03/2026,WAS,Jamir Watkins,Out,Injury/Illness - Left Ankle; Foot; Sprain
 03/03/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 03/03/2026,WAS,Trae Young,Out,Injury/Illness - Right Knee; MCL Sprain; Quad Contusion
-03/03/2026,ORL,Anthony Black,Questionable,Injury/Illness - Right Quad; Contusion
+03/03/2026,ORL,Anthony Black,Out,Injury/Illness - Right Quad; Contusion
+03/03/2026,ORL,Wendell Carter Jr.,Questionable,Injury/Illness - Left Ankle; Soreness
 03/03/2026,ORL,Colin Castleton,Out,G League - Two-Way
 03/03/2026,ORL,Alex Morales,Out,G League - Two-Way
 03/03/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain injury management
@@ -8110,7 +8111,6 @@ Date,Team,Player,Status,Reason
 03/03/2026,MIA,Keshad Johnson,Out,G League - On Assignment
 03/03/2026,MIA,Nikola Jovic,Out,Injury/Illness - Low Back; Injury Management
 03/03/2026,MIA,Trevor Keels,Out,G League - Two-Way
-03/03/2026,MIA,Davion Mitchell,Questionable,Injury/Illness - Left Shoulder; Contusion
 03/03/2026,MIA,Norman Powell,Out,Injury/Illness - Right Groin; Strain
 03/03/2026,MIA,Terry Rozier,Out,Not With Team
 03/03/2026,MIA,Andrew Wiggins,Probable,Injury/Illness - Bilateral Patellar; Tendinitis
@@ -8128,6 +8128,7 @@ Date,Team,Player,Status,Reason
 03/03/2026,MEM,Taj Gibson,Out,Return to Competition Reconditioning
 03/03/2026,MEM,Ty Jerome,Questionable,Injury/Illness - Left Thigh; Contusion
 03/03/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
+03/03/2026,MIN,Anthony Edwards,Questionable,Injury/Illness - Right Foot; Injury Maintenance
 03/03/2026,MIN,Enrique Freeman,Out,G League - Two-Way
 03/03/2026,MIN,Zyon Pullin,Out,G League - Two-Way
 03/03/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
@@ -8144,6 +8145,7 @@ Date,Team,Player,Status,Reason
 03/03/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 03/03/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
 03/03/2026,CHI,Patrick Williams,Out,Injury/Illness - Right Quadricep; Strain
+03/03/2026,SAS,Harrison Barnes,Questionable,Injury/Illness - Left Ankle; Soreness
 03/03/2026,SAS,Harrison Ingram,Out,G League - Two-Way
 03/03/2026,SAS,David Jones Garcia,Out,G League - Two-Way
 03/03/2026,SAS,Emanuel Miller,Out,G League - Two-Way
@@ -8156,9 +8158,9 @@ Date,Team,Player,Status,Reason
 03/03/2026,NOP,Trey Alexander,Out,G League - Two-Way
 03/03/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
 03/03/2026,NOP,Zion Williamson,Questionable,Injury/Illness - Right Ankle; Sprain
+03/03/2026,LAL,Maxi Kleber,Questionable,Injury/Illness - Back; Soreness
 03/03/2026,PHO,Dillon Brooks,Out,Injury/Illness - Left Hand; Fracture
 03/03/2026,PHO,Jordan Goodwin,Out,Injury/Illness - Left Calf; Strain
-03/03/2026,PHO,Khaman Maluach,Questionable,Injury/Illness - Right Thumb; Sprain
 03/03/2026,SAC,Dylan Cardwell,Out,Injury/Illness - Left Ankle; Sprain
 03/03/2026,SAC,De'Andre Hunter,Out,Injury/Illness - Left Eye; Retinal Repair
 03/03/2026,SAC,Zach LaVine,Out,Injury/Illness - Left 5th Finger; Tendon Repair
