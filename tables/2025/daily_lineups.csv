@@ -9111,8 +9111,8 @@ Date,Team,Player,Pos
 03/02/2026,WAS,Julian Reese,PF
 03/02/2026,BOS,Baylor Scheierman,SG
 03/02/2026,BOS,Derrick White,SG
-03/02/2026,BOS,Hugo Gonzalez,SF
 03/02/2026,BOS,Sam Hauser,SF
+03/02/2026,BOS,Hugo Gonzalez,SF
 03/02/2026,BOS,Nikola Vucevic,C
 03/02/2026,MIL,Kevin Porter Jr.,PG
 03/02/2026,MIL,AJ Green,SG
@@ -9134,8 +9134,8 @@ Date,Team,Player,Pos
 03/02/2026,LAC,Derrick Jones Jr.,SF
 03/02/2026,LAC,Kawhi Leonard,SF
 03/02/2026,LAC,Brook Lopez,C
-03/02/2026,GSW,De'Anthony Melton,SG
 03/02/2026,GSW,Brandin Podziemski,SG
+03/02/2026,GSW,De'Anthony Melton,SG
 03/02/2026,GSW,Moses Moody,SG
 03/02/2026,GSW,Draymond Green,PF
 03/02/2026,GSW,Al Horford,C
@@ -9164,8 +9164,8 @@ Date,Team,Player,Pos
 03/03/2026,WAS,Tre Johnson,SG
 03/03/2026,WAS,Kyshawn George,SF
 03/03/2026,WAS,Tristan Vukcevic,PF
-03/03/2026,ORL,Desmond Bane,SG
 03/03/2026,ORL,Jalen Suggs,SG
+03/03/2026,ORL,Desmond Bane,SG
 03/03/2026,ORL,Paolo Banchero,PF
 03/03/2026,ORL,Tristan da Silva,PF
 03/03/2026,ORL,Wendell Carter Jr.,C
@@ -9199,6 +9199,16 @@ Date,Team,Player,Pos
 03/03/2026,CHI,Matas Buzelis,SF
 03/03/2026,CHI,Isaac Okoro,SF
 03/03/2026,CHI,Guerschon Yabusele,PF
+03/03/2026,MEM,Ty Jerome,PG
+03/03/2026,MEM,Cedric Coward,SG
+03/03/2026,MEM,Jaylen Wells,SF
+03/03/2026,MEM,Olivier-Maxence Prosper,PF
+03/03/2026,MEM,GG Jackson II,PF
+03/03/2026,MIN,Donte DiVincenzo,SG
+03/03/2026,MIN,Anthony Edwards,SG
+03/03/2026,MIN,Julius Randle,PF
+03/03/2026,MIN,Jaden McDaniels,PF
+03/03/2026,MIN,Rudy Gobert,C
 03/03/2026,SAS,De'Aaron Fox,PG
 03/03/2026,SAS,Stephon Castle,SG
 03/03/2026,SAS,Devin Vassell,SG
@@ -9206,23 +9216,13 @@ Date,Team,Player,Pos
 03/03/2026,SAS,Victor Wembanyama,PF
 03/03/2026,PHI,Tyrese Maxey,PG
 03/03/2026,PHI,VJ Edgecombe,SG
-03/03/2026,PHI,Kelly Oubre Jr.,SF
+03/03/2026,PHI,Justin Edwards,SF
 03/03/2026,PHI,Dominick Barlow,PF
 03/03/2026,PHI,Andre Drummond,C
-03/03/2026,MEM,Ty Jerome,PG
-03/03/2026,MEM,Cedric Coward,SG
-03/03/2026,MEM,Jaylen Wells,SF
-03/03/2026,MEM,GG Jackson II,PF
-03/03/2026,MEM,Olivier-Maxence Prosper,PF
-03/03/2026,MIN,Donte DiVincenzo,SG
-03/03/2026,MIN,Anthony Edwards,SG
-03/03/2026,MIN,Julius Randle,PF
-03/03/2026,MIN,Jaden McDaniels,PF
-03/03/2026,MIN,Rudy Gobert,C
 03/03/2026,NOP,Dejounte Murray,SG
 03/03/2026,NOP,Herbert Jones,SF
-03/03/2026,NOP,Saddiq Bey,PF
 03/03/2026,NOP,Zion Williamson,PF
+03/03/2026,NOP,Saddiq Bey,PF
 03/03/2026,NOP,Derik Queen,C
 03/03/2026,LAL,Luka Doncic,PG
 03/03/2026,LAL,Marcus Smart,PG
@@ -9230,8 +9230,8 @@ Date,Team,Player,Pos
 03/03/2026,LAL,LeBron James,SF
 03/03/2026,LAL,Deandre Ayton,C
 03/03/2026,PHO,Collin Gillespie,PG
-03/03/2026,PHO,Devin Booker,SG
 03/03/2026,PHO,Jalen Green,SG
+03/03/2026,PHO,Devin Booker,SG
 03/03/2026,PHO,Royce O'Neale,PF
 03/03/2026,PHO,Mark Williams,C
 03/03/2026,SAC,Russell Westbrook,PG
