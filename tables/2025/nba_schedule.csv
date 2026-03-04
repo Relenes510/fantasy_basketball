@@ -910,16 +910,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-02,7:30p,Boston Celtics,BOS,108.0,Milwaukee Bucks,MIL,81.0,0,Fiserv Forum,1,1,0,0,1
 2026-03-02,9:00p,Denver Nuggets,DEN,128.0,Utah Jazz,UTA,125.0,0,Delta Center,1,0,0,0,1
 2026-03-02,10:00p,Los Angeles Clippers,LAC,114.0,Golden State Warriors,GSW,101.0,0,Chase Center,1,0,0,0,1
-2026-03-03,7:00p,Dallas Mavericks,DAL,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-03-03,7:00p,Detroit Pistons,DET,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-03-03,7:00p,Washington Wizards,WAS,,Orlando Magic,ORL,,0,Kia Center,1,0,0,0,0
-2026-03-03,7:30p,Brooklyn Nets,BRK,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-03-03,7:30p,New York Knicks,NYK,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2026-03-03,8:00p,Oklahoma City Thunder,OKC,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-03-03,8:00p,Memphis Grizzlies,MEM,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
-2026-03-03,8:00p,San Antonio Spurs,SAS,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
-2026-03-03,10:30p,New Orleans Pelicans,NOP,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
-2026-03-03,11:00p,Phoenix Suns,PHO,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
+2026-03-03,7:00p,Dallas Mavericks,DAL,90.0,Charlotte Hornets,CHO,117.0,0,Spectrum Center,0,0,0,0,1
+2026-03-03,7:00p,Detroit Pistons,DET,109.0,Cleveland Cavaliers,CLE,113.0,0,Rocket Arena,0,0,0,0,1
+2026-03-03,7:00p,Washington Wizards,WAS,109.0,Orlando Magic,ORL,126.0,0,Kia Center,1,0,0,0,1
+2026-03-03,7:30p,Brooklyn Nets,BRK,98.0,Miami Heat,MIA,124.0,0,Kaseya Center,0,0,0,0,1
+2026-03-03,7:30p,New York Knicks,NYK,111.0,Toronto Raptors,TOR,95.0,0,Scotiabank Arena,0,0,0,0,1
+2026-03-03,8:00p,Oklahoma City Thunder,OKC,116.0,Chicago Bulls,CHI,108.0,0,United Center,0,0,0,0,1
+2026-03-03,8:00p,Memphis Grizzlies,MEM,110.0,Minnesota Timberwolves,MIN,117.0,0,Target Center,0,0,0,0,1
+2026-03-03,8:00p,San Antonio Spurs,SAS,131.0,Philadelphia 76ers,PHI,91.0,0,Xfinity Mobile Arena,0,0,0,0,1
+2026-03-03,10:30p,New Orleans Pelicans,NOP,101.0,Los Angeles Lakers,LAL,110.0,0,Crypto.com Arena,0,0,0,0,1
+2026-03-03,11:00p,Phoenix Suns,PHO,114.0,Sacramento Kings,SAC,103.0,0,Golden 1 Center,0,0,0,0,1
 2026-03-04,7:00p,Oklahoma City Thunder,OKC,,New York Knicks,NYK,,0,Madison Square Garden (IV),1,1,0,0,0
 2026-03-04,7:30p,Charlotte Hornets,CHO,,Boston Celtics,BOS,,0,TD Garden,1,0,0,0,0
 2026-03-04,7:30p,Utah Jazz,UTA,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,1,0,0,0
