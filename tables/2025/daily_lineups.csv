@@ -9246,19 +9246,9 @@ Date,Team,Player,Pos
 03/04/2026,OKC,Chet Holmgren,C
 03/04/2026,NYK,Jalen Brunson,PG
 03/04/2026,NYK,Mikal Bridges,SF
-03/04/2026,NYK,Josh Hart,SF
 03/04/2026,NYK,OG Anunoby,SF
+03/04/2026,NYK,Josh Hart,SF
 03/04/2026,NYK,Karl-Anthony Towns,PF
-03/04/2026,UTA,Elijah Harkless,PG
-03/04/2026,UTA,Keyonte George,SG
-03/04/2026,UTA,Cody Williams,SF
-03/04/2026,UTA,Ace Bailey,SF
-03/04/2026,UTA,Kyle Filipowski,C
-03/04/2026,PHI,Tyrese Maxey,PG
-03/04/2026,PHI,Quentin Grimes,SG
-03/04/2026,PHI,Trendon Watford,PF
-03/04/2026,PHI,Dominick Barlow,PF
-03/04/2026,PHI,Andre Drummond,C
 03/04/2026,CHO,LaMelo Ball,PG
 03/04/2026,CHO,Kon Knueppel,SG
 03/04/2026,CHO,Brandon Miller,SF
@@ -9269,13 +9259,23 @@ Date,Team,Player,Pos
 03/04/2026,BOS,Baylor Scheierman,SG
 03/04/2026,BOS,Sam Hauser,SF
 03/04/2026,BOS,Neemias Queta,C
+03/04/2026,UTA,Elijah Harkless,PG
+03/04/2026,UTA,Keyonte George,SG
+03/04/2026,UTA,Cody Williams,SF
+03/04/2026,UTA,Ace Bailey,SF
+03/04/2026,UTA,Kyle Filipowski,C
+03/04/2026,PHI,Tyrese Maxey,PG
+03/04/2026,PHI,Quentin Grimes,SG
+03/04/2026,PHI,Trendon Watford,PF
+03/04/2026,PHI,Dominick Barlow,PF
+03/04/2026,PHI,Andre Drummond,C
 03/04/2026,POR,Scoot Henderson,PG
 03/04/2026,POR,Jrue Holiday,PG
 03/04/2026,POR,Toumani Camara,SF
 03/04/2026,POR,Jerami Grant,PF
 03/04/2026,POR,Donovan Clingan,C
-03/04/2026,MEM,Javon Small,SG
 03/04/2026,MEM,Rayan Rupert,SG
+03/04/2026,MEM,Javon Small,SG
 03/04/2026,MEM,Jaylen Wells,SF
 03/04/2026,MEM,GG Jackson II,PF
 03/04/2026,MEM,Olivier-Maxence Prosper,PF
@@ -9309,7 +9309,7 @@ Date,Team,Player,Pos
 03/05/2026,ORL,Tristan da Silva,PF
 03/05/2026,ORL,Paolo Banchero,PF
 03/05/2026,ORL,Wendell Carter Jr.,C
-03/05/2026,UTA,Keyonte George,SG
+03/05/2026,UTA,Isaiah Collier,PG
 03/05/2026,UTA,John Konchar,SG
 03/05/2026,UTA,Cody Williams,SF
 03/05/2026,UTA,Ace Bailey,SF
@@ -9329,8 +9329,8 @@ Date,Team,Player,Pos
 03/05/2026,MIA,Tyler Herro,SG
 03/05/2026,MIA,Andrew Wiggins,SF
 03/05/2026,MIA,Bam Adebayo,C
-03/05/2026,GSW,Brandin Podziemski,SG
 03/05/2026,GSW,Pat Spencer,SG
+03/05/2026,GSW,Brandin Podziemski,SG
 03/05/2026,GSW,Gui Santos,SF
 03/05/2026,GSW,Draymond Green,PF
 03/05/2026,GSW,Quinten Post,C
@@ -9341,8 +9341,8 @@ Date,Team,Player,Pos
 03/05/2026,HOU,Alperen Sengun,C
 03/05/2026,TOR,Immanuel Quickley,PG
 03/05/2026,TOR,RJ Barrett,SG
-03/05/2026,TOR,Scottie Barnes,SF
 03/05/2026,TOR,Brandon Ingram,SF
+03/05/2026,TOR,Scottie Barnes,SF
 03/05/2026,TOR,Jakob Poeltl,C
 03/05/2026,MIN,Donte DiVincenzo,SG
 03/05/2026,MIN,Anthony Edwards,SG
