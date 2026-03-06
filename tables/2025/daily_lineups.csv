@@ -9305,8 +9305,8 @@ Date,Team,Player,Pos
 03/05/2026,DAL,P.J. Washington,PF
 03/05/2026,DAL,Cooper Flagg,PF
 03/05/2026,ORL,Anthony Black,PG
-03/05/2026,ORL,Jalen Suggs,SG
 03/05/2026,ORL,Desmond Bane,SG
+03/05/2026,ORL,Jalen Suggs,SG
 03/05/2026,ORL,Paolo Banchero,PF
 03/05/2026,ORL,Wendell Carter Jr.,C
 03/05/2026,UTA,Isaiah Collier,PG
@@ -9367,13 +9367,13 @@ Date,Team,Player,Pos
 03/05/2026,PHO,Collin Gillespie,PG
 03/05/2026,PHO,Devin Booker,SG
 03/05/2026,PHO,Jalen Green,SG
-03/05/2026,PHO,Oso Ighodaro,PF
 03/05/2026,PHO,Royce O'Neale,PF
-03/05/2026,NOP,Jeremiah Fears,PG
+03/05/2026,PHO,Oso Ighodaro,PF
 03/05/2026,NOP,Trey Murphy III,SF
 03/05/2026,NOP,Herbert Jones,SF
+03/05/2026,NOP,Saddiq Bey,PF
 03/05/2026,NOP,Zion Williamson,PF
-03/05/2026,NOP,Derik Queen,C
+03/05/2026,NOP,Yves Missi,C
 03/05/2026,SAC,Russell Westbrook,PG
 03/05/2026,SAC,Nique Clifford,SF
 03/05/2026,SAC,DeMar DeRozan,SF
@@ -9387,13 +9387,13 @@ Date,Team,Player,Pos
 03/05/2026,DEN,Jamal Murray,PG
 03/05/2026,DEN,Christian Braun,SG
 03/05/2026,DEN,Julian Strawther,SF
-03/05/2026,DEN,DaRon Holmes II,PF
+03/05/2026,DEN,Zeke Nnaji,C
 03/05/2026,DEN,Nikola Jokic,C
 03/06/2026,DAL,Tyus Jones,PG
 03/06/2026,DAL,Max Christie,SG
 03/06/2026,DAL,Khris Middleton,SF
-03/06/2026,DAL,P.J. Washington,PF
 03/06/2026,DAL,Cooper Flagg,PF
+03/06/2026,DAL,P.J. Washington,PF
 03/06/2026,ORL,Anthony Black,PG
 03/06/2026,ORL,Jalen Suggs,SG
 03/06/2026,ORL,Desmond Bane,SG
@@ -9405,8 +9405,8 @@ Date,Team,Player,Pos
 03/06/2026,UTA,Ace Bailey,SF
 03/06/2026,UTA,Kyle Filipowski,C
 03/06/2026,WAS,Trae Young,PG
-03/06/2026,WAS,Tre Johnson,SG
 03/06/2026,WAS,Bilal Coulibaly,SG
+03/06/2026,WAS,Tre Johnson,SG
 03/06/2026,WAS,Leaky Black,SF
 03/06/2026,WAS,Julian Reese,PF
 03/06/2026,BRK,Terance Mann,PG
@@ -9434,19 +9434,19 @@ Date,Team,Player,Pos
 03/06/2026,TOR,Brandon Ingram,SF
 03/06/2026,TOR,Scottie Barnes,SF
 03/06/2026,TOR,Jakob Poeltl,C
-03/06/2026,MIN,Donte DiVincenzo,SG
 03/06/2026,MIN,Anthony Edwards,SG
+03/06/2026,MIN,Donte DiVincenzo,SG
 03/06/2026,MIN,Jaden McDaniels,PF
 03/06/2026,MIN,Julius Randle,PF
 03/06/2026,MIN,Rudy Gobert,C
 03/06/2026,DET,Cade Cunningham,PG
-03/06/2026,DET,Duncan Robinson,SG
 03/06/2026,DET,Ausar Thompson,SG
+03/06/2026,DET,Duncan Robinson,SG
 03/06/2026,DET,Tobias Harris,SF
 03/06/2026,DET,Jalen Duren,C
 03/06/2026,SAS,De'Aaron Fox,PG
-03/06/2026,SAS,Devin Vassell,SG
 03/06/2026,SAS,Stephon Castle,SG
+03/06/2026,SAS,Devin Vassell,SG
 03/06/2026,SAS,Julian Champagnie,SF
 03/06/2026,SAS,Victor Wembanyama,PF
 03/06/2026,CHI,Collin Sexton,PG
@@ -9457,13 +9457,13 @@ Date,Team,Player,Pos
 03/06/2026,PHO,Collin Gillespie,PG
 03/06/2026,PHO,Devin Booker,SG
 03/06/2026,PHO,Jalen Green,SG
-03/06/2026,PHO,Oso Ighodaro,PF
 03/06/2026,PHO,Royce O'Neale,PF
-03/06/2026,NOP,Jeremiah Fears,PG
+03/06/2026,PHO,Oso Ighodaro,PF
 03/06/2026,NOP,Trey Murphy III,SF
 03/06/2026,NOP,Herbert Jones,SF
+03/06/2026,NOP,Saddiq Bey,PF
 03/06/2026,NOP,Zion Williamson,PF
-03/06/2026,NOP,Derik Queen,C
+03/06/2026,NOP,Yves Missi,C
 03/06/2026,SAC,Russell Westbrook,PG
 03/06/2026,SAC,Nique Clifford,SF
 03/06/2026,SAC,DeMar DeRozan,SF
@@ -9477,5 +9477,5 @@ Date,Team,Player,Pos
 03/06/2026,DEN,Jamal Murray,PG
 03/06/2026,DEN,Christian Braun,SG
 03/06/2026,DEN,Julian Strawther,SF
-03/06/2026,DEN,DaRon Holmes II,PF
+03/06/2026,DEN,Zeke Nnaji,C
 03/06/2026,DEN,Nikola Jokic,C
