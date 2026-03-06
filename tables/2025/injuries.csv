@@ -8303,37 +8303,69 @@ Date,Team,Player,Status,Reason
 03/05/2026,SAC,Keegan Murray,Out,Injury/Illness - Left Ankle; Sprain
 03/05/2026,SAC,Domantas Sabonis,Out,Injury/Illness - Left Knee; Meniscus Repair
 03/05/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
-03/06/2026,BOS,Jordan Walsh,Questionable,Injury/Illness - Illness; Non-Covid
-03/06/2026,CHO,Tidjane Salaun,Out,Injury/Illness - Left Calf; Strain
-03/06/2026,IND,Ivica Zubac,Out,Injury/Illness - Left Ankle; Sprain
-03/06/2026,MIA,Jahmir Young,Out,G League - Two-Way
-03/06/2026,NYK,Miles McBride,Out,Injury/Illness - Pelvic; Core Muscle Surgery
-03/06/2026,POR,Hansen Yang,Out,G League - On Assignment
-03/06/2026,BOS,Jayson Tatum,Questionable,Injury/Illness - Right Achilles; Repair
-03/06/2026,CHO,Antonio Reeves,Out,G League - Two-Way
-03/06/2026,IND,Ethan Thompson,Doubtful,G League - Two-Way
-03/06/2026,MIA,Andrew Wiggins,Doubtful,Injury/Illness - Bilateral Patellar; Tendinitis
-03/06/2026,NYK,Dillon Jones,Out,G League - Two-Way
-03/06/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left N/a; Fibula Stress Reaction
-03/06/2026,CHO,Liam McNeeley,Out,G League - On Assignment
-03/06/2026,IND,Jalen Slawson,Questionable,G League - Two-Way
-03/06/2026,MIA,Dru Smith,Probable,Injury/Illness - Left Ankle; Soreness
-03/06/2026,NYK,Josh Hart,Questionable,Injury/Illness - Lower Back; Lower Back Contusion
-03/06/2026,POR,Kris Murray,Questionable,Injury/Illness - Illness; Illness
-03/06/2026,CHO,PJ Hall,Out,G League - Two-Way
-03/06/2026,IND,Pascal Siakam,Probable,Injury/Illness - Left Wrist; Sprain
-03/06/2026,MIA,Terry Rozier,Out,Not With Team
-03/06/2026,POR,Caleb Love,Out,G League - Two-Way
-03/06/2026,CHO,Tosan Evbuomwan,Out,G League - Two-Way
-03/06/2026,IND,Taelon Peter,Questionable,G League - Two-Way
-03/06/2026,MIA,Norman Powell,Out,Injury/Illness - Right Groin; Strain
-03/06/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
-03/06/2026,IND,Aaron Nesmith,Probable,Injury/Illness - Right Ankle And Lower Back; Sprain
-03/06/2026,MIA,Nikola Jovic,Out,Injury/Illness - Low Back; Injury Management
-03/06/2026,POR,Jayson Kent,Out,G League - Two-Way
-03/06/2026,IND,Andrew Nembhard,Probable,Injury/Illness - Low Back And Neck; Soreness
-03/06/2026,MIA,Keshad Johnson,Out,G League - On Assignment
-03/06/2026,POR,Deni Avdija,Doubtful,Injury/Illness - Lower Back; Injury Management
-03/06/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
+03/06/2026,DAL,Marvin Bagley III,Out,Injury/Illness - Neck; Sprain
+03/06/2026,DAL,Daniel Gafford,Out,Injury/Illness - Right Ankle; Injury Management
+03/06/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
+03/06/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
+03/06/2026,DAL,John Poulakidas,Out,G League - Two-Way
+03/06/2026,DAL,Tyler Smith,Out,G League - Two-Way
+03/06/2026,BOS,Jordan Walsh,Out,Injury/Illness - Illness; Non-Covid
 03/06/2026,MIA,Simone Fontecchio,Out,Injury/Illness - Left Groin; Strain
+03/06/2026,MIA,Keshad Johnson,Out,G League - On Assignment
+03/06/2026,MIA,Nikola Jovic,Out,Injury/Illness - Low Back; Injury Management
+03/06/2026,MIA,Norman Powell,Out,Injury/Illness - Right Groin; Strain
+03/06/2026,MIA,Terry Rozier,Out,Not With Team
+03/06/2026,MIA,Andrew Wiggins,Out,Injury/Illness - Left Big Toe; Inflammation
+03/06/2026,MIA,Jahmir Young,Out,G League - Two-Way
+03/06/2026,CHO,Tosan Evbuomwan,Out,G League - Two-Way
+03/06/2026,CHO,PJ Hall,Out,G League - Two-Way
+03/06/2026,CHO,Liam McNeeley,Out,G League - On Assignment
+03/06/2026,CHO,Antonio Reeves,Out,G League - Two-Way
+03/06/2026,CHO,Tidjane Salaun,Out,Injury/Illness - Left Calf; Strain
+03/06/2026,POR,Deni Avdija,Doubtful,Injury/Illness - Lower Back; Injury Management
+03/06/2026,POR,Jayson Kent,Out,G League - Two-Way
+03/06/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
+03/06/2026,POR,Caleb Love,Out,G League - Two-Way
+03/06/2026,POR,Kris Murray,Questionable,Injury/Illness - Illness; Illness
+03/06/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left N/a; Fibula Stress Reaction
+03/06/2026,POR,Hansen Yang,Out,G League - On Assignment
+03/06/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
+03/06/2026,HOU,Tristen Newton,Out,G League - Two-Way
+03/06/2026,HOU,Jabari Smith Jr.,Questionable,Injury/Illness - Right Ankle; Sprain
+03/06/2026,HOU,Jae'Sean Tate,Out,Injury/Illness - Right Knee; Sprain
+03/06/2026,HOU,Amen Thompson,Questionable,Injury/Illness - Right Ankle; Sprain
+03/06/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
+03/06/2026,NOP,Trey Alexander,Out,G League - Two-Way
+03/06/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
+03/06/2026,NOP,Josh Oduro,Out,G League - Two-Way
+03/06/2026,PHO,Dillon Brooks,Out,Injury/Illness - Left Hand; Fracture
+03/06/2026,PHO,Jordan Goodwin,Out,Injury/Illness - Left Calf; Strain
+03/06/2026,PHO,Royce O'Neale,Questionable,Injury/Illness - Right Foot; Soreness
+03/06/2026,PHO,Mark Williams,Out,Injury/Illness - Left Foot Third Metatarsal; Stress Reaction
+03/06/2026,NYK,Josh Hart,Questionable,Injury/Illness - Lower Back; Lower Back Contusion
+03/06/2026,NYK,Dillon Jones,Out,G League - Two-Way
+03/06/2026,NYK,Miles McBride,Out,Injury/Illness - Pelvic; Core Muscle Surgery
+03/06/2026,DEN,Aaron Gordon,Questionable,Injury/Illness - Right Hamstring; Strain
+03/06/2026,DEN,Cameron Johnson,Questionable,Injury/Illness - Right Ankle; Inflammation
+03/06/2026,DEN,Curtis Jones,Out,G League - Two-Way
+03/06/2026,DEN,Spencer Jones,Questionable,Injury/Illness - Right Shoulder; Strain
+03/06/2026,DEN,KJ Simpson,Out,G League - Two-Way
+03/06/2026,DEN,Peyton Watson,Out,Injury/Illness - Right Hamstring; Strain
+03/06/2026,SAS,Harrison Barnes,Out,Injury/Illness - Left Ankle; Impingement
+03/06/2026,SAS,Julian Champagnie,Questionable,Injury/Illness - Right Knee; Soreness
+03/06/2026,SAS,Harrison Ingram,Out,G League - Two-Way
+03/06/2026,SAS,David Jones Garcia,Out,G League - Two-Way
+03/06/2026,SAS,Emanuel Miller,Out,G League - Two-Way
+03/06/2026,SAS,Mason Plumlee,Out,Return to Competition Reconditioning
 03/06/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
+03/06/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
+03/06/2026,IND,Andrew Nembhard,Probable,Injury/Illness - Low Back And Neck; Soreness
+03/06/2026,IND,Aaron Nesmith,Probable,Injury/Illness - Right Ankle And Lower Back; Sprain
+03/06/2026,IND,Taelon Peter,Questionable,G League - Two-Way
+03/06/2026,IND,Pascal Siakam,Probable,Injury/Illness - Left Wrist; Sprain
+03/06/2026,IND,Jalen Slawson,Questionable,G League - Two-Way
+03/06/2026,IND,Ethan Thompson,Doubtful,G League - Two-Way
+03/06/2026,IND,Ivica Zubac,Out,Injury/Illness - Left Ankle; Sprain
+03/06/2026,LAL,Deandre Ayton,Out,Injury/Illness - Left Knee; Soreness
+03/06/2026,LAL,LeBron James,Out,Injury/Illness - Left Elbow Contusion &; Left Foot Arthritis
+03/06/2026,LAL,Maxi Kleber,Out,Injury/Illness - Lumbar Back; Strain
