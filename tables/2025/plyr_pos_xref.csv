@@ -16,15 +16,15 @@ ATL,Gabe Vincent,PG
 ATL,Jonathan Kuminga,PF
 ATL,Buddy Hield,SG
 ATL,RayJ Dennis,PG
-ATL,Keshon Gilbert,G
+ATL,Keshon Gilbert,SG
 BOS,Payton Pritchard,PG
 BOS,Derrick White,SG
 BOS,Sam Hauser,PF
 BOS,Neemias Queta,C
 BOS,Baylor Scheierman,SG
 BOS,Hugo Gonzalez,SF
-BOS,Jordan Walsh,PF
 BOS,Jaylen Brown,SF
+BOS,Jordan Walsh,PF
 BOS,Luka Garza,C
 BOS,Ron Harper Jr.,SF
 BOS,Amari Williams,PF
@@ -111,8 +111,8 @@ DAL,Brandon Williams,PG
 DAL,Caleb Martin,SF
 DAL,Cooper Flagg,SF
 DAL,Dwight Powell,C
-DAL,Daniel Gafford,C
 DAL,P.J. Washington,PF
+DAL,Daniel Gafford,C
 DAL,Ryan Nembhard,PG
 DAL,Moussa Cisse,C
 DAL,Khris Middleton,SF
@@ -138,6 +138,7 @@ DEN,Aaron Gordon,PF
 DEN,DaRon Holmes,PF
 DEN,Curtis Jones,SG
 DEN,KJ Simpson,PG
+DEN,Tyus Jones,PG
 DEN,David Roddy,PF
 DET,Javonte Green,SG
 DET,Duncan Robinson,SF
@@ -177,8 +178,8 @@ GSW,Kristaps Porzingis,C
 HOU,Reed Sheppard,SG
 HOU,Amen Thompson,PG
 HOU,Kevin Durant,SF
-HOU,Jabari Smith Jr.,PF
 HOU,Josh Okogie,SG
+HOU,Jabari Smith Jr.,PF
 HOU,Clint Capela,C
 HOU,Alperen Sengun,C
 HOU,Tari Eason,PF
@@ -197,8 +198,8 @@ IND,Pascal Siakam,PF
 IND,Ben Sheppard,SG
 IND,Andrew Nembhard,PG
 IND,T.J. McConnell,PG
-IND,Johnny Furphy,SG
 IND,Aaron Nesmith,SF
+IND,Johnny Furphy,SG
 IND,Quenton Jackson,PG
 IND,Micah Potter,C
 IND,Taelon Peter,SG
@@ -211,13 +212,13 @@ IND,Tyrese Haliburton,PG
 IND,Jalen Slawson,SF
 LAC,Kris Dunn,PG
 LAC,Nicolas Batum,PF
-LAC,John Collins,PF
 LAC,Brook Lopez,C
+LAC,John Collins,PF
 LAC,Kobe Sanders,SG
 LAC,Kawhi Leonard,SF
 LAC,Cam Christie,SG
-LAC,Yanic Konan Niederhauser,C
 LAC,Jordan Miller,SF
+LAC,Yanic Konan Niederhauser,C
 LAC,Derrick Jones Jr.,SF
 LAC,Bogdan Bogdanovic,SG
 LAC,Bennedict Mathurin,SF
@@ -226,7 +227,7 @@ LAC,Bradley Beal,SG
 LAC,Isaiah Jackson,C
 LAC,Darius Garland,PG
 LAC,Norchad Omier,PF
-LAC,Sean Pedulla,G
+LAC,Sean Pedulla,PG
 LAL,Jake LaRavia,PF
 LAL,Deandre Ayton,C
 LAL,Marcus Smart,SG
@@ -330,8 +331,8 @@ NOP,Jordan Hawkins,SG
 NOP,Jordan Poole,PG
 NOP,Kevon Looney,C
 NOP,DeAndre Jordan,C
-NOP,Trey Alexander,SG
 NOP,Dejounte Murray,PG
+NOP,Trey Alexander,SG
 NOP,Hunter Dickinson,C
 NOP,Josh Oduro,PF
 NYK,Mikal Bridges,SF
@@ -369,7 +370,7 @@ OKC,Jalen Williams,SG
 OKC,Jared McCain,SG
 OKC,Nikola Topic,PG
 OKC,Thomas Sorber,C
-OKC,Payton Sandfort,G
+OKC,Payton Sandfort,SF
 ORL,Desmond Bane,SG
 ORL,Anthony Black,PG
 ORL,Wendell Carter Jr.,C
@@ -439,7 +440,7 @@ POR,Vit Krejci,PG
 POR,Scoot Henderson,PG
 POR,Matisse Thybulle,SG
 POR,Damian Lillard,PG
-POR,Jayson Kent,F
+POR,Jayson Kent,SF
 POR,Chris Youngblood,SG
 SAC,DeMar DeRozan,PF
 SAC,Nique Clifford,SG
@@ -455,6 +456,7 @@ SAC,Keegan Murray,PF
 SAC,Domantas Sabonis,C
 SAC,Daeqwon Plowden,SG
 SAC,Doug McDermott,SF
+SAC,Killian Hayes,PG
 SAC,Patrick Baldwin Jr.,SF
 SAC,Isaiah Stevens,PG
 SAC,De'Andre Hunter,SF
