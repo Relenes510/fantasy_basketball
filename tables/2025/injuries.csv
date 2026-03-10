@@ -8564,7 +8564,7 @@ Date,Team,Player,Status,Reason
 03/10/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Injury Management
 03/10/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
 03/10/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
-03/10/2026,MEM,Walter Clayton Jr.,Questionable,Injury/Illness - Right Ankle; Sprain
+03/10/2026,MEM,Walter Clayton Jr.,Out,Injury/Illness - Right Ankle; Sprain
 03/10/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Surgery Recovery
 03/10/2026,MEM,Taj Gibson,Out,Return to Competition Reconditioning
 03/10/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
@@ -8573,11 +8573,11 @@ Date,Team,Player,Status,Reason
 03/10/2026,PHI,Joel Embiid,Out,Injury/Illness - Right Oblique; Strain
 03/10/2026,PHI,Paul George,Out,League Suspension
 03/10/2026,PHI,Tyrese Maxey,Out,Injury/Illness - Right Finger; Sprain
-03/10/2026,DAL,Moussa Cisse,Doubtful,G League - Two-Way
+03/10/2026,DAL,Moussa Cisse,Out,G League - Two-Way
 03/10/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
 03/10/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
-03/10/2026,DAL,John Poulakidas,Doubtful,G League - Two-Way
-03/10/2026,DAL,Tyler Smith,Doubtful,G League - Two-Way
+03/10/2026,DAL,John Poulakidas,Out,G League - Two-Way
+03/10/2026,DAL,Tyler Smith,Out,G League - Two-Way
 03/10/2026,ATL,RayJ Dennis,Out,G League - Two-Way
 03/10/2026,ATL,Keshon Gilbert,Out,G League - Two-Way
 03/10/2026,ATL,Jonathan Kuminga,Out,Injury/Illness - Left Knee; Bone Bruise
@@ -8591,13 +8591,15 @@ Date,Team,Player,Status,Reason
 03/10/2026,BRK,Egor Demin,Out,Injury/Illness - Left Plantar Fascia; Injury Management
 03/10/2026,BRK,Day'Ron Sharpe,Out,Injury/Illness - Left Thumb; Sprain
 03/10/2026,BRK,Ziaire Williams,Out,Injury/Illness - N/a; Illness
+03/10/2026,WAS,Leaky Black,Out,G League - Two-Way
 03/10/2026,WAS,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 03/10/2026,WAS,Kyshawn George,Out,Injury/Illness - Left Elbow; Sprain
+03/10/2026,WAS,Julian Reese,Out,G League - Two-Way
 03/10/2026,WAS,D'Angelo Russell,Out,Not With Team
 03/10/2026,WAS,Jamir Watkins,Out,Injury/Illness - Left Ankle; ; Foot; Sprain
 03/10/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 03/10/2026,WAS,Trae Young,Out,Injury/Illness - Right Knee; Injury Management
-03/10/2026,MIA,Tyler Herro,Questionable,Injury/Illness - Left Quadriceps; Soreness
+03/10/2026,MIA,Tyler Herro,Out,Injury/Illness - Left Quadriceps; Soreness
 03/10/2026,MIA,Nikola Jovic,Out,Injury/Illness - Low Back; Injury Management
 03/10/2026,MIA,Norman Powell,Out,Injury/Illness - Right Groin; Strain
 03/10/2026,MIA,Terry Rozier,Out,Not With Team
@@ -8611,7 +8613,7 @@ Date,Team,Player,Status,Reason
 03/10/2026,SAS,Harrison Ingram,Out,G League - Two-Way
 03/10/2026,SAS,David Jones Garcia,Out,G League - Two-Way
 03/10/2026,SAS,Emanuel Miller,Out,G League - Two-Way
-03/10/2026,SAS,Lindy Waters III,Questionable,Injury/Illness - “”; Illness
+03/10/2026,SAS,Lindy Waters III,Out,Injury/Illness - “”; Illness
 03/10/2026,PHO,Grayson Allen,Questionable,Injury/Illness - Right Knee; Injury Management
 03/10/2026,PHO,Dillon Brooks,Out,Injury/Illness - Left Hand; Fracture
 03/10/2026,PHO,Mark Williams,Out,Injury/Illness - Left Foot Third Metatarsal; Stress Reaction
@@ -8625,7 +8627,7 @@ Date,Team,Player,Status,Reason
 03/10/2026,TOR,Trayce Jackson-Davis,Out,Injury/Illness - Right Hand; Middle Finger - Dislocation
 03/10/2026,TOR,A.J. Lawson,Out,G League - Two-Way
 03/10/2026,TOR,Collin Murray-Boyles,Out,Injury/Illness - Left Thumb; Sprain
-03/10/2026,TOR,Jakob Poeltl,Questionable,Injury/Illness - Illness; Illness
+03/10/2026,TOR,Jakob Poeltl,Out,Injury/Illness - Illness; Illness
 03/10/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
 03/10/2026,HOU,Tristen Newton,Out,G League - Two-Way
 03/10/2026,HOU,Jae'Sean Tate,Out,Injury/Illness - Right Knee; Sprain
