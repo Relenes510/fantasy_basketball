@@ -48,7 +48,6 @@ BRK,Ochai Agbaji,SG
 BRK,E.J. Liddell,PF
 BRK,Tyson Etienne,PG
 BRK,Josh Minott,SF
-BRK,Grant Nelson,PF
 BRK,Chaney Johnson,SF
 CHO,Sion James,SG
 CHO,Kon Knueppel,SF
@@ -101,8 +100,8 @@ CLE,Dennis Schroder,PG
 CLE,Keon Ellis,SG
 CLE,James Harden,PG
 CLE,Tristan Enaruna,SF
-CLE,Max Strus,SF
 CLE,Riley Minix,SF
+CLE,Max Strus,SF
 CLE,Olivier Sarr,C
 DAL,Naji Marshall,SF
 DAL,Max Christie,SG
@@ -127,11 +126,11 @@ DEN,Tim Hardaway Jr.,SG
 DEN,Jamal Murray,PG
 DEN,Jonas Valanciunas,C
 DEN,Spencer Jones,SF
-DEN,Peyton Watson,SF
 DEN,Nikola Jokic,C
+DEN,Peyton Watson,SF
 DEN,Zeke Nnaji,PF
-DEN,Jalen Pickett,SG
 DEN,Julian Strawther,SG
+DEN,Jalen Pickett,SG
 DEN,Cameron Johnson,SF
 DEN,Christian Braun,SG
 DEN,Aaron Gordon,PF
@@ -173,8 +172,8 @@ GSW,De'Anthony Melton,PG
 GSW,Malevy Leons,SF
 GSW,LJ Cryer,PG
 GSW,Nate Williams,SG
-GSW,Kristaps Porzingis,C
 GSW,Seth Curry,SG
+GSW,Kristaps Porzingis,C
 HOU,Reed Sheppard,SG
 HOU,Amen Thompson,PG
 HOU,Kevin Durant,SF
@@ -216,15 +215,15 @@ LAC,Brook Lopez,C
 LAC,John Collins,PF
 LAC,Kobe Sanders,SG
 LAC,Kawhi Leonard,SF
-LAC,Cam Christie,SG
 LAC,Jordan Miller,SF
+LAC,Cam Christie,SG
 LAC,Yanic Konan Niederhauser,C
 LAC,Derrick Jones Jr.,SF
 LAC,Bogdan Bogdanovic,SG
 LAC,Bennedict Mathurin,SF
 LAC,TyTy Washington Jr.,PG
-LAC,Bradley Beal,SG
 LAC,Isaiah Jackson,C
+LAC,Bradley Beal,SG
 LAC,Darius Garland,PG
 LAC,Norchad Omier,PF
 LAC,Sean Pedulla,PG
@@ -258,9 +257,9 @@ MEM,Ja Morant,PG
 MEM,Jahmai Mashack,SG
 MEM,Taylor Hendricks,PF
 MEM,Zach Edey,C
+MEM,Walter Clayton,PG
 MEM,Ty Jerome,SG
 MEM,Scotty Pippen Jr.,PG
-MEM,Walter Clayton,PG
 MEM,Rayan Rupert,SG
 MEM,Brandon Clarke,PF
 MEM,Taj Gibson,C
@@ -354,8 +353,8 @@ NYK,Trey Jemison,C
 NYK,Jeremy Sochan,PF
 NYK,Dillon Jones,SF
 OKC,Cason Wallace,SG
-OKC,Chet Holmgren,PF
 OKC,Isaiah Joe,SG
+OKC,Chet Holmgren,PF
 OKC,Luguentz Dort,SF
 OKC,Shai Gilgeous-Alexander,PG
 OKC,Aaron Wiggins,SG
@@ -389,8 +388,8 @@ ORL,Jevon Carter,PG
 ORL,Colin Castleton,C
 ORL,Alex Morales,PG
 PHI,Tyrese Maxey,PG
-PHI,VJ Edgecombe,SG
 PHI,Quentin Grimes,SG
+PHI,VJ Edgecombe,SG
 PHI,Adem Bona,C
 PHI,Jabari Walker,PF
 PHI,Dominick Barlow,PF
@@ -403,8 +402,8 @@ PHI,Paul George,PF
 PHI,Johni Broome,C
 PHI,Cameron Payne,PG
 PHI,Kyle Lowry,PG
-PHI,Tyrese Martin,SG
 PHI,Dalen Terry,SG
+PHI,Tyrese Martin,SG
 PHI,MarJon Beauchamp,SF
 PHO,Royce O'Neale,SF
 PHO,Oso Ighodaro,PF

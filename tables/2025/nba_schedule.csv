@@ -958,11 +958,11 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-08,9:00p,Indiana Pacers,IND,111.0,Portland Trail Blazers,POR,131.0,0,Moda Center,0,0,0,0,1
 2026-03-08,9:00p,Chicago Bulls,CHI,110.0,Sacramento Kings,SAC,126.0,0,Golden 1 Center,0,0,0,0,1
 2026-03-08,10:00p,Charlotte Hornets,CHO,99.0,Phoenix Suns,PHO,111.0,0,Mortgage Matchup Center,0,0,0,0,1
-2026-03-09,7:00p,Philadelphia 76ers,PHI,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,1,0,0,0
-2026-03-09,7:30p,Memphis Grizzlies,MEM,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-03-09,7:30p,Denver Nuggets,DEN,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
-2026-03-09,9:00p,Golden State Warriors,GSW,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
-2026-03-09,10:00p,New York Knicks,NYK,,Los Angeles Clippers,LAC,,0,Intuit Dome,1,0,0,0,0
+2026-03-09,7:00p,Philadelphia 76ers,PHI,101.0,Cleveland Cavaliers,CLE,115.0,0,Rocket Arena,0,1,0,0,1
+2026-03-09,7:30p,Memphis Grizzlies,MEM,115.0,Brooklyn Nets,BRK,126.0,0,Barclays Center,0,0,0,0,1
+2026-03-09,7:30p,Denver Nuggets,DEN,126.0,Oklahoma City Thunder,OKC,129.0,0,Paycom Center,0,0,0,0,1
+2026-03-09,9:00p,Golden State Warriors,GSW,116.0,Utah Jazz,UTA,119.0,0,Delta Center,0,0,0,0,1
+2026-03-09,10:00p,New York Knicks,NYK,118.0,Los Angeles Clippers,LAC,126.0,0,Intuit Dome,1,0,0,0,1
 2026-03-10,7:00p,Memphis Grizzlies,MEM,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,1,1,0,0,0
 2026-03-10,7:30p,Dallas Mavericks,DAL,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
 2026-03-10,7:30p,Detroit Pistons,DET,,Brooklyn Nets,BRK,,0,Barclays Center,0,1,0,0,0
