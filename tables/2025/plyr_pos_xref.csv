@@ -17,8 +17,8 @@ ATL,Jonathan Kuminga,PF
 ATL,Buddy Hield,SG
 ATL,RayJ Dennis,PG
 ATL,Keshon Gilbert,SG
-BOS,Payton Pritchard,PG
 BOS,Derrick White,SG
+BOS,Payton Pritchard,PG
 BOS,Sam Hauser,PF
 BOS,Neemias Queta,C
 BOS,Baylor Scheierman,SG
@@ -29,23 +29,23 @@ BOS,Luka Garza,C
 BOS,Ron Harper Jr.,SF
 BOS,Amari Williams,PF
 BOS,Nikola Vucevic,C
-BOS,John Tonje,SG
 BOS,Jayson Tatum,PF
+BOS,John Tonje,SG
 BOS,Max Shulga,SG
 BRK,Day'Ron Sharpe,C
 BRK,Noah Clowney,PF
 BRK,Nic Claxton,C
 BRK,Terance Mann,SG
-BRK,Egor Dmin,PG
 BRK,Michael Porter Jr.,SF
+BRK,Egor Dmin,PG
 BRK,Danny Wolf,PF
 BRK,Drake Powell,SG
 BRK,Ziaire Williams,SF
 BRK,Nolan Traore,PG
 BRK,Jalen Wilson,PF
 BRK,Ben Saraf,SG
-BRK,Ochai Agbaji,SG
 BRK,E.J. Liddell,PF
+BRK,Ochai Agbaji,SG
 BRK,Tyson Etienne,PG
 BRK,Josh Minott,SF
 BRK,Chaney Johnson,SF
@@ -75,9 +75,9 @@ CHI,Jalen Smith,C
 CHI,Josh Giddey,PG
 CHI,Lachlan Olbrich,C
 CHI,Guerschon Yabusele,C
-CHI,Collin Sexton,SG
 CHI,Nick Richards,C
 CHI,Rob Dillingham,PG
+CHI,Collin Sexton,SG
 CHI,Zach Collins,C
 CHI,Leonard Miller,SF
 CHI,Yuki Kawamura,PG
@@ -142,8 +142,8 @@ DEN,David Roddy,PF
 DET,Javonte Green,SG
 DET,Duncan Robinson,SF
 DET,Ron Holland,SF
-DET,Ausar Thompson,SF
 DET,Cade Cunningham,PG
+DET,Ausar Thompson,SF
 DET,Daniss Jenkins,PG
 DET,Jalen Duren,C
 DET,Isaiah Stewart,C
@@ -172,8 +172,8 @@ GSW,De'Anthony Melton,PG
 GSW,Malevy Leons,SF
 GSW,LJ Cryer,PG
 GSW,Nate Williams,SG
-GSW,Seth Curry,SG
 GSW,Kristaps Porzingis,C
+GSW,Seth Curry,SG
 HOU,Reed Sheppard,SG
 HOU,Amen Thompson,PG
 HOU,Kevin Durant,SF
@@ -198,17 +198,17 @@ IND,Ben Sheppard,SG
 IND,Andrew Nembhard,PG
 IND,T.J. McConnell,PG
 IND,Aaron Nesmith,SF
-IND,Johnny Furphy,SG
 IND,Quenton Jackson,PG
+IND,Johnny Furphy,SG
 IND,Micah Potter,C
 IND,Taelon Peter,SG
 IND,Kam Jones,SG
 IND,Ethan Thompson,SG
 IND,Kobe Brown,PF
 IND,Obi Toppin,PF
+IND,Jalen Slawson,SF
 IND,Ivica Zubac,C
 IND,Tyrese Haliburton,PG
-IND,Jalen Slawson,SF
 LAC,Kris Dunn,PG
 LAC,Nicolas Batum,PF
 LAC,Brook Lopez,C
@@ -247,25 +247,25 @@ LAL,Kobe Bufkin,SG
 LAL,Chris Manon,SG
 MEM,Jaylen Wells,SG
 MEM,Cam Spencer,SG
-MEM,Kentavious Caldwell-Pope,SG
 MEM,Cedric Coward,SG
-MEM,Santi Aldama,PF
+MEM,Kentavious Caldwell-Pope,SG
 MEM,GG Jackson II,PF
+MEM,Santi Aldama,PF
 MEM,Olivier-Maxence Prosper,PF
 MEM,Javon Small,PG
-MEM,Ja Morant,PG
 MEM,Jahmai Mashack,SG
+MEM,Ja Morant,PG
 MEM,Taylor Hendricks,PF
+MEM,Ty Jerome,SG
 MEM,Zach Edey,C
 MEM,Walter Clayton,PG
-MEM,Ty Jerome,SG
 MEM,Scotty Pippen Jr.,PG
 MEM,Rayan Rupert,SG
 MEM,Brandon Clarke,PF
 MEM,Taj Gibson,C
 MIA,Dru Smith,SG
-MIA,Kel'el Ware,C
 MIA,Jaime Jaquez Jr.,SF
+MIA,Kel'el Ware,C
 MIA,Simone Fontecchio,SF
 MIA,Bam Adebayo,C
 MIA,Andrew Wiggins,SF
@@ -399,8 +399,8 @@ PHI,Trendon Watford,PF
 PHI,Kelly Oubre Jr.,SF
 PHI,Joel Embiid,C
 PHI,Paul George,PF
-PHI,Johni Broome,C
 PHI,Cameron Payne,PG
+PHI,Johni Broome,C
 PHI,Kyle Lowry,PG
 PHI,Dalen Terry,SG
 PHI,Tyrese Martin,SG
@@ -429,8 +429,8 @@ POR,Sidy Cissoko,SF
 POR,Deni Avdija,SF
 POR,Jerami Grant,PF
 POR,Shaedon Sharpe,SG
-POR,Caleb Love,SG
 POR,Robert Williams,C
+POR,Caleb Love,SG
 POR,Kris Murray,SF
 POR,Yang Hansen,C
 POR,Jrue Holiday,PG
@@ -475,8 +475,8 @@ SAS,Jordan McLaughlin,PG
 SAS,Bismack Biyombo,C
 SAS,David Jones Garcia,SF
 SAS,Harrison Ingram,SF
-SAS,Emanuel Miller,PF
 SAS,Mason Plumlee,C
+SAS,Emanuel Miller,PF
 TOR,Jamal Shead,PG
 TOR,Brandon Ingram,SF
 TOR,Scottie Barnes,PF
@@ -490,8 +490,8 @@ TOR,RJ Barrett,SF
 TOR,Jakob Poeltl,C
 TOR,Jonathan Mogbo,PF
 TOR,Garrett Temple,SG
-TOR,A.J. Lawson,SG
 TOR,Alijah Martin,SG
+TOR,A.J. Lawson,SG
 TOR,Trayce Jackson-Davis,C
 TOR,Chucky Hepburn,PG
 UTA,Kyle Filipowski,C
@@ -508,7 +508,6 @@ UTA,Elijah Harkless,SG
 UTA,John Konchar,SG
 UTA,Oscar Tshiebwe,C
 UTA,Blake Hinson,SF
-UTA,Vince Williams Jr.,SG
 UTA,Walker Kessler,C
 UTA,Jaren Jackson Jr.,C
 UTA,Mo Bamba,C

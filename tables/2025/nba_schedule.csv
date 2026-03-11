@@ -963,17 +963,17 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-09,7:30p,Denver Nuggets,DEN,126.0,Oklahoma City Thunder,OKC,129.0,0,Paycom Center,0,0,0,0,1
 2026-03-09,9:00p,Golden State Warriors,GSW,116.0,Utah Jazz,UTA,119.0,0,Delta Center,0,0,0,0,1
 2026-03-09,10:00p,New York Knicks,NYK,118.0,Los Angeles Clippers,LAC,126.0,0,Intuit Dome,1,0,0,0,1
-2026-03-10,7:00p,Memphis Grizzlies,MEM,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,1,1,0,0,0
-2026-03-10,7:30p,Dallas Mavericks,DAL,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
-2026-03-10,7:30p,Detroit Pistons,DET,,Brooklyn Nets,BRK,,0,Barclays Center,0,1,0,0,0
-2026-03-10,7:30p,Washington Wizards,WAS,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-03-10,8:00p,Toronto Raptors,TOR,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
-2026-03-10,8:00p,Phoenix Suns,PHO,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
-2026-03-10,8:00p,Boston Celtics,BOS,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
-2026-03-10,10:00p,Chicago Bulls,CHI,,Golden State Warriors,GSW,,0,Chase Center,0,1,0,0,0
-2026-03-10,10:00p,Charlotte Hornets,CHO,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
-2026-03-10,10:00p,Indiana Pacers,IND,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
-2026-03-10,11:00p,Minnesota Timberwolves,MIN,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
+2026-03-10,7:00p,Memphis Grizzlies,MEM,129.0,Philadelphia 76ers,PHI,139.0,0,Xfinity Mobile Arena,1,1,0,0,1
+2026-03-10,7:30p,Dallas Mavericks,DAL,112.0,Atlanta Hawks,ATL,124.0,0,State Farm Arena,0,0,0,0,1
+2026-03-10,7:30p,Detroit Pistons,DET,138.0,Brooklyn Nets,BRK,100.0,0,Barclays Center,0,1,0,0,1
+2026-03-10,7:30p,Washington Wizards,WAS,129.0,Miami Heat,MIA,150.0,0,Kaseya Center,0,0,0,0,1
+2026-03-10,8:00p,Toronto Raptors,TOR,99.0,Houston Rockets,HOU,113.0,0,Toyota Center,0,0,0,0,1
+2026-03-10,8:00p,Phoenix Suns,PHO,129.0,Milwaukee Bucks,MIL,114.0,0,Fiserv Forum,0,0,0,0,1
+2026-03-10,8:00p,Boston Celtics,BOS,116.0,San Antonio Spurs,SAS,125.0,0,Frost Bank Center,0,0,0,0,1
+2026-03-10,10:00p,Chicago Bulls,CHI,130.0,Golden State Warriors,GSW,124.0,1,Chase Center,0,1,0,0,1
+2026-03-10,10:00p,Charlotte Hornets,CHO,103.0,Portland Trail Blazers,POR,101.0,0,Moda Center,0,0,0,0,1
+2026-03-10,10:00p,Indiana Pacers,IND,109.0,Sacramento Kings,SAC,114.0,0,Golden 1 Center,0,0,0,0,1
+2026-03-10,11:00p,Minnesota Timberwolves,MIN,106.0,Los Angeles Lakers,LAL,120.0,0,Crypto.com Arena,0,0,0,0,1
 2026-03-11,7:30p,Cleveland Cavaliers,CLE,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
 2026-03-11,8:00p,Toronto Raptors,TOR,,New Orleans Pelicans,NOP,,0,Smoothie King Center,1,0,0,0,0
 2026-03-11,9:00p,New York Knicks,NYK,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
