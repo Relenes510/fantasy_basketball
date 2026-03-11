@@ -8637,7 +8637,7 @@ Date,Team,Player,Status,Reason
 03/10/2026,CHO,Coby White,Out,Injury/Illness - Left Calf; Injury Management
 03/10/2026,POR,Jayson Kent,Out,G League - Two-Way
 03/10/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
-03/10/2026,POR,Caleb Love,Questionable,G League - Two-Way
+03/10/2026,POR,Caleb Love,Out,G League - Two-Way
 03/10/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left Fibula; Stress Reaction
 03/10/2026,POR,Hansen Yang,Out,G League - On Assignment
 03/10/2026,POR,Chris Youngblood,Out,G League - Two-Way
@@ -8645,6 +8645,7 @@ Date,Team,Player,Status,Reason
 03/10/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
 03/10/2026,CHI,Jaden Ivey,Out,Injury/Illness - Left Patellofemoral; Pain Syndrome
 03/10/2026,CHI,Mac McClung,Out,G League - Two-Way
+03/10/2026,CHI,Isaac Okoro,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
 03/10/2026,CHI,Lachlan Olbrich,Out,G League - Two-Way
 03/10/2026,CHI,Collin Sexton,Out,Injury/Illness - Left Fibular Head; Contusion
 03/10/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
@@ -8652,19 +8653,15 @@ Date,Team,Player,Status,Reason
 03/10/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Surgery
 03/10/2026,GSW,Seth Curry,Out,Injury/Illness - Left Sciatic Nerve; Injury Management
 03/10/2026,GSW,Stephen Curry,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
-03/10/2026,GSW,Draymond Green,Questionable,Injury/Illness - Left Low Back; Injury Management
-03/10/2026,GSW,De'Anthony Melton,Questionable,Injury/Illness - Left Adductor; Soreness
+03/10/2026,GSW,De'Anthony Melton,Out,Injury/Illness - Left Adductor; Soreness
 03/10/2026,GSW,Moses Moody,Out,Injury/Illness - Right Wrist; Sprain
 03/10/2026,GSW,Quinten Post,Out,Injury/Illness - Bilateral Foot; Soreness
 03/10/2026,IND,Johnny Furphy,Out,Injury/Illness - Right Acl; Tear
 03/10/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Torn
 03/10/2026,IND,T.J. McConnell,Out,Injury/Illness - Right Hamstring; Soreness
-03/10/2026,IND,Andrew Nembhard,Doubtful,Injury/Illness - Lower Back; Soreness; Neck Soreness
-03/10/2026,IND,Taelon Peter,Questionable,G League - Two-Way
+03/10/2026,IND,Andrew Nembhard,Out,Injury/Illness - Lower Back; Soreness; Neck Soreness
 03/10/2026,IND,Pascal Siakam,Out,Injury/Illness - Right Knee; Sprain
-03/10/2026,IND,Jalen Slawson,Questionable,G League - Two-Way
-03/10/2026,IND,Ethan Thompson,Questionable,G League - Two-Way
-03/10/2026,IND,Jarace Walker,Probable,Injury/Illness - Right Ankle; Sprain; mid back soreness
+03/10/2026,IND,Ethan Thompson,Out,G League - Two-Way
 03/10/2026,IND,Ivica Zubac,Out,Injury/Illness - Left Ankle; Sprain
 03/10/2026,SAC,Dylan Cardwell,Out,Injury/Illness - Left Ankle; Sprain
 03/10/2026,SAC,De'Andre Hunter,Out,Injury/Illness - Left Eye; Retinal Repair
@@ -8672,4 +8669,4 @@ Date,Team,Player,Status,Reason
 03/10/2026,SAC,Keegan Murray,Out,Injury/Illness - Left Ankle; Sprain
 03/10/2026,SAC,Domantas Sabonis,Out,Injury/Illness - Left Knee; Meniscus Repair
 03/10/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
-03/10/2026,LAL,LeBron James,Questionable,Injury/Illness - Right Hip Contusion; & Left Foot Arthritis
+03/10/2026,LAL,LeBron James,Out,Injury/Illness - Right Hip Contusion; & Left Foot Arthritis
