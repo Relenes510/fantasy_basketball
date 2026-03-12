@@ -974,12 +974,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-10,10:00p,Charlotte Hornets,CHO,103.0,Portland Trail Blazers,POR,101.0,0,Moda Center,0,0,0,0,1
 2026-03-10,10:00p,Indiana Pacers,IND,109.0,Sacramento Kings,SAC,114.0,0,Golden 1 Center,0,0,0,0,1
 2026-03-10,11:00p,Minnesota Timberwolves,MIN,106.0,Los Angeles Lakers,LAL,120.0,0,Crypto.com Arena,0,0,0,0,1
-2026-03-11,7:30p,Cleveland Cavaliers,CLE,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
-2026-03-11,8:00p,Toronto Raptors,TOR,,New Orleans Pelicans,NOP,,0,Smoothie King Center,1,0,0,0,0
-2026-03-11,9:00p,New York Knicks,NYK,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
-2026-03-11,10:00p,Houston Rockets,HOU,,Denver Nuggets,DEN,,0,Ball Arena,1,0,0,0,0
-2026-03-11,10:00p,Charlotte Hornets,CHO,,Sacramento Kings,SAC,,0,Golden 1 Center,1,1,0,0,0
-2026-03-11,10:30p,Minnesota Timberwolves,MIN,,Los Angeles Clippers,LAC,,0,Intuit Dome,1,0,0,0,0
+2026-03-11,7:30p,Cleveland Cavaliers,CLE,122.0,Orlando Magic,ORL,128.0,0,Kia Center,0,0,0,0,1
+2026-03-11,8:00p,Toronto Raptors,TOR,111.0,New Orleans Pelicans,NOP,122.0,0,Smoothie King Center,1,0,0,0,1
+2026-03-11,9:00p,New York Knicks,NYK,134.0,Utah Jazz,UTA,117.0,0,Delta Center,0,0,0,0,1
+2026-03-11,10:00p,Houston Rockets,HOU,93.0,Denver Nuggets,DEN,129.0,0,Ball Arena,1,0,0,0,1
+2026-03-11,10:00p,Charlotte Hornets,CHO,117.0,Sacramento Kings,SAC,109.0,0,Golden 1 Center,1,1,0,0,1
+2026-03-11,10:30p,Minnesota Timberwolves,MIN,128.0,Los Angeles Clippers,LAC,153.0,0,Intuit Dome,1,0,0,0,1
 2026-03-12,7:00p,Philadelphia 76ers,PHI,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
 2026-03-12,7:00p,Phoenix Suns,PHO,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-03-12,7:00p,Washington Wizards,WAS,,Orlando Magic,ORL,,0,Kia Center,0,1,0,0,0
