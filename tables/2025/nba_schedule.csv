@@ -980,15 +980,15 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-11,10:00p,Houston Rockets,HOU,93.0,Denver Nuggets,DEN,129.0,0,Ball Arena,1,0,0,0,1
 2026-03-11,10:00p,Charlotte Hornets,CHO,117.0,Sacramento Kings,SAC,109.0,0,Golden 1 Center,1,1,0,0,1
 2026-03-11,10:30p,Minnesota Timberwolves,MIN,128.0,Los Angeles Clippers,LAC,153.0,0,Intuit Dome,1,0,0,0,1
-2026-03-12,7:00p,Philadelphia 76ers,PHI,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
-2026-03-12,7:00p,Phoenix Suns,PHO,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-03-12,7:00p,Washington Wizards,WAS,,Orlando Magic,ORL,,0,Kia Center,0,1,0,0,0
-2026-03-12,7:30p,Brooklyn Nets,BRK,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
-2026-03-12,7:30p,Milwaukee Bucks,MIL,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-03-12,8:00p,Dallas Mavericks,DAL,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-03-12,9:00p,Denver Nuggets,DEN,,San Antonio Spurs,SAS,,0,Frost Bank Center,1,0,0,0,0
-2026-03-12,9:30p,Boston Celtics,BOS,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
-2026-03-12,10:30p,Chicago Bulls,CHI,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
+2026-03-12,7:00p,Philadelphia 76ers,PHI,109.0,Detroit Pistons,DET,131.0,0,Little Caesars Arena,0,0,0,0,1
+2026-03-12,7:00p,Phoenix Suns,PHO,123.0,Indiana Pacers,IND,108.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-03-12,7:00p,Washington Wizards,WAS,131.0,Orlando Magic,ORL,136.0,1,Kia Center,0,1,0,0,1
+2026-03-12,7:30p,Brooklyn Nets,BRK,97.0,Atlanta Hawks,ATL,108.0,0,State Farm Arena,0,0,0,0,1
+2026-03-12,7:30p,Milwaukee Bucks,MIL,105.0,Miami Heat,MIA,112.0,0,Kaseya Center,0,0,0,0,1
+2026-03-12,8:00p,Dallas Mavericks,DAL,120.0,Memphis Grizzlies,MEM,112.0,0,FedExForum,0,0,0,0,1
+2026-03-12,9:00p,Denver Nuggets,DEN,136.0,San Antonio Spurs,SAS,131.0,0,Frost Bank Center,1,0,0,0,1
+2026-03-12,9:30p,Boston Celtics,BOS,102.0,Oklahoma City Thunder,OKC,104.0,0,Paycom Center,0,0,0,0,1
+2026-03-12,10:30p,Chicago Bulls,CHI,130.0,Los Angeles Lakers,LAL,142.0,0,Crypto.com Arena,0,0,0,0,1
 2026-03-13,7:30p,Cleveland Cavaliers,CLE,,Dallas Mavericks,DAL,,0,American Airlines Center,0,1,0,0,0
 2026-03-13,7:30p,Memphis Grizzlies,MEM,,Detroit Pistons,DET,,0,Little Caesars Arena,1,1,0,0,0
 2026-03-13,7:30p,New York Knicks,NYK,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,1,0,0,0

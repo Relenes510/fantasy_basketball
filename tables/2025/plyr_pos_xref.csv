@@ -1,7 +1,7 @@
 Team,Player,Pos
 ATL,Nickeil Alexander-Walker,SG
-ATL,Dyson Daniels,SG
 ATL,Mouhamed Gueye,PF
+ATL,Dyson Daniels,SG
 ATL,Onyeka Okongwu,C
 ATL,Jalen Johnson,SF
 ATL,Zaccharie Risacher,SF
@@ -11,14 +11,14 @@ ATL,CJ McCollum,PG
 ATL,Corey Kispert,SF
 ATL,Jock Landale,C
 ATL,Caleb Houstan,SF
-ATL,Christian Koloko,C
 ATL,Gabe Vincent,PG
+ATL,Christian Koloko,C
 ATL,Jonathan Kuminga,PF
 ATL,Buddy Hield,SG
 ATL,RayJ Dennis,PG
 ATL,Keshon Gilbert,SG
-BOS,Derrick White,SG
 BOS,Payton Pritchard,PG
+BOS,Derrick White,SG
 BOS,Sam Hauser,PF
 BOS,Neemias Queta,C
 BOS,Baylor Scheierman,SG
@@ -41,8 +41,8 @@ BRK,Egor Dmin,PG
 BRK,Danny Wolf,PF
 BRK,Drake Powell,SG
 BRK,Ziaire Williams,SF
-BRK,Nolan Traore,PG
 BRK,Jalen Wilson,PF
+BRK,Nolan Traore,PG
 BRK,Ben Saraf,SG
 BRK,E.J. Liddell,PF
 BRK,Ochai Agbaji,SG
@@ -78,8 +78,8 @@ CHI,Guerschon Yabusele,C
 CHI,Nick Richards,C
 CHI,Rob Dillingham,PG
 CHI,Collin Sexton,SG
-CHI,Zach Collins,C
 CHI,Leonard Miller,SF
+CHI,Zach Collins,C
 CHI,Yuki Kawamura,PG
 CHI,Anfernee Simons,SG
 CHI,Jaden Ivey,SG
@@ -136,8 +136,8 @@ DEN,Christian Braun,SG
 DEN,Aaron Gordon,PF
 DEN,DaRon Holmes,PF
 DEN,Curtis Jones,SG
-DEN,KJ Simpson,PG
 DEN,Tyus Jones,PG
+DEN,KJ Simpson,PG
 DEN,David Roddy,PF
 DET,Javonte Green,SG
 DET,Duncan Robinson,SF
@@ -230,10 +230,10 @@ LAC,Sean Pedulla,PG
 LAL,Jake LaRavia,PF
 LAL,Deandre Ayton,C
 LAL,Marcus Smart,SG
-LAL,Jaxson Hayes,C
 LAL,Jarred Vanderbilt,PF
 LAL,Luka Doncic,PG
 LAL,Rui Hachimura,PF
+LAL,Jaxson Hayes,C
 LAL,Dalton Knecht,SF
 LAL,LeBron James,SF
 LAL,Austin Reaves,SG
@@ -359,8 +359,8 @@ OKC,Luguentz Dort,SF
 OKC,Shai Gilgeous-Alexander,PG
 OKC,Aaron Wiggins,SG
 OKC,Jaylin Williams,PF
-OKC,Kenrich Williams,PF
 OKC,Ajay Mitchell,SG
+OKC,Kenrich Williams,PF
 OKC,Alex Caruso,SG
 OKC,Isaiah Hartenstein,C
 OKC,Branden Carlson,C
@@ -378,8 +378,8 @@ ORL,Paolo Banchero,PF
 ORL,Jonathan Isaac,PF
 ORL,Goga Bitadze,C
 ORL,Noah Penda,SF
-ORL,Jase Richardson,SG
 ORL,Jett Howard,SF
+ORL,Jase Richardson,SG
 ORL,Jalen Suggs,PG
 ORL,Franz Wagner,SF
 ORL,Moritz Wagner,C
@@ -411,8 +411,8 @@ PHO,Collin Gillespie,PG
 PHO,Ryan Dunn,SF
 PHO,Mark Williams,C
 PHO,Jordan Goodwin,PG
-PHO,Dillon Brooks,SF
 PHO,Devin Booker,SG
+PHO,Dillon Brooks,SF
 PHO,Grayson Allen,SG
 PHO,Rasheer Fleming,PF
 PHO,Jamaree Bouyea,PG
@@ -511,6 +511,7 @@ UTA,Blake Hinson,SF
 UTA,Walker Kessler,C
 UTA,Jaren Jackson Jr.,C
 UTA,Mo Bamba,C
+UTA,Andersson Garcia,G
 WAS,Bub Carrington,PG
 WAS,Justin Champagnie,SF
 WAS,Will Riley,SF
