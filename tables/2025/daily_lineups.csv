@@ -9939,16 +9939,6 @@ Date,Team,Player,Pos
 03/13/2026,IND,Aaron Nesmith,PF
 03/13/2026,IND,Jarace Walker,PF
 03/13/2026,IND,Ivica Zubac,C
-03/13/2026,MEM,Ty Jerome,PG
-03/13/2026,MEM,Cam Spencer,SG
-03/13/2026,MEM,Cedric Coward,SG
-03/13/2026,MEM,Olivier-Maxence Prosper,PF
-03/13/2026,MEM,Taylor Hendricks,PF
-03/13/2026,DET,Cade Cunningham,PG
-03/13/2026,DET,Marcus Sasser,PG
-03/13/2026,DET,Duncan Robinson,SG
-03/13/2026,DET,Javonte Green,SG
-03/13/2026,DET,Jalen Duren,C
 03/13/2026,CLE,Donovan Mitchell,SG
 03/13/2026,CLE,Keon Ellis,SG
 03/13/2026,CLE,James Harden,SG
@@ -9969,6 +9959,16 @@ Date,Team,Player,Pos
 03/13/2026,TOR,Scottie Barnes,SF
 03/13/2026,TOR,Brandon Ingram,SF
 03/13/2026,TOR,Jakob Poeltl,C
+03/13/2026,MEM,Ty Jerome,PG
+03/13/2026,MEM,Cedric Coward,SG
+03/13/2026,MEM,Cam Spencer,SG
+03/13/2026,MEM,Taylor Hendricks,PF
+03/13/2026,MEM,Olivier-Maxence Prosper,PF
+03/13/2026,DET,Cade Cunningham,PG
+03/13/2026,DET,Marcus Sasser,PG
+03/13/2026,DET,Duncan Robinson,SG
+03/13/2026,DET,Javonte Green,SG
+03/13/2026,DET,Jalen Duren,C
 03/13/2026,NOP,Dejounte Murray,SG
 03/13/2026,NOP,Trey Murphy III,SF
 03/13/2026,NOP,Herbert Jones,SF
@@ -9976,13 +9976,13 @@ Date,Team,Player,Pos
 03/13/2026,NOP,Saddiq Bey,PF
 03/13/2026,HOU,Amen Thompson,SG
 03/13/2026,HOU,Tari Eason,SF
-03/13/2026,HOU,Kevin Durant,PF
 03/13/2026,HOU,Jabari Smith Jr.,PF
+03/13/2026,HOU,Kevin Durant,PF
 03/13/2026,HOU,Dorian Finney-Smith,PF
 03/13/2026,UTA,Isaiah Collier,PG
 03/13/2026,UTA,Ace Bailey,SF
-03/13/2026,UTA,Cody Williams,SF
 03/13/2026,UTA,Brice Sensabaugh,SF
+03/13/2026,UTA,Cody Williams,SF
 03/13/2026,UTA,Kyle Filipowski,C
 03/13/2026,POR,Jrue Holiday,PG
 03/13/2026,POR,Deni Avdija,SF
@@ -9997,8 +9997,8 @@ Date,Team,Player,Pos
 03/13/2026,GSW,Brandin Podziemski,SG
 03/13/2026,GSW,De'Anthony Melton,SG
 03/13/2026,GSW,Gui Santos,SF
-03/13/2026,GSW,Kristaps Porzingis,C
 03/13/2026,GSW,Al Horford,C
+03/13/2026,GSW,Kristaps Porzingis,C
 03/13/2026,CHI,Tre Jones,PG
 03/13/2026,CHI,Josh Giddey,SG
 03/13/2026,CHI,Matas Buzelis,SF
@@ -10040,8 +10040,8 @@ Date,Team,Player,Pos
 03/14/2026,SAS,Julian Champagnie,SF
 03/14/2026,SAS,Victor Wembanyama,PF
 03/14/2026,WAS,Trae Young,PG
-03/14/2026,WAS,Bilal Coulibaly,SG
 03/14/2026,WAS,Tre Johnson,SG
+03/14/2026,WAS,Bilal Coulibaly,SG
 03/14/2026,WAS,Will Riley,SF
 03/14/2026,WAS,Alexandre Sarr,PF
 03/14/2026,BOS,Baylor Scheierman,SG
