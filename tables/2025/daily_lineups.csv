@@ -10046,8 +10046,8 @@ Date,Team,Player,Pos
 03/14/2026,WAS,Alexandre Sarr,PF
 03/14/2026,BOS,Derrick White,SG
 03/14/2026,BOS,Jaylen Brown,SG
-03/14/2026,BOS,Jayson Tatum,SF
 03/14/2026,BOS,Sam Hauser,SF
+03/14/2026,BOS,Jayson Tatum,SF
 03/14/2026,BOS,Neemias Queta,C
 03/14/2026,ORL,Desmond Bane,SG
 03/14/2026,ORL,Jalen Suggs,SG
@@ -10056,22 +10056,22 @@ Date,Team,Player,Pos
 03/14/2026,ORL,Wendell Carter Jr.,C
 03/14/2026,MIA,Davion Mitchell,PG
 03/14/2026,MIA,Tyler Herro,SG
-03/14/2026,MIA,Norman Powell,SG
-03/14/2026,MIA,Simone Fontecchio,SF
+03/14/2026,MIA,Pelle Larsson,SG
 03/14/2026,MIA,Bam Adebayo,C
+03/14/2026,MIA,Kel'el Ware,C
 03/14/2026,DEN,Jamal Murray,PG
 03/14/2026,DEN,Christian Braun,SG
 03/14/2026,DEN,Cameron Johnson,PF
 03/14/2026,DEN,Aaron Gordon,PF
 03/14/2026,DEN,Nikola Jokic,C
-03/14/2026,LAL,Luka Doncic,PG
 03/14/2026,LAL,Marcus Smart,PG
+03/14/2026,LAL,Luka Doncic,PG
 03/14/2026,LAL,Austin Reaves,SG
 03/14/2026,LAL,LeBron James,SF
 03/14/2026,LAL,Deandre Ayton,C
 03/14/2026,SAC,Russell Westbrook,PG
-03/14/2026,SAC,DeMar DeRozan,SF
 03/14/2026,SAC,Nique Clifford,SF
+03/14/2026,SAC,DeMar DeRozan,SF
 03/14/2026,SAC,Precious Achiuwa,PF
 03/14/2026,SAC,Maxime Raynaud,C
 03/14/2026,LAC,Darius Garland,PG
@@ -10079,8 +10079,8 @@ Date,Team,Player,Pos
 03/14/2026,LAC,Kawhi Leonard,SF
 03/14/2026,LAC,John Collins,PF
 03/14/2026,LAC,Brook Lopez,C
-03/15/2026,BRK,Nolan Traore,PG
 03/15/2026,BRK,Terance Mann,PG
+03/15/2026,BRK,Nolan Traore,PG
 03/15/2026,BRK,Ziaire Williams,SF
 03/15/2026,BRK,Noah Clowney,PF
 03/15/2026,BRK,Danny Wolf,C
@@ -10092,10 +10092,10 @@ Date,Team,Player,Pos
 03/15/2026,MIL,Kevin Porter Jr.,PG
 03/15/2026,MIL,Ryan Rollins,SG
 03/15/2026,MIL,Kyle Kuzma,PF
-03/15/2026,MIL,Myles Turner,C
 03/15/2026,MIL,Jericho Sims,C
-03/15/2026,ATL,CJ McCollum,PG
+03/15/2026,MIL,Myles Turner,C
 03/15/2026,ATL,Dyson Daniels,PG
+03/15/2026,ATL,CJ McCollum,PG
 03/15/2026,ATL,Nickeil Alexander-Walker,SG
 03/15/2026,ATL,Jalen Johnson,PF
 03/15/2026,ATL,Onyeka Okongwu,C
@@ -10114,8 +10114,8 @@ Date,Team,Player,Pos
 03/15/2026,WAS,Bilal Coulibaly,SG
 03/15/2026,WAS,Will Riley,SF
 03/15/2026,WAS,Alexandre Sarr,PF
-03/15/2026,BOS,Jaylen Brown,SG
 03/15/2026,BOS,Derrick White,SG
+03/15/2026,BOS,Jaylen Brown,SG
 03/15/2026,BOS,Sam Hauser,SF
 03/15/2026,BOS,Jayson Tatum,SF
 03/15/2026,BOS,Neemias Queta,C
@@ -10126,9 +10126,9 @@ Date,Team,Player,Pos
 03/15/2026,ORL,Wendell Carter Jr.,C
 03/15/2026,MIA,Davion Mitchell,PG
 03/15/2026,MIA,Tyler Herro,SG
-03/15/2026,MIA,Norman Powell,SG
-03/15/2026,MIA,Simone Fontecchio,SF
+03/15/2026,MIA,Pelle Larsson,SG
 03/15/2026,MIA,Bam Adebayo,C
+03/15/2026,MIA,Kel'el Ware,C
 03/15/2026,DEN,Jamal Murray,PG
 03/15/2026,DEN,Christian Braun,SG
 03/15/2026,DEN,Cameron Johnson,PF
