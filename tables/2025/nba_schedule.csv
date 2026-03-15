@@ -997,13 +997,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-13,10:00p,Minnesota Timberwolves,MIN,127.0,Golden State Warriors,GSW,117.0,0,Chase Center,0,0,0,0,1
 2026-03-13,10:00p,Utah Jazz,UTA,114.0,Portland Trail Blazers,POR,124.0,0,Moda Center,0,0,0,0,1
 2026-03-13,10:30p,Chicago Bulls,CHI,108.0,Los Angeles Clippers,LAC,119.0,0,Intuit Dome,1,0,0,0,1
-2026-03-14,1:00p,Brooklyn Nets,BRK,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
-2026-03-14,3:00p,Milwaukee Bucks,MIL,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
-2026-03-14,3:30p,Charlotte Hornets,CHO,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
-2026-03-14,6:00p,Washington Wizards,WAS,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-03-14,8:00p,Orlando Magic,ORL,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-03-14,8:30p,Denver Nuggets,DEN,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
-2026-03-14,10:30p,Sacramento Kings,SAC,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,1,0,0,0
+2026-03-14,1:00p,Brooklyn Nets,BRK,97.0,Philadelphia 76ers,PHI,104.0,0,Xfinity Mobile Arena,0,0,0,0,1
+2026-03-14,3:00p,Milwaukee Bucks,MIL,99.0,Atlanta Hawks,ATL,122.0,0,State Farm Arena,0,0,0,0,1
+2026-03-14,3:30p,Charlotte Hornets,CHO,102.0,San Antonio Spurs,SAS,115.0,0,Frost Bank Center,0,0,0,0,1
+2026-03-14,6:00p,Washington Wizards,WAS,100.0,Boston Celtics,BOS,111.0,0,TD Garden,0,0,0,0,1
+2026-03-14,8:00p,Orlando Magic,ORL,121.0,Miami Heat,MIA,117.0,0,Kaseya Center,0,0,0,0,1
+2026-03-14,8:30p,Denver Nuggets,DEN,125.0,Los Angeles Lakers,LAL,127.0,1,Crypto.com Arena,0,0,0,0,1
+2026-03-14,10:30p,Sacramento Kings,SAC,118.0,Los Angeles Clippers,LAC,109.0,0,Intuit Dome,0,1,0,0,1
 2026-03-15,1:00p,Minnesota Timberwolves,MIN,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
 2026-03-15,3:30p,Dallas Mavericks,DAL,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
 2026-03-15,3:30p,Indiana Pacers,IND,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,1,0,0,0
