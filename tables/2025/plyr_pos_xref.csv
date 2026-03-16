@@ -89,8 +89,8 @@ CLE,Jaylon Tyson,SG
 CLE,Donovan Mitchell,SG
 CLE,Craig Porter Jr.,PG
 CLE,Evan Mobley,PF
-CLE,Nae'Qwan Tomlin,PF
 CLE,Dean Wade,PF
+CLE,Nae'Qwan Tomlin,PF
 CLE,Jarrett Allen,C
 CLE,Thomas Bryant,C
 CLE,Sam Merrill,SG
@@ -105,8 +105,8 @@ CLE,Max Strus,SF
 CLE,Olivier Sarr,C
 DAL,Naji Marshall,SF
 DAL,Max Christie,SG
-DAL,Klay Thompson,SF
 DAL,Brandon Williams,PG
+DAL,Klay Thompson,SF
 DAL,Caleb Martin,SF
 DAL,Cooper Flagg,SF
 DAL,Dwight Powell,C
@@ -118,8 +118,8 @@ DAL,Khris Middleton,SF
 DAL,AJ Johnson,SG
 DAL,Marvin Bagley III,PF
 DAL,Dereck Lively II,C
-DAL,Tyler Smith,PF
 DAL,John Poulakidas,SG
+DAL,Tyler Smith,PF
 DAL,Kyrie Irving,SG
 DEN,Bruce Brown,SG
 DEN,Tim Hardaway Jr.,SG
@@ -144,8 +144,8 @@ DET,Duncan Robinson,SF
 DET,Ron Holland,SF
 DET,Cade Cunningham,PG
 DET,Ausar Thompson,SF
-DET,Daniss Jenkins,PG
 DET,Jalen Duren,C
+DET,Daniss Jenkins,PG
 DET,Isaiah Stewart,C
 DET,Tobias Harris,PF
 DET,Paul Reed,C
@@ -159,8 +159,8 @@ DET,Wendell Moore Jr.,SG
 DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
 GSW,Quinten Post,PF
-GSW,Moses Moody,SG
 GSW,Gary Payton II,SG
+GSW,Moses Moody,SG
 GSW,Will Richard,SG
 GSW,Gui Santos,PF
 GSW,Draymond Green,PF
@@ -199,8 +199,8 @@ IND,Andrew Nembhard,PG
 IND,T.J. McConnell,PG
 IND,Aaron Nesmith,SF
 IND,Quenton Jackson,PG
-IND,Johnny Furphy,SG
 IND,Micah Potter,C
+IND,Johnny Furphy,SG
 IND,Taelon Peter,SG
 IND,Kam Jones,SG
 IND,Ethan Thompson,SG
@@ -339,9 +339,9 @@ NYK,Jalen Brunson,PG
 NYK,Karl-Anthony Towns,C
 NYK,Jordan Clarkson,SG
 NYK,Mohamed Diawara,SF
-NYK,Tyler Kolek,PG
 NYK,OG Anunoby,PF
 NYK,Josh Hart,SF
+NYK,Tyler Kolek,PG
 NYK,Mitchell Robinson,C
 NYK,Ariel Hukporti,C
 NYK,Landry Shamet,SG
@@ -360,8 +360,8 @@ OKC,Shai Gilgeous-Alexander,PG
 OKC,Aaron Wiggins,SG
 OKC,Jaylin Williams,PF
 OKC,Ajay Mitchell,SG
-OKC,Kenrich Williams,PF
 OKC,Alex Caruso,SG
+OKC,Kenrich Williams,PF
 OKC,Isaiah Hartenstein,C
 OKC,Branden Carlson,C
 OKC,Brooks Barnhizer,SG
@@ -387,8 +387,8 @@ ORL,Jamal Cain,SF
 ORL,Jevon Carter,PG
 ORL,Colin Castleton,C
 ORL,Alex Morales,PG
-PHI,Tyrese Maxey,PG
 PHI,Quentin Grimes,SG
+PHI,Tyrese Maxey,PG
 PHI,VJ Edgecombe,SG
 PHI,Adem Bona,C
 PHI,Dominick Barlow,PF
@@ -432,8 +432,8 @@ POR,Shaedon Sharpe,SG
 POR,Robert Williams,C
 POR,Caleb Love,SG
 POR,Kris Murray,SF
-POR,Yang Hansen,C
 POR,Jrue Holiday,PG
+POR,Yang Hansen,C
 POR,Blake Wesley,SG
 POR,Vit Krejci,PG
 POR,Scoot Henderson,PG
@@ -452,8 +452,8 @@ SAC,Zach LaVine,SG
 SAC,Dylan Cardwell,C
 SAC,Devin Carter,PG
 SAC,Keegan Murray,PF
-SAC,Domantas Sabonis,C
 SAC,Daeqwon Plowden,SG
+SAC,Domantas Sabonis,C
 SAC,Doug McDermott,SF
 SAC,Killian Hayes,PG
 SAC,Patrick Baldwin Jr.,SF
@@ -505,8 +505,8 @@ UTA,Lauri Markkanen,PF
 UTA,Jusuf Nurkic,C
 UTA,Kevin Love,PF
 UTA,Elijah Harkless,SG
-UTA,John Konchar,SG
 UTA,Oscar Tshiebwe,C
+UTA,John Konchar,SG
 UTA,Blake Hinson,SF
 UTA,Walker Kessler,C
 UTA,Jaren Jackson Jr.,C
