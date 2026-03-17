@@ -10202,12 +10202,12 @@ Date,Team,Player,Pos
 03/16/2026,DAL,Ryan Nembhard,PG
 03/16/2026,DAL,Max Christie,SG
 03/16/2026,DAL,Naji Marshall,SF
-03/16/2026,DAL,P.J. Washington,PF
 03/16/2026,DAL,Cooper Flagg,PF
+03/16/2026,DAL,P.J. Washington,PF
 03/16/2026,NOP,Herbert Jones,SF
 03/16/2026,NOP,Trey Murphy III,SF
-03/16/2026,NOP,Saddiq Bey,PF
 03/16/2026,NOP,Zion Williamson,PF
+03/16/2026,NOP,Saddiq Bey,PF
 03/16/2026,NOP,Yves Missi,C
 03/16/2026,LAL,Marcus Smart,PG
 03/16/2026,LAL,Luka Doncic,PG
@@ -10220,8 +10220,8 @@ Date,Team,Player,Pos
 03/16/2026,HOU,Jabari Smith Jr.,PF
 03/16/2026,HOU,Clint Capela,C
 03/16/2026,SAS,De'Aaron Fox,PG
-03/16/2026,SAS,Devin Vassell,SG
 03/16/2026,SAS,Stephon Castle,SG
+03/16/2026,SAS,Devin Vassell,SG
 03/16/2026,SAS,Julian Champagnie,SF
 03/16/2026,SAS,Victor Wembanyama,PF
 03/16/2026,LAC,Darius Garland,PG
@@ -10229,16 +10229,6 @@ Date,Team,Player,Pos
 03/16/2026,LAC,Derrick Jones Jr.,SF
 03/16/2026,LAC,John Collins,PF
 03/16/2026,LAC,Brook Lopez,C
-03/17/2026,MIA,Davion Mitchell,PG
-03/17/2026,MIA,Norman Powell,SG
-03/17/2026,MIA,Tyler Herro,SG
-03/17/2026,MIA,Bam Adebayo,C
-03/17/2026,MIA,Kel'el Ware,C
-03/17/2026,CHO,LaMelo Ball,PG
-03/17/2026,CHO,Kon Knueppel,SG
-03/17/2026,CHO,Brandon Miller,SF
-03/17/2026,CHO,Miles Bridges,SF
-03/17/2026,CHO,Moussa Diabate,PF
 03/17/2026,DET,Cade Cunningham,PG
 03/17/2026,DET,Ausar Thompson,SG
 03/17/2026,DET,Duncan Robinson,SG
@@ -10249,22 +10239,32 @@ Date,Team,Player,Pos
 03/17/2026,WAS,Justin Champagnie,SG
 03/17/2026,WAS,Will Riley,SF
 03/17/2026,WAS,Tristan Vukcevic,PF
+03/17/2026,MIA,Davion Mitchell,PG
+03/17/2026,MIA,Tyler Herro,SG
+03/17/2026,MIA,Norman Powell,SG
+03/17/2026,MIA,Myron Gardner,SF
+03/17/2026,MIA,Kel'el Ware,C
+03/17/2026,CHO,LaMelo Ball,PG
+03/17/2026,CHO,Kon Knueppel,SG
+03/17/2026,CHO,Brandon Miller,SF
+03/17/2026,CHO,Miles Bridges,SF
+03/17/2026,CHO,Moussa Diabate,PF
 03/17/2026,OKC,Cason Wallace,PG
 03/17/2026,OKC,Shai Gilgeous-Alexander,PG
 03/17/2026,OKC,Luguentz Dort,SF
 03/17/2026,OKC,Isaiah Hartenstein,C
 03/17/2026,OKC,Chet Holmgren,C
-03/17/2026,ORL,Anthony Black,PG
 03/17/2026,ORL,Jalen Suggs,SG
 03/17/2026,ORL,Desmond Bane,SG
 03/17/2026,ORL,Paolo Banchero,PF
+03/17/2026,ORL,Tristan da Silva,PF
 03/17/2026,ORL,Wendell Carter Jr.,C
 03/17/2026,IND,Andrew Nembhard,PG
 03/17/2026,IND,Obi Toppin,PF
 03/17/2026,IND,Aaron Nesmith,PF
 03/17/2026,IND,Jarace Walker,PF
 03/17/2026,IND,Ivica Zubac,C
-03/17/2026,NYK,Tyler Kolek,PG
+03/17/2026,NYK,Jose Alvarado,PG
 03/17/2026,NYK,OG Anunoby,SF
 03/17/2026,NYK,Josh Hart,SF
 03/17/2026,NYK,Mikal Bridges,SF
@@ -10287,7 +10287,7 @@ Date,Team,Player,Pos
 03/17/2026,MIL,Kevin Porter Jr.,PG
 03/17/2026,MIL,Ryan Rollins,SG
 03/17/2026,MIL,Kyle Kuzma,PF
-03/17/2026,MIL,Giannis Antetokounmpo,PF
+03/17/2026,MIL,Jericho Sims,C
 03/17/2026,MIL,Myles Turner,C
 03/17/2026,PHI,Quentin Grimes,SG
 03/17/2026,PHI,VJ Edgecombe,SG
@@ -10296,8 +10296,8 @@ Date,Team,Player,Pos
 03/17/2026,PHI,Adem Bona,C
 03/17/2026,DEN,Jamal Murray,PG
 03/17/2026,DEN,Christian Braun,SG
-03/17/2026,DEN,Cameron Johnson,PF
 03/17/2026,DEN,Aaron Gordon,PF
+03/17/2026,DEN,Cameron Johnson,PF
 03/17/2026,DEN,Nikola Jokic,C
 03/17/2026,SAS,De'Aaron Fox,PG
 03/17/2026,SAS,Stephon Castle,SG
@@ -10305,7 +10305,7 @@ Date,Team,Player,Pos
 03/17/2026,SAS,Keldon Johnson,SF
 03/17/2026,SAS,Victor Wembanyama,PF
 03/17/2026,SAC,Russell Westbrook,PG
-03/17/2026,SAC,DeMar DeRozan,SF
 03/17/2026,SAC,Nique Clifford,SF
+03/17/2026,SAC,DeMar DeRozan,SF
 03/17/2026,SAC,Precious Achiuwa,PF
 03/17/2026,SAC,Maxime Raynaud,C
