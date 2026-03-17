@@ -24,14 +24,15 @@ BOS,Neemias Queta,C
 BOS,Baylor Scheierman,SG
 BOS,Hugo Gonzalez,SF
 BOS,Jaylen Brown,SF
-BOS,Jordan Walsh,PF
 BOS,Luka Garza,C
+BOS,Jordan Walsh,PF
 BOS,Ron Harper Jr.,SF
 BOS,Amari Williams,PF
 BOS,Nikola Vucevic,C
 BOS,Jayson Tatum,PF
 BOS,Max Shulga,SG
 BOS,John Tonje,SG
+BOS,Charles Bassey,C
 BRK,Day'Ron Sharpe,C
 BRK,Noah Clowney,PF
 BRK,Nic Claxton,C
@@ -49,6 +50,7 @@ BRK,Tyson Etienne,PG
 BRK,Ochai Agbaji,SG
 BRK,Josh Minott,SF
 BRK,Chaney Johnson,SF
+BRK,Malachi Smith,SG
 CHO,Sion James,SG
 CHO,Kon Knueppel,SF
 CHO,Miles Bridges,PF
@@ -77,8 +79,8 @@ CHI,Lachlan Olbrich,C
 CHI,Guerschon Yabusele,C
 CHI,Nick Richards,C
 CHI,Rob Dillingham,PG
-CHI,Collin Sexton,SG
 CHI,Leonard Miller,SF
+CHI,Collin Sexton,SG
 CHI,Zach Collins,C
 CHI,Yuki Kawamura,PG
 CHI,Anfernee Simons,SG
@@ -257,10 +259,12 @@ MEM,Jahmai Mashack,SG
 MEM,Ja Morant,PG
 MEM,Taylor Hendricks,PF
 MEM,Ty Jerome,SG
-MEM,Zach Edey,C
 MEM,Walter Clayton,PG
+MEM,Zach Edey,C
 MEM,Scotty Pippen Jr.,PG
 MEM,Rayan Rupert,SG
+MEM,Tyler Burton,SF
+MEM,DeJon Jarreau,SG
 MEM,Brandon Clarke,PF
 MEM,Taj Gibson,C
 MIA,Dru Smith,SG
@@ -325,8 +329,8 @@ NOP,Karlo Matkovic,PF
 NOP,Zion Williamson,PF
 NOP,Micah Peavy,SG
 NOP,Herbert Jones,SF
-NOP,Bryce McGowens,SG
 NOP,Jordan Hawkins,SG
+NOP,Bryce McGowens,SG
 NOP,Jordan Poole,PG
 NOP,Kevon Looney,C
 NOP,DeAndre Jordan,C
@@ -416,12 +420,12 @@ PHO,Dillon Brooks,SF
 PHO,Grayson Allen,SG
 PHO,Rasheer Fleming,PF
 PHO,Jamaree Bouyea,PG
-PHO,Isaiah Livers,PF
 PHO,Khaman Maluach,C
+PHO,Isaiah Livers,PF
 PHO,Jalen Green,SG
 PHO,Amir Coffey,SG
-PHO,Koby Brea,SG
 PHO,Haywood Highsmith,SF
+PHO,Koby Brea,SG
 PHO,CJ Huntley,SF
 POR,Toumani Camara,PF
 POR,Donovan Clingan,C
@@ -438,8 +442,8 @@ POR,Blake Wesley,SG
 POR,Vit Krejci,PG
 POR,Scoot Henderson,PG
 POR,Matisse Thybulle,SG
-POR,Damian Lillard,PG
 POR,Jayson Kent,SF
+POR,Damian Lillard,PG
 POR,Chris Youngblood,SG
 SAC,DeMar DeRozan,PF
 SAC,Nique Clifford,SG
@@ -466,8 +470,8 @@ SAS,De'Aaron Fox,PG
 SAS,Stephon Castle,PG
 SAS,Luke Kornet,C
 SAS,Carter Bryant,PF
-SAS,Dylan Harper,SG
 SAS,Devin Vassell,SG
+SAS,Dylan Harper,SG
 SAS,Victor Wembanyama,C
 SAS,Kelly Olynyk,C
 SAS,Lindy Waters III,SG
@@ -510,11 +514,11 @@ UTA,John Konchar,SG
 UTA,Blake Hinson,SF
 UTA,Walker Kessler,C
 UTA,Jaren Jackson Jr.,C
-UTA,Andersson Garcia,G
-UTA,Mo Bamba,C
+UTA,Andersson Garcia,SF
+UTA,Bez Mbeng,SG
 WAS,Bub Carrington,PG
-WAS,Justin Champagnie,SF
 WAS,Will Riley,SF
+WAS,Justin Champagnie,SF
 WAS,Tre Johnson,SG
 WAS,Kyshawn George,SF
 WAS,Bilal Coulibaly,SG

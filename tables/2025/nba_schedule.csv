@@ -1011,14 +1011,14 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-15,6:00p,Portland Trail Blazers,POR,103.0,Philadelphia 76ers,PHI,109.0,0,Xfinity Mobile Arena,0,1,0,0,1
 2026-03-15,8:00p,Golden State Warriors,GSW,107.0,New York Knicks,NYK,110.0,0,Madison Square Garden (IV),0,0,0,0,1
 2026-03-15,10:00p,Utah Jazz,UTA,111.0,Sacramento Kings,SAC,116.0,0,Golden 1 Center,0,1,0,0,1
-2026-03-16,7:00p,Orlando Magic,ORL,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
-2026-03-16,7:00p,Golden State Warriors,GSW,,Washington Wizards,WAS,,0,Capital One Arena,1,0,0,0,0
-2026-03-16,7:30p,Phoenix Suns,PHO,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-03-16,7:30p,Portland Trail Blazers,POR,,Brooklyn Nets,BRK,,0,Barclays Center,1,0,0,0,0
-2026-03-16,8:00p,Memphis Grizzlies,MEM,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
-2026-03-16,8:00p,Dallas Mavericks,DAL,,New Orleans Pelicans,NOP,,0,Smoothie King Center,1,0,0,0,0
-2026-03-16,9:30p,Los Angeles Lakers,LAL,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
-2026-03-16,10:00p,San Antonio Spurs,SAS,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2026-03-16,7:00p,Orlando Magic,ORL,112.0,Atlanta Hawks,ATL,124.0,0,State Farm Arena,0,0,0,0,1
+2026-03-16,7:00p,Golden State Warriors,GSW,125.0,Washington Wizards,WAS,117.0,0,Capital One Arena,1,0,0,0,1
+2026-03-16,7:30p,Phoenix Suns,PHO,112.0,Boston Celtics,BOS,120.0,0,TD Garden,0,0,0,0,1
+2026-03-16,7:30p,Portland Trail Blazers,POR,114.0,Brooklyn Nets,BRK,95.0,0,Barclays Center,1,0,0,0,1
+2026-03-16,8:00p,Memphis Grizzlies,MEM,107.0,Chicago Bulls,CHI,132.0,0,United Center,0,0,0,0,1
+2026-03-16,8:00p,Dallas Mavericks,DAL,111.0,New Orleans Pelicans,NOP,129.0,0,Smoothie King Center,1,0,0,0,1
+2026-03-16,9:30p,Los Angeles Lakers,LAL,100.0,Houston Rockets,HOU,92.0,0,Toyota Center,0,0,0,0,1
+2026-03-16,10:00p,San Antonio Spurs,SAS,119.0,Los Angeles Clippers,LAC,115.0,0,Intuit Dome,0,0,0,0,1
 2026-03-17,7:00p,Miami Heat,MIA,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2026-03-17,7:00p,Oklahoma City Thunder,OKC,,Orlando Magic,ORL,,0,Kia Center,0,1,0,0,0
 2026-03-17,7:00p,Detroit Pistons,DET,,Washington Wizards,WAS,,0,Capital One Arena,0,1,0,0,0
