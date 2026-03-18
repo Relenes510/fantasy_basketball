@@ -1019,14 +1019,14 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-16,8:00p,Dallas Mavericks,DAL,111.0,New Orleans Pelicans,NOP,129.0,0,Smoothie King Center,1,0,0,0,1
 2026-03-16,9:30p,Los Angeles Lakers,LAL,100.0,Houston Rockets,HOU,92.0,0,Toyota Center,0,0,0,0,1
 2026-03-16,10:00p,San Antonio Spurs,SAS,119.0,Los Angeles Clippers,LAC,115.0,0,Intuit Dome,0,0,0,0,1
-2026-03-17,7:00p,Miami Heat,MIA,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-03-17,7:00p,Oklahoma City Thunder,OKC,,Orlando Magic,ORL,,0,Kia Center,0,1,0,0,0
-2026-03-17,7:00p,Detroit Pistons,DET,,Washington Wizards,WAS,,0,Capital One Arena,0,1,0,0,0
-2026-03-17,7:30p,Indiana Pacers,IND,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
-2026-03-17,8:00p,Cleveland Cavaliers,CLE,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
-2026-03-17,8:00p,Phoenix Suns,PHO,,Minnesota Timberwolves,MIN,,0,Target Center,1,0,0,0,0
-2026-03-17,10:00p,Philadelphia 76ers,PHI,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-03-17,10:00p,San Antonio Spurs,SAS,,Sacramento Kings,SAC,,0,Golden 1 Center,1,0,0,0,0
+2026-03-17,7:00p,Miami Heat,MIA,106.0,Charlotte Hornets,CHO,136.0,0,Spectrum Center,0,0,0,0,1
+2026-03-17,7:00p,Oklahoma City Thunder,OKC,113.0,Orlando Magic,ORL,108.0,0,Kia Center,0,1,0,0,1
+2026-03-17,7:00p,Detroit Pistons,DET,130.0,Washington Wizards,WAS,117.0,0,Capital One Arena,0,1,0,0,1
+2026-03-17,7:30p,Indiana Pacers,IND,110.0,New York Knicks,NYK,136.0,0,Madison Square Garden (IV),0,0,0,0,1
+2026-03-17,8:00p,Cleveland Cavaliers,CLE,123.0,Milwaukee Bucks,MIL,116.0,0,Fiserv Forum,0,0,0,0,1
+2026-03-17,8:00p,Phoenix Suns,PHO,104.0,Minnesota Timberwolves,MIN,116.0,0,Target Center,1,0,0,0,1
+2026-03-17,10:00p,Philadelphia 76ers,PHI,96.0,Denver Nuggets,DEN,124.0,0,Ball Arena,0,0,0,0,1
+2026-03-17,10:00p,San Antonio Spurs,SAS,132.0,Sacramento Kings,SAC,104.0,0,Golden 1 Center,1,0,0,0,1
 2026-03-18,7:00p,Golden State Warriors,GSW,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
 2026-03-18,7:30p,Oklahoma City Thunder,OKC,,Brooklyn Nets,BRK,,0,Barclays Center,1,0,0,0,0
 2026-03-18,7:30p,Portland Trail Blazers,POR,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,1,0,0,0

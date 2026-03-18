@@ -65,8 +65,8 @@ CHO,Pat Connaughton,SG
 CHO,Liam McNeeley,SF
 CHO,Grant Williams,PF
 CHO,PJ Hall,C
-CHO,Antonio Reeves,SG
 CHO,Coby White,SG
+CHO,Antonio Reeves,SG
 CHO,Xavier Tillman Sr.,C
 CHO,Tosan Evbuomwan,SF
 CHI,Matas Buzelis,PF
@@ -102,8 +102,8 @@ CLE,Dennis Schroder,PG
 CLE,Keon Ellis,SG
 CLE,James Harden,PG
 CLE,Tristan Enaruna,SF
-CLE,Riley Minix,SF
 CLE,Max Strus,SF
+CLE,Riley Minix,SF
 CLE,Olivier Sarr,C
 DAL,Naji Marshall,SF
 DAL,Max Christie,SG
@@ -176,6 +176,7 @@ GSW,LJ Cryer,PG
 GSW,Nate Williams,SG
 GSW,Kristaps Porzingis,C
 GSW,Seth Curry,SG
+GSW,Omer Yurtseven,C
 HOU,Reed Sheppard,SG
 HOU,Amen Thompson,PG
 HOU,Kevin Durant,SF
@@ -270,11 +271,11 @@ MEM,Taj Gibson,C
 MIA,Dru Smith,SG
 MIA,Jaime Jaquez Jr.,SF
 MIA,Kel'el Ware,C
-MIA,Bam Adebayo,C
 MIA,Simone Fontecchio,SF
-MIA,Andrew Wiggins,SF
+MIA,Bam Adebayo,C
 MIA,Pelle Larsson,SG
 MIA,Davion Mitchell,PG
+MIA,Andrew Wiggins,SF
 MIA,Norman Powell,SG
 MIA,Nikola Jovic,PF
 MIA,Kasparas Jakucionis,PG
@@ -287,9 +288,9 @@ MIA,Trevor Keels,SG
 MIA,Terry Rozier,PG
 MIL,Ryan Rollins,PG
 MIL,Bobby Portis,PF
-MIL,Myles Turner,C
 MIL,A.J. Green,SG
 MIL,Kyle Kuzma,PF
+MIL,Myles Turner,C
 MIL,Gary Trent Jr.,SG
 MIL,Jericho Sims,C
 MIL,Gary Harris,SG
@@ -339,8 +340,8 @@ NOP,Trey Alexander,SG
 NOP,Hunter Dickinson,C
 NOP,Josh Oduro,PF
 NYK,Mikal Bridges,SF
-NYK,Jalen Brunson,PG
 NYK,Karl-Anthony Towns,C
+NYK,Jalen Brunson,PG
 NYK,Jordan Clarkson,SG
 NYK,Mohamed Diawara,SF
 NYK,OG Anunoby,PF
@@ -353,8 +354,8 @@ NYK,Miles McBride,SG
 NYK,Pacome Dadiet,SG
 NYK,Kevin McCullar Jr.,SF
 NYK,Jose Alvarado,PG
-NYK,Trey Jemison,C
 NYK,Jeremy Sochan,PF
+NYK,Trey Jemison,C
 NYK,Dillon Jones,SF
 OKC,Cason Wallace,SG
 OKC,Isaiah Joe,SG
@@ -383,8 +384,8 @@ ORL,Jonathan Isaac,PF
 ORL,Goga Bitadze,C
 ORL,Noah Penda,SF
 ORL,Jett Howard,SF
-ORL,Jase Richardson,SG
 ORL,Jalen Suggs,PG
+ORL,Jase Richardson,SG
 ORL,Franz Wagner,SF
 ORL,Moritz Wagner,C
 ORL,Jamal Cain,SF
@@ -392,8 +393,8 @@ ORL,Jevon Carter,PG
 ORL,Colin Castleton,C
 ORL,Alex Morales,PG
 PHI,Quentin Grimes,SG
-PHI,Tyrese Maxey,PG
 PHI,VJ Edgecombe,SG
+PHI,Tyrese Maxey,PG
 PHI,Adem Bona,C
 PHI,Dominick Barlow,PF
 PHI,Jabari Walker,PF
@@ -404,11 +405,11 @@ PHI,Kelly Oubre Jr.,SF
 PHI,Joel Embiid,C
 PHI,Paul George,PF
 PHI,Cameron Payne,PG
-PHI,Johni Broome,C
 PHI,Kyle Lowry,PG
+PHI,Johni Broome,C
 PHI,Dalen Terry,SG
-PHI,Tyrese Martin,SG
 PHI,MarJon Beauchamp,SF
+PHI,Tyrese Martin,SG
 PHO,Royce O'Neale,SF
 PHO,Oso Ighodaro,PF
 PHO,Collin Gillespie,PG
@@ -470,8 +471,8 @@ SAS,De'Aaron Fox,PG
 SAS,Stephon Castle,PG
 SAS,Luke Kornet,C
 SAS,Carter Bryant,PF
-SAS,Devin Vassell,SG
 SAS,Dylan Harper,SG
+SAS,Devin Vassell,SG
 SAS,Victor Wembanyama,C
 SAS,Kelly Olynyk,C
 SAS,Lindy Waters III,SG
