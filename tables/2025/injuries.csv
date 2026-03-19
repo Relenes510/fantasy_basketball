@@ -9203,8 +9203,8 @@ Date,Team,Player,Status,Reason
 03/18/2026,POR,Chris Youngblood,Out,G League - Two-Way
 03/18/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
 03/18/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
-03/18/2026,IND,Andrew Nembhard,Questionable,Injury/Illness - Right Calf; Contusion
-03/18/2026,IND,Micah Potter,Questionable,Injury/Illness - Right Triceps; Strain
+03/18/2026,IND,Andrew Nembhard,Out,Injury/Illness - Right Calf; Contusion
+03/18/2026,IND,Micah Potter,Out,Injury/Illness - Right Triceps; Strain
 03/18/2026,IND,Pascal Siakam,Out,Injury/Illness - Right Knee; Sprain
 03/18/2026,IND,Ethan Thompson,Out,G League - Two-Way
 03/18/2026,IND,Obi Toppin,Out,Injury/Illness - Right Foot; Injury Management
@@ -9220,8 +9220,7 @@ Date,Team,Player,Status,Reason
 03/18/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
 03/18/2026,CHI,Jaden Ivey,Out,Injury/Illness - Left Patellofemoral; Pain Syndrome
 03/18/2026,CHI,Mac McClung,Out,G League - Two-Way
-03/18/2026,CHI,Isaac Okoro,Doubtful,Injury/Illness - Right Patellofemoral; Pain Syndrome
-03/18/2026,CHI,Collin Sexton,Questionable,Injury/Illness - Left Fibular Head; Contusion
+03/18/2026,CHI,Isaac Okoro,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
 03/18/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 03/18/2026,UTA,Keyonte George,Out,Injury/Illness - Right Hamstring; Strain
 03/18/2026,UTA,Blake Hinson,Out,G League - Two-Way
@@ -9236,15 +9235,13 @@ Date,Team,Player,Status,Reason
 03/18/2026,MIN,Rocco Zikarsky,Out,G League - Two-Way
 03/18/2026,ATL,RayJ Dennis,Out,G League - Two-Way
 03/18/2026,ATL,Keshon Gilbert,Out,G League - Two-Way
-03/18/2026,ATL,Jonathan Kuminga,Questionable,Injury/Illness - Left Knee; Injury Management
 03/18/2026,ATL,Asa Newell,Out,G League - On Assignment
-03/18/2026,DAL,Moussa Cisse,Questionable,G League - Two-Way
-03/18/2026,DAL,Daniel Gafford,Questionable,Injury/Illness - Illness; Illness
+03/18/2026,DAL,Moussa Cisse,Out,G League - Two-Way
 03/18/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
 03/18/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
-03/18/2026,DAL,Caleb Martin,Questionable,Injury/Illness - Right Plantar Fascia; Soreness
-03/18/2026,DAL,John Poulakidas,Questionable,G League - Two-Way
-03/18/2026,DAL,Tyler Smith,Questionable,G League - Two-Way
+03/18/2026,DAL,Caleb Martin,Out,Injury/Illness - Right Plantar Fascia; Soreness
+03/18/2026,DAL,John Poulakidas,Out,G League - Two-Way
+03/18/2026,DAL,Tyler Smith,Out,G League - Two-Way
 03/18/2026,DAL,Brandon Williams,Out,Injury/Illness - Head; Concussion Protocol
 03/18/2026,DEN,Aaron Gordon,Out,Injury/Illness - Right Hamstring; Injury Management
 03/18/2026,DEN,DaRon Holmes II,Out,G League - On Assignment
@@ -9255,9 +9252,10 @@ Date,Team,Player,Status,Reason
 03/18/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
 03/18/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
 03/18/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Surgery Recovery
-03/18/2026,MEM,Jahmai Mashack,Questionable,Injury/Illness - Left Ankle; Sprain
+03/18/2026,MEM,Jahmai Mashack,Out,Injury/Illness - Left Ankle; Sprain
 03/18/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
 03/18/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Right Great Toe; Surgery Recovery
+03/18/2026,MEM,Rayan Rupert,Out,G League - Two-Way
 03/18/2026,LAL,Maxi Kleber,Out,Injury/Illness - Lumbar Back; Strain
 03/18/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
 03/18/2026,HOU,Tristen Newton,Out,G League - Two-Way
