@@ -66,8 +66,8 @@ CHO,Liam McNeeley,SF
 CHO,Grant Williams,PF
 CHO,PJ Hall,C
 CHO,Coby White,SG
-CHO,Antonio Reeves,SG
 CHO,Xavier Tillman Sr.,C
+CHO,Antonio Reeves,SG
 CHO,Tosan Evbuomwan,SF
 CHI,Matas Buzelis,PF
 CHI,Patrick Williams,PF
@@ -93,8 +93,8 @@ CLE,Craig Porter Jr.,PG
 CLE,Evan Mobley,PF
 CLE,Dean Wade,PF
 CLE,Nae'Qwan Tomlin,PF
-CLE,Jarrett Allen,C
 CLE,Thomas Bryant,C
+CLE,Jarrett Allen,C
 CLE,Sam Merrill,SG
 CLE,Tyrese Proctor,PG
 CLE,Larry Nance Jr.,PF
@@ -269,8 +269,8 @@ MEM,DeJon Jarreau,SG
 MEM,Taj Gibson,C
 MEM,Brandon Clarke,PF
 MIA,Dru Smith,SG
-MIA,Jaime Jaquez Jr.,SF
 MIA,Kel'el Ware,C
+MIA,Jaime Jaquez Jr.,SF
 MIA,Simone Fontecchio,SF
 MIA,Bam Adebayo,C
 MIA,Pelle Larsson,SG
@@ -295,15 +295,15 @@ MIL,Gary Trent Jr.,SG
 MIL,Jericho Sims,C
 MIL,Gary Harris,SG
 MIL,Kevin Porter Jr.,PG
-MIL,Giannis Antetokounmpo,PF
 MIL,Andre Jackson Jr.,SG
+MIL,Giannis Antetokounmpo,PF
 MIL,Pete Nance,PF
 MIL,Thanasis Antetokounmpo,SF
 MIL,Cam Thomas,SG
 MIL,Ousmane Dieng,C
 MIL,Taurean Prince,SF
-MIL,Alex Antetokounmpo,SF
 MIL,Cormac Ryan,SG
+MIL,Alex Antetokounmpo,SF
 MIN,Julius Randle,PF
 MIN,Donte DiVincenzo,SG
 MIN,Jaden McDaniels,PF
@@ -386,8 +386,8 @@ ORL,Noah Penda,SF
 ORL,Jett Howard,SF
 ORL,Jalen Suggs,PG
 ORL,Jase Richardson,SG
-ORL,Franz Wagner,SF
 ORL,Moritz Wagner,C
+ORL,Franz Wagner,SF
 ORL,Jamal Cain,SF
 ORL,Jevon Carter,PG
 ORL,Colin Castleton,C
@@ -410,9 +410,9 @@ PHI,Johni Broome,C
 PHI,Dalen Terry,SG
 PHI,MarJon Beauchamp,SF
 PHI,Tyrese Martin,SG
-PHO,Royce O'Neale,SF
 PHO,Oso Ighodaro,PF
 PHO,Collin Gillespie,PG
+PHO,Royce O'Neale,SF
 PHO,Ryan Dunn,SF
 PHO,Jordan Goodwin,PG
 PHO,Mark Williams,C
@@ -475,8 +475,8 @@ SAS,Dylan Harper,SG
 SAS,Devin Vassell,SG
 SAS,Victor Wembanyama,C
 SAS,Kelly Olynyk,C
-SAS,Lindy Waters III,SG
 SAS,Jordan McLaughlin,PG
+SAS,Lindy Waters III,SG
 SAS,Bismack Biyombo,C
 SAS,David Jones Garcia,SF
 SAS,Harrison Ingram,SF
@@ -515,8 +515,8 @@ UTA,John Konchar,SG
 UTA,Blake Hinson,SF
 UTA,Walker Kessler,C
 UTA,Andersson Garcia,SF
-UTA,Jaren Jackson Jr.,C
 UTA,Bez Mbeng,SG
+UTA,Jaren Jackson Jr.,C
 WAS,Bub Carrington,PG
 WAS,Will Riley,SF
 WAS,Justin Champagnie,SF

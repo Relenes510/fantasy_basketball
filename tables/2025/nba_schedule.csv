@@ -1036,14 +1036,14 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-18,8:30p,Atlanta Hawks,ATL,135.0,Dallas Mavericks,DAL,120.0,0,American Airlines Center,0,0,0,0,1
 2026-03-18,8:30p,Denver Nuggets,DEN,118.0,Memphis Grizzlies,MEM,125.0,0,FedExForum,1,0,0,0,1
 2026-03-18,9:30p,Los Angeles Lakers,LAL,124.0,Houston Rockets,HOU,116.0,0,Toyota Center,0,0,0,0,1
-2026-03-19,7:00p,Orlando Magic,ORL,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-03-19,7:00p,Detroit Pistons,DET,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2026-03-19,8:00p,Cleveland Cavaliers,CLE,,Chicago Bulls,CHI,,0,United Center,0,1,0,0,0
-2026-03-19,8:00p,Los Angeles Lakers,LAL,,Miami Heat,MIA,,0,Kaseya Center,1,0,0,0,0
-2026-03-19,8:00p,Los Angeles Clippers,LAC,,New Orleans Pelicans,NOP,,0,Smoothie King Center,1,1,0,0,0
-2026-03-19,8:00p,Phoenix Suns,PHO,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
-2026-03-19,9:00p,Milwaukee Bucks,MIL,,Utah Jazz,UTA,,0,Delta Center,0,1,0,0,0
-2026-03-19,10:00p,Philadelphia 76ers,PHI,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
+2026-03-19,7:00p,Orlando Magic,ORL,111.0,Charlotte Hornets,CHO,130.0,0,Spectrum Center,0,0,0,0,1
+2026-03-19,7:00p,Detroit Pistons,DET,117.0,Washington Wizards,WAS,95.0,0,Capital One Arena,0,0,0,0,1
+2026-03-19,8:00p,Cleveland Cavaliers,CLE,115.0,Chicago Bulls,CHI,110.0,0,United Center,0,1,0,0,1
+2026-03-19,8:00p,Los Angeles Lakers,LAL,134.0,Miami Heat,MIA,126.0,0,Kaseya Center,1,0,0,0,1
+2026-03-19,8:00p,Los Angeles Clippers,LAC,99.0,New Orleans Pelicans,NOP,105.0,0,Smoothie King Center,1,1,0,0,1
+2026-03-19,8:00p,Phoenix Suns,PHO,100.0,San Antonio Spurs,SAS,101.0,0,Frost Bank Center,0,0,0,0,1
+2026-03-19,9:00p,Milwaukee Bucks,MIL,96.0,Utah Jazz,UTA,128.0,0,Delta Center,0,1,0,0,1
+2026-03-19,10:00p,Philadelphia 76ers,PHI,139.0,Sacramento Kings,SAC,118.0,0,Golden 1 Center,0,0,0,0,1
 2026-03-20,7:30p,New York Knicks,NYK,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
 2026-03-20,7:30p,Golden State Warriors,GSW,,Detroit Pistons,DET,,0,Little Caesars Arena,0,1,0,0,0
 2026-03-20,8:00p,Atlanta Hawks,ATL,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
