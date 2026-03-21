@@ -9430,7 +9430,6 @@ Date,Team,Player,Status,Reason
 03/21/2026,NOP,Josh Oduro,Out,G League - Two-Way
 03/21/2026,LAL,Maxi Kleber,Out,Injury/Illness - Lumbar Back; Strain
 03/21/2026,ORL,Anthony Black,Out,Injury/Illness - Left Lateral Abdominal; Strain
-03/21/2026,ORL,Wendell Carter Jr.,Questionable,Injury/Illness - Left Rib; Mild contusion
 03/21/2026,ORL,Colin Castleton,Out,G League - Two-Way
 03/21/2026,ORL,Jonathan Isaac,Out,Injury/Illness - Left Knee; Sprain
 03/21/2026,ORL,Alex Morales,Out,G League - Two-Way
@@ -9440,12 +9439,11 @@ Date,Team,Player,Status,Reason
 03/21/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
 03/21/2026,MEM,Cedric Coward,Out,Personal Reasons
 03/21/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle; Surgery Recovery
-03/21/2026,MEM,GG Jackson,Questionable,Injury/Illness - Left Knee; Soreness
-03/21/2026,MEM,DeJon Jarreau,Questionable,Injury/Illness - Right Ankle; Soreness
-03/21/2026,MEM,Ty Jerome,Doubtful,Injury/Illness - Right Calf; Injury Management
+03/21/2026,MEM,Ty Jerome,Out,Injury/Illness - Right Calf; Injury Management
 03/21/2026,MEM,Jahmai Mashack,Out,Injury/Illness - Left Ankle; Sprain
 03/21/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
 03/21/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Right Great Toe; Surgery Recovery
+03/21/2026,MEM,Rayan Rupert,Out,G League - Two-Way
 03/21/2026,CHO,Tosan Evbuomwan,Out,G League - Two-Way
 03/21/2026,CHO,PJ Hall,Out,G League - Two-Way
 03/21/2026,CHO,Liam McNeeley,Out,G League - On Assignment
@@ -9459,12 +9457,13 @@ Date,Team,Player,Status,Reason
 03/21/2026,GSW,Malevy Leons,Questionable,Injury/Illness - Right Wrist; Sprain
 03/21/2026,GSW,De'Anthony Melton,Questionable,Injury/Illness - Left Knee; Injury Management
 03/21/2026,GSW,Moses Moody,Out,Injury/Illness - Right Wrist; Sprain
-03/21/2026,GSW,Gary Payton II,Questionable,Injury/Illness - Right Knee; Soreness
+03/21/2026,GSW,Gary Payton II,Out,Injury/Illness - Right Hip; Contusion
 03/21/2026,GSW,Kristaps Porzingis,Out,Injury/Illness - Left Low Back; Tightness
 03/21/2026,GSW,Quinten Post,Questionable,Injury/Illness - Right Foot; Injury Management
-03/21/2026,ATL,RayJ Dennis,Doubtful,G League - Two-Way
-03/21/2026,ATL,Keshon Gilbert,Doubtful,G League - Two-Way
-03/21/2026,ATL,Asa Newell,Doubtful,G League - On Assignment
+03/21/2026,ATL,RayJ Dennis,Out,G League - Two-Way
+03/21/2026,ATL,Keshon Gilbert,Out,G League - Two-Way
+03/21/2026,ATL,Jalen Johnson,Questionable,Injury/Illness - Left Shoulder; Inflammation
+03/21/2026,ATL,Asa Newell,Out,G League - On Assignment
 03/21/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
 03/21/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
 03/21/2026,IND,Quenton Jackson,Questionable,Injury/Illness - Right Calf; Strain
