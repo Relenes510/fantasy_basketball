@@ -33,21 +33,21 @@ BOS,Jayson Tatum,PF
 BOS,Max Shulga,SG
 BOS,John Tonje,SG
 BOS,Charles Bassey,C
-BRK,Noah Clowney,PF
 BRK,Nic Claxton,C
+BRK,Noah Clowney,PF
 BRK,Day'Ron Sharpe,C
 BRK,Terance Mann,SG
 BRK,Danny Wolf,PF
+BRK,Drake Powell,SG
 BRK,Michael Porter Jr.,SF
 BRK,Egor Dmin,PG
-BRK,Drake Powell,SG
 BRK,Ziaire Williams,SF
 BRK,Nolan Traore,PG
 BRK,Jalen Wilson,PF
 BRK,Ben Saraf,SG
 BRK,E.J. Liddell,PF
-BRK,Tyson Etienne,PG
 BRK,Ochai Agbaji,SG
+BRK,Tyson Etienne,PG
 BRK,Josh Minott,SF
 BRK,Chaney Johnson,SF
 BRK,Malachi Smith,SG
@@ -126,8 +126,8 @@ DAL,Kyrie Irving,SG
 DEN,Bruce Brown,SG
 DEN,Tim Hardaway Jr.,SG
 DEN,Jamal Murray,PG
-DEN,Jonas Valanciunas,C
 DEN,Spencer Jones,SF
+DEN,Jonas Valanciunas,C
 DEN,Nikola Jokic,C
 DEN,Peyton Watson,SF
 DEN,Zeke Nnaji,PF
@@ -137,8 +137,8 @@ DEN,Jalen Pickett,SG
 DEN,Christian Braun,SG
 DEN,Aaron Gordon,PF
 DEN,DaRon Holmes,PF
-DEN,Curtis Jones,SG
 DEN,Tyus Jones,PG
+DEN,Curtis Jones,SG
 DEN,KJ Simpson,PG
 DEN,David Roddy,PF
 DET,Javonte Green,SG
@@ -162,15 +162,15 @@ DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
 GSW,Quinten Post,PF
 GSW,Gary Payton II,SG
-GSW,Moses Moody,SG
 GSW,Will Richard,SG
+GSW,Moses Moody,SG
 GSW,Gui Santos,PF
 GSW,Draymond Green,PF
 GSW,Pat Spencer,PG
 GSW,Al Horford,C
 GSW,Stephen Curry,PG
-GSW,Jimmy Butler,SF
 GSW,De'Anthony Melton,PG
+GSW,Jimmy Butler,SF
 GSW,Malevy Leons,SF
 GSW,LJ Cryer,PG
 GSW,Nate Williams,SG
@@ -313,10 +313,11 @@ MIN,Bones Hyland,PG
 MIN,Jaylen Clark,SG
 MIN,Anthony Edwards,SG
 MIN,Mike Conley,PG
-MIN,Joan Beringer,PF
 MIN,Terrence Shannon Jr.,SG
+MIN,Joan Beringer,PF
 MIN,Joe Ingles,SF
 MIN,Ayo Dosunmu,SG
+MIN,Kyle Anderson,SF
 MIN,Julian Phillips,SF
 MIN,Rocco Zikarsky,C
 MIN,Enrique Freeman,PF
@@ -345,8 +346,8 @@ NYK,Jalen Brunson,PG
 NYK,Jordan Clarkson,SG
 NYK,Mohamed Diawara,SF
 NYK,OG Anunoby,PF
-NYK,Josh Hart,SF
 NYK,Tyler Kolek,PG
+NYK,Josh Hart,SF
 NYK,Mitchell Robinson,C
 NYK,Ariel Hukporti,C
 NYK,Landry Shamet,SG
@@ -433,16 +434,16 @@ POR,Donovan Clingan,C
 POR,Sidy Cissoko,SF
 POR,Deni Avdija,SF
 POR,Jerami Grant,PF
-POR,Shaedon Sharpe,SG
 POR,Robert Williams,C
-POR,Caleb Love,SG
+POR,Shaedon Sharpe,SG
 POR,Kris Murray,SF
+POR,Caleb Love,SG
 POR,Jrue Holiday,PG
 POR,Yang Hansen,C
 POR,Blake Wesley,SG
 POR,Scoot Henderson,PG
-POR,Vit Krejci,PG
 POR,Matisse Thybulle,SG
+POR,Vit Krejci,PG
 POR,Jayson Kent,SF
 POR,Damian Lillard,PG
 POR,Chris Youngblood,SG
