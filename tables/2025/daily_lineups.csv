@@ -10509,8 +10509,8 @@ Date,Team,Player,Pos
 03/20/2026,HOU,Kevin Durant,PF
 03/20/2026,HOU,Jabari Smith Jr.,PF
 03/20/2026,HOU,Alperen Sengun,C
-03/20/2026,BOS,Derrick White,SG
 03/20/2026,BOS,Jaylen Brown,SG
+03/20/2026,BOS,Derrick White,SG
 03/20/2026,BOS,Jayson Tatum,SF
 03/20/2026,BOS,Sam Hauser,SF
 03/20/2026,BOS,Neemias Queta,C
@@ -10539,9 +10539,9 @@ Date,Team,Player,Pos
 03/20/2026,DEN,Aaron Gordon,PF
 03/20/2026,DEN,Cameron Johnson,PF
 03/20/2026,DEN,Nikola Jokic,C
+03/21/2026,OKC,Cason Wallace,PG
 03/21/2026,OKC,Shai Gilgeous-Alexander,PG
 03/21/2026,OKC,Ajay Mitchell,PG
-03/21/2026,OKC,Luguentz Dort,SF
 03/21/2026,OKC,Chet Holmgren,C
 03/21/2026,OKC,Isaiah Hartenstein,C
 03/21/2026,WAS,Bub Carrington,PG
@@ -10600,8 +10600,8 @@ Date,Team,Player,Pos
 03/21/2026,HOU,Kevin Durant,PF
 03/21/2026,HOU,Alperen Sengun,C
 03/21/2026,IND,Andrew Nembhard,PG
-03/21/2026,IND,Aaron Nesmith,PF
 03/21/2026,IND,Pascal Siakam,PF
+03/21/2026,IND,Aaron Nesmith,PF
 03/21/2026,IND,Jarace Walker,PF
 03/21/2026,IND,Jay Huff,C
 03/21/2026,SAS,De'Aaron Fox,PG
@@ -10610,8 +10610,8 @@ Date,Team,Player,Pos
 03/21/2026,SAS,Julian Champagnie,SF
 03/21/2026,SAS,Victor Wembanyama,PF
 03/21/2026,LAC,Kris Dunn,PG
-03/21/2026,LAC,Kawhi Leonard,SF
 03/21/2026,LAC,Derrick Jones Jr.,SF
+03/21/2026,LAC,Kawhi Leonard,SF
 03/21/2026,LAC,John Collins,PF
 03/21/2026,LAC,Brook Lopez,C
 03/21/2026,DAL,Ryan Nembhard,PG
@@ -10628,7 +10628,7 @@ Date,Team,Player,Pos
 03/21/2026,UTA,Cody Williams,SF
 03/21/2026,UTA,Ace Bailey,SF
 03/21/2026,UTA,Andersson Garcia,PF
-03/21/2026,UTA,Kyle Filipowski,C
+03/21/2026,UTA,Kevin Love,PF
 03/21/2026,MIL,Ryan Rollins,SG
 03/21/2026,MIL,AJ Green,SG
 03/21/2026,MIL,Kyle Kuzma,PF
