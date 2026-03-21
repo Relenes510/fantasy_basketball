@@ -10481,16 +10481,16 @@ Date,Team,Player,Pos
 03/19/2026,SAC,Maxime Raynaud,C
 03/20/2026,NYK,Jalen Brunson,PG
 03/20/2026,NYK,Landry Shamet,SG
-03/20/2026,NYK,Mikal Bridges,SF
 03/20/2026,NYK,OG Anunoby,SF
+03/20/2026,NYK,Mikal Bridges,SF
 03/20/2026,NYK,Karl-Anthony Towns,PF
 03/20/2026,BRK,Nolan Traore,PG
 03/20/2026,BRK,Drake Powell,SG
 03/20/2026,BRK,Ziaire Williams,SF
-03/20/2026,BRK,Nicolas Claxton,C
 03/20/2026,BRK,Danny Wolf,C
-03/20/2026,GSW,Brandin Podziemski,SG
+03/20/2026,BRK,Nicolas Claxton,C
 03/20/2026,GSW,De'Anthony Melton,SG
+03/20/2026,GSW,Brandin Podziemski,SG
 03/20/2026,GSW,Gui Santos,SF
 03/20/2026,GSW,Draymond Green,PF
 03/20/2026,GSW,Kristaps Porzingis,C
@@ -10499,8 +10499,8 @@ Date,Team,Player,Pos
 03/20/2026,DET,Ausar Thompson,SG
 03/20/2026,DET,Tobias Harris,SF
 03/20/2026,DET,Jalen Duren,C
-03/20/2026,ATL,Dyson Daniels,PG
 03/20/2026,ATL,CJ McCollum,PG
+03/20/2026,ATL,Dyson Daniels,PG
 03/20/2026,ATL,Nickeil Alexander-Walker,SG
 03/20/2026,ATL,Jalen Johnson,PF
 03/20/2026,ATL,Onyeka Okongwu,C
@@ -10526,8 +10526,8 @@ Date,Team,Player,Pos
 03/20/2026,POR,Donovan Clingan,C
 03/20/2026,MIN,Ayo Dosunmu,PG
 03/20/2026,MIN,Donte DiVincenzo,SG
-03/20/2026,MIN,Julius Randle,PF
 03/20/2026,MIN,Jaden McDaniels,PF
+03/20/2026,MIN,Julius Randle,PF
 03/20/2026,MIN,Rudy Gobert,C
 03/20/2026,TOR,Immanuel Quickley,PG
 03/20/2026,TOR,RJ Barrett,SG
@@ -10539,13 +10539,13 @@ Date,Team,Player,Pos
 03/20/2026,DEN,Aaron Gordon,PF
 03/20/2026,DEN,Cameron Johnson,PF
 03/20/2026,DEN,Nikola Jokic,C
-03/21/2026,OKC,Shai Gilgeous-Alexander,PG
 03/21/2026,OKC,Cason Wallace,PG
+03/21/2026,OKC,Shai Gilgeous-Alexander,PG
 03/21/2026,OKC,Ajay Mitchell,PG
 03/21/2026,OKC,Chet Holmgren,C
 03/21/2026,OKC,Isaiah Hartenstein,C
 03/21/2026,WAS,Bub Carrington,PG
-03/21/2026,WAS,Sharife Cooper,PG
+03/21/2026,WAS,Justin Champagnie,SG
 03/21/2026,WAS,Bilal Coulibaly,SG
 03/21/2026,WAS,Will Riley,SF
 03/21/2026,WAS,Alexandre Sarr,PF
@@ -10569,8 +10569,8 @@ Date,Team,Player,Pos
 03/21/2026,ORL,Paolo Banchero,PF
 03/21/2026,ORL,Tristan da Silva,PF
 03/21/2026,ORL,Wendell Carter Jr.,C
-03/21/2026,CLE,Donovan Mitchell,SG
 03/21/2026,CLE,Sam Merrill,SG
+03/21/2026,CLE,Donovan Mitchell,SG
 03/21/2026,CLE,James Harden,SG
 03/21/2026,CLE,Evan Mobley,PF
 03/21/2026,CLE,Dean Wade,PF
@@ -10584,8 +10584,8 @@ Date,Team,Player,Pos
 03/21/2026,GSW,Gui Santos,SF
 03/21/2026,GSW,Draymond Green,PF
 03/21/2026,GSW,Quinten Post,C
-03/21/2026,ATL,Dyson Daniels,PG
 03/21/2026,ATL,CJ McCollum,PG
+03/21/2026,ATL,Dyson Daniels,PG
 03/21/2026,ATL,Nickeil Alexander-Walker,SG
 03/21/2026,ATL,Jalen Johnson,PF
 03/21/2026,ATL,Onyeka Okongwu,C
@@ -10596,8 +10596,8 @@ Date,Team,Player,Pos
 03/21/2026,MIA,Bam Adebayo,C
 03/21/2026,HOU,Amen Thompson,SG
 03/21/2026,HOU,Tari Eason,SF
-03/21/2026,HOU,Jabari Smith Jr.,PF
 03/21/2026,HOU,Kevin Durant,PF
+03/21/2026,HOU,Jabari Smith Jr.,PF
 03/21/2026,HOU,Alperen Sengun,C
 03/21/2026,IND,Andrew Nembhard,PG
 03/21/2026,IND,Aaron Nesmith,PF
@@ -10627,8 +10627,8 @@ Date,Team,Player,Pos
 03/21/2026,UTA,Elijah Harkless,PG
 03/21/2026,UTA,Cody Williams,SF
 03/21/2026,UTA,Ace Bailey,SF
-03/21/2026,UTA,Andersson Garcia,PF
 03/21/2026,UTA,Kevin Love,PF
+03/21/2026,UTA,Andersson Garcia,PF
 03/21/2026,MIL,Ryan Rollins,SG
 03/21/2026,MIL,AJ Green,SG
 03/21/2026,MIL,Kyle Kuzma,PF
