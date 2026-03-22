@@ -1050,16 +1050,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-20,8:00p,Boston Celtics,BOS,117.0,Memphis Grizzlies,MEM,112.0,0,FedExForum,0,0,0,0,1
 2026-03-20,8:00p,Portland Trail Blazers,POR,108.0,Minnesota Timberwolves,MIN,104.0,0,Target Center,0,0,0,0,1
 2026-03-20,9:00p,Toronto Raptors,TOR,115.0,Denver Nuggets,DEN,121.0,0,Ball Arena,0,0,0,0,1
-2026-03-21,5:00p,Oklahoma City Thunder,OKC,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2026-03-21,7:00p,Memphis Grizzlies,MEM,,Charlotte Hornets,CHO,,0,Spectrum Center,1,0,0,0,0
-2026-03-21,7:00p,Cleveland Cavaliers,CLE,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,0,0,0,0
-2026-03-21,7:00p,Los Angeles Lakers,LAL,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
-2026-03-21,8:00p,Golden State Warriors,GSW,,Atlanta Hawks,ATL,,0,State Farm Arena,1,1,0,0,0
-2026-03-21,8:00p,Miami Heat,MIA,,Houston Rockets,HOU,,0,Toyota Center,0,1,0,0,0
-2026-03-21,8:00p,Indiana Pacers,IND,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
-2026-03-21,8:30p,Los Angeles Clippers,LAC,,Dallas Mavericks,DAL,,0,American Airlines Center,0,0,0,0,0
-2026-03-21,9:30p,Philadelphia 76ers,PHI,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
-2026-03-21,10:00p,Milwaukee Bucks,MIL,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
+2026-03-21,5:00p,Oklahoma City Thunder,OKC,132.0,Washington Wizards,WAS,111.0,0,Capital One Arena,0,0,0,0,1
+2026-03-21,7:00p,Memphis Grizzlies,MEM,101.0,Charlotte Hornets,CHO,124.0,0,Spectrum Center,1,0,0,0,1
+2026-03-21,7:00p,Cleveland Cavaliers,CLE,111.0,New Orleans Pelicans,NOP,106.0,0,Smoothie King Center,0,0,0,0,1
+2026-03-21,7:00p,Los Angeles Lakers,LAL,105.0,Orlando Magic,ORL,104.0,0,Kia Center,0,0,0,0,1
+2026-03-21,8:00p,Golden State Warriors,GSW,110.0,Atlanta Hawks,ATL,126.0,0,State Farm Arena,1,1,0,0,1
+2026-03-21,8:00p,Miami Heat,MIA,122.0,Houston Rockets,HOU,123.0,0,Toyota Center,0,1,0,0,1
+2026-03-21,8:00p,Indiana Pacers,IND,119.0,San Antonio Spurs,SAS,134.0,0,Frost Bank Center,0,0,0,0,1
+2026-03-21,8:30p,Los Angeles Clippers,LAC,138.0,Dallas Mavericks,DAL,131.0,1,American Airlines Center,0,0,0,0,1
+2026-03-21,9:30p,Philadelphia 76ers,PHI,126.0,Utah Jazz,UTA,116.0,0,Delta Center,0,0,0,0,1
+2026-03-21,10:00p,Milwaukee Bucks,MIL,108.0,Phoenix Suns,PHO,105.0,0,Mortgage Matchup Center,0,0,0,0,1
 2026-03-22,5:00p,Portland Trail Blazers,POR,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
 2026-03-22,6:00p,Brooklyn Nets,BRK,,Sacramento Kings,SAC,,0,Golden 1 Center,0,0,0,0,0
 2026-03-22,7:30p,Washington Wizards,WAS,,New York Knicks,NYK,,0,Madison Square Garden (IV),1,0,0,0,0
