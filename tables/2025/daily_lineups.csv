@@ -10741,8 +10741,8 @@ Date,Team,Player,Pos
 03/23/2026,ATL,Onyeka Okongwu,C
 03/23/2026,HOU,Reed Sheppard,PG
 03/23/2026,HOU,Amen Thompson,SG
-03/23/2026,HOU,Jabari Smith Jr.,PF
 03/23/2026,HOU,Kevin Durant,PF
+03/23/2026,HOU,Jabari Smith Jr.,PF
 03/23/2026,HOU,Alperen Sengun,C
 03/23/2026,CHI,Tre Jones,PG
 03/23/2026,CHI,Josh Giddey,SG
@@ -10751,21 +10751,21 @@ Date,Team,Player,Pos
 03/23/2026,CHI,Nick Richards,C
 03/23/2026,TOR,Jamal Shead,PG
 03/23/2026,TOR,RJ Barrett,SG
+03/23/2026,TOR,Ja'Kobe Walter,SG
 03/23/2026,TOR,Scottie Barnes,SF
-03/23/2026,TOR,Brandon Ingram,SF
 03/23/2026,TOR,Sandro Mamukelashvili,PF
-03/23/2026,UTA,Kennedy Chandler,PG
+03/23/2026,UTA,Elijah Harkless,PG
+03/23/2026,UTA,Bez Mbeng,PG
 03/23/2026,UTA,John Konchar,SG
 03/23/2026,UTA,Ace Bailey,SF
-03/23/2026,UTA,Brice Sensabaugh,SF
 03/23/2026,UTA,Kyle Filipowski,C
 03/23/2026,GSW,Brandin Podziemski,SG
-03/23/2026,GSW,Pat Spencer,SG
+03/23/2026,GSW,Moses Moody,SG
 03/23/2026,GSW,De'Anthony Melton,SG
 03/23/2026,GSW,Draymond Green,PF
 03/23/2026,GSW,Kristaps Porzingis,C
-03/23/2026,DAL,Ryan Nembhard,PG
 03/23/2026,DAL,Max Christie,SG
+03/23/2026,DAL,Naji Marshall,SF
 03/23/2026,DAL,Cooper Flagg,PF
 03/23/2026,DAL,P.J. Washington,PF
 03/23/2026,DAL,Daniel Gafford,C
@@ -10781,7 +10781,7 @@ Date,Team,Player,Pos
 03/23/2026,POR,Donovan Clingan,C
 03/23/2026,MIL,Ryan Rollins,SG
 03/23/2026,MIL,AJ Green,SG
-03/23/2026,MIL,Kyle Kuzma,PF
+03/23/2026,MIL,Ousmane Dieng,SF
 03/23/2026,MIL,Bobby Portis,PF
 03/23/2026,MIL,Myles Turner,C
 03/23/2026,LAC,Darius Garland,PG
@@ -10809,16 +10809,6 @@ Date,Team,Player,Pos
 03/24/2026,DET,Duncan Robinson,SG
 03/24/2026,DET,Tobias Harris,SF
 03/24/2026,DET,Jalen Duren,C
-03/24/2026,IND,Andrew Nembhard,PG
-03/24/2026,IND,Jarace Walker,PF
-03/24/2026,IND,Pascal Siakam,PF
-03/24/2026,IND,Aaron Nesmith,PF
-03/24/2026,IND,Jay Huff,C
-03/24/2026,ORL,Jevon Carter,SG
-03/24/2026,ORL,Desmond Bane,SG
-03/24/2026,ORL,Tristan da Silva,PF
-03/24/2026,ORL,Paolo Banchero,PF
-03/24/2026,ORL,Wendell Carter Jr.,C
 03/24/2026,SAS,De'Aaron Fox,PG
 03/24/2026,SAS,Devin Vassell,SG
 03/24/2026,SAS,Stephon Castle,SG
@@ -10829,6 +10819,16 @@ Date,Team,Player,Pos
 03/24/2026,MIA,Pelle Larsson,SG
 03/24/2026,MIA,Andrew Wiggins,SF
 03/24/2026,MIA,Bam Adebayo,C
+03/24/2026,IND,Andrew Nembhard,PG
+03/24/2026,IND,Jarace Walker,PF
+03/24/2026,IND,Pascal Siakam,PF
+03/24/2026,IND,Aaron Nesmith,PF
+03/24/2026,IND,Jay Huff,C
+03/24/2026,ORL,Jevon Carter,SG
+03/24/2026,ORL,Desmond Bane,SG
+03/24/2026,ORL,Tristan da Silva,PF
+03/24/2026,ORL,Paolo Banchero,PF
+03/24/2026,ORL,Wendell Carter Jr.,C
 03/24/2026,MEM,Ty Jerome,PG
 03/24/2026,MEM,Rayan Rupert,SG
 03/24/2026,MEM,Jaylen Wells,SF
@@ -10851,21 +10851,21 @@ Date,Team,Player,Pos
 03/24/2026,CHI,Nick Richards,C
 03/24/2026,TOR,Jamal Shead,PG
 03/24/2026,TOR,RJ Barrett,SG
+03/24/2026,TOR,Ja'Kobe Walter,SG
 03/24/2026,TOR,Scottie Barnes,SF
-03/24/2026,TOR,Brandon Ingram,SF
 03/24/2026,TOR,Sandro Mamukelashvili,PF
-03/24/2026,UTA,Kennedy Chandler,PG
+03/24/2026,UTA,Elijah Harkless,PG
+03/24/2026,UTA,Bez Mbeng,PG
 03/24/2026,UTA,John Konchar,SG
 03/24/2026,UTA,Ace Bailey,SF
-03/24/2026,UTA,Brice Sensabaugh,SF
 03/24/2026,UTA,Kyle Filipowski,C
 03/24/2026,GSW,Brandin Podziemski,SG
+03/24/2026,GSW,Moses Moody,SG
 03/24/2026,GSW,De'Anthony Melton,SG
-03/24/2026,GSW,Pat Spencer,SG
 03/24/2026,GSW,Draymond Green,PF
 03/24/2026,GSW,Kristaps Porzingis,C
-03/24/2026,DAL,Ryan Nembhard,PG
 03/24/2026,DAL,Max Christie,SG
+03/24/2026,DAL,Naji Marshall,SF
 03/24/2026,DAL,Cooper Flagg,PF
 03/24/2026,DAL,P.J. Washington,PF
 03/24/2026,DAL,Daniel Gafford,C
@@ -10875,13 +10875,13 @@ Date,Team,Player,Pos
 03/24/2026,BRK,Josh Minott,PF
 03/24/2026,BRK,Nicolas Claxton,C
 03/24/2026,POR,Jrue Holiday,PG
-03/24/2026,POR,Toumani Camara,SF
 03/24/2026,POR,Deni Avdija,SF
+03/24/2026,POR,Toumani Camara,SF
 03/24/2026,POR,Kris Murray,PF
 03/24/2026,POR,Donovan Clingan,C
 03/24/2026,MIL,Ryan Rollins,SG
 03/24/2026,MIL,AJ Green,SG
-03/24/2026,MIL,Kyle Kuzma,PF
+03/24/2026,MIL,Ousmane Dieng,SF
 03/24/2026,MIL,Bobby Portis,PF
 03/24/2026,MIL,Myles Turner,C
 03/24/2026,LAC,Darius Garland,PG
