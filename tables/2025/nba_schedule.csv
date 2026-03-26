@@ -1079,18 +1079,18 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-24,7:30p,New Orleans Pelicans,NOP,116.0,New York Knicks,NYK,121.0,0,Madison Square Garden (IV),0,0,0,0,1
 2026-03-24,8:00p,Orlando Magic,ORL,131.0,Cleveland Cavaliers,CLE,136.0,0,Rocket Arena,1,0,0,0,1
 2026-03-24,11:00p,Denver Nuggets,DEN,125.0,Phoenix Suns,PHO,123.0,0,Mortgage Matchup Center,0,0,0,0,1
-2026-03-25,7:00p,Atlanta Hawks,ATL,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,0,0
-2026-03-25,7:00p,Los Angeles Lakers,LAL,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-03-25,7:00p,Chicago Bulls,CHI,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,0,0
-2026-03-25,7:30p,Oklahoma City Thunder,OKC,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-03-25,7:30p,Miami Heat,MIA,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,1,0,0,0
-2026-03-25,8:00p,San Antonio Spurs,SAS,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-03-25,9:00p,Washington Wizards,WAS,,Utah Jazz,UTA,,0,Delta Center,0,0,0,0,0
-2026-03-25,9:30p,Houston Rockets,HOU,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
-2026-03-25,10:00p,Dallas Mavericks,DAL,,Denver Nuggets,DEN,,0,Ball Arena,0,1,0,0,0
-2026-03-25,10:00p,Brooklyn Nets,BRK,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
-2026-03-25,10:00p,Milwaukee Bucks,MIL,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
-2026-03-25,10:30p,Toronto Raptors,TOR,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2026-03-25,7:00p,Atlanta Hawks,ATL,130.0,Detroit Pistons,DET,129.0,1,Little Caesars Arena,0,0,0,0,1
+2026-03-25,7:00p,Los Angeles Lakers,LAL,137.0,Indiana Pacers,IND,130.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-03-25,7:00p,Chicago Bulls,CHI,137.0,Philadelphia 76ers,PHI,157.0,0,Xfinity Mobile Arena,0,0,0,0,1
+2026-03-25,7:30p,Oklahoma City Thunder,OKC,109.0,Boston Celtics,BOS,119.0,0,TD Garden,0,0,0,0,1
+2026-03-25,7:30p,Miami Heat,MIA,120.0,Cleveland Cavaliers,CLE,103.0,0,Rocket Arena,0,1,0,0,1
+2026-03-25,8:00p,San Antonio Spurs,SAS,123.0,Memphis Grizzlies,MEM,98.0,0,FedExForum,0,0,0,0,1
+2026-03-25,9:00p,Washington Wizards,WAS,133.0,Utah Jazz,UTA,110.0,0,Delta Center,0,0,0,0,1
+2026-03-25,9:30p,Houston Rockets,HOU,108.0,Minnesota Timberwolves,MIN,110.0,1,Target Center,0,0,0,0,1
+2026-03-25,10:00p,Dallas Mavericks,DAL,135.0,Denver Nuggets,DEN,142.0,0,Ball Arena,0,1,0,0,1
+2026-03-25,10:00p,Brooklyn Nets,BRK,106.0,Golden State Warriors,GSW,109.0,0,Chase Center,0,0,0,0,1
+2026-03-25,10:00p,Milwaukee Bucks,MIL,99.0,Portland Trail Blazers,POR,130.0,0,Moda Center,0,0,0,0,1
+2026-03-25,10:30p,Toronto Raptors,TOR,94.0,Los Angeles Clippers,LAC,119.0,0,Intuit Dome,0,0,0,0,1
 2026-03-26,7:00p,New York Knicks,NYK,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2026-03-26,7:00p,New Orleans Pelicans,NOP,,Detroit Pistons,DET,,0,Little Caesars Arena,0,1,0,0,0
 2026-03-26,7:00p,Sacramento Kings,SAC,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
