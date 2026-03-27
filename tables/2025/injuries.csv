@@ -9851,18 +9851,14 @@ Date,Team,Player,Status,Reason
 03/26/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain Injury Management
 03/27/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
 03/27/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
-03/27/2026,IND,Aaron Nesmith,Probable,Injury/Illness - Low Back; Soreness
-03/27/2026,IND,Jalen Slawson,Probable,G League - Two-Way
-03/27/2026,IND,Obi Toppin,Questionable,Injury/Illness - Low Back; Soreness
 03/27/2026,IND,Ivica Zubac,Out,Injury/Illness - Rib; Fracture
 03/27/2026,ATL,RayJ Dennis,Out,G League - Two-Way
 03/27/2026,ATL,Keshon Gilbert,Out,G League - Two-Way
-03/27/2026,ATL,Jock Landale,Questionable,Injury/Illness - Right Shoulder; Impingement
+03/27/2026,ATL,Jock Landale,Out,Injury/Illness - Right Shoulder; Impingement
 03/27/2026,ATL,Asa Newell,Out,G League - On Assignment
 03/27/2026,BOS,Jaylen Brown,Out,Injury/Illness - Left Achilles; Tendinitis
 03/27/2026,BOS,Nikola Vucevic,Out,Injury/Illness - Right Ring Finger; Fracture
 03/27/2026,MIA,Vladislav Goldin,Out,G League - Two-Way
-03/27/2026,MIA,Jaime Jaquez Jr.,Probable,Injury/Illness - Right Ankle; Sprain
 03/27/2026,MIA,Trevor Keels,Out,G League - Two-Way
 03/27/2026,MIA,Terry Rozier,Out,Not With Team
 03/27/2026,MIA,Jahmir Young,Out,G League - Two-Way
@@ -9874,16 +9870,13 @@ Date,Team,Player,Status,Reason
 03/27/2026,CLE,Jaylon Tyson,Out,Injury/Illness - Left Great Toe; Bone Bruise
 03/27/2026,CLE,Dean Wade,Out,Injury/Illness - Right Ankle; Sprain
 03/27/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Sprain
-03/27/2026,CHI,Rob Dillingham,Probable,Injury/Illness - Bilateral Patella Tendon; Tendonitis
 03/27/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
 03/27/2026,CHI,Jaden Ivey,Out,Injury/Illness - Left Patellofemoral; Pain Syndrome
 03/27/2026,CHI,Yuki Kawamura,Out,G League - Two-Way
 03/27/2026,CHI,Mac McClung,Out,G League - Two-Way
-03/27/2026,CHI,Isaac Okoro,Probable,Injury/Illness - Right Patellofemoral; Pain Syndrome
-03/27/2026,CHI,Nick Richards,Questionable,Injury/Illness - Right Elbow; Sprain
+03/27/2026,CHI,Nick Richards,Out,Injury/Illness - Right Elbow; Sprain
 03/27/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 03/27/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
-03/27/2026,CHI,Guerschon Yabusele,Questionable,Injury/Illness - Left Ankle; Sprain
 03/27/2026,OKC,Brooks Barnhizer,Out,G League - Two-Way
 03/27/2026,OKC,Chet Holmgren,Out,Injury/Illness - Right Hip; Contusion
 03/27/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
@@ -9907,6 +9900,7 @@ Date,Team,Player,Status,Reason
 03/27/2026,NOP,Dejounte Murray,Out,Injury/Illness - Right Achilles; Injury Management
 03/27/2026,NOP,Josh Oduro,Out,G League - Two-Way
 03/27/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
+03/27/2026,TOR,Trayce Jackson-Davis,Out,Injury/Illness - Right Knee; Tendinitis
 03/27/2026,TOR,Immanuel Quickley,Out,Injury/Illness - Right Foot; Plantar Fasciitis
 03/27/2026,UTA,Isaiah Collier,Out,Injury/Illness - Left Hamstring; Injury management
 03/27/2026,UTA,Keyonte George,Out,Injury/Illness - Right Hamstring; Strain
@@ -9940,9 +9934,10 @@ Date,Team,Player,Status,Reason
 03/27/2026,GSW,Seth Curry,Out,Injury/Illness - Left Adductor; Strain
 03/27/2026,GSW,Stephen Curry,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
 03/27/2026,GSW,Al Horford,Out,Injury/Illness - Right Soleus; Strain
-03/27/2026,GSW,De'Anthony Melton,Questionable,Injury/Illness - Left Knee; Injury Management
+03/27/2026,GSW,De'Anthony Melton,Out,Injury/Illness - Left Knee; Injury Management
 03/27/2026,GSW,Moses Moody,Out,Injury/Illness - Left Patellar Tendon; Rupture
 03/27/2026,GSW,Quinten Post,Out,Injury/Illness - Right Foot; Injury Management
+03/27/2026,GSW,Nate Williams,Out,G League - Two-Way
 03/27/2026,BRK,Noah Clowney,Probable,Injury/Illness - Right Wrist; Sprain
 03/27/2026,BRK,Egor Demin,Out,Injury/Illness - Left Plantar Fascia; Injury Management
 03/27/2026,BRK,Michael Porter Jr.,Out,Injury/Illness - Left Hamstring; Strain
