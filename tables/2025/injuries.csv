@@ -9855,23 +9855,22 @@ Date,Team,Player,Status,Reason
 03/27/2026,IND,Jalen Slawson,Doubtful,G League - Two-Way
 03/27/2026,IND,Obi Toppin,Questionable,Injury/Illness - Low Back; Soreness
 03/27/2026,IND,Ivica Zubac,Out,Injury/Illness - Rib; Fracture
-03/27/2026,ATL,RayJ Dennis,Doubtful,G League - Two-Way
-03/27/2026,ATL,Keshon Gilbert,Doubtful,G League - Two-Way
-03/27/2026,ATL,Asa Newell,Doubtful,G League - On Assignment
-03/27/2026,BOS,Jaylen Brown,Questionable,Injury/Illness - Left Calf; Tightness
-03/27/2026,BOS,Neemias Queta,Questionable,Injury/Illness - Right Thumb; Sprain
+03/27/2026,ATL,RayJ Dennis,Out,G League - Two-Way
+03/27/2026,ATL,Keshon Gilbert,Out,G League - Two-Way
+03/27/2026,ATL,Jock Landale,Questionable,Injury/Illness - Right Shoulder; Impingement
+03/27/2026,ATL,Asa Newell,Out,G League - On Assignment
+03/27/2026,BOS,Jaylen Brown,Out,Injury/Illness - Left Achilles; Tendinitis
 03/27/2026,BOS,Nikola Vucevic,Out,Injury/Illness - Right Ring Finger; Fracture
-03/27/2026,BOS,Derrick White,Questionable,Injury/Illness - Right Knee; Contusion
 03/27/2026,MIA,Vladislav Goldin,Out,G League - Two-Way
 03/27/2026,MIA,Jaime Jaquez Jr.,Probable,Injury/Illness - Right Ankle; Sprain
 03/27/2026,MIA,Trevor Keels,Out,G League - Two-Way
 03/27/2026,MIA,Terry Rozier,Out,Not With Team
 03/27/2026,MIA,Jahmir Young,Out,G League - Two-Way
-03/27/2026,CLE,Jarrett Allen,Questionable,Injury/Illness - Right Knee; Tendonitis
+03/27/2026,CLE,Jarrett Allen,Probable,Injury/Illness - Right Knee; Tendonitis
 03/27/2026,CLE,Tristan Enaruna,Out,G League - Two-Way
-03/27/2026,CLE,Riley Minix,Out,G League - Two-Way
+03/27/2026,CLE,Riley Minix,Probable,G League - Two-Way
 03/27/2026,CLE,Craig Porter Jr.,Out,Injury/Illness - Left Groin; Strain
-03/27/2026,CLE,Olivier Sarr,Out,G League - Two-Way
+03/27/2026,CLE,Olivier Sarr,Probable,G League - Two-Way
 03/27/2026,CLE,Jaylon Tyson,Out,Injury/Illness - Left Great Toe; Bone Bruise
 03/27/2026,CLE,Dean Wade,Out,Injury/Illness - Right Ankle; Sprain
 03/27/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Sprain
@@ -9882,10 +9881,11 @@ Date,Team,Player,Status,Reason
 03/27/2026,CHI,Mac McClung,Out,G League - Two-Way
 03/27/2026,CHI,Isaac Okoro,Probable,Injury/Illness - Right Patellofemoral; Pain Syndrome
 03/27/2026,CHI,Nick Richards,Questionable,Injury/Illness - Right Elbow; Sprain
-03/27/2026,CHI,Anfernee Simons,Doubtful,Injury/Illness - Left Ulnar Styloid; Fracture
+03/27/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 03/27/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
 03/27/2026,CHI,Guerschon Yabusele,Questionable,Injury/Illness - Left Ankle; Sprain
 03/27/2026,OKC,Brooks Barnhizer,Out,G League - Two-Way
+03/27/2026,OKC,Chet Holmgren,Out,Injury/Illness - Right Hip; Contusion
 03/27/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
 03/27/2026,OKC,Nikola Topic,Out,G League - On Assignment
 03/27/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
@@ -9900,10 +9900,15 @@ Date,Team,Player,Status,Reason
 03/27/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
 03/27/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Right Great Toe; Surgery Recovery
 03/27/2026,MEM,Jaylen Wells,Out,Injury/Illness - Right Great Toe; Soreness
+03/27/2026,NOP,Trey Alexander,Out,G League - Two-Way
+03/27/2026,NOP,Hunter Dickinson,Out,G League - Two-Way
+03/27/2026,NOP,Bryce McGowens,Out,Injury/Illness - Right Small Toe; Fracture
+03/27/2026,NOP,Trey Murphy III,Out,Injury/Illness - Right Ankle; Sprain
+03/27/2026,NOP,Dejounte Murray,Out,Injury/Illness - Right Achilles; Injury Management
+03/27/2026,NOP,Josh Oduro,Out,G League - Two-Way
 03/27/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
 03/27/2026,TOR,Immanuel Quickley,Out,Injury/Illness - Right Foot; Plantar Fasciitis
 03/27/2026,UTA,Isaiah Collier,Out,Injury/Illness - Left Hamstring; Injury management
-03/27/2026,UTA,Kyle Filipowski,Probable,Injury/Illness - N/A; Illness
 03/27/2026,UTA,Keyonte George,Out,Injury/Illness - Right Hamstring; Strain
 03/27/2026,UTA,Blake Hinson,Out,G League - Two-Way
 03/27/2026,UTA,Jaren Jackson Jr.,Out,Injury/Illness - Left Knee; Injury recovery
@@ -9926,19 +9931,16 @@ Date,Team,Player,Status,Reason
 03/27/2026,POR,Robert Williams III,Questionable,Injury/Illness - Left Knee; Injury Management
 03/27/2026,POR,Hansen Yang,Out,G League - On Assignment
 03/27/2026,POR,Chris Youngblood,Out,G League - Two-Way
-03/27/2026,WAS,Bilal Coulibaly,Questionable,Injury/Illness - Right Retrocalcaneal; Bursitis
 03/27/2026,WAS,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 03/27/2026,WAS,Kyshawn George,Out,Injury/Illness - Left Elbow; Sprain
-03/27/2026,WAS,Tre Johnson,Questionable,Injury/Illness - Right Foot; Sprain
 03/27/2026,WAS,D'Angelo Russell,Out,Not With Team
-03/27/2026,WAS,Alex Sarr,Questionable,Injury/Illness - Left Big Toe; Capsulitis
-03/27/2026,WAS,Tristan Vukcevic,Questionable,Injury/Illness - Low Back; Tightness
 03/27/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 03/27/2026,WAS,Trae Young,Out,Injury/Illness - Low Back; Pain; Right Quad Contusion
 03/27/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Surgery
 03/27/2026,GSW,Seth Curry,Out,Injury/Illness - Left Adductor; Strain
 03/27/2026,GSW,Stephen Curry,Out,Injury/Illness - Right Patellofemoral; Pain Syndrome
 03/27/2026,GSW,Al Horford,Out,Injury/Illness - Right Soleus; Strain
+03/27/2026,GSW,De'Anthony Melton,Questionable,Injury/Illness - Left Knee; Injury Management
 03/27/2026,GSW,Moses Moody,Out,Injury/Illness - Left Patellar Tendon; Rupture
 03/27/2026,GSW,Quinten Post,Out,Injury/Illness - Right Foot; Injury Management
 03/27/2026,BRK,Noah Clowney,Probable,Injury/Illness - Right Wrist; Sprain
@@ -9946,7 +9948,5 @@ Date,Team,Player,Status,Reason
 03/27/2026,BRK,Michael Porter Jr.,Out,Injury/Illness - Left Hamstring; Strain
 03/27/2026,BRK,Day'Ron Sharpe,Out,Injury/Illness - Left Thumb; Surgery
 03/27/2026,BRK,Danny Wolf,Out,Injury/Illness - Left Ankle; Sprain
-03/27/2026,LAL,Luka Doncic,Questionable,Injury/Illness - Left Hamstring; Soreness
-03/27/2026,LAL,Rui Hachimura,Questionable,Injury/Illness - Right Calf; Injury Management
 03/27/2026,LAL,Marcus Smart,Out,Injury/Illness - Right Ankle; Contusion
 03/27/2026,LAL,Adou Thiero,Out,Injury/Illness - Left Knee; Soreness
