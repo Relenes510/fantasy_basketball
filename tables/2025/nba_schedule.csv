@@ -1091,9 +1091,9 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-25,10:00p,Brooklyn Nets,BRK,106.0,Golden State Warriors,GSW,109.0,0,Chase Center,0,0,0,0,1
 2026-03-25,10:00p,Milwaukee Bucks,MIL,99.0,Portland Trail Blazers,POR,130.0,0,Moda Center,0,0,0,0,1
 2026-03-25,10:30p,Toronto Raptors,TOR,94.0,Los Angeles Clippers,LAC,119.0,0,Intuit Dome,0,0,0,0,1
-2026-03-26,7:00p,New York Knicks,NYK,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-03-26,7:00p,New Orleans Pelicans,NOP,,Detroit Pistons,DET,,0,Little Caesars Arena,0,1,0,0,0
-2026-03-26,7:00p,Sacramento Kings,SAC,,Orlando Magic,ORL,,0,Kia Center,0,0,0,0,0
+2026-03-26,7:00p,New York Knicks,NYK,103.0,Charlotte Hornets,CHO,114.0,0,Spectrum Center,0,0,0,0,1
+2026-03-26,7:00p,New Orleans Pelicans,NOP,108.0,Detroit Pistons,DET,129.0,0,Little Caesars Arena,0,1,0,0,1
+2026-03-26,7:00p,Sacramento Kings,SAC,117.0,Orlando Magic,ORL,121.0,0,Kia Center,0,0,0,0,1
 2026-03-27,7:00p,Los Angeles Clippers,LAC,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-03-27,7:30p,Atlanta Hawks,ATL,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
 2026-03-27,7:30p,Miami Heat,MIA,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0

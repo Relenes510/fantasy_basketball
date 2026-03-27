@@ -32,6 +32,7 @@ BOS,Nikola Vucevic,C
 BOS,Jayson Tatum,PF
 BOS,Max Shulga,SG
 BOS,John Tonje,SG
+BOS,Charles Bassey,C
 BRK,Nic Claxton,C
 BRK,Noah Clowney,PF
 BRK,Day'Ron Sharpe,C
@@ -49,6 +50,7 @@ BRK,Tyson Etienne,PG
 BRK,Ochai Agbaji,SG
 BRK,Josh Minott,SF
 BRK,Chaney Johnson,SF
+BRK,Malachi Smith,SG
 CHO,Sion James,SG
 CHO,Kon Knueppel,SF
 CHO,Miles Bridges,PF
@@ -60,8 +62,8 @@ CHO,Josh Green,SG
 CHO,Tre Mann,PG
 CHO,Tidjane Salaun,PF
 CHO,Pat Connaughton,SG
-CHO,Liam McNeeley,SF
 CHO,Grant Williams,PF
+CHO,Liam McNeeley,SF
 CHO,Coby White,SG
 CHO,PJ Hall,C
 CHO,Xavier Tillman Sr.,C
@@ -147,8 +149,8 @@ DET,Jalen Duren,C
 DET,Daniss Jenkins,PG
 DET,Cade Cunningham,PG
 DET,Tobias Harris,PF
-DET,Isaiah Stewart,C
 DET,Paul Reed,C
+DET,Isaiah Stewart,C
 DET,Caris LeVert,SG
 DET,Marcus Sasser,PG
 DET,Chaz Lanier,SG
@@ -173,6 +175,7 @@ GSW,Malevy Leons,SF
 GSW,LJ Cryer,PG
 GSW,Nate Williams,SG
 GSW,Kristaps Porzingis,C
+GSW,Omer Yurtseven,C
 GSW,Seth Curry,SG
 HOU,Reed Sheppard,SG
 HOU,Amen Thompson,PG
@@ -446,15 +449,15 @@ POR,Damian Lillard,PG
 SAC,DeMar DeRozan,PF
 SAC,Nique Clifford,SG
 SAC,Maxime Raynaud,C
-SAC,Russell Westbrook,SF
 SAC,Precious Achiuwa,C
+SAC,Russell Westbrook,SF
 SAC,Malik Monk,SG
 SAC,Drew Eubanks,C
 SAC,Zach LaVine,SG
 SAC,Dylan Cardwell,C
 SAC,Devin Carter,PG
-SAC,Keegan Murray,PF
 SAC,Daeqwon Plowden,SG
+SAC,Keegan Murray,PF
 SAC,Doug McDermott,SF
 SAC,Domantas Sabonis,C
 SAC,Killian Hayes,PG
