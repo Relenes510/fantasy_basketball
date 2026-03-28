@@ -1094,16 +1094,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-26,7:00p,New York Knicks,NYK,103.0,Charlotte Hornets,CHO,114.0,0,Spectrum Center,0,0,0,0,1
 2026-03-26,7:00p,New Orleans Pelicans,NOP,108.0,Detroit Pistons,DET,129.0,0,Little Caesars Arena,0,1,0,0,1
 2026-03-26,7:00p,Sacramento Kings,SAC,117.0,Orlando Magic,ORL,121.0,0,Kia Center,0,0,0,0,1
-2026-03-27,7:00p,Los Angeles Clippers,LAC,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-03-27,7:30p,Atlanta Hawks,ATL,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-03-27,7:30p,Miami Heat,MIA,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-03-27,8:00p,Houston Rockets,HOU,,Memphis Grizzlies,MEM,,0,FedExForum,0,0,0,0,0
-2026-03-27,8:00p,Chicago Bulls,CHI,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,0,0
-2026-03-27,8:30p,New Orleans Pelicans,NOP,,Toronto Raptors,TOR,,0,Scotiabank Arena,1,0,0,0,0
-2026-03-27,9:00p,Utah Jazz,UTA,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-03-27,10:00p,Washington Wizards,WAS,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
-2026-03-27,10:00p,Dallas Mavericks,DAL,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,0,0
-2026-03-27,10:30p,Brooklyn Nets,BRK,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
+2026-03-27,7:00p,Los Angeles Clippers,LAC,114.0,Indiana Pacers,IND,113.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-03-27,7:30p,Atlanta Hawks,ATL,102.0,Boston Celtics,BOS,109.0,0,TD Garden,0,0,0,0,1
+2026-03-27,7:30p,Miami Heat,MIA,128.0,Cleveland Cavaliers,CLE,149.0,0,Rocket Arena,0,0,0,0,1
+2026-03-27,8:00p,Houston Rockets,HOU,119.0,Memphis Grizzlies,MEM,109.0,0,FedExForum,0,0,0,0,1
+2026-03-27,8:00p,Chicago Bulls,CHI,113.0,Oklahoma City Thunder,OKC,131.0,0,Paycom Center,0,0,0,0,1
+2026-03-27,8:30p,New Orleans Pelicans,NOP,106.0,Toronto Raptors,TOR,119.0,0,Scotiabank Arena,1,0,0,0,1
+2026-03-27,9:00p,Utah Jazz,UTA,129.0,Denver Nuggets,DEN,135.0,0,Ball Arena,0,0,0,0,1
+2026-03-27,10:00p,Washington Wizards,WAS,126.0,Golden State Warriors,GSW,131.0,0,Chase Center,0,0,0,0,1
+2026-03-27,10:00p,Dallas Mavericks,DAL,100.0,Portland Trail Blazers,POR,93.0,0,Moda Center,0,0,0,0,1
+2026-03-27,10:30p,Brooklyn Nets,BRK,99.0,Los Angeles Lakers,LAL,116.0,0,Crypto.com Arena,0,0,0,0,1
 2026-03-28,3:00p,San Antonio Spurs,SAS,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
 2026-03-28,5:30p,Detroit Pistons,DET,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
 2026-03-28,6:00p,Philadelphia 76ers,PHI,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
