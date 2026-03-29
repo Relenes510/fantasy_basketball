@@ -1104,12 +1104,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-27,10:00p,Washington Wizards,WAS,126.0,Golden State Warriors,GSW,131.0,0,Chase Center,0,0,0,0,1
 2026-03-27,10:00p,Dallas Mavericks,DAL,100.0,Portland Trail Blazers,POR,93.0,0,Moda Center,0,0,0,0,1
 2026-03-27,10:30p,Brooklyn Nets,BRK,99.0,Los Angeles Lakers,LAL,116.0,0,Crypto.com Arena,0,0,0,0,1
-2026-03-28,3:00p,San Antonio Spurs,SAS,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,0,0,0,0
-2026-03-28,5:30p,Detroit Pistons,DET,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,0,0
-2026-03-28,6:00p,Philadelphia 76ers,PHI,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
-2026-03-28,7:30p,Sacramento Kings,SAC,,Atlanta Hawks,ATL,,0,State Farm Arena,0,1,0,0,0
-2026-03-28,8:00p,Chicago Bulls,CHI,,Memphis Grizzlies,MEM,,0,FedExForum,1,1,0,0,0
-2026-03-28,10:00p,Utah Jazz,UTA,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,1,0,0,0,0
+2026-03-28,3:00p,San Antonio Spurs,SAS,127.0,Milwaukee Bucks,MIL,95.0,0,Fiserv Forum,0,0,0,0,1
+2026-03-28,5:30p,Detroit Pistons,DET,109.0,Minnesota Timberwolves,MIN,87.0,0,Target Center,0,0,0,0,1
+2026-03-28,6:00p,Philadelphia 76ers,PHI,118.0,Charlotte Hornets,CHO,114.0,0,Spectrum Center,0,0,0,0,1
+2026-03-28,7:30p,Sacramento Kings,SAC,113.0,Atlanta Hawks,ATL,123.0,0,State Farm Arena,0,1,0,0,1
+2026-03-28,8:00p,Chicago Bulls,CHI,124.0,Memphis Grizzlies,MEM,125.0,0,FedExForum,1,1,0,0,1
+2026-03-28,10:00p,Utah Jazz,UTA,109.0,Phoenix Suns,PHO,134.0,0,Mortgage Matchup Center,1,0,0,0,1
 2026-03-29,3:30p,Los Angeles Clippers,LAC,,Milwaukee Bucks,MIL,,0,Fiserv Forum,0,1,0,0,0
 2026-03-29,5:00p,Miami Heat,MIA,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
 2026-03-29,6:00p,Sacramento Kings,SAC,,Brooklyn Nets,BRK,,0,Barclays Center,1,0,0,0,0
