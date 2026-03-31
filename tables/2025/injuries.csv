@@ -10179,45 +10179,77 @@ Date,Team,Player,Status,Reason
 03/30/2026,LAL,Luka Doncic,Out,League Suspension
 03/30/2026,LAL,Marcus Smart,Out,Injury/Illness - Right Ankle; Contusion
 03/30/2026,LAL,Adou Thiero,Out,Injury/Illness - Left Knee; Injury Management
-03/31/2026,BRK,Danny Wolf,Out,Injury/Illness - Left Ankle; Sprain
-03/31/2026,CHO,Tidjane Salaun,Out,G League - On Assignment
-03/31/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
-03/31/2026,MIL,Ryan Rollins,Probable,Injury/Illness - Left Hip Flexor; Soreness
-03/31/2026,NYK,Landry Shamet,Out,Injury/Illness - Right Knee; Tibial Plateau Contusion
-03/31/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain Injury Management
-03/31/2026,POR,Chris Youngblood,Out,G League - Two-Way
-03/31/2026,TOR,Immanuel Quickley,Out,Injury/Illness - Right Foot; Plantar Fasciitis
-03/31/2026,BRK,Jalen Wilson,Probable,Injury/Illness - N/a; Illness
-03/31/2026,CHO,Liam McNeeley,Out,G League - On Assignment
-03/31/2026,HOU,Tristen Newton,Out,G League - Two-Way
-03/31/2026,MIL,Bobby Portis,Out,Injury/Illness - Left Wrist; Sprain
-03/31/2026,NYK,Miles McBride,Questionable,Injury/Illness - Pelvic; Core Muscle Surgery
-03/31/2026,ORL,Alex Morales,Out,G League - Two-Way
-03/31/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left Fibula; Stress Reaction
-03/31/2026,TOR,Collin Murray-Boyles,Questionable,Injury/Illness - Lower Back; Spasms
-03/31/2026,BRK,Day'Ron Sharpe,Out,Injury/Illness - Left Thumb; Surgery
-03/31/2026,CHO,PJ Hall,Out,G League - Two-Way
-03/31/2026,HOU,Isaiah Crawford,Out,G League - Two-Way
-03/31/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Right Knee; Synovitis
-03/31/2026,NYK,Dillon Jones,Questionable,G League - Two-Way
-03/31/2026,ORL,Jonathan Isaac,Out,Injury/Illness - Left Knee; Sprain
-03/31/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
-03/31/2026,TOR,Trayce Jackson-Davis,Out,G League - On Assignment
-03/31/2026,BRK,Michael Porter Jr.,Out,Injury/Illness - Left Hamstring; Strain
-03/31/2026,CHO,Tosan Evbuomwan,Out,G League - Two-Way
-03/31/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
-03/31/2026,MIL,Kyle Kuzma,Probable,Injury/Illness - Right Achilles; Tendonopathy
-03/31/2026,NYK,Ariel Hukporti,Questionable,G League - On Assignment
-03/31/2026,ORL,Colin Castleton,Out,G League - Two-Way
-03/31/2026,POR,Vit Krejci,Out,Injury/Illness - Left Calf; Contusion
-03/31/2026,TOR,Brandon Ingram,Questionable,Injury/Illness - Right Heel; Inflammation
-03/31/2026,BRK,Terance Mann,Out,Injury/Illness - Left Achilles; Soreness
-03/31/2026,MIL,Gary Harris,Questionable,Personal Reasons
+03/31/2026,PHO,Amir Coffey,Out,Injury/Illness - Left Ankle; Sprain
+03/31/2026,PHO,Haywood Highsmith,Out,Injury/Illness - Right Knee; Injury Management
+03/31/2026,PHO,Mark Williams,Out,Injury/Illness - Left Foot Third Metatarsal; Stress Reaction
 03/31/2026,ORL,Anthony Black,Out,Injury/Illness - Left Lateral Abdominal; Strain
-03/31/2026,POR,Jerami Grant,Out,Injury/Illness - Right Calf; Strain
-03/31/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
+03/31/2026,ORL,Colin Castleton,Out,G League - Two-Way
+03/31/2026,ORL,Jonathan Isaac,Out,Injury/Illness - Left Knee; Sprain
+03/31/2026,ORL,Alex Morales,Out,G League - Two-Way
+03/31/2026,ORL,Franz Wagner,Out,Injury/Illness - Left High Ankle; Sprain Injury Management
+03/31/2026,CHO,Tosan Evbuomwan,Out,G League - Two-Way
+03/31/2026,CHO,PJ Hall,Out,G League - Two-Way
+03/31/2026,CHO,Liam McNeeley,Out,G League - On Assignment
+03/31/2026,CHO,Tidjane Salaun,Out,G League - On Assignment
 03/31/2026,BRK,Egor Demin,Out,Injury/Illness - Left Plantar Fascia; Injury Management
-03/31/2026,MIL,Thanasis Antetokounmpo,Out,Injury/Illness - Left Calf; Strain
-03/31/2026,TOR,Jamison Battle,Out,Not With Team
+03/31/2026,BRK,Terance Mann,Out,Injury/Illness - Left Achilles; Soreness
+03/31/2026,BRK,Michael Porter Jr.,Out,Injury/Illness - Left Hamstring; Strain
+03/31/2026,BRK,Day'Ron Sharpe,Out,Injury/Illness - Left Thumb; Surgery
+03/31/2026,BRK,Danny Wolf,Out,Injury/Illness - Left Ankle; Sprain
+03/31/2026,DAL,Marvin Bagley III,Out,Injury/Illness - Left Shoulder; Impingement
+03/31/2026,DAL,Moussa Cisse,Questionable,G League - Two-Way
+03/31/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
+03/31/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
+03/31/2026,DAL,Naji Marshall,Out,Injury/Illness - Illness; Illness
+03/31/2026,DAL,Caleb Martin,Out,Injury/Illness - Right Plantar Fascia; Strain
+03/31/2026,DAL,John Poulakidas,Probable,G League - Two-Way
+03/31/2026,DAL,Tyler Smith,Probable,G League - Two-Way
+03/31/2026,DAL,Klay Thompson,Doubtful,Rest
+03/31/2026,DAL,P.J. Washington,Out,Injury/Illness - Illness; Illness
 03/31/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Left Knee; Hyperextension; Bone Bruise
-03/31/2026,TOR,RJ Barrett,Probable,Injury/Illness - Left Shoulder; Stiffness
+03/31/2026,MIL,Thanasis Antetokounmpo,Out,Injury/Illness - Left Calf; Strain
+03/31/2026,MIL,Gary Harris,Questionable,Personal Reasons
+03/31/2026,MIL,Kyle Kuzma,Probable,Injury/Illness - Right Achilles; Tendonopathy
+03/31/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Right Knee; Synovitis
+03/31/2026,MIL,Bobby Portis,Out,Injury/Illness - Left Wrist; Sprain
+03/31/2026,MIL,Ryan Rollins,Probable,Injury/Illness - Left Hip Flexor; Soreness
+03/31/2026,NYK,Ariel Hukporti,Questionable,G League - On Assignment
+03/31/2026,NYK,Dillon Jones,Questionable,G League - Two-Way
+03/31/2026,NYK,Miles McBride,Questionable,Injury/Illness - Pelvic; Core Muscle Surgery
+03/31/2026,NYK,Landry Shamet,Out,Injury/Illness - Right Knee; Tibial Plateau Contusion
+03/31/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
+03/31/2026,HOU,Isaiah Crawford,Out,G League - Two-Way
+03/31/2026,HOU,Tristen Newton,Out,G League - Two-Way
+03/31/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
+03/31/2026,TOR,Jamison Battle,Out,Injury/Illness - Illness; Illness
+03/31/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
+03/31/2026,TOR,Brandon Ingram,Questionable,Injury/Illness - Right Heel; Inflammation
+03/31/2026,TOR,Trayce Jackson-Davis,Out,G League - On Assignment
+03/31/2026,TOR,Alijah Martin,Out,G League - Two-Way
+03/31/2026,TOR,Jonathan Mogbo,Out,G League - On Assignment
+03/31/2026,TOR,Collin Murray-Boyles,Questionable,Injury/Illness - Lower Back; Spasms
+03/31/2026,TOR,Immanuel Quickley,Out,Injury/Illness - Right Foot; Plantar Fasciitis
+03/31/2026,DET,Cade Cunningham,Out,Injury/Illness - Left Lung; Pneumothorax
+03/31/2026,DET,Jalen Duren,Probable,Injury/Illness - Right Knee; Injury Management
+03/31/2026,DET,Tobias Harris,Probable,Injury/Illness - Left Hip; Injury Management
+03/31/2026,DET,Isaac Jones,Out,G League - Two-Way
+03/31/2026,DET,Bobi Klintman,Out,G League - On Assignment
+03/31/2026,DET,Chaz Lanier,Out,G League - On Assignment
+03/31/2026,DET,Caris LeVert,Questionable,Injury/Illness - Right Knee; Patellar Tendinopathy
+03/31/2026,DET,Wendell Moore Jr.,Out,G League - Two-Way
+03/31/2026,DET,Duncan Robinson,Probable,Injury/Illness - Right Hip; Injury Management
+03/31/2026,DET,Marcus Sasser,Questionable,Injury/Illness - Right Hip; Strain
+03/31/2026,DET,Isaiah Stewart,Out,Injury/Illness - Left Calf; Strain
+03/31/2026,CLE,Tristan Enaruna,Out,G League - Two-Way
+03/31/2026,CLE,Sam Merrill,Out,Injury/Illness - Left Hamstring; Injury Management
+03/31/2026,CLE,Riley Minix,Out,G League - Two-Way
+03/31/2026,CLE,Olivier Sarr,Out,G League - Two-Way
+03/31/2026,CLE,Jaylon Tyson,Out,Injury/Illness - Left Great Toe; Bone Bruise
+03/31/2026,CLE,Dean Wade,Out,Injury/Illness - Right Ankle; Sprain
+03/31/2026,LAL,LeBron James,Questionable,Injury/Illness - Left Foot; Injury Management
+03/31/2026,LAL,Marcus Smart,Out,Injury/Illness - Right Ankle; Contusion
+03/31/2026,POR,Jerami Grant,Out,Injury/Illness - Right Calf; Strain
+03/31/2026,POR,Vit Krejci,Out,Injury/Illness - Left Calf; Contusion
+03/31/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
+03/31/2026,POR,Shaedon Sharpe,Out,Injury/Illness - Left Fibula; Stress Reaction
+03/31/2026,POR,Chris Youngblood,Out,G League - Two-Way
