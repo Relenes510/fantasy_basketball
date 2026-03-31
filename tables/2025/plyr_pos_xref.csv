@@ -73,13 +73,13 @@ CHI,Matas Buzelis,PF
 CHI,Patrick Williams,PF
 CHI,Isaac Okoro,SG
 CHI,Tre Jones,PG
-CHI,Jalen Smith,C
 CHI,Josh Giddey,PG
+CHI,Jalen Smith,C
 CHI,Lachlan Olbrich,C
 CHI,Rob Dillingham,PG
 CHI,Guerschon Yabusele,C
-CHI,Nick Richards,C
 CHI,Leonard Miller,SF
+CHI,Nick Richards,C
 CHI,Collin Sexton,SG
 CHI,Yuki Kawamura,PG
 CHI,Zach Collins,C
@@ -92,8 +92,8 @@ CLE,Jaylon Tyson,SG
 CLE,Evan Mobley,PF
 CLE,Nae'Qwan Tomlin,PF
 CLE,Craig Porter Jr.,PG
-CLE,Dean Wade,PF
 CLE,Thomas Bryant,C
+CLE,Dean Wade,PF
 CLE,Jarrett Allen,C
 CLE,Sam Merrill,SG
 CLE,Tyrese Proctor,PG
@@ -111,8 +111,8 @@ DAL,Klay Thompson,SF
 DAL,Cooper Flagg,SF
 DAL,Brandon Williams,PG
 DAL,Caleb Martin,SF
-DAL,P.J. Washington,PF
 DAL,Dwight Powell,C
+DAL,P.J. Washington,PF
 DAL,Ryan Nembhard,PG
 DAL,Daniel Gafford,C
 DAL,Moussa Cisse,C
@@ -145,18 +145,18 @@ DET,Javonte Green,SG
 DET,Duncan Robinson,SF
 DET,Ron Holland,SF
 DET,Ausar Thompson,SF
-DET,Jalen Duren,C
 DET,Daniss Jenkins,PG
+DET,Jalen Duren,C
 DET,Cade Cunningham,PG
-DET,Tobias Harris,PF
 DET,Paul Reed,C
+DET,Tobias Harris,PF
 DET,Isaiah Stewart,C
 DET,Caris LeVert,SG
 DET,Marcus Sasser,PG
 DET,Chaz Lanier,SG
 DET,Kevin Huerter,SG
-DET,Bobi Klintman,SF
 DET,Tolu Smith,PF
+DET,Bobi Klintman,SF
 DET,Wendell Moore Jr.,SG
 DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
@@ -232,8 +232,8 @@ LAC,Sean Pedulla,PG
 LAC,Norchad Omier,PF
 LAL,Jake LaRavia,PF
 LAL,Deandre Ayton,C
-LAL,Luka Doncic,PG
 LAL,Jaxson Hayes,C
+LAL,Luka Doncic,PG
 LAL,Rui Hachimura,PF
 LAL,Marcus Smart,SG
 LAL,Jarred Vanderbilt,PF
@@ -242,14 +242,14 @@ LAL,Austin Reaves,SG
 LAL,Dalton Knecht,SF
 LAL,Maxi Kleber,PF
 LAL,Bronny James,SG
-LAL,Nick Smith Jr.,SG
 LAL,Luke Kennard,SG
+LAL,Nick Smith Jr.,SG
 LAL,Drew Timme,PF
 LAL,Adou Thiero,SF
 LAL,Kobe Bufkin,SG
 LAL,Chris Manon,SG
-MEM,Jaylen Wells,SG
 MEM,Cam Spencer,SG
+MEM,Jaylen Wells,SG
 MEM,Cedric Coward,SG
 MEM,GG Jackson II,PF
 MEM,Kentavious Caldwell-Pope,SG
@@ -263,8 +263,8 @@ MEM,Walter Clayton,PG
 MEM,Ty Jerome,SG
 MEM,Rayan Rupert,SG
 MEM,Zach Edey,C
-MEM,Scotty Pippen Jr.,PG
 MEM,Tyler Burton,SF
+MEM,Scotty Pippen Jr.,PG
 MEM,DeJon Jarreau,SG
 MEM,Taj Gibson,C
 MEM,Brandon Clarke,PF
@@ -305,9 +305,9 @@ MIL,Cormac Ryan,SG
 MIL,Alex Antetokounmpo,SF
 MIN,Julius Randle,PF
 MIN,Donte DiVincenzo,SG
-MIN,Jaden McDaniels,PF
 MIN,Naz Reid,C
 MIN,Rudy Gobert,C
+MIN,Jaden McDaniels,PF
 MIN,Bones Hyland,PG
 MIN,Jaylen Clark,SG
 MIN,Anthony Edwards,SG
