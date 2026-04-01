@@ -37,8 +37,8 @@ BRK,Nic Claxton,C
 BRK,Noah Clowney,PF
 BRK,Day'Ron Sharpe,C
 BRK,Terance Mann,SG
-BRK,Danny Wolf,PF
 BRK,Drake Powell,SG
+BRK,Danny Wolf,PF
 BRK,Ziaire Williams,SF
 BRK,Michael Porter Jr.,SF
 BRK,Egor Dmin,PG
@@ -60,13 +60,13 @@ CHO,Ryan Kalkbrenner,C
 CHO,Brandon Miller,SF
 CHO,Josh Green,SG
 CHO,Tre Mann,PG
-CHO,Tidjane Salaun,PF
 CHO,Pat Connaughton,SG
+CHO,Tidjane Salaun,PF
 CHO,Grant Williams,PF
 CHO,Liam McNeeley,SF
 CHO,Coby White,SG
-CHO,PJ Hall,C
 CHO,Xavier Tillman Sr.,C
+CHO,PJ Hall,C
 CHO,Antonio Reeves,SG
 CHO,Tosan Evbuomwan,SF
 CHI,Matas Buzelis,PF
@@ -84,7 +84,6 @@ CHI,Collin Sexton,SG
 CHI,Yuki Kawamura,PG
 CHI,Zach Collins,C
 CHI,Anfernee Simons,SG
-CHI,Jaden Ivey,SG
 CHI,Noa Essengue,PF
 CHI,Mac McClung,SG
 CLE,Donovan Mitchell,SG
@@ -119,8 +118,8 @@ DAL,Moussa Cisse,C
 DAL,Khris Middleton,SF
 DAL,Marvin Bagley III,PF
 DAL,AJ Johnson,SG
-DAL,Dereck Lively II,C
 DAL,John Poulakidas,SG
+DAL,Dereck Lively II,C
 DAL,Tyler Smith,PF
 DAL,Kyrie Irving,SG
 DEN,Bruce Brown,SG
@@ -267,6 +266,7 @@ MEM,Tyler Burton,SF
 MEM,Scotty Pippen Jr.,PG
 MEM,DeJon Jarreau,SG
 MEM,Taj Gibson,C
+MEM,Adama-Alpha Bal,G
 MEM,Brandon Clarke,PF
 MIA,Kel'el Ware,C
 MIA,Jaime Jaquez Jr.,SF
@@ -288,8 +288,8 @@ MIA,Trevor Keels,SG
 MIA,Terry Rozier,PG
 MIL,Ryan Rollins,PG
 MIL,A.J. Green,SG
-MIL,Bobby Portis,PF
 MIL,Myles Turner,C
+MIL,Bobby Portis,PF
 MIL,Kyle Kuzma,PF
 MIL,Gary Trent Jr.,SG
 MIL,Jericho Sims,C
@@ -462,6 +462,7 @@ SAC,Doug McDermott,SF
 SAC,Domantas Sabonis,C
 SAC,Killian Hayes,PG
 SAC,Patrick Baldwin Jr.,SF
+SAC,DaQuan Jeffries,SG
 SAC,Isaiah Stevens,PG
 SAC,De'Andre Hunter,SF
 SAS,Keldon Johnson,SF
@@ -515,7 +516,6 @@ UTA,Oscar Tshiebwe,C
 UTA,John Konchar,SG
 UTA,Blake Hinson,SF
 UTA,Bez Mbeng,SG
-UTA,Kennedy Chandler,PG
 UTA,Walker Kessler,C
 UTA,Jaren Jackson Jr.,C
 WAS,Bub Carrington,PG
@@ -531,6 +531,7 @@ WAS,Jamir Watkins,SG
 WAS,Sharife Cooper,PG
 WAS,Cam Whitmore,SF
 WAS,Jaden Hardy,SG
+WAS,Leaky Black,SF
 WAS,Julian Reese,PF
 WAS,Trae Young,PG
 WAS,D'Angelo Russell,PG

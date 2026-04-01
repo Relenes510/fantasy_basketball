@@ -1127,13 +1127,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-03-30,9:00p,Cleveland Cavaliers,CLE,122.0,Utah Jazz,UTA,113.0,0,Delta Center,0,0,0,0,1
 2026-03-30,9:30p,Detroit Pistons,DET,110.0,Oklahoma City Thunder,OKC,114.0,1,Paycom Center,0,1,0,0,1
 2026-03-30,10:00p,Washington Wizards,WAS,101.0,Los Angeles Lakers,LAL,120.0,0,Crypto.com Arena,1,0,0,0,1
-2026-03-31,7:00p,Phoenix Suns,PHO,,Orlando Magic,ORL,,0,Kia Center,1,0,0,0,0
-2026-03-31,7:30p,Charlotte Hornets,CHO,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-03-31,8:00p,Toronto Raptors,TOR,,Detroit Pistons,DET,,0,Little Caesars Arena,0,1,0,0,0
-2026-03-31,8:00p,New York Knicks,NYK,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
-2026-03-31,8:00p,Dallas Mavericks,DAL,,Milwaukee Bucks,MIL,,0,Fiserv Forum,1,0,0,0,0
-2026-03-31,10:30p,Cleveland Cavaliers,CLE,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,1,1,0,0,0
-2026-03-31,11:00p,Portland Trail Blazers,POR,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
+2026-03-31,7:00p,Phoenix Suns,PHO,111.0,Orlando Magic,ORL,115.0,0,Kia Center,1,0,0,0,1
+2026-03-31,7:30p,Charlotte Hornets,CHO,117.0,Brooklyn Nets,BRK,86.0,0,Barclays Center,0,0,0,0,1
+2026-03-31,8:00p,Toronto Raptors,TOR,116.0,Detroit Pistons,DET,127.0,0,Little Caesars Arena,0,1,0,0,1
+2026-03-31,8:00p,New York Knicks,NYK,94.0,Houston Rockets,HOU,111.0,0,Toyota Center,0,0,0,0,1
+2026-03-31,8:00p,Dallas Mavericks,DAL,99.0,Milwaukee Bucks,MIL,123.0,0,Fiserv Forum,1,0,0,0,1
+2026-03-31,10:30p,Cleveland Cavaliers,CLE,113.0,Los Angeles Lakers,LAL,127.0,0,Crypto.com Arena,1,1,0,0,1
+2026-03-31,11:00p,Portland Trail Blazers,POR,114.0,Los Angeles Clippers,LAC,104.0,0,Intuit Dome,0,0,0,0,1
 2026-04-01,7:00p,Atlanta Hawks,ATL,,Orlando Magic,ORL,,0,Kia Center,0,1,0,0,0
 2026-04-01,7:00p,Philadelphia 76ers,PHI,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
 2026-04-01,7:30p,Boston Celtics,BOS,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
