@@ -10241,26 +10241,28 @@ Date,Team,Player,Status,Reason
 04/01/2026,ATL,RayJ Dennis,Questionable,G League - Two-Way
 04/01/2026,ATL,Keshon Gilbert,Questionable,G League - Two-Way
 04/01/2026,ATL,Jock Landale,Questionable,Injury/Illness - N/A; Illness
+04/01/2026,ORL,Anthony Black,Out,Injury/Illness - Left Lateral Abdominal; Strain
+04/01/2026,ORL,Colin Castleton,Out,G League - Two-Way
+04/01/2026,ORL,Jonathan Isaac,Out,Injury/Illness - Left Knee; Sprain
+04/01/2026,ORL,Alex Morales,Out,G League - Two-Way
+04/01/2026,ORL,Franz Wagner,Questionable,Injury/Illness - Left High Ankle; Sprain Injury Management
 04/01/2026,PHI,Johni Broome,Out,Injury/Illness - Right Knee; Surgery Recovery
 04/01/2026,PHI,Joel Embiid,Out,Injury/Illness - N/a; Illness
 04/01/2026,WAS,Leaky Black,Questionable,G League - Two-Way
-04/01/2026,WAS,Bilal Coulibaly,Questionable,Injury/Illness - Right Retrocalcaneal; Bursitis
 04/01/2026,WAS,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 04/01/2026,WAS,Kyshawn George,Out,Injury/Illness - Left Elbow; Sprain
-04/01/2026,WAS,Tre Johnson,Questionable,Injury/Illness - Right Foot; Sprain
 04/01/2026,WAS,Julian Reese,Out,G League - Two-Way
 04/01/2026,WAS,D'Angelo Russell,Out,Not With Team
-04/01/2026,WAS,Alex Sarr,Questionable,Injury/Illness - Left Big Toe; Capsulitis
+04/01/2026,WAS,Alex Sarr,Out,Injury/Illness - Left Big Toe; Capsulitis
 04/01/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 04/01/2026,WAS,Trae Young,Out,Injury/Illness - Low Back; Pain; Right Quad Contusion
-04/01/2026,BOS,Ron Harper Jr.,Questionable,Injury/Illness - Right Ankle; Sprain
 04/01/2026,BOS,Max Shulga,Questionable,G League - On Assignment
 04/01/2026,BOS,John Tonje,Questionable,G League - Two-Way
 04/01/2026,BOS,Nikola Vucevic,Out,Injury/Illness - Right Ring Finger; Fracture
 04/01/2026,BOS,Amari Williams,Questionable,G League - On Assignment
 04/01/2026,MIA,Norman Powell,Out,Injury/Illness - Upper Respiratory; Illness
 04/01/2026,MIA,Terry Rozier,Out,Not With Team
-04/01/2026,MIA,Andrew Wiggins,Questionable,Injury/Illness - Left Big Toe; Sesamoiditis
+04/01/2026,MIA,Andrew Wiggins,Probable,Injury/Illness - Left Big Toe; Sesamoiditis
 04/01/2026,IND,Johnny Furphy,Out,Injury/Illness - Right Knee; ACL Tear
 04/01/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
 04/01/2026,IND,T.J. McConnell,Out,Injury/Illness - Right Hamstring; Soreness
@@ -10278,6 +10280,22 @@ Date,Team,Player,Status,Reason
 04/01/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 04/01/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
 04/01/2026,CHI,Guerschon Yabusele,Questionable,Injury/Illness - Left Ankle; Sprain
+04/01/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Left Knee; Hyperextension; Bone Bruise
+04/01/2026,MIL,Thanasis Antetokounmpo,Out,Injury/Illness - Left Calf; Strain
+04/01/2026,MIL,Gary Harris,Out,Personal Reasons
+04/01/2026,MIL,Kyle Kuzma,Out,Injury/Illness - Right Achilles; Tendonopathy
+04/01/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Right Knee; Synovitis
+04/01/2026,MIL,Bobby Portis,Out,Injury/Illness - Left Wrist; Sprain
+04/01/2026,MIL,Taurean Prince,Out,Injury/Illness - Neck; Surgery; Injury Management
+04/01/2026,MIL,Ryan Rollins,Questionable,Injury/Illness - Right Hip; Strain
+04/01/2026,MIL,Myles Turner,Out,Injury/Illness - Left Ankle; Sprain
+04/01/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
+04/01/2026,HOU,Isaiah Crawford,Out,G League - Two-Way
+04/01/2026,HOU,Tristen Newton,Out,G League - Two-Way
+04/01/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
+04/01/2026,NYK,Jalen Brunson,Questionable,Injury/Illness - Right Ankle; Soreness
+04/01/2026,NYK,Miles McBride,Out,Injury/Illness - Pelvic; Core Muscle Injury Management
+04/01/2026,NYK,Mitchell Robinson,Out,Injury/Illness - Left Ankle; Left Ankle Injury Management
 04/01/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Surgery Recovery
 04/01/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
 04/01/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
@@ -10288,6 +10306,7 @@ Date,Team,Player,Status,Reason
 04/01/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
 04/01/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Right Great Toe; Surgery Recovery
 04/01/2026,MEM,Jaylen Wells,Out,Injury/Illness - Right Great Toe; Surgery Recovery
+04/01/2026,SAC,Patrick Baldwin Jr.,Out,G League - Two-Way
 04/01/2026,SAC,Drew Eubanks,Out,Injury/Illness - Left Thumb; UCL Repair
 04/01/2026,SAC,De'Andre Hunter,Out,Injury/Illness - Left Eye; Retinal Repair
 04/01/2026,SAC,DaQuan Jeffries,Out,G League - On Assignment
@@ -10296,12 +10315,18 @@ Date,Team,Player,Status,Reason
 04/01/2026,SAC,Domantas Sabonis,Out,Injury/Illness - Left Knee; Meniscus Repair
 04/01/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
 04/01/2026,SAC,Russell Westbrook,Out,Injury/Illness - Right Toe; Injury Management
+04/01/2026,TOR,Scottie Barnes,Questionable,Injury/Illness - Left Shoulder; Contusion
+04/01/2026,TOR,Jamison Battle,Out,Injury/Illness - Illness; Illness
+04/01/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
+04/01/2026,TOR,Brandon Ingram,Out,Injury/Illness - Right Foot; Heel - inflammation - injury management
+04/01/2026,TOR,Immanuel Quickley,Out,Injury/Illness - Right Foot; Plantar fasciitis
+04/01/2026,TOR,Garrett Temple,Questionable,Injury/Illness - Left Shoulder; Soreness
 04/01/2026,DEN,Aaron Gordon,Probable,Injury/Illness - Left Calf; Tightness
 04/01/2026,DEN,Spencer Jones,Out,Injury/Illness - Right Hamstring; Strain
 04/01/2026,DEN,Zeke Nnaji,Out,Injury/Illness - Left Hip; Sprain
 04/01/2026,UTA,Isaiah Collier,Out,Injury/Illness - Left Hamstring; Strain
 04/01/2026,UTA,Keyonte George,Out,Injury/Illness - Right Hamstring; Strain
-04/01/2026,UTA,Elijah Harkless,Questionable,Injury/Illness - Left Hamstring; Soreness
+04/01/2026,UTA,Elijah Harkless,Out,Injury/Illness - Left Hamstring; Soreness
 04/01/2026,UTA,Blake Hinson,Out,G League - Two-Way
 04/01/2026,UTA,Jaren Jackson Jr.,Out,Injury/Illness - Left Knee; Injury recovery
 04/01/2026,UTA,Walker Kessler,Out,Injury/Illness - Left Shoulder; Injury recovery

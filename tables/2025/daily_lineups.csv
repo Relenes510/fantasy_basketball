@@ -11329,6 +11329,16 @@ Date,Team,Player,Pos
 03/31/2026,BRK,Ziaire Williams,SF
 03/31/2026,BRK,Noah Clowney,PF
 03/31/2026,BRK,Nicolas Claxton,C
+03/31/2026,NYK,Jalen Brunson,PG
+03/31/2026,NYK,Josh Hart,SF
+03/31/2026,NYK,OG Anunoby,SF
+03/31/2026,NYK,Mikal Bridges,SF
+03/31/2026,NYK,Karl-Anthony Towns,PF
+03/31/2026,HOU,Amen Thompson,SG
+03/31/2026,HOU,Tari Eason,SF
+03/31/2026,HOU,Kevin Durant,PF
+03/31/2026,HOU,Jabari Smith Jr.,PF
+03/31/2026,HOU,Alperen Sengun,C
 03/31/2026,DAL,Ryan Nembhard,PG
 03/31/2026,DAL,Max Christie,SG
 03/31/2026,DAL,Khris Middleton,SF
@@ -11339,16 +11349,6 @@ Date,Team,Player,Pos
 03/31/2026,MIL,Kyle Kuzma,PF
 03/31/2026,MIL,Jericho Sims,C
 03/31/2026,MIL,Myles Turner,C
-03/31/2026,NYK,Jalen Brunson,PG
-03/31/2026,NYK,OG Anunoby,SF
-03/31/2026,NYK,Mikal Bridges,SF
-03/31/2026,NYK,Josh Hart,SF
-03/31/2026,NYK,Karl-Anthony Towns,PF
-03/31/2026,HOU,Amen Thompson,SG
-03/31/2026,HOU,Tari Eason,SF
-03/31/2026,HOU,Kevin Durant,PF
-03/31/2026,HOU,Jabari Smith Jr.,PF
-03/31/2026,HOU,Alperen Sengun,C
 03/31/2026,TOR,Ja'Kobe Walter,SG
 03/31/2026,TOR,RJ Barrett,SG
 03/31/2026,TOR,Scottie Barnes,SF
@@ -11379,14 +11379,14 @@ Date,Team,Player,Pos
 03/31/2026,LAC,Kawhi Leonard,SF
 03/31/2026,LAC,John Collins,PF
 03/31/2026,LAC,Brook Lopez,C
-04/01/2026,ATL,CJ McCollum,PG
 04/01/2026,ATL,Dyson Daniels,PG
+04/01/2026,ATL,CJ McCollum,PG
 04/01/2026,ATL,Nickeil Alexander-Walker,SG
 04/01/2026,ATL,Jalen Johnson,PF
 04/01/2026,ATL,Onyeka Okongwu,C
-04/01/2026,ORL,Jett Howard,SG
 04/01/2026,ORL,Jalen Suggs,SG
 04/01/2026,ORL,Desmond Bane,SG
+04/01/2026,ORL,Franz Wagner,SF
 04/01/2026,ORL,Paolo Banchero,PF
 04/01/2026,ORL,Wendell Carter Jr.,C
 04/01/2026,PHI,Tyrese Maxey,PG
@@ -11398,11 +11398,11 @@ Date,Team,Player,Pos
 04/01/2026,WAS,Bilal Coulibaly,SG
 04/01/2026,WAS,Tre Johnson,SG
 04/01/2026,WAS,Will Riley,SF
-04/01/2026,WAS,Alexandre Sarr,PF
+04/01/2026,WAS,Tristan Vukcevic,PF
 04/01/2026,BOS,Derrick White,SG
 04/01/2026,BOS,Jaylen Brown,SG
-04/01/2026,BOS,Jayson Tatum,SF
 04/01/2026,BOS,Sam Hauser,SF
+04/01/2026,BOS,Jayson Tatum,SF
 04/01/2026,BOS,Neemias Queta,C
 04/01/2026,MIA,Davion Mitchell,PG
 04/01/2026,MIA,Tyler Herro,SG
@@ -11434,16 +11434,16 @@ Date,Team,Player,Pos
 04/01/2026,SAC,DeMar DeRozan,SF
 04/01/2026,SAC,Precious Achiuwa,PF
 04/01/2026,SAC,Maxime Raynaud,C
-04/01/2026,TOR,Immanuel Quickley,PG
+04/01/2026,TOR,Jamal Shead,PG
+04/01/2026,TOR,Ja'Kobe Walter,SG
 04/01/2026,TOR,RJ Barrett,SG
 04/01/2026,TOR,Scottie Barnes,SF
-04/01/2026,TOR,Brandon Ingram,SF
 04/01/2026,TOR,Jakob Poeltl,C
-04/01/2026,MIL,Ryan Rollins,SG
 04/01/2026,MIL,AJ Green,SG
-04/01/2026,MIL,Taurean Prince,SF
-04/01/2026,MIL,Kyle Kuzma,PF
-04/01/2026,MIL,Myles Turner,C
+04/01/2026,MIL,Ryan Rollins,SG
+04/01/2026,MIL,Ousmane Dieng,SF
+04/01/2026,MIL,Pete Nance,PF
+04/01/2026,MIL,Jericho Sims,C
 04/01/2026,HOU,Amen Thompson,SG
 04/01/2026,HOU,Tari Eason,SF
 04/01/2026,HOU,Jabari Smith Jr.,PF
@@ -11454,7 +11454,7 @@ Date,Team,Player,Pos
 04/01/2026,DEN,Aaron Gordon,PF
 04/01/2026,DEN,Cameron Johnson,PF
 04/01/2026,DEN,Nikola Jokic,C
-04/01/2026,UTA,Elijah Harkless,PG
+04/01/2026,UTA,Bez Mbeng,PG
 04/01/2026,UTA,Ace Bailey,SF
 04/01/2026,UTA,Cody Williams,SF
 04/01/2026,UTA,Brice Sensabaugh,SF
@@ -11465,7 +11465,7 @@ Date,Team,Player,Pos
 04/01/2026,SAS,Julian Champagnie,SF
 04/01/2026,SAS,Victor Wembanyama,PF
 04/01/2026,GSW,Gary Payton II,PG
-04/01/2026,GSW,Pat Spencer,SG
 04/01/2026,GSW,Brandin Podziemski,SG
+04/01/2026,GSW,Pat Spencer,SG
 04/01/2026,GSW,Gui Santos,SF
 04/01/2026,GSW,Draymond Green,PF
