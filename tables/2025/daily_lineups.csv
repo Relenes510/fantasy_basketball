@@ -11401,16 +11401,16 @@ Date,Team,Player,Pos
 04/01/2026,WAS,Tristan Vukcevic,PF
 04/01/2026,BOS,Derrick White,SG
 04/01/2026,BOS,Jaylen Brown,SG
-04/01/2026,BOS,Sam Hauser,SF
 04/01/2026,BOS,Jayson Tatum,SF
+04/01/2026,BOS,Sam Hauser,SF
 04/01/2026,BOS,Neemias Queta,C
 04/01/2026,MIA,Davion Mitchell,PG
 04/01/2026,MIA,Pelle Larsson,SG
 04/01/2026,MIA,Tyler Herro,SG
 04/01/2026,MIA,Andrew Wiggins,SF
 04/01/2026,MIA,Bam Adebayo,C
-04/01/2026,IND,Ethan Thompson,SG
 04/01/2026,IND,Quenton Jackson,SG
+04/01/2026,IND,Ethan Thompson,SG
 04/01/2026,IND,Pascal Siakam,PF
 04/01/2026,IND,Kobe Brown,PF
 04/01/2026,IND,Jay Huff,C
@@ -11421,11 +11421,11 @@ Date,Team,Player,Pos
 04/01/2026,CHI,Guerschon Yabusele,PF
 04/01/2026,NYK,Jose Alvarado,PG
 04/01/2026,NYK,OG Anunoby,SF
-04/01/2026,NYK,Mikal Bridges,SF
 04/01/2026,NYK,Josh Hart,SF
+04/01/2026,NYK,Mikal Bridges,SF
 04/01/2026,NYK,Karl-Anthony Towns,PF
-04/01/2026,MEM,Javon Small,SG
 04/01/2026,MEM,Cam Spencer,SG
+04/01/2026,MEM,Javon Small,SG
 04/01/2026,MEM,Cedric Coward,SG
 04/01/2026,MEM,GG Jackson II,PF
 04/01/2026,MEM,Olivier-Maxence Prosper,PF
@@ -11435,8 +11435,8 @@ Date,Team,Player,Pos
 04/01/2026,SAC,Precious Achiuwa,PF
 04/01/2026,SAC,Maxime Raynaud,C
 04/01/2026,TOR,Jamal Shead,PG
-04/01/2026,TOR,Ja'Kobe Walter,SG
 04/01/2026,TOR,RJ Barrett,SG
+04/01/2026,TOR,Ja'Kobe Walter,SG
 04/01/2026,TOR,Scottie Barnes,SF
 04/01/2026,TOR,Jakob Poeltl,C
 04/01/2026,MIL,Gary Trent Jr.,SG
@@ -11454,19 +11454,19 @@ Date,Team,Player,Pos
 04/01/2026,DEN,Aaron Gordon,PF
 04/01/2026,DEN,Cameron Johnson,PF
 04/01/2026,DEN,Nikola Jokic,C
-04/01/2026,UTA,Bez Mbeng,PG
 04/01/2026,UTA,Ace Bailey,SF
 04/01/2026,UTA,Cody Williams,SF
 04/01/2026,UTA,Brice Sensabaugh,SF
+04/01/2026,UTA,Oscar Tshiebwe,PF
 04/01/2026,UTA,Kyle Filipowski,C
 04/01/2026,SAS,De'Aaron Fox,PG
 04/01/2026,SAS,Devin Vassell,SG
 04/01/2026,SAS,Stephon Castle,SG
 04/01/2026,SAS,Julian Champagnie,SF
 04/01/2026,SAS,Victor Wembanyama,PF
-04/01/2026,GSW,Gary Payton II,PG
 04/01/2026,GSW,Pat Spencer,SG
 04/01/2026,GSW,Brandin Podziemski,SG
+04/01/2026,GSW,Will Richard,SG
 04/01/2026,GSW,Nate Williams,SF
 04/01/2026,GSW,Draymond Green,PF
 04/02/2026,ATL,CJ McCollum,PG
@@ -11509,14 +11509,24 @@ Date,Team,Player,Pos
 04/02/2026,MEM,Cedric Coward,SG
 04/02/2026,MEM,GG Jackson II,PF
 04/02/2026,MEM,Olivier-Maxence Prosper,PF
+04/02/2026,IND,Quenton Jackson,SG
+04/02/2026,IND,Ethan Thompson,SG
+04/02/2026,IND,Pascal Siakam,PF
+04/02/2026,IND,Kobe Brown,PF
+04/02/2026,IND,Jay Huff,C
+04/02/2026,CHI,Collin Sexton,PG
+04/02/2026,CHI,Tre Jones,PG
+04/02/2026,CHI,Isaac Okoro,SF
+04/02/2026,CHI,Matas Buzelis,SF
+04/02/2026,CHI,Guerschon Yabusele,PF
 04/02/2026,SAC,Devin Carter,PG
 04/02/2026,SAC,Nique Clifford,SF
 04/02/2026,SAC,DeMar DeRozan,SF
 04/02/2026,SAC,Precious Achiuwa,PF
 04/02/2026,SAC,Maxime Raynaud,C
 04/02/2026,TOR,Jamal Shead,PG
-04/02/2026,TOR,RJ Barrett,SG
 04/02/2026,TOR,Ja'Kobe Walter,SG
+04/02/2026,TOR,RJ Barrett,SG
 04/02/2026,TOR,Scottie Barnes,SF
 04/02/2026,TOR,Jakob Poeltl,C
 04/02/2026,MIL,Gary Trent Jr.,SG
@@ -11529,33 +11539,23 @@ Date,Team,Player,Pos
 04/02/2026,HOU,Jabari Smith Jr.,PF
 04/02/2026,HOU,Kevin Durant,PF
 04/02/2026,HOU,Alperen Sengun,C
-04/02/2026,IND,Quenton Jackson,SG
-04/02/2026,IND,Ethan Thompson,SG
-04/02/2026,IND,Pascal Siakam,PF
-04/02/2026,IND,Kobe Brown,PF
-04/02/2026,IND,Jay Huff,C
-04/02/2026,CHI,Collin Sexton,PG
-04/02/2026,CHI,Tre Jones,PG
-04/02/2026,CHI,Isaac Okoro,SF
-04/02/2026,CHI,Matas Buzelis,SF
-04/02/2026,CHI,Guerschon Yabusele,PF
 04/02/2026,DEN,Jamal Murray,PG
 04/02/2026,DEN,Christian Braun,SG
 04/02/2026,DEN,Aaron Gordon,PF
 04/02/2026,DEN,Cameron Johnson,PF
 04/02/2026,DEN,Nikola Jokic,C
-04/02/2026,UTA,Bez Mbeng,PG
 04/02/2026,UTA,Ace Bailey,SF
 04/02/2026,UTA,Cody Williams,SF
 04/02/2026,UTA,Brice Sensabaugh,SF
+04/02/2026,UTA,Oscar Tshiebwe,PF
 04/02/2026,UTA,Kyle Filipowski,C
 04/02/2026,SAS,De'Aaron Fox,PG
 04/02/2026,SAS,Devin Vassell,SG
 04/02/2026,SAS,Stephon Castle,SG
 04/02/2026,SAS,Julian Champagnie,SF
 04/02/2026,SAS,Victor Wembanyama,PF
-04/02/2026,GSW,Gary Payton II,PG
 04/02/2026,GSW,Pat Spencer,SG
 04/02/2026,GSW,Brandin Podziemski,SG
+04/02/2026,GSW,Will Richard,SG
 04/02/2026,GSW,Nate Williams,SF
 04/02/2026,GSW,Draymond Green,PF
