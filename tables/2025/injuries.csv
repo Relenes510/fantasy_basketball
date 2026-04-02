@@ -10262,18 +10262,14 @@ Date,Team,Player,Status,Reason
 04/01/2026,IND,T.J. McConnell,Out,Injury/Illness - Right Hamstring; Soreness
 04/01/2026,IND,Andrew Nembhard,Out,Injury/Illness - Lower Back; Injury Management
 04/01/2026,IND,Aaron Nesmith,Out,Injury/Illness - Cervical; Strain
-04/01/2026,IND,Pascal Siakam,Probable,Injury/Illness - Right Knee; Injury Management
-04/01/2026,IND,Jalen Slawson,Probable,G League - Two-Way
-04/01/2026,IND,Obi Toppin,Probable,Injury/Illness - Right Foot; Injury Management
 04/01/2026,IND,Jarace Walker,Out,Injury/Illness - Lower Back; Bruise
 04/01/2026,IND,Ivica Zubac,Out,Injury/Illness - Rib; Fracture
 04/01/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Surgery
 04/01/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
-04/01/2026,CHI,Josh Giddey,Questionable,Injury/Illness - Left Hamstring; Tightness
-04/01/2026,CHI,Nick Richards,Questionable,Injury/Illness - Right Elbow; Sprain
+04/01/2026,CHI,Josh Giddey,Out,Injury/Illness - Left Hamstring; Tightness
+04/01/2026,CHI,Nick Richards,Out,Injury/Illness - Right Elbow; Sprain
 04/01/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 04/01/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
-04/01/2026,CHI,Guerschon Yabusele,Questionable,Injury/Illness - Left Ankle; Sprain
 04/01/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Left Knee; Hyperextension; Bone Bruise
 04/01/2026,MIL,Thanasis Antetokounmpo,Out,Injury/Illness - Left Calf; Strain
 04/01/2026,MIL,Gary Harris,Out,Personal Reasons
@@ -10287,18 +10283,19 @@ Date,Team,Player,Status,Reason
 04/01/2026,HOU,Isaiah Crawford,Out,G League - Two-Way
 04/01/2026,HOU,Tristen Newton,Out,G League - Two-Way
 04/01/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
-04/01/2026,NYK,Jalen Brunson,Questionable,Injury/Illness - Right Ankle; Soreness
+04/01/2026,NYK,Jalen Brunson,Out,Injury/Illness - Right Ankle; Soreness
 04/01/2026,NYK,Miles McBride,Out,Injury/Illness - Pelvic; Core Muscle Injury Management
 04/01/2026,NYK,Mitchell Robinson,Out,Injury/Illness - Left Ankle; Left Ankle Injury Management
 04/01/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Surgery Recovery
 04/01/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
 04/01/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
 04/01/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle And Elbow; Surgery Recovery
-04/01/2026,MEM,Taj Gibson,Questionable,Injury/Illness - Right Foot; Injury Management
-04/01/2026,MEM,Taylor Hendricks,Doubtful,Injury/Illness - Left 5th Finger; Soreness
+04/01/2026,MEM,Taj Gibson,Out,Injury/Illness - Right Foot; Injury Management
+04/01/2026,MEM,Taylor Hendricks,Out,Injury/Illness - Left 5th Finger; Soreness
 04/01/2026,MEM,Ty Jerome,Out,Injury/Illness - Left Ankle; Sprain
 04/01/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
 04/01/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Right Great Toe; Surgery Recovery
+04/01/2026,MEM,Rayan Rupert,Out,G League - Two-Way
 04/01/2026,MEM,Jaylen Wells,Out,Injury/Illness - Right Great Toe; Surgery Recovery
 04/01/2026,SAC,Patrick Baldwin Jr.,Out,G League - Two-Way
 04/01/2026,SAC,Drew Eubanks,Out,Injury/Illness - Left Thumb; UCL Repair
@@ -10309,12 +10306,10 @@ Date,Team,Player,Status,Reason
 04/01/2026,SAC,Domantas Sabonis,Out,Injury/Illness - Left Knee; Meniscus Repair
 04/01/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
 04/01/2026,SAC,Russell Westbrook,Out,Injury/Illness - Right Toe; Injury Management
-04/01/2026,TOR,Scottie Barnes,Questionable,Injury/Illness - Left Shoulder; Contusion
 04/01/2026,TOR,Jamison Battle,Out,Injury/Illness - Illness; Illness
 04/01/2026,TOR,Chucky Hepburn,Out,G League - Two-Way
 04/01/2026,TOR,Brandon Ingram,Out,Injury/Illness - Right Foot; Heel - inflammation - injury management
 04/01/2026,TOR,Immanuel Quickley,Out,Injury/Illness - Right Foot; Plantar fasciitis
-04/01/2026,TOR,Garrett Temple,Questionable,Injury/Illness - Left Shoulder; Soreness
 04/01/2026,DEN,Aaron Gordon,Probable,Injury/Illness - Left Calf; Tightness
 04/01/2026,DEN,Spencer Jones,Out,Injury/Illness - Right Hamstring; Strain
 04/01/2026,DEN,Zeke Nnaji,Out,Injury/Illness - Left Hip; Sprain
@@ -10338,4 +10333,4 @@ Date,Team,Player,Status,Reason
 04/01/2026,GSW,Gary Payton II,Questionable,Injury/Illness - Right Knee; Injury Management
 04/01/2026,GSW,Kristaps Porzingis,Out,Injury/Illness - General; Illness Management
 04/01/2026,GSW,Quinten Post,Out,Injury/Illness - Right Foot; Injury Management
-04/01/2026,GSW,Gui Santos,Questionable,Injury/Illness - Right Pelvic; Contusion
+04/01/2026,GSW,Gui Santos,Out,Injury/Illness - Right Pelvic; Contusion
