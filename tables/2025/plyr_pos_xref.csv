@@ -12,8 +12,8 @@ ATL,Corey Kispert,SF
 ATL,Jock Landale,C
 ATL,Gabe Vincent,PG
 ATL,Caleb Houstan,SF
-ATL,Christian Koloko,C
 ATL,Jonathan Kuminga,PF
+ATL,Christian Koloko,C
 ATL,Buddy Hield,SG
 ATL,RayJ Dennis,PG
 ATL,Keshon Gilbert,SG
@@ -28,8 +28,8 @@ BOS,Luka Garza,C
 BOS,Jordan Walsh,PF
 BOS,Ron Harper Jr.,SF
 BOS,Amari Williams,PF
-BOS,Nikola Vucevic,C
 BOS,Jayson Tatum,PF
+BOS,Nikola Vucevic,C
 BOS,Max Shulga,SG
 BOS,John Tonje,SG
 BOS,Charles Bassey,C
@@ -79,13 +79,13 @@ CHI,Lachlan Olbrich,C
 CHI,Rob Dillingham,PG
 CHI,Guerschon Yabusele,C
 CHI,Leonard Miller,SF
-CHI,Nick Richards,C
 CHI,Collin Sexton,SG
+CHI,Nick Richards,C
 CHI,Yuki Kawamura,PG
 CHI,Zach Collins,C
 CHI,Anfernee Simons,SG
-CHI,Noa Essengue,PF
 CHI,Mac McClung,SG
+CHI,Noa Essengue,PF
 CLE,Donovan Mitchell,SG
 CLE,Jaylon Tyson,SG
 CLE,Evan Mobley,PF
@@ -161,8 +161,8 @@ DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
 GSW,Quinten Post,PF
 GSW,Gary Payton II,SG
-GSW,Gui Santos,PF
 GSW,Will Richard,SG
+GSW,Gui Santos,PF
 GSW,Draymond Green,PF
 GSW,Moses Moody,SG
 GSW,Pat Spencer,PG
@@ -172,8 +172,8 @@ GSW,Stephen Curry,PG
 GSW,Jimmy Butler,SF
 GSW,Malevy Leons,SF
 GSW,LJ Cryer,PG
-GSW,Kristaps Porzingis,C
 GSW,Nate Williams,SG
+GSW,Kristaps Porzingis,C
 GSW,Omer Yurtseven,C
 GSW,Seth Curry,SG
 HOU,Reed Sheppard,SG
@@ -251,23 +251,24 @@ MEM,Cam Spencer,SG
 MEM,Jaylen Wells,SG
 MEM,Cedric Coward,SG
 MEM,GG Jackson II,PF
-MEM,Kentavious Caldwell-Pope,SG
 MEM,Olivier-Maxence Prosper,PF
+MEM,Kentavious Caldwell-Pope,SG
 MEM,Santi Aldama,PF
 MEM,Javon Small,PG
 MEM,Jahmai Mashack,SG
 MEM,Taylor Hendricks,PF
-MEM,Ja Morant,PG
 MEM,Walter Clayton,PG
+MEM,Ja Morant,PG
 MEM,Ty Jerome,SG
+MEM,Tyler Burton,SF
 MEM,Rayan Rupert,SG
 MEM,Zach Edey,C
-MEM,Tyler Burton,SF
-MEM,Scotty Pippen Jr.,PG
 MEM,DeJon Jarreau,SG
+MEM,Scotty Pippen Jr.,PG
 MEM,Taj Gibson,C
 MEM,Adama-Alpha Bal,G
 MEM,Brandon Clarke,PF
+MEM,Lucas Williamson,G
 MIA,Kel'el Ware,C
 MIA,Jaime Jaquez Jr.,SF
 MIA,Dru Smith,SG
@@ -457,8 +458,8 @@ SAC,Zach LaVine,SG
 SAC,Dylan Cardwell,C
 SAC,Devin Carter,PG
 SAC,Daeqwon Plowden,SG
-SAC,Keegan Murray,PF
 SAC,Doug McDermott,SF
+SAC,Keegan Murray,PF
 SAC,Domantas Sabonis,C
 SAC,Killian Hayes,PG
 SAC,Patrick Baldwin Jr.,SF
@@ -471,8 +472,8 @@ SAS,Harrison Barnes,PF
 SAS,De'Aaron Fox,PG
 SAS,Carter Bryant,PF
 SAS,Stephon Castle,PG
-SAS,Luke Kornet,C
 SAS,Dylan Harper,SG
+SAS,Luke Kornet,C
 SAS,Victor Wembanyama,C
 SAS,Devin Vassell,SG
 SAS,Kelly Olynyk,C
@@ -516,6 +517,7 @@ UTA,Oscar Tshiebwe,C
 UTA,John Konchar,SG
 UTA,Blake Hinson,SF
 UTA,Bez Mbeng,SG
+UTA,Kennedy Chandler,PG
 UTA,Walker Kessler,C
 UTA,Jaren Jackson Jr.,C
 WAS,Bub Carrington,PG
@@ -523,10 +525,10 @@ WAS,Will Riley,SF
 WAS,Justin Champagnie,SF
 WAS,Tre Johnson,SG
 WAS,Bilal Coulibaly,SG
-WAS,Alex Sarr,C
-WAS,Kyshawn George,SF
 WAS,Tristan Vukcevic,C
 WAS,Anthony Gill,PF
+WAS,Alex Sarr,C
+WAS,Kyshawn George,SF
 WAS,Jamir Watkins,SG
 WAS,Sharife Cooper,PG
 WAS,Cam Whitmore,SF
