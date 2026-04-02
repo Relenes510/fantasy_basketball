@@ -11401,8 +11401,8 @@ Date,Team,Player,Pos
 04/01/2026,WAS,Tristan Vukcevic,PF
 04/01/2026,BOS,Derrick White,SG
 04/01/2026,BOS,Jaylen Brown,SG
-04/01/2026,BOS,Sam Hauser,SF
 04/01/2026,BOS,Jayson Tatum,SF
+04/01/2026,BOS,Sam Hauser,SF
 04/01/2026,BOS,Neemias Queta,C
 04/01/2026,MIA,Davion Mitchell,PG
 04/01/2026,MIA,Pelle Larsson,SG
@@ -11411,24 +11411,14 @@ Date,Team,Player,Pos
 04/01/2026,MIA,Bam Adebayo,C
 04/01/2026,NYK,Jose Alvarado,PG
 04/01/2026,NYK,OG Anunoby,SF
-04/01/2026,NYK,Josh Hart,SF
 04/01/2026,NYK,Mikal Bridges,SF
+04/01/2026,NYK,Josh Hart,SF
 04/01/2026,NYK,Karl-Anthony Towns,PF
 04/01/2026,MEM,Javon Small,SG
 04/01/2026,MEM,Cam Spencer,SG
 04/01/2026,MEM,Cedric Coward,SG
 04/01/2026,MEM,GG Jackson II,PF
 04/01/2026,MEM,Olivier-Maxence Prosper,PF
-04/01/2026,MIL,Gary Trent Jr.,SG
-04/01/2026,MIL,AJ Green,SG
-04/01/2026,MIL,Ousmane Dieng,SF
-04/01/2026,MIL,Pete Nance,PF
-04/01/2026,MIL,Jericho Sims,C
-04/01/2026,HOU,Reed Sheppard,PG
-04/01/2026,HOU,Amen Thompson,SG
-04/01/2026,HOU,Jabari Smith Jr.,PF
-04/01/2026,HOU,Kevin Durant,PF
-04/01/2026,HOU,Alperen Sengun,C
 04/01/2026,SAC,Devin Carter,PG
 04/01/2026,SAC,Nique Clifford,SF
 04/01/2026,SAC,DeMar DeRozan,SF
@@ -11439,6 +11429,16 @@ Date,Team,Player,Pos
 04/01/2026,TOR,RJ Barrett,SG
 04/01/2026,TOR,Scottie Barnes,SF
 04/01/2026,TOR,Jakob Poeltl,C
+04/01/2026,MIL,Gary Trent Jr.,SG
+04/01/2026,MIL,AJ Green,SG
+04/01/2026,MIL,Ousmane Dieng,SF
+04/01/2026,MIL,Pete Nance,PF
+04/01/2026,MIL,Jericho Sims,C
+04/01/2026,HOU,Reed Sheppard,PG
+04/01/2026,HOU,Amen Thompson,SG
+04/01/2026,HOU,Jabari Smith Jr.,PF
+04/01/2026,HOU,Kevin Durant,PF
+04/01/2026,HOU,Alperen Sengun,C
 04/01/2026,IND,Quenton Jackson,SG
 04/01/2026,IND,Ethan Thompson,SG
 04/01/2026,IND,Pascal Siakam,PF
@@ -11473,20 +11473,20 @@ Date,Team,Player,Pos
 04/02/2026,PHO,Devin Booker,SG
 04/02/2026,PHO,Jalen Green,SG
 04/02/2026,PHO,Dillon Brooks,SF
-04/02/2026,PHO,Mark Williams,C
+04/02/2026,PHO,Oso Ighodaro,PF
 04/02/2026,CHO,LaMelo Ball,PG
 04/02/2026,CHO,Kon Knueppel,SG
 04/02/2026,CHO,Brandon Miller,SF
 04/02/2026,CHO,Miles Bridges,SF
 04/02/2026,CHO,Moussa Diabate,PF
+04/02/2026,MIN,Mike Conley,PG
 04/02/2026,MIN,Ayo Dosunmu,PG
-04/02/2026,MIN,Bones Hyland,PG
 04/02/2026,MIN,Donte DiVincenzo,SG
 04/02/2026,MIN,Julius Randle,PF
 04/02/2026,MIN,Rudy Gobert,C
 04/02/2026,DET,Daniss Jenkins,PG
-04/02/2026,DET,Ausar Thompson,SG
 04/02/2026,DET,Duncan Robinson,SG
+04/02/2026,DET,Ausar Thompson,SG
 04/02/2026,DET,Tobias Harris,SF
 04/02/2026,DET,Jalen Duren,C
 04/02/2026,LAL,Luka Doncic,PG
@@ -11495,29 +11495,29 @@ Date,Team,Player,Pos
 04/02/2026,LAL,Rui Hachimura,PF
 04/02/2026,LAL,Deandre Ayton,C
 04/02/2026,OKC,Shai Gilgeous-Alexander,PG
-04/02/2026,OKC,Jalen Williams,SF
 04/02/2026,OKC,Luguentz Dort,SF
-04/02/2026,OKC,Chet Holmgren,C
+04/02/2026,OKC,Jalen Williams,SF
 04/02/2026,OKC,Isaiah Hartenstein,C
+04/02/2026,OKC,Chet Holmgren,C
 04/02/2026,CLE,Donovan Mitchell,SG
-04/02/2026,CLE,Max Strus,SG
 04/02/2026,CLE,James Harden,SG
+04/02/2026,CLE,Max Strus,SG
 04/02/2026,CLE,Evan Mobley,PF
 04/02/2026,CLE,Jarrett Allen,C
 04/02/2026,GSW,Pat Spencer,SG
 04/02/2026,GSW,Brandin Podziemski,SG
 04/02/2026,GSW,Nate Williams,SF
-04/02/2026,GSW,Malevy Leons,PF
 04/02/2026,GSW,Draymond Green,PF
+04/02/2026,GSW,Malevy Leons,PF
 04/02/2026,NOP,Dejounte Murray,SG
-04/02/2026,NOP,Trey Murphy III,SF
 04/02/2026,NOP,Herbert Jones,SF
+04/02/2026,NOP,Trey Murphy III,SF
 04/02/2026,NOP,Saddiq Bey,PF
 04/02/2026,NOP,Zion Williamson,PF
 04/02/2026,POR,Jrue Holiday,PG
 04/02/2026,POR,Sidy Cissoko,SF
-04/02/2026,POR,Deni Avdija,SF
 04/02/2026,POR,Toumani Camara,SF
+04/02/2026,POR,Deni Avdija,SF
 04/02/2026,POR,Donovan Clingan,C
 04/02/2026,SAS,De'Aaron Fox,PG
 04/02/2026,SAS,Stephon Castle,SG
