@@ -149,8 +149,8 @@ DET,Jalen Duren,C
 DET,Cade Cunningham,PG
 DET,Paul Reed,C
 DET,Tobias Harris,PF
-DET,Isaiah Stewart,C
 DET,Caris LeVert,SG
+DET,Isaiah Stewart,C
 DET,Marcus Sasser,PG
 DET,Chaz Lanier,SG
 DET,Kevin Huerter,SG
@@ -159,21 +159,21 @@ DET,Bobi Klintman,SF
 DET,Wendell Moore Jr.,SG
 DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
-GSW,Quinten Post,PF
 GSW,Gary Payton II,SG
+GSW,Quinten Post,PF
 GSW,Will Richard,SG
 GSW,Gui Santos,PF
 GSW,Draymond Green,PF
-GSW,Moses Moody,SG
 GSW,Pat Spencer,PG
+GSW,Moses Moody,SG
 GSW,De'Anthony Melton,PG
 GSW,Al Horford,C
 GSW,Stephen Curry,PG
 GSW,Jimmy Butler,SF
 GSW,Malevy Leons,SF
 GSW,LJ Cryer,PG
-GSW,Nate Williams,SG
 GSW,Kristaps Porzingis,C
+GSW,Nate Williams,SG
 GSW,Omer Yurtseven,C
 GSW,Seth Curry,SG
 HOU,Reed Sheppard,SG
@@ -221,8 +221,8 @@ LAC,Jordan Miller,SF
 LAC,Cam Christie,SG
 LAC,Derrick Jones Jr.,SF
 LAC,Yanic Konan Niederhauser,C
-LAC,Bogdan Bogdanovic,SG
 LAC,Bennedict Mathurin,SF
+LAC,Bogdan Bogdanovic,SG
 LAC,Isaiah Jackson,C
 LAC,Darius Garland,PG
 LAC,TyTy Washington Jr.,PG
@@ -260,10 +260,8 @@ MEM,Taylor Hendricks,PF
 MEM,Walter Clayton,PG
 MEM,Ja Morant,PG
 MEM,Ty Jerome,SG
-MEM,Tyler Burton,SF
 MEM,Rayan Rupert,SG
 MEM,Zach Edey,C
-MEM,DeJon Jarreau,SG
 MEM,Scotty Pippen Jr.,PG
 MEM,Taj Gibson,C
 MEM,Adama-Alpha Bal,G
@@ -436,8 +434,8 @@ POR,Deni Avdija,SF
 POR,Jerami Grant,PF
 POR,Robert Williams,C
 POR,Kris Murray,SF
-POR,Shaedon Sharpe,SG
 POR,Jrue Holiday,PG
+POR,Shaedon Sharpe,SG
 POR,Caleb Love,SG
 POR,Yang Hansen,C
 POR,Blake Wesley,SG
@@ -474,8 +472,8 @@ SAS,Carter Bryant,PF
 SAS,Stephon Castle,PG
 SAS,Dylan Harper,SG
 SAS,Luke Kornet,C
-SAS,Victor Wembanyama,C
 SAS,Devin Vassell,SG
+SAS,Victor Wembanyama,C
 SAS,Kelly Olynyk,C
 SAS,Jordan McLaughlin,PG
 SAS,Lindy Waters III,SG
@@ -500,7 +498,6 @@ TOR,Garrett Temple,SG
 TOR,Alijah Martin,SG
 TOR,A.J. Lawson,SG
 TOR,Trayce Jackson-Davis,C
-TOR,Markelle Fultz,PG
 TOR,Chucky Hepburn,PG
 UTA,Kyle Filipowski,C
 UTA,Brice Sensabaugh,SF
@@ -516,7 +513,6 @@ UTA,Elijah Harkless,SG
 UTA,Oscar Tshiebwe,C
 UTA,John Konchar,SG
 UTA,Blake Hinson,SF
-UTA,Bez Mbeng,SG
 UTA,Kennedy Chandler,PG
 UTA,Walker Kessler,C
 UTA,Jaren Jackson Jr.,C
