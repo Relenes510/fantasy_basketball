@@ -10385,7 +10385,7 @@ Date,Team,Player,Status,Reason
 04/03/2026,IND,Jalen Slawson,Out,G League - Two-Way
 04/03/2026,IND,Jarace Walker,Out,Injury/Illness - Lower Back; Bruise
 04/03/2026,IND,Ivica Zubac,Out,Injury/Illness - Rib; Fracture
-04/03/2026,CHO,Moussa Diabate,Questionable,Injury/Illness - Left Ankle; Soreness
+04/03/2026,CHO,Moussa Diabate,Out,Injury/Illness - Left Ankle; Soreness
 04/03/2026,CHO,Tosan Evbuomwan,Out,G League - On Assignment
 04/03/2026,CHO,PJ Hall,Out,Injury/Illness - Right Ankle; Fracture
 04/03/2026,CHO,Liam McNeeley,Out,G League - On Assignment
@@ -10409,7 +10409,7 @@ Date,Team,Player,Status,Reason
 04/03/2026,CHI,Nick Richards,Out,Injury/Illness - Right Elbow; Sprain
 04/03/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 04/03/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
-04/03/2026,NYK,Karl-Anthony Towns,Questionable,Injury/Illness - Right Elbow; Right Elbow Impingement
+04/03/2026,NYK,Karl-Anthony Towns,Out,Injury/Illness - Right Elbow; Right Elbow Impingement
 04/03/2026,BOS,Nikola Vucevic,Out,Injury/Illness - Right Ring Finger; Fracture
 04/03/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Left Knee; Hyperextension; Bone Bruise
 04/03/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Right Knee; Synovitis
@@ -10421,13 +10421,13 @@ Date,Team,Player,Status,Reason
 04/03/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Surgery Recovery
 04/03/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
 04/03/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
-04/03/2026,MEM,Walter Clayton Jr.,Questionable,Injury/Illness - Left Hip; Soreness
+04/03/2026,MEM,Walter Clayton Jr.,Out,Injury/Illness - Left Hip; Soreness
 04/03/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle And Elbow; Surgery Recovery
-04/03/2026,MEM,Taj Gibson,Doubtful,Injury/Illness - Right Foot; Injury Management
+04/03/2026,MEM,Taj Gibson,Out,Injury/Illness - Right Foot; Injury Management
 04/03/2026,MEM,Ty Jerome,Out,Injury/Illness - Left Ankle; Sprain
 04/03/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
 04/03/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Right Great Toe; Surgery Recovery
-04/03/2026,MEM,Olivier-Maxence Prosper,Doubtful,Injury/Illness - Low Back; Soreness
+04/03/2026,MEM,Olivier-Maxence Prosper,Out,Injury/Illness - Low Back; Soreness
 04/03/2026,MEM,Cam Spencer,Out,Injury/Illness - Low Back; Soreness
 04/03/2026,MEM,Jaylen Wells,Out,Injury/Illness - Right Great Toe; Surgery Recovery
 04/03/2026,UTA,Isaiah Collier,Out,Injury/Illness - Left Hamstring; Strain
@@ -10446,14 +10446,12 @@ Date,Team,Player,Status,Reason
 04/03/2026,ORL,Colin Castleton,Out,G League - Two-Way
 04/03/2026,ORL,Jonathan Isaac,Out,Injury/Illness - Left Knee; Sprain
 04/03/2026,ORL,Alex Morales,Out,G League - Two-Way
-04/03/2026,DAL,Marvin Bagley III,Doubtful,Injury/Illness - Left Shoulder; Impingement
-04/03/2026,DAL,Moussa Cisse,Doubtful,G League - Two-Way
+04/03/2026,DAL,Marvin Bagley III,Out,Injury/Illness - Left Shoulder; Impingement
+04/03/2026,DAL,Moussa Cisse,Out,G League - Two-Way
 04/03/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
 04/03/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
-04/03/2026,DAL,Caleb Martin,Doubtful,Injury/Illness - Right Plantar Fascia; Strain
-04/03/2026,DAL,John Poulakidas,Probable,G League - Two-Way
-04/03/2026,DAL,Tyler Smith,Probable,G League - Two-Way
-04/03/2026,DAL,P.J. Washington,Doubtful,Injury/Illness - Illness; Illness
+04/03/2026,DAL,Caleb Martin,Out,Injury/Illness - Right Plantar Fascia; Strain
+04/03/2026,DAL,P.J. Washington,Out,Injury/Illness - Illness; Illness
 04/03/2026,NOP,Karlo Matkovic,Questionable,Injury/Illness - Low Back; Spasms
 04/03/2026,NOP,Bryce McGowens,Out,Injury/Illness - Right Small Toe; Fracture
 04/03/2026,NOP,Trey Murphy III,Probable,Injury/Illness - Right Ankle; Sprain
