@@ -31,18 +31,18 @@ BOS,Amari Williams,PF
 BOS,Jayson Tatum,PF
 BOS,Nikola Vucevic,C
 BOS,Max Shulga,SG
-BOS,John Tonje,SG
 BOS,Charles Bassey,C
+BOS,John Tonje,SG
 BRK,Nic Claxton,C
 BRK,Noah Clowney,PF
-BRK,Day'Ron Sharpe,C
 BRK,Terance Mann,SG
+BRK,Day'Ron Sharpe,C
 BRK,Drake Powell,SG
 BRK,Danny Wolf,PF
 BRK,Ziaire Williams,SF
+BRK,Nolan Traore,PG
 BRK,Michael Porter Jr.,SF
 BRK,Egor Dmin,PG
-BRK,Nolan Traore,PG
 BRK,Jalen Wilson,PF
 BRK,Ben Saraf,SG
 BRK,E.J. Liddell,PF
@@ -51,6 +51,7 @@ BRK,Tyson Etienne,PG
 BRK,Josh Minott,SF
 BRK,Chaney Johnson,SF
 BRK,Malachi Smith,SG
+BRK,Tre Scott,PF
 CHO,Sion James,SG
 CHO,Kon Knueppel,SF
 CHO,Miles Bridges,PF
@@ -111,16 +112,16 @@ DAL,Cooper Flagg,SF
 DAL,Brandon Williams,PG
 DAL,Caleb Martin,SF
 DAL,Dwight Powell,C
-DAL,P.J. Washington,PF
 DAL,Ryan Nembhard,PG
+DAL,P.J. Washington,PF
 DAL,Daniel Gafford,C
 DAL,Moussa Cisse,C
 DAL,Khris Middleton,SF
-DAL,Marvin Bagley III,PF
 DAL,AJ Johnson,SG
+DAL,Marvin Bagley III,PF
 DAL,John Poulakidas,SG
-DAL,Dereck Lively II,C
 DAL,Tyler Smith,PF
+DAL,Dereck Lively II,C
 DAL,Kyrie Irving,SG
 DEN,Bruce Brown,SG
 DEN,Tim Hardaway Jr.,SG
@@ -285,8 +286,8 @@ MIA,Jahmir Young,PG
 MIA,Vladislav Goldin,C
 MIA,Trevor Keels,SG
 MIA,Terry Rozier,PG
-MIL,Ryan Rollins,PG
 MIL,A.J. Green,SG
+MIL,Ryan Rollins,PG
 MIL,Myles Turner,C
 MIL,Bobby Portis,PF
 MIL,Kyle Kuzma,PF
@@ -382,11 +383,11 @@ ORL,Anthony Black,PG
 ORL,Goga Bitadze,C
 ORL,Noah Penda,SF
 ORL,Jett Howard,SF
-ORL,Jonathan Isaac,PF
 ORL,Jalen Suggs,PG
+ORL,Jonathan Isaac,PF
 ORL,Jase Richardson,SG
-ORL,Moritz Wagner,C
 ORL,Jamal Cain,SF
+ORL,Moritz Wagner,C
 ORL,Franz Wagner,SF
 ORL,Jevon Carter,PG
 ORL,Colin Castleton,C
@@ -452,8 +453,8 @@ SAC,Precious Achiuwa,C
 SAC,Russell Westbrook,SF
 SAC,Malik Monk,SG
 SAC,Drew Eubanks,C
-SAC,Zach LaVine,SG
 SAC,Dylan Cardwell,C
+SAC,Zach LaVine,SG
 SAC,Devin Carter,PG
 SAC,Daeqwon Plowden,SG
 SAC,Doug McDermott,SF
