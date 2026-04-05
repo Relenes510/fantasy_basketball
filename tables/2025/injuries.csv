@@ -10504,7 +10504,6 @@ Date,Team,Player,Status,Reason
 04/05/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Left Knee; Hyperextension; Bone Bruise
 04/05/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Right Knee; Synovitis
 04/05/2026,MIL,Bobby Portis,Out,Injury/Illness - Left Wrist; Sprain
-04/05/2026,MIL,Ryan Rollins,Questionable,Injury/Illness - Right Hip; Strain
 04/05/2026,MIL,Gary Trent Jr.,Out,Injury/Illness - Left Hip; Pointer
 04/05/2026,PHO,Amir Coffey,Questionable,Injury/Illness - Left Ankle; Sprain
 04/05/2026,PHO,Haywood Highsmith,Out,Injury/Illness - Right Knee; Injury Management
@@ -10519,23 +10518,22 @@ Date,Team,Player,Status,Reason
 04/05/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
 04/05/2026,TOR,Chucky Hepburn,Out,Injury/Illness - Right Knee; Surgery recovery
 04/05/2026,TOR,Immanuel Quickley,Out,Injury/Illness - Right Foot; Plantar fasciitis
-04/05/2026,BOS,Nikola Vucevic,Questionable,Injury/Illness - Right Ring Finger; Fracture
-04/05/2026,WAS,Justin Champagnie,Questionable,Injury/Illness - Right Knee; Contusion
-04/05/2026,WAS,Bilal Coulibaly,Questionable,Injury/Illness - Right Retrocalcaneal; Bursitis
+04/05/2026,WAS,Justin Champagnie,Out,Injury/Illness - Right Knee; Contusion
+04/05/2026,WAS,Bilal Coulibaly,Out,Injury/Illness - Right Retrocalcaneal; Bursitis
 04/05/2026,WAS,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 04/05/2026,WAS,Kyshawn George,Out,Injury/Illness - Left Elbow; Sprain
-04/05/2026,WAS,Tre Johnson,Questionable,Injury/Illness - Right Foot; Sprain
+04/05/2026,WAS,Tre Johnson,Out,Injury/Illness - Right Foot; Sprain
 04/05/2026,WAS,D'Angelo Russell,Out,Not With Team
 04/05/2026,WAS,Alex Sarr,Out,Injury/Illness - Left Big Toe; Capsulitis
-04/05/2026,WAS,Tristan Vukcevic,Questionable,Injury/Illness - Right Knee; Contusion
+04/05/2026,WAS,Tristan Vukcevic,Out,Injury/Illness - Right Knee; Contusion
 04/05/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 04/05/2026,WAS,Trae Young,Out,Injury/Illness - Low Back; Pain; Right Quad Contusion
 04/05/2026,BRK,Nic Claxton,Out,Injury/Illness - Right Hand; Soreness
 04/05/2026,BRK,Noah Clowney,Out,Injury/Illness - Left Ankle; Soreness
 04/05/2026,BRK,Egor Demin,Out,Injury/Illness - Left Plantar Fascia; Injury Management
-04/05/2026,BRK,Terance Mann,Questionable,Injury/Illness - Right Patella Tendon; Soreness / Left Achilles Soreness
+04/05/2026,BRK,Terance Mann,Out,Injury/Illness - Right Patella Tendon; Soreness / Left Achilles Soreness
 04/05/2026,BRK,Michael Porter Jr.,Out,Injury/Illness - Left Hamstring; Strain
-04/05/2026,BRK,Ben Saraf,Questionable,Injury/Illness - Back; Tightness
+04/05/2026,BRK,Ben Saraf,Out,Injury/Illness - Back; Tightness
 04/05/2026,BRK,Day'Ron Sharpe,Out,Injury/Illness - Left Thumb; Surgery
 04/05/2026,BRK,Ziaire Williams,Out,Injury/Illness - Left Foot; Soreness
 04/05/2026,BRK,Danny Wolf,Out,Injury/Illness - Left Ankle; Sprain
@@ -10560,7 +10558,7 @@ Date,Team,Player,Status,Reason
 04/05/2026,CHO,Liam McNeeley,Out,G League - On Assignment
 04/05/2026,CHO,Antonio Reeves,Out,G League - Two-Way
 04/05/2026,CHO,Tidjane Salaun,Out,G League - On Assignment
-04/05/2026,MIN,Anthony Edwards,Questionable,Injury/Illness - Right Knee; Patellofemoral Pain Syndrome
+04/05/2026,MIN,Anthony Edwards,Out,Injury/Illness - Right Knee; Patellofemoral Pain Syndrome
 04/05/2026,MIN,Jaden McDaniels,Out,Injury/Illness - Left Knee; Patella Tendinopathy
 04/05/2026,ORL,Anthony Black,Out,Injury/Illness - Left Lateral Abdominal; Strain
 04/05/2026,ORL,Colin Castleton,Out,G League - Two-Way
@@ -10583,7 +10581,6 @@ Date,Team,Player,Status,Reason
 04/05/2026,LAL,Luka Doncic,Out,Injury/Illness - Left Hamstring; Strain
 04/05/2026,LAL,Austin Reaves,Out,Injury/Illness - Left Oblique; Muscle Strain
 04/05/2026,LAL,Marcus Smart,Out,Injury/Illness - Right Ankle; Contusion
-04/05/2026,LAL,Jarred Vanderbilt,Questionable,Injury/Illness - Right Calf; Soreness
 04/05/2026,DAL,Marvin Bagley III,Probable,Injury/Illness - Left Shoulder; Impingement
 04/05/2026,DAL,Moussa Cisse,Questionable,G League - Two-Way
 04/05/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
