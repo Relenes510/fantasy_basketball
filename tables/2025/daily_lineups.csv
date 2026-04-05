@@ -11646,13 +11646,13 @@ Date,Team,Player,Pos
 04/04/2026,DET,Jalen Duren,C
 04/04/2026,PHI,Tyrese Maxey,PG
 04/04/2026,PHI,VJ Edgecombe,SG
-04/04/2026,PHI,Kelly Oubre Jr.,SF
 04/04/2026,PHI,Paul George,SF
+04/04/2026,PHI,Kelly Oubre Jr.,SF
 04/04/2026,PHI,Andre Drummond,C
 04/05/2026,TOR,Ja'Kobe Walter,SG
 04/05/2026,TOR,RJ Barrett,SG
-04/05/2026,TOR,Brandon Ingram,SF
 04/05/2026,TOR,Scottie Barnes,SF
+04/05/2026,TOR,Brandon Ingram,SF
 04/05/2026,TOR,Jakob Poeltl,C
 04/05/2026,BOS,Derrick White,SG
 04/05/2026,BOS,Jaylen Brown,SG
@@ -11692,8 +11692,8 @@ Date,Team,Player,Pos
 04/05/2026,IND,Quenton Jackson,SG
 04/05/2026,IND,Ethan Thompson,SG
 04/05/2026,IND,Jalen Slawson,PF
-04/05/2026,IND,Jarace Walker,PF
-04/05/2026,IND,Jay Huff,C
+04/05/2026,IND,Kobe Brown,PF
+04/05/2026,IND,Micah Potter,PF
 04/05/2026,CLE,James Harden,SG
 04/05/2026,CLE,Max Strus,SG
 04/05/2026,CLE,Donovan Mitchell,SG
@@ -11709,6 +11709,16 @@ Date,Team,Player,Pos
 04/05/2026,MIN,Terrence Shannon Jr.,SG
 04/05/2026,MIN,Julius Randle,PF
 04/05/2026,MIN,Rudy Gobert,C
+04/05/2026,UTA,Kennedy Chandler,PG
+04/05/2026,UTA,Brice Sensabaugh,SF
+04/05/2026,UTA,Cody Williams,SF
+04/05/2026,UTA,Ace Bailey,SF
+04/05/2026,UTA,Kyle Filipowski,C
+04/05/2026,OKC,Shai Gilgeous-Alexander,PG
+04/05/2026,OKC,Jalen Williams,SF
+04/05/2026,OKC,Luguentz Dort,SF
+04/05/2026,OKC,Isaiah Hartenstein,C
+04/05/2026,OKC,Chet Holmgren,C
 04/05/2026,ORL,Jalen Suggs,SG
 04/05/2026,ORL,Desmond Bane,SG
 04/05/2026,ORL,Franz Wagner,SF
@@ -11719,16 +11729,6 @@ Date,Team,Player,Pos
 04/05/2026,NOP,Herbert Jones,SF
 04/05/2026,NOP,Saddiq Bey,PF
 04/05/2026,NOP,Zion Williamson,PF
-04/05/2026,UTA,Kennedy Chandler,PG
-04/05/2026,UTA,Brice Sensabaugh,SF
-04/05/2026,UTA,Cody Williams,SF
-04/05/2026,UTA,Ace Bailey,SF
-04/05/2026,UTA,Kyle Filipowski,C
-04/05/2026,OKC,Shai Gilgeous-Alexander,PG
-04/05/2026,OKC,Luguentz Dort,SF
-04/05/2026,OKC,Jalen Williams,SF
-04/05/2026,OKC,Isaiah Hartenstein,C
-04/05/2026,OKC,Chet Holmgren,C
 04/05/2026,LAL,Nick Smith Jr.,PG
 04/05/2026,LAL,LeBron James,SF
 04/05/2026,LAL,Rui Hachimura,PF
@@ -11745,8 +11745,8 @@ Date,Team,Player,Pos
 04/05/2026,LAC,John Collins,PF
 04/05/2026,LAC,Brook Lopez,C
 04/05/2026,SAC,Devin Carter,PG
-04/05/2026,SAC,DeMar DeRozan,SF
 04/05/2026,SAC,Nique Clifford,SF
+04/05/2026,SAC,DeMar DeRozan,SF
 04/05/2026,SAC,Precious Achiuwa,PF
 04/05/2026,SAC,Maxime Raynaud,C
 04/05/2026,HOU,Reed Sheppard,PG
