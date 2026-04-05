@@ -11651,8 +11651,8 @@ Date,Team,Player,Pos
 04/04/2026,PHI,Andre Drummond,C
 04/05/2026,TOR,Ja'Kobe Walter,SG
 04/05/2026,TOR,RJ Barrett,SG
-04/05/2026,TOR,Scottie Barnes,SF
 04/05/2026,TOR,Brandon Ingram,SF
+04/05/2026,TOR,Scottie Barnes,SF
 04/05/2026,TOR,Jakob Poeltl,C
 04/05/2026,BOS,Derrick White,SG
 04/05/2026,BOS,Jaylen Brown,SG
@@ -11678,7 +11678,7 @@ Date,Team,Player,Pos
 04/05/2026,BRK,Terance Mann,PG
 04/05/2026,BRK,Drake Powell,SG
 04/05/2026,BRK,Chaney Johnson,PF
-04/05/2026,BRK,Noah Clowney,PF
+04/05/2026,BRK,Josh Minott,PF
 04/05/2026,PHO,Collin Gillespie,PG
 04/05/2026,PHO,Jalen Green,SG
 04/05/2026,PHO,Devin Booker,SG
@@ -11705,8 +11705,8 @@ Date,Team,Player,Pos
 04/05/2026,CHO,Brandon Miller,SF
 04/05/2026,CHO,Moussa Diabate,PF
 04/05/2026,MIN,Ayo Dosunmu,PG
-04/05/2026,MIN,Anthony Edwards,SG
 04/05/2026,MIN,Donte DiVincenzo,SG
+04/05/2026,MIN,Terrence Shannon Jr.,SG
 04/05/2026,MIN,Julius Randle,PF
 04/05/2026,MIN,Rudy Gobert,C
 04/05/2026,ORL,Jalen Suggs,SG
@@ -11714,15 +11714,15 @@ Date,Team,Player,Pos
 04/05/2026,ORL,Franz Wagner,SF
 04/05/2026,ORL,Paolo Banchero,PF
 04/05/2026,ORL,Wendell Carter Jr.,C
-04/05/2026,NOP,Dejounte Murray,SG
+04/05/2026,NOP,Jeremiah Fears,PG
+04/05/2026,NOP,Jordan Hawkins,SG
 04/05/2026,NOP,Herbert Jones,SF
-04/05/2026,NOP,Trey Murphy III,SF
 04/05/2026,NOP,Saddiq Bey,PF
 04/05/2026,NOP,Zion Williamson,PF
 04/05/2026,UTA,Kennedy Chandler,PG
 04/05/2026,UTA,Brice Sensabaugh,SF
-04/05/2026,UTA,Cody Williams,SF
 04/05/2026,UTA,Ace Bailey,SF
+04/05/2026,UTA,Cody Williams,SF
 04/05/2026,UTA,Kyle Filipowski,C
 04/05/2026,OKC,Shai Gilgeous-Alexander,PG
 04/05/2026,OKC,Luguentz Dort,SF
@@ -11736,8 +11736,8 @@ Date,Team,Player,Pos
 04/05/2026,LAL,Deandre Ayton,C
 04/05/2026,DAL,Max Christie,SG
 04/05/2026,DAL,Naji Marshall,SF
-04/05/2026,DAL,Cooper Flagg,PF
 04/05/2026,DAL,P.J. Washington,PF
+04/05/2026,DAL,Cooper Flagg,PF
 04/05/2026,DAL,Daniel Gafford,C
 04/05/2026,LAC,Darius Garland,PG
 04/05/2026,LAC,Kawhi Leonard,SF
