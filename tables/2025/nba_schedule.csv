@@ -1158,9 +1158,9 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-04-03,8:00p,Boston Celtics,BOS,133.0,Milwaukee Bucks,MIL,101.0,0,Fiserv Forum,0,0,0,0,1
 2026-04-03,8:30p,Orlando Magic,ORL,138.0,Dallas Mavericks,DAL,127.0,0,American Airlines Center,0,0,0,0,1
 2026-04-03,10:00p,New Orleans Pelicans,NOP,113.0,Sacramento Kings,SAC,117.0,0,Golden 1 Center,1,0,0,0,1
-2026-04-04,3:00p,Washington Wizards,WAS,,Miami Heat,MIA,,0,Kaseya Center,0,0,0,0,0
-2026-04-04,3:00p,San Antonio Spurs,SAS,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-04-04,7:00p,Detroit Pistons,DET,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,1,0,0,0
+2026-04-04,3:00p,Washington Wizards,WAS,136.0,Miami Heat,MIA,152.0,0,Kaseya Center,0,0,0,0,1
+2026-04-04,3:00p,San Antonio Spurs,SAS,134.0,Denver Nuggets,DEN,136.0,1,Ball Arena,0,0,0,0,1
+2026-04-04,7:00p,Detroit Pistons,DET,116.0,Philadelphia 76ers,PHI,93.0,0,Xfinity Mobile Arena,0,1,0,0,1
 2026-04-05,3:30p,Toronto Raptors,TOR,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
 2026-04-05,3:30p,Washington Wizards,WAS,,Brooklyn Nets,BRK,,0,Barclays Center,1,0,0,0,0
 2026-04-05,3:30p,Phoenix Suns,PHO,,Chicago Bulls,CHI,,0,United Center,0,0,0,0,0
