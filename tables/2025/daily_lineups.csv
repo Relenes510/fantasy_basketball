@@ -11659,16 +11659,6 @@ Date,Team,Player,Pos
 04/05/2026,BOS,Jayson Tatum,SF
 04/05/2026,BOS,Sam Hauser,SF
 04/05/2026,BOS,Neemias Queta,C
-04/05/2026,MEM,Walter Clayton Jr.,PG
-04/05/2026,MEM,Rayan Rupert,SG
-04/05/2026,MEM,Toby Okani,SF
-04/05/2026,MEM,Taylor Hendricks,PF
-04/05/2026,MEM,Olivier-Maxence Prosper,PF
-04/05/2026,MIL,AJ Green,SG
-04/05/2026,MIL,Ryan Rollins,SG
-04/05/2026,MIL,Ousmane Dieng,SF
-04/05/2026,MIL,Kyle Kuzma,PF
-04/05/2026,MIL,Myles Turner,C
 04/05/2026,WAS,Bub Carrington,PG
 04/05/2026,WAS,Leaky Black,SF
 04/05/2026,WAS,Will Riley,SF
@@ -11677,8 +11667,8 @@ Date,Team,Player,Pos
 04/05/2026,BRK,Nolan Traore,PG
 04/05/2026,BRK,Drake Powell,SG
 04/05/2026,BRK,Jalen Wilson,SF
-04/05/2026,BRK,Chaney Johnson,PF
 04/05/2026,BRK,E.J. Liddell,PF
+04/05/2026,BRK,Chaney Johnson,PF
 04/05/2026,PHO,Jordan Goodwin,PG
 04/05/2026,PHO,Jalen Green,SG
 04/05/2026,PHO,Devin Booker,SG
@@ -11689,11 +11679,21 @@ Date,Team,Player,Pos
 04/05/2026,CHI,Isaac Okoro,SF
 04/05/2026,CHI,Guerschon Yabusele,PF
 04/05/2026,CHI,Leonard Miller,PF
+04/05/2026,MEM,Walter Clayton Jr.,PG
+04/05/2026,MEM,Rayan Rupert,SG
+04/05/2026,MEM,Toby Okani,SF
+04/05/2026,MEM,Taylor Hendricks,PF
+04/05/2026,MEM,Olivier-Maxence Prosper,PF
+04/05/2026,MIL,AJ Green,SG
+04/05/2026,MIL,Ryan Rollins,SG
+04/05/2026,MIL,Ousmane Dieng,SF
+04/05/2026,MIL,Kyle Kuzma,PF
+04/05/2026,MIL,Myles Turner,C
 04/05/2026,IND,Quenton Jackson,SG
 04/05/2026,IND,Ethan Thompson,SG
 04/05/2026,IND,Jalen Slawson,PF
-04/05/2026,IND,Micah Potter,PF
 04/05/2026,IND,Kobe Brown,PF
+04/05/2026,IND,Micah Potter,PF
 04/05/2026,CLE,James Harden,SG
 04/05/2026,CLE,Max Strus,SG
 04/05/2026,CLE,Donovan Mitchell,SG
@@ -11709,8 +11709,8 @@ Date,Team,Player,Pos
 04/05/2026,MIN,Donte DiVincenzo,SG
 04/05/2026,MIN,Julius Randle,PF
 04/05/2026,MIN,Rudy Gobert,C
-04/05/2026,ORL,Desmond Bane,SG
 04/05/2026,ORL,Jalen Suggs,SG
+04/05/2026,ORL,Desmond Bane,SG
 04/05/2026,ORL,Franz Wagner,SF
 04/05/2026,ORL,Paolo Banchero,PF
 04/05/2026,ORL,Wendell Carter Jr.,C
@@ -11720,8 +11720,8 @@ Date,Team,Player,Pos
 04/05/2026,NOP,Zion Williamson,PF
 04/05/2026,NOP,Yves Missi,C
 04/05/2026,UTA,Brice Sensabaugh,SF
-04/05/2026,UTA,Ace Bailey,SF
 04/05/2026,UTA,Cody Williams,SF
+04/05/2026,UTA,Ace Bailey,SF
 04/05/2026,UTA,Oscar Tshiebwe,PF
 04/05/2026,UTA,Kyle Filipowski,C
 04/05/2026,OKC,Shai Gilgeous-Alexander,PG
@@ -11745,8 +11745,8 @@ Date,Team,Player,Pos
 04/05/2026,LAC,Derrick Jones Jr.,SF
 04/05/2026,LAC,Brook Lopez,C
 04/05/2026,SAC,Devin Carter,PG
-04/05/2026,SAC,DeMar DeRozan,SF
 04/05/2026,SAC,Nique Clifford,SF
+04/05/2026,SAC,DeMar DeRozan,SF
 04/05/2026,SAC,Precious Achiuwa,PF
 04/05/2026,SAC,Maxime Raynaud,C
 04/05/2026,HOU,Reed Sheppard,PG
@@ -11754,21 +11754,11 @@ Date,Team,Player,Pos
 04/05/2026,HOU,Kevin Durant,PF
 04/05/2026,HOU,Jabari Smith Jr.,PF
 04/05/2026,HOU,Alperen Sengun,C
-04/05/2026,GSW,De'Anthony Melton,SG
 04/05/2026,GSW,Brandin Podziemski,SG
+04/05/2026,GSW,De'Anthony Melton,SG
 04/05/2026,GSW,Gui Santos,SF
 04/05/2026,GSW,Draymond Green,PF
 04/05/2026,GSW,Kristaps Porzingis,C
-04/06/2026,NYK,Jalen Brunson,PG
-04/06/2026,NYK,Josh Hart,SF
-04/06/2026,NYK,OG Anunoby,SF
-04/06/2026,NYK,Mikal Bridges,SF
-04/06/2026,NYK,Karl-Anthony Towns,PF
-04/06/2026,ATL,Dyson Daniels,PG
-04/06/2026,ATL,CJ McCollum,PG
-04/06/2026,ATL,Nickeil Alexander-Walker,SG
-04/06/2026,ATL,Jalen Johnson,PF
-04/06/2026,ATL,Onyeka Okongwu,C
 04/06/2026,DET,Daniss Jenkins,PG
 04/06/2026,DET,Duncan Robinson,SG
 04/06/2026,DET,Ausar Thompson,SG
@@ -11779,16 +11769,16 @@ Date,Team,Player,Pos
 04/06/2026,ORL,Franz Wagner,SF
 04/06/2026,ORL,Paolo Banchero,PF
 04/06/2026,ORL,Wendell Carter Jr.,C
-04/06/2026,PHI,Tyrese Maxey,PG
-04/06/2026,PHI,VJ Edgecombe,SG
-04/06/2026,PHI,Paul George,SF
-04/06/2026,PHI,Dominick Barlow,PF
-04/06/2026,PHI,Joel Embiid,C
-04/06/2026,SAS,De'Aaron Fox,PG
-04/06/2026,SAS,Devin Vassell,SG
-04/06/2026,SAS,Stephon Castle,SG
-04/06/2026,SAS,Julian Champagnie,SF
-04/06/2026,SAS,Victor Wembanyama,PF
+04/06/2026,NYK,Jalen Brunson,PG
+04/06/2026,NYK,OG Anunoby,SF
+04/06/2026,NYK,Josh Hart,SF
+04/06/2026,NYK,Mikal Bridges,SF
+04/06/2026,NYK,Karl-Anthony Towns,PF
+04/06/2026,ATL,Dyson Daniels,PG
+04/06/2026,ATL,CJ McCollum,PG
+04/06/2026,ATL,Nickeil Alexander-Walker,SG
+04/06/2026,ATL,Jalen Johnson,PF
+04/06/2026,ATL,Onyeka Okongwu,C
 04/06/2026,CLE,Max Strus,SG
 04/06/2026,CLE,James Harden,SG
 04/06/2026,CLE,Donovan Mitchell,SG
@@ -11799,6 +11789,16 @@ Date,Team,Player,Pos
 04/06/2026,MEM,Cedric Coward,SG
 04/06/2026,MEM,GG Jackson II,PF
 04/06/2026,MEM,Olivier-Maxence Prosper,PF
+04/06/2026,PHI,Tyrese Maxey,PG
+04/06/2026,PHI,VJ Edgecombe,SG
+04/06/2026,PHI,Paul George,SF
+04/06/2026,PHI,Dominick Barlow,PF
+04/06/2026,PHI,Joel Embiid,C
+04/06/2026,SAS,De'Aaron Fox,PG
+04/06/2026,SAS,Devin Vassell,SG
+04/06/2026,SAS,Stephon Castle,SG
+04/06/2026,SAS,Julian Champagnie,SF
+04/06/2026,SAS,Victor Wembanyama,PF
 04/06/2026,POR,Jrue Holiday,PG
 04/06/2026,POR,Matisse Thybulle,SG
 04/06/2026,POR,Deni Avdija,SF
