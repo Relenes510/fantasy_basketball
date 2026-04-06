@@ -11699,16 +11699,6 @@ Date,Team,Player,Pos
 04/05/2026,CLE,Donovan Mitchell,SG
 04/05/2026,CLE,Keon Ellis,SG
 04/05/2026,CLE,Thomas Bryant,C
-04/05/2026,UTA,Brice Sensabaugh,SF
-04/05/2026,UTA,Cody Williams,SF
-04/05/2026,UTA,Ace Bailey,SF
-04/05/2026,UTA,Oscar Tshiebwe,PF
-04/05/2026,UTA,Kyle Filipowski,C
-04/05/2026,OKC,Shai Gilgeous-Alexander,PG
-04/05/2026,OKC,Jalen Williams,SF
-04/05/2026,OKC,Luguentz Dort,SF
-04/05/2026,OKC,Isaiah Hartenstein,C
-04/05/2026,OKC,Chet Holmgren,C
 04/05/2026,CHO,LaMelo Ball,PG
 04/05/2026,CHO,Kon Knueppel,SG
 04/05/2026,CHO,Miles Bridges,SF
@@ -11729,6 +11719,16 @@ Date,Team,Player,Pos
 04/05/2026,NOP,Saddiq Bey,PF
 04/05/2026,NOP,Zion Williamson,PF
 04/05/2026,NOP,Yves Missi,C
+04/05/2026,UTA,Brice Sensabaugh,SF
+04/05/2026,UTA,Cody Williams,SF
+04/05/2026,UTA,Ace Bailey,SF
+04/05/2026,UTA,Oscar Tshiebwe,PF
+04/05/2026,UTA,Kyle Filipowski,C
+04/05/2026,OKC,Shai Gilgeous-Alexander,PG
+04/05/2026,OKC,Jalen Williams,SF
+04/05/2026,OKC,Luguentz Dort,SF
+04/05/2026,OKC,Isaiah Hartenstein,C
+04/05/2026,OKC,Chet Holmgren,C
 04/05/2026,LAL,Luke Kennard,SG
 04/05/2026,LAL,LeBron James,SF
 04/05/2026,LAL,Rui Hachimura,PF
@@ -11736,8 +11736,8 @@ Date,Team,Player,Pos
 04/05/2026,LAL,Deandre Ayton,C
 04/05/2026,DAL,Max Christie,SG
 04/05/2026,DAL,Naji Marshall,SF
-04/05/2026,DAL,Cooper Flagg,PF
 04/05/2026,DAL,P.J. Washington,PF
+04/05/2026,DAL,Cooper Flagg,PF
 04/05/2026,DAL,Daniel Gafford,C
 04/05/2026,LAC,Kris Dunn,PG
 04/05/2026,LAC,Darius Garland,PG
@@ -11754,8 +11754,8 @@ Date,Team,Player,Pos
 04/05/2026,HOU,Kevin Durant,PF
 04/05/2026,HOU,Jabari Smith Jr.,PF
 04/05/2026,HOU,Alperen Sengun,C
-04/05/2026,GSW,De'Anthony Melton,SG
 04/05/2026,GSW,Brandin Podziemski,SG
+04/05/2026,GSW,De'Anthony Melton,SG
 04/05/2026,GSW,Gui Santos,SF
 04/05/2026,GSW,Draymond Green,PF
 04/05/2026,GSW,Kristaps Porzingis,C
