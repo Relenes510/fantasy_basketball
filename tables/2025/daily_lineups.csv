@@ -11649,6 +11649,16 @@ Date,Team,Player,Pos
 04/04/2026,PHI,Paul George,SF
 04/04/2026,PHI,Kelly Oubre Jr.,SF
 04/04/2026,PHI,Andre Drummond,C
+04/05/2026,TOR,Ja'Kobe Walter,SG
+04/05/2026,TOR,RJ Barrett,SG
+04/05/2026,TOR,Brandon Ingram,SF
+04/05/2026,TOR,Scottie Barnes,SF
+04/05/2026,TOR,Jakob Poeltl,C
+04/05/2026,BOS,Derrick White,SG
+04/05/2026,BOS,Jaylen Brown,SG
+04/05/2026,BOS,Jayson Tatum,SF
+04/05/2026,BOS,Sam Hauser,SF
+04/05/2026,BOS,Neemias Queta,C
 04/05/2026,WAS,Bub Carrington,PG
 04/05/2026,WAS,Leaky Black,SF
 04/05/2026,WAS,Will Riley,SF
@@ -11669,16 +11679,6 @@ Date,Team,Player,Pos
 04/05/2026,CHI,Isaac Okoro,SF
 04/05/2026,CHI,Guerschon Yabusele,PF
 04/05/2026,CHI,Leonard Miller,PF
-04/05/2026,TOR,Ja'Kobe Walter,SG
-04/05/2026,TOR,RJ Barrett,SG
-04/05/2026,TOR,Brandon Ingram,SF
-04/05/2026,TOR,Scottie Barnes,SF
-04/05/2026,TOR,Jakob Poeltl,C
-04/05/2026,BOS,Derrick White,SG
-04/05/2026,BOS,Jaylen Brown,SG
-04/05/2026,BOS,Jayson Tatum,SF
-04/05/2026,BOS,Sam Hauser,SF
-04/05/2026,BOS,Neemias Queta,C
 04/05/2026,MEM,Walter Clayton Jr.,PG
 04/05/2026,MEM,Rayan Rupert,SG
 04/05/2026,MEM,Toby Okani,SF
@@ -11830,8 +11830,8 @@ Date,Team,Player,Pos
 04/06/2026,NOP,Zion Williamson,PF
 04/06/2026,NOP,Yves Missi,C
 04/06/2026,UTA,Brice Sensabaugh,SF
-04/06/2026,UTA,Ace Bailey,SF
 04/06/2026,UTA,Cody Williams,SF
+04/06/2026,UTA,Ace Bailey,SF
 04/06/2026,UTA,Oscar Tshiebwe,PF
 04/06/2026,UTA,Kyle Filipowski,C
 04/06/2026,OKC,Shai Gilgeous-Alexander,PG
@@ -11846,8 +11846,8 @@ Date,Team,Player,Pos
 04/06/2026,LAL,Deandre Ayton,C
 04/06/2026,DAL,Max Christie,SG
 04/06/2026,DAL,Naji Marshall,SF
-04/06/2026,DAL,P.J. Washington,PF
 04/06/2026,DAL,Cooper Flagg,PF
+04/06/2026,DAL,P.J. Washington,PF
 04/06/2026,DAL,Daniel Gafford,C
 04/06/2026,LAC,Darius Garland,PG
 04/06/2026,LAC,Kawhi Leonard,SF
