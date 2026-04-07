@@ -10650,14 +10650,14 @@ Date,Team,Player,Status,Reason
 04/07/2026,CHI,Collin Sexton,Probable,Injury/Illness - Right Finger; Mallet Finger
 04/07/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 04/07/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Strain
-04/07/2026,WAS,Justin Champagnie,Questionable,Injury/Illness - Right Knee; Contusion
-04/07/2026,WAS,Bilal Coulibaly,Questionable,Injury/Illness - Right Retrocalcaneal; Bursitis
+04/07/2026,CHI,Patrick Williams,Probable,Injury/Illness - Left Thumb; Sprain
 04/07/2026,WAS,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
 04/07/2026,WAS,Kyshawn George,Out,Injury/Illness - Left Elbow; Sprain
-04/07/2026,WAS,Tre Johnson,Questionable,Injury/Illness - Right Foot; Sprain
+04/07/2026,WAS,Jaden Hardy,Out,Injury/Illness - Low Back; Spasm
+04/07/2026,WAS,Tre Johnson,Out,Injury/Illness - Right Foot; Sprain; Low Back Soreness
 04/07/2026,WAS,D'Angelo Russell,Out,Not With Team
 04/07/2026,WAS,Alex Sarr,Out,Injury/Illness - Left Big Toe; Capsulitis
-04/07/2026,WAS,Tristan Vukcevic,Questionable,Injury/Illness - Right Knee; Contusion
+04/07/2026,WAS,Tristan Vukcevic,Out,Injury/Illness - Right Knee; Contusion
 04/07/2026,WAS,Cam Whitmore,Out,Injury/Illness - Right Shoulder; Deep Vein Thrombosis
 04/07/2026,WAS,Trae Young,Out,Injury/Illness - Low Back; Pain; Right Quad Contusion
 04/07/2026,MIN,Anthony Edwards,Out,Injury/Illness - Right Knee; Injury Maintenance
@@ -10672,11 +10672,12 @@ Date,Team,Player,Status,Reason
 04/07/2026,IND,Obi Toppin,Probable,Injury/Illness - Right Foot; Injury Management
 04/07/2026,IND,Jarace Walker,Questionable,Injury/Illness - Sacral; Contusion
 04/07/2026,IND,Ivica Zubac,Out,Injury/Illness - Right Rib; Fracture
+04/07/2026,MIA,Tyler Herro,Probable,Injury/Illness - Right Foot; Soreness
 04/07/2026,MIA,Nikola Jovic,Out,Injury/Illness - Left Ankle; Sprain
 04/07/2026,MIA,Terry Rozier,Out,Not With Team
 04/07/2026,TOR,Chucky Hepburn,Out,Injury/Illness - Right Knee; Surgery Recovery
 04/07/2026,TOR,Sandro Mamukelashvili,Questionable,Injury/Illness - Left Knee; Soreness
-04/07/2026,TOR,Collin Murray-Boyles,Questionable,Injury/Illness - Right Quad; Contusion
+04/07/2026,TOR,Collin Murray-Boyles,Questionable,Injury/Illness - Left Quad; Contusion
 04/07/2026,TOR,Immanuel Quickley,Questionable,Injury/Illness - Right Foot; Plantar Fasciitis
 04/07/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Left Knee; Hyperextension; Bone Bruise
 04/07/2026,MIL,Kyle Kuzma,Out,Injury/Illness - Right Achilles; Tendonopathy
@@ -10699,22 +10700,24 @@ Date,Team,Player,Status,Reason
 04/07/2026,CHO,Liam McNeeley,Out,G League - On Assignment
 04/07/2026,CHO,Antonio Reeves,Out,G League - Two-Way
 04/07/2026,CHO,Tidjane Salaun,Out,G League - On Assignment
-04/07/2026,CHO,Coby White,Probable,Injury/Illness - Left Groin; Soreness
-04/07/2026,UTA,Ace Bailey,Questionable,Injury/Illness - Right Knee; Contusion
+04/07/2026,CHO,Coby White,Questionable,Injury/Illness - Left Groin; Soreness
+04/07/2026,UTA,Ace Bailey,Doubtful,Injury/Illness - Right Knee; Contusion
 04/07/2026,UTA,Isaiah Collier,Out,Injury/Illness - Left Hamstring; Strain
-04/07/2026,UTA,Kyle Filipowski,Questionable,Injury/Illness - Low Back; Injury Management
+04/07/2026,UTA,Kyle Filipowski,Probable,Injury/Illness - Low Back; Injury Management
 04/07/2026,UTA,Keyonte George,Out,Injury/Illness - Right Hamstring; Strain
 04/07/2026,UTA,Elijah Harkless,Out,Injury/Illness - Left Hamstring; Strain
 04/07/2026,UTA,Jaren Jackson Jr.,Out,Injury/Illness - Left Knee; Injury Recovery
 04/07/2026,UTA,Walker Kessler,Out,Injury/Illness - Left Shoulder; Injury Recovery
 04/07/2026,UTA,Lauri Markkanen,Out,Injury/Illness - Right Hip; Impingement
 04/07/2026,UTA,Jusuf Nurkic,Out,Injury/Illness - Nose; Injury Recovery
-04/07/2026,NOP,Karlo Matkovic,Questionable,Injury/Illness - Low Back; Injury Management
+04/07/2026,NOP,Jordan Hawkins,Questionable,Injury/Illness - N/A; Illness
+04/07/2026,NOP,Karlo Matkovic,Out,Injury/Illness - Low Back; Injury Management
 04/07/2026,NOP,Bryce McGowens,Out,Injury/Illness - Right Small Toe; Fracture
+04/07/2026,NOP,Yves Missi,Questionable,Injury/Illness - Right Hand; Sprain
 04/07/2026,NOP,Trey Murphy III,Out,Injury/Illness - Right Ankle; Sprain
-04/07/2026,NOP,Dejounte Murray,Questionable,Injury/Illness - Left Hand; Contusion
+04/07/2026,NOP,Dejounte Murray,Out,Injury/Illness - Left Hand; Contusion
 04/07/2026,SAC,Patrick Baldwin Jr.,Out,G League - Two-Way
-04/07/2026,SAC,DeMar DeRozan,Questionable,Injury/Illness - Right Hamstring; Soreness
+04/07/2026,SAC,DeMar DeRozan,Out,Injury/Illness - Right Hamstring; Soreness
 04/07/2026,SAC,Drew Eubanks,Out,Injury/Illness - Left Thumb; UCL Repair
 04/07/2026,SAC,De'Andre Hunter,Out,Injury/Illness - Left Eye; Retinal Repair
 04/07/2026,SAC,Zach LaVine,Out,Injury/Illness - Right 5th Finger; Tendon Repair
@@ -10723,26 +10726,27 @@ Date,Team,Player,Status,Reason
 04/07/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
 04/07/2026,SAC,Russell Westbrook,Out,Injury/Illness - Right Toe; Injury Management
 04/07/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Surgery
-04/07/2026,GSW,LJ Cryer,Probable,Injury/Illness - General; Illness
+04/07/2026,GSW,LJ Cryer,Questionable,Injury/Illness - General; Illness
 04/07/2026,GSW,Stephen Curry,Probable,Injury/Illness - Right Patellofemoral; Pain Syndrome
 04/07/2026,GSW,Al Horford,Out,Injury/Illness - Right Soleus; Strain
 04/07/2026,GSW,Moses Moody,Out,Injury/Illness - Left Patellar Tendon; Surgery
 04/07/2026,GSW,Kristaps Porzingis,Questionable,Injury/Illness - Right Knee; Soreness
 04/07/2026,GSW,Quinten Post,Out,Injury/Illness - Right Foot; Injury Management
 04/07/2026,GSW,Gui Santos,Out,Injury/Illness - Right Pelvic; Contusion
-04/07/2026,DAL,Marvin Bagley III,Questionable,Injury/Illness - Left Shoulder; Impingement
-04/07/2026,DAL,Moussa Cisse,Probable,G League - Two-Way
+04/07/2026,DAL,Marvin Bagley III,Probable,Injury/Illness - Left Shoulder; Impingement
+04/07/2026,DAL,Moussa Cisse,Questionable,G League - Two-Way
 04/07/2026,DAL,Daniel Gafford,Doubtful,Injury/Illness - Right Shoulder; Impingement
 04/07/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
 04/07/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
 04/07/2026,DAL,Caleb Martin,Doubtful,Injury/Illness - Right Plantar Fascia; Strain
 04/07/2026,DAL,John Poulakidas,Probable,G League - Two-Way
 04/07/2026,DAL,Tyler Smith,Probable,G League - Two-Way
-04/07/2026,DAL,Brandon Williams,Questionable,Injury/Illness - Illness; Illness
+04/07/2026,DAL,P.J. Washington,Doubtful,Injury/Illness - Left Elbow; Soreness
+04/07/2026,DAL,Brandon Williams,Doubtful,Injury/Illness - Illness; Illness
 04/07/2026,OKC,Thomas Sorber,Out,Injury/Illness - Right ACL; Surgical Recovery
 04/07/2026,OKC,Jalen Williams,Out,Injury/Illness - Right Hamstring; Injury Management
 04/07/2026,LAL,Luka Doncic,Out,Injury/Illness - Left Hamstring; Strain
-04/07/2026,LAL,LeBron James,Questionable,Injury/Illness - Left Foot; Injury Management
+04/07/2026,LAL,LeBron James,Out,Injury/Illness - Left Foot; Injury Management
 04/07/2026,LAL,Austin Reaves,Out,Injury/Illness - Left Oblique; Muscle Strain
 04/07/2026,LAL,Marcus Smart,Out,Injury/Illness - Right Ankle; Contusion
 04/07/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
