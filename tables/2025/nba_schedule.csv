@@ -1177,16 +1177,16 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-04-06,8:00p,Cleveland Cavaliers,CLE,142.0,Memphis Grizzlies,MEM,126.0,0,FedExForum,1,1,0,0,1
 2026-04-06,8:00p,Philadelphia 76ers,PHI,102.0,San Antonio Spurs,SAS,115.0,0,Frost Bank Center,0,0,0,0,1
 2026-04-06,9:00p,Portland Trail Blazers,POR,132.0,Denver Nuggets,DEN,137.0,1,Ball Arena,0,0,0,0,1
-2026-04-07,7:00p,Minnesota Timberwolves,MIN,,Indiana Pacers,IND,,0,Gainbridge Fieldhouse,0,0,0,0,0
-2026-04-07,7:00p,Chicago Bulls,CHI,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2026-04-07,7:30p,Milwaukee Bucks,MIL,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-04-07,7:30p,Miami Heat,MIA,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2026-04-07,8:00p,Charlotte Hornets,CHO,,Boston Celtics,BOS,,0,TD Garden,0,0,0,0,0
-2026-04-07,8:00p,Utah Jazz,UTA,,New Orleans Pelicans,NOP,,0,Smoothie King Center,0,0,0,0,0
-2026-04-07,10:00p,Sacramento Kings,SAC,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
-2026-04-07,10:30p,Oklahoma City Thunder,OKC,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,0,0
-2026-04-07,10:30p,Dallas Mavericks,DAL,,Los Angeles Clippers,LAC,,0,Intuit Dome,0,0,0,0,0
-2026-04-07,11:00p,Houston Rockets,HOU,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,0,0,0,0,0
+2026-04-07,7:00p,Minnesota Timberwolves,MIN,124.0,Indiana Pacers,IND,104.0,0,Gainbridge Fieldhouse,0,0,0,0,1
+2026-04-07,7:00p,Chicago Bulls,CHI,129.0,Washington Wizards,WAS,98.0,0,Capital One Arena,0,0,0,0,1
+2026-04-07,7:30p,Milwaukee Bucks,MIL,90.0,Brooklyn Nets,BRK,96.0,0,Barclays Center,0,0,0,0,1
+2026-04-07,7:30p,Miami Heat,MIA,95.0,Toronto Raptors,TOR,121.0,0,Scotiabank Arena,0,0,0,0,1
+2026-04-07,8:00p,Charlotte Hornets,CHO,102.0,Boston Celtics,BOS,113.0,0,TD Garden,0,0,0,0,1
+2026-04-07,8:00p,Utah Jazz,UTA,137.0,New Orleans Pelicans,NOP,156.0,0,Smoothie King Center,0,0,0,0,1
+2026-04-07,10:00p,Sacramento Kings,SAC,105.0,Golden State Warriors,GSW,110.0,0,Chase Center,0,0,0,0,1
+2026-04-07,10:30p,Oklahoma City Thunder,OKC,123.0,Los Angeles Lakers,LAL,87.0,0,Crypto.com Arena,0,0,0,0,1
+2026-04-07,10:30p,Dallas Mavericks,DAL,103.0,Los Angeles Clippers,LAC,116.0,0,Intuit Dome,0,0,0,0,1
+2026-04-07,11:00p,Houston Rockets,HOU,119.0,Phoenix Suns,PHO,105.0,0,Mortgage Matchup Center,0,0,0,0,1
 2026-04-08,7:00p,Atlanta Hawks,ATL,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
 2026-04-08,7:00p,Milwaukee Bucks,MIL,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
 2026-04-08,7:00p,Minnesota Timberwolves,MIN,,Orlando Magic,ORL,,0,Kia Center,1,0,0,0,0

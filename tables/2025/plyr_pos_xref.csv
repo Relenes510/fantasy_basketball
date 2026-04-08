@@ -15,6 +15,7 @@ ATL,Jonathan Kuminga,PF
 ATL,Christian Koloko,C
 ATL,Buddy Hield,SG
 ATL,RayJ Dennis,PG
+ATL,Tony Bradley,C
 ATL,Keshon Gilbert,SG
 BOS,Payton Pritchard,PG
 BOS,Sam Hauser,PF
@@ -44,8 +45,8 @@ BRK,Egor Dmin,PG
 BRK,Jalen Wilson,PF
 BRK,Ben Saraf,SG
 BRK,E.J. Liddell,PF
-BRK,Ochai Agbaji,SG
 BRK,Tyson Etienne,PG
+BRK,Ochai Agbaji,SG
 BRK,Josh Minott,SF
 BRK,Chaney Johnson,SF
 BRK,Malachi Smith,SG
@@ -110,8 +111,8 @@ DAL,Cooper Flagg,SF
 DAL,Brandon Williams,PG
 DAL,Dwight Powell,C
 DAL,Caleb Martin,SF
-DAL,P.J. Washington,PF
 DAL,Ryan Nembhard,PG
+DAL,P.J. Washington,PF
 DAL,Daniel Gafford,C
 DAL,Moussa Cisse,C
 DAL,Khris Middleton,SF
@@ -174,6 +175,7 @@ GSW,LJ Cryer,PG
 GSW,Kristaps Porzingis,C
 GSW,Nate Williams,SG
 GSW,Seth Curry,SG
+GSW,Charles Bassey,C
 HOU,Reed Sheppard,SG
 HOU,Amen Thompson,PG
 HOU,Kevin Durant,SF
@@ -197,8 +199,8 @@ IND,Ben Sheppard,SG
 IND,Pascal Siakam,PF
 IND,Andrew Nembhard,PG
 IND,T.J. McConnell,PG
-IND,Aaron Nesmith,SF
 IND,Quenton Jackson,PG
+IND,Aaron Nesmith,SF
 IND,Micah Potter,C
 IND,Johnny Furphy,SG
 IND,Taelon Peter,SG
@@ -221,8 +223,8 @@ LAC,Derrick Jones Jr.,SF
 LAC,Yanic Konan Niederhauser,C
 LAC,Bennedict Mathurin,SF
 LAC,Bogdan Bogdanovic,SG
-LAC,Isaiah Jackson,C
 LAC,Darius Garland,PG
+LAC,Isaiah Jackson,C
 LAC,TyTy Washington Jr.,PG
 LAC,Bradley Beal,SG
 LAC,Sean Pedulla,PG
@@ -230,8 +232,8 @@ LAC,Norchad Omier,PF
 LAL,Jake LaRavia,PF
 LAL,Deandre Ayton,C
 LAL,Jaxson Hayes,C
-LAL,Luka Doncic,PG
 LAL,Rui Hachimura,PF
+LAL,Luka Doncic,PG
 LAL,Jarred Vanderbilt,PF
 LAL,Marcus Smart,SG
 LAL,LeBron James,SF
@@ -262,15 +264,14 @@ MEM,Rayan Rupert,SG
 MEM,Zach Edey,C
 MEM,Scotty Pippen Jr.,PG
 MEM,Taj Gibson,C
-MEM,Adama-Alpha Bal,G
-MEM,Lucas Williamson,G
+MEM,Lucas Williamson,SG
 MEM,Dariq Whitehead,SF
-MEM,Toby Okani,F
+MEM,Toby Okani,SG
 MEM,Brandon Clarke,PF
 MIA,Kel'el Ware,C
 MIA,Jaime Jaquez Jr.,SF
-MIA,Dru Smith,SG
 MIA,Bam Adebayo,C
+MIA,Dru Smith,SG
 MIA,Simone Fontecchio,SF
 MIA,Pelle Larsson,SG
 MIA,Davion Mitchell,PG
@@ -451,8 +452,8 @@ SAC,Maxime Raynaud,C
 SAC,Precious Achiuwa,C
 SAC,Russell Westbrook,SF
 SAC,Malik Monk,SG
-SAC,Drew Eubanks,C
 SAC,Dylan Cardwell,C
+SAC,Drew Eubanks,C
 SAC,Zach LaVine,SG
 SAC,Devin Carter,PG
 SAC,Daeqwon Plowden,SG
@@ -493,11 +494,12 @@ TOR,RJ Barrett,SF
 TOR,Collin Murray-Boyles,PF
 TOR,Jakob Poeltl,C
 TOR,Jonathan Mogbo,PF
+TOR,A.J. Lawson,SG
 TOR,Alijah Martin,SG
 TOR,Garrett Temple,SG
-TOR,A.J. Lawson,SG
 TOR,Trayce Jackson-Davis,C
 TOR,Chucky Hepburn,PG
+TOR,Tyreke Key,G
 UTA,Kyle Filipowski,C
 UTA,Brice Sensabaugh,SF
 UTA,Ace Bailey,SF
