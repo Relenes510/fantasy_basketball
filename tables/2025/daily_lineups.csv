@@ -11889,8 +11889,8 @@ Date,Team,Player,Pos
 04/07/2026,LAC,Derrick Jones Jr.,SF
 04/07/2026,LAC,Kawhi Leonard,SF
 04/07/2026,LAC,Brook Lopez,C
-04/07/2026,OKC,Shai Gilgeous-Alexander,PG
 04/07/2026,OKC,Ajay Mitchell,PG
+04/07/2026,OKC,Shai Gilgeous-Alexander,PG
 04/07/2026,OKC,Luguentz Dort,SF
 04/07/2026,OKC,Chet Holmgren,C
 04/07/2026,OKC,Isaiah Hartenstein,C
@@ -11919,16 +11919,6 @@ Date,Team,Player,Pos
 04/08/2026,CLE,Donovan Mitchell,SG
 04/08/2026,CLE,Evan Mobley,PF
 04/08/2026,CLE,Jarrett Allen,C
-04/08/2026,MIL,AJ Green,SG
-04/08/2026,MIL,Gary Harris,SG
-04/08/2026,MIL,Ousmane Dieng,SF
-04/08/2026,MIL,Pete Nance,PF
-04/08/2026,MIL,Jericho Sims,C
-04/08/2026,DET,Daniss Jenkins,PG
-04/08/2026,DET,Ausar Thompson,SG
-04/08/2026,DET,Duncan Robinson,SG
-04/08/2026,DET,Tobias Harris,SF
-04/08/2026,DET,Jalen Duren,C
 04/08/2026,MIN,Anthony Edwards,SG
 04/08/2026,MIN,Donte DiVincenzo,SG
 04/08/2026,MIN,Terrence Shannon Jr.,SG
@@ -11939,10 +11929,20 @@ Date,Team,Player,Pos
 04/08/2026,ORL,Franz Wagner,SF
 04/08/2026,ORL,Paolo Banchero,PF
 04/08/2026,ORL,Wendell Carter Jr.,C
+04/08/2026,MIL,AJ Green,SG
+04/08/2026,MIL,Gary Harris,SG
+04/08/2026,MIL,Ousmane Dieng,SF
+04/08/2026,MIL,Pete Nance,PF
+04/08/2026,MIL,Jericho Sims,C
+04/08/2026,DET,Daniss Jenkins,PG
+04/08/2026,DET,Ausar Thompson,SG
+04/08/2026,DET,Duncan Robinson,SG
+04/08/2026,DET,Tobias Harris,SF
+04/08/2026,DET,Jalen Duren,C
 04/08/2026,MEM,Walter Clayton Jr.,PG
-04/08/2026,MEM,Adama Bal,SG
 04/08/2026,MEM,Rayan Rupert,SG
 04/08/2026,MEM,Cedric Coward,SG
+04/08/2026,MEM,Adama Bal,SG
 04/08/2026,MEM,Taylor Hendricks,PF
 04/08/2026,DEN,Jamal Murray,PG
 04/08/2026,DEN,Christian Braun,SG
