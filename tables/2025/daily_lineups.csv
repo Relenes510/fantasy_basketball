@@ -11919,16 +11919,6 @@ Date,Team,Player,Pos
 04/08/2026,CLE,Dean Wade,PF
 04/08/2026,CLE,Evan Mobley,PF
 04/08/2026,CLE,Jarrett Allen,C
-04/08/2026,MIL,AJ Green,SG
-04/08/2026,MIL,Ryan Rollins,SG
-04/08/2026,MIL,Taurean Prince,SF
-04/08/2026,MIL,Ousmane Dieng,SF
-04/08/2026,MIL,Jericho Sims,C
-04/08/2026,DET,Cade Cunningham,PG
-04/08/2026,DET,Ausar Thompson,SG
-04/08/2026,DET,Duncan Robinson,SG
-04/08/2026,DET,Tobias Harris,SF
-04/08/2026,DET,Jalen Duren,C
 04/08/2026,MIN,Donte DiVincenzo,SG
 04/08/2026,MIN,Kyle Anderson,SF
 04/08/2026,MIN,Joe Ingles,SF
@@ -11939,6 +11929,16 @@ Date,Team,Player,Pos
 04/08/2026,ORL,Franz Wagner,SF
 04/08/2026,ORL,Paolo Banchero,PF
 04/08/2026,ORL,Wendell Carter Jr.,C
+04/08/2026,MIL,AJ Green,SG
+04/08/2026,MIL,Ryan Rollins,SG
+04/08/2026,MIL,Taurean Prince,SF
+04/08/2026,MIL,Ousmane Dieng,SF
+04/08/2026,MIL,Jericho Sims,C
+04/08/2026,DET,Cade Cunningham,PG
+04/08/2026,DET,Ausar Thompson,SG
+04/08/2026,DET,Duncan Robinson,SG
+04/08/2026,DET,Tobias Harris,SF
+04/08/2026,DET,Jalen Duren,C
 04/08/2026,MEM,Walter Clayton Jr.,PG
 04/08/2026,MEM,Cedric Coward,SG
 04/08/2026,MEM,Jahmai Mashack,SF
@@ -11962,8 +11962,8 @@ Date,Team,Player,Pos
 04/08/2026,OKC,Shai Gilgeous-Alexander,PG
 04/08/2026,OKC,Luguentz Dort,SF
 04/08/2026,OKC,Jalen Williams,SF
-04/08/2026,OKC,Chet Holmgren,C
 04/08/2026,OKC,Isaiah Hartenstein,C
+04/08/2026,OKC,Chet Holmgren,C
 04/08/2026,LAC,Kris Dunn,PG
 04/08/2026,LAC,Kawhi Leonard,SF
 04/08/2026,LAC,Derrick Jones Jr.,SF
@@ -11981,12 +11981,12 @@ Date,Team,Player,Pos
 04/08/2026,PHO,Khaman Maluach,C
 04/09/2026,CHI,Collin Sexton,PG
 04/09/2026,CHI,Tre Jones,PG
+04/09/2026,CHI,Guerschon Yabusele,PF
 04/09/2026,CHI,Patrick Williams,PF
 04/09/2026,CHI,Leonard Miller,PF
-04/09/2026,CHI,Guerschon Yabusele,PF
 04/09/2026,WAS,Bub Carrington,PG
-04/09/2026,WAS,Tre Johnson,SG
-04/09/2026,WAS,Bilal Coulibaly,SG
+04/09/2026,WAS,Justin Champagnie,SG
+04/09/2026,WAS,Jamir Watkins,SG
 04/09/2026,WAS,Will Riley,SF
 04/09/2026,WAS,Julian Reese,PF
 04/09/2026,MIA,Davion Mitchell,PG
@@ -11996,10 +11996,10 @@ Date,Team,Player,Pos
 04/09/2026,MIA,Bam Adebayo,C
 04/09/2026,TOR,Immanuel Quickley,PG
 04/09/2026,TOR,RJ Barrett,SG
-04/09/2026,TOR,Scottie Barnes,SF
 04/09/2026,TOR,Brandon Ingram,SF
+04/09/2026,TOR,Scottie Barnes,SF
 04/09/2026,TOR,Jakob Poeltl,C
-04/09/2026,BOS,Jaylen Brown,SG
+04/09/2026,BOS,Payton Pritchard,PG
 04/09/2026,BOS,Derrick White,SG
 04/09/2026,BOS,Jayson Tatum,SF
 04/09/2026,BOS,Sam Hauser,SF
@@ -12011,8 +12011,8 @@ Date,Team,Player,Pos
 04/09/2026,NYK,Karl-Anthony Towns,PF
 04/09/2026,IND,Quenton Jackson,SG
 04/09/2026,IND,Ethan Thompson,SG
-04/09/2026,IND,Jalen Slawson,PF
 04/09/2026,IND,Kobe Brown,PF
+04/09/2026,IND,Jalen Slawson,PF
 04/09/2026,IND,Jay Huff,C
 04/09/2026,BRK,Ben Saraf,PG
 04/09/2026,BRK,Drake Powell,SG
@@ -12023,19 +12023,19 @@ Date,Team,Player,Pos
 04/09/2026,PHI,VJ Edgecombe,SG
 04/09/2026,PHI,Paul George,SF
 04/09/2026,PHI,Dominick Barlow,PF
-04/09/2026,PHI,Joel Embiid,C
+04/09/2026,PHI,Andre Drummond,C
 04/09/2026,HOU,Reed Sheppard,PG
 04/09/2026,HOU,Amen Thompson,SG
 04/09/2026,HOU,Kevin Durant,PF
 04/09/2026,HOU,Jabari Smith Jr.,PF
 04/09/2026,HOU,Alperen Sengun,C
-04/09/2026,LAL,Marcus Smart,PG
+04/09/2026,LAL,Nick Smith Jr.,PG
 04/09/2026,LAL,LeBron James,SF
 04/09/2026,LAL,Jake LaRavia,PF
 04/09/2026,LAL,Rui Hachimura,PF
 04/09/2026,LAL,Deandre Ayton,C
-04/09/2026,GSW,Stephen Curry,PG
 04/09/2026,GSW,De'Anthony Melton,SG
 04/09/2026,GSW,Brandin Podziemski,SG
+04/09/2026,GSW,Nate Williams,SF
 04/09/2026,GSW,Gui Santos,SF
 04/09/2026,GSW,Draymond Green,PF
