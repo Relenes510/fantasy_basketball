@@ -87,8 +87,8 @@ CHI,Anfernee Simons,SG
 CHI,Mac McClung,SG
 CHI,Noa Essengue,PF
 CLE,Donovan Mitchell,SG
-CLE,Jaylon Tyson,SG
 CLE,Evan Mobley,PF
+CLE,Jaylon Tyson,SG
 CLE,Nae'Qwan Tomlin,PF
 CLE,Craig Porter Jr.,PG
 CLE,Thomas Bryant,C
@@ -104,14 +104,14 @@ CLE,Max Strus,SF
 CLE,Tristan Enaruna,SF
 CLE,Riley Minix,SF
 CLE,Olivier Sarr,C
-DAL,Naji Marshall,SF
 DAL,Max Christie,SG
-DAL,Klay Thompson,SF
+DAL,Naji Marshall,SF
 DAL,Cooper Flagg,SF
+DAL,Klay Thompson,SF
 DAL,Brandon Williams,PG
 DAL,Dwight Powell,C
-DAL,Caleb Martin,SF
 DAL,Ryan Nembhard,PG
+DAL,Caleb Martin,SF
 DAL,P.J. Washington,PF
 DAL,Daniel Gafford,C
 DAL,Moussa Cisse,C
@@ -125,11 +125,11 @@ DAL,Kyrie Irving,SG
 DEN,Bruce Brown,SG
 DEN,Tim Hardaway Jr.,SG
 DEN,Jamal Murray,PG
-DEN,Spencer Jones,SF
 DEN,Nikola Jokic,C
+DEN,Spencer Jones,SF
 DEN,Jonas Valanciunas,C
-DEN,Peyton Watson,SF
 DEN,Julian Strawther,SG
+DEN,Peyton Watson,SF
 DEN,Cameron Johnson,SF
 DEN,Zeke Nnaji,PF
 DEN,Jalen Pickett,SG
@@ -155,7 +155,6 @@ DET,Marcus Sasser,PG
 DET,Chaz Lanier,SG
 DET,Kevin Huerter,SG
 DET,Tolu Smith,PF
-DET,Bobi Klintman,SF
 DET,Wendell Moore Jr.,SG
 DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
@@ -264,6 +263,7 @@ MEM,Rayan Rupert,SG
 MEM,Zach Edey,C
 MEM,Scotty Pippen Jr.,PG
 MEM,Taj Gibson,C
+MEM,Adama-Alpha Bal,SG
 MEM,Lucas Williamson,SG
 MEM,Dariq Whitehead,SF
 MEM,Toby Okani,SG
@@ -303,8 +303,8 @@ MIL,Ousmane Dieng,C
 MIL,Taurean Prince,SF
 MIL,Cormac Ryan,SG
 MIL,Alex Antetokounmpo,SF
-MIN,Julius Randle,PF
 MIN,Donte DiVincenzo,SG
+MIN,Julius Randle,PF
 MIN,Naz Reid,C
 MIN,Rudy Gobert,C
 MIN,Jaden McDaniels,PF
@@ -382,16 +382,16 @@ ORL,Paolo Banchero,PF
 ORL,Anthony Black,PG
 ORL,Goga Bitadze,C
 ORL,Noah Penda,SF
-ORL,Jett Howard,SF
 ORL,Jalen Suggs,PG
+ORL,Jett Howard,SF
 ORL,Jase Richardson,SG
 ORL,Jonathan Isaac,PF
 ORL,Jamal Cain,SF
 ORL,Moritz Wagner,C
 ORL,Franz Wagner,SF
 ORL,Jevon Carter,PG
-ORL,Colin Castleton,C
 ORL,Alex Morales,PG
+ORL,Colin Castleton,C
 PHI,VJ Edgecombe,SG
 PHI,Quentin Grimes,SG
 PHI,Dominick Barlow,PF

@@ -1187,13 +1187,13 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-04-07,10:30p,Oklahoma City Thunder,OKC,123.0,Los Angeles Lakers,LAL,87.0,0,Crypto.com Arena,0,0,0,0,1
 2026-04-07,10:30p,Dallas Mavericks,DAL,103.0,Los Angeles Clippers,LAC,116.0,0,Intuit Dome,0,0,0,0,1
 2026-04-07,11:00p,Houston Rockets,HOU,119.0,Phoenix Suns,PHO,105.0,0,Mortgage Matchup Center,0,0,0,0,1
-2026-04-08,7:00p,Atlanta Hawks,ATL,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,0,0
-2026-04-08,7:00p,Milwaukee Bucks,MIL,,Detroit Pistons,DET,,0,Little Caesars Arena,1,0,0,0,0
-2026-04-08,7:00p,Minnesota Timberwolves,MIN,,Orlando Magic,ORL,,0,Kia Center,1,0,0,0,0
-2026-04-08,9:00p,Memphis Grizzlies,MEM,,Denver Nuggets,DEN,,0,Ball Arena,0,0,0,0,0
-2026-04-08,9:30p,Portland Trail Blazers,POR,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,0,0
-2026-04-08,10:00p,Dallas Mavericks,DAL,,Phoenix Suns,PHO,,0,Mortgage Matchup Center,1,1,0,0,0
-2026-04-08,10:00p,Oklahoma City Thunder,OKC,,Los Angeles Clippers,LAC,,0,Intuit Dome,1,1,0,0,0
+2026-04-08,7:00p,Atlanta Hawks,ATL,116.0,Cleveland Cavaliers,CLE,122.0,0,Rocket Arena,0,0,0,0,1
+2026-04-08,7:00p,Milwaukee Bucks,MIL,111.0,Detroit Pistons,DET,137.0,0,Little Caesars Arena,1,0,0,0,1
+2026-04-08,7:00p,Minnesota Timberwolves,MIN,120.0,Orlando Magic,ORL,132.0,0,Kia Center,1,0,0,0,1
+2026-04-08,9:00p,Memphis Grizzlies,MEM,119.0,Denver Nuggets,DEN,136.0,0,Ball Arena,0,0,0,0,1
+2026-04-08,9:30p,Portland Trail Blazers,POR,101.0,San Antonio Spurs,SAS,112.0,0,Frost Bank Center,0,0,0,0,1
+2026-04-08,10:00p,Dallas Mavericks,DAL,107.0,Phoenix Suns,PHO,112.0,0,Mortgage Matchup Center,1,1,0,0,1
+2026-04-08,10:00p,Oklahoma City Thunder,OKC,128.0,Los Angeles Clippers,LAC,110.0,0,Intuit Dome,1,1,0,0,1
 2026-04-09,7:00p,Miami Heat,MIA,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
 2026-04-09,7:00p,Chicago Bulls,CHI,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
 2026-04-09,7:30p,Indiana Pacers,IND,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
