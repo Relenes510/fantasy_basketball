@@ -11929,8 +11929,8 @@ Date,Team,Player,Pos
 04/08/2026,ORL,Franz Wagner,SF
 04/08/2026,ORL,Paolo Banchero,PF
 04/08/2026,ORL,Wendell Carter Jr.,C
-04/08/2026,MIL,AJ Green,SG
 04/08/2026,MIL,Ryan Rollins,SG
+04/08/2026,MIL,AJ Green,SG
 04/08/2026,MIL,Taurean Prince,SF
 04/08/2026,MIL,Ousmane Dieng,SF
 04/08/2026,MIL,Jericho Sims,C
@@ -11940,9 +11940,9 @@ Date,Team,Player,Pos
 04/08/2026,DET,Tobias Harris,SF
 04/08/2026,DET,Jalen Duren,C
 04/08/2026,MEM,Walter Clayton Jr.,PG
-04/08/2026,MEM,Adama Bal,SG
-04/08/2026,MEM,Rayan Rupert,SG
 04/08/2026,MEM,Cedric Coward,SG
+04/08/2026,MEM,Jahmai Mashack,SF
+04/08/2026,MEM,Toby Okani,SF
 04/08/2026,MEM,Taylor Hendricks,PF
 04/08/2026,DEN,Jamal Murray,PG
 04/08/2026,DEN,Christian Braun,SG
@@ -11950,12 +11950,12 @@ Date,Team,Player,Pos
 04/08/2026,DEN,Cameron Johnson,PF
 04/08/2026,DEN,Nikola Jokic,C
 04/08/2026,POR,Jrue Holiday,PG
+04/08/2026,POR,Scoot Henderson,PG
 04/08/2026,POR,Toumani Camara,SF
 04/08/2026,POR,Deni Avdija,SF
-04/08/2026,POR,Kris Murray,PF
 04/08/2026,POR,Donovan Clingan,C
-04/08/2026,SAS,Dylan Harper,PG
 04/08/2026,SAS,De'Aaron Fox,PG
+04/08/2026,SAS,Dylan Harper,PG
 04/08/2026,SAS,Devin Vassell,SG
 04/08/2026,SAS,Julian Champagnie,SF
 04/08/2026,SAS,Luke Kornet,C
@@ -11974,7 +11974,7 @@ Date,Team,Player,Pos
 04/08/2026,DAL,Cooper Flagg,PF
 04/08/2026,DAL,Marvin Bagley III,PF
 04/08/2026,DAL,Dwight Powell,C
-04/08/2026,PHO,Collin Gillespie,PG
+04/08/2026,PHO,Jordan Goodwin,PG
 04/08/2026,PHO,Jalen Green,SG
 04/08/2026,PHO,Devin Booker,SG
 04/08/2026,PHO,Dillon Brooks,SF
@@ -11999,8 +11999,8 @@ Date,Team,Player,Pos
 04/09/2026,ORL,Franz Wagner,SF
 04/09/2026,ORL,Paolo Banchero,PF
 04/09/2026,ORL,Wendell Carter Jr.,C
-04/09/2026,MIL,AJ Green,SG
 04/09/2026,MIL,Ryan Rollins,SG
+04/09/2026,MIL,AJ Green,SG
 04/09/2026,MIL,Taurean Prince,SF
 04/09/2026,MIL,Ousmane Dieng,SF
 04/09/2026,MIL,Jericho Sims,C
@@ -12010,9 +12010,9 @@ Date,Team,Player,Pos
 04/09/2026,DET,Tobias Harris,SF
 04/09/2026,DET,Jalen Duren,C
 04/09/2026,MEM,Walter Clayton Jr.,PG
-04/09/2026,MEM,Adama Bal,SG
-04/09/2026,MEM,Rayan Rupert,SG
 04/09/2026,MEM,Cedric Coward,SG
+04/09/2026,MEM,Jahmai Mashack,SF
+04/09/2026,MEM,Toby Okani,SF
 04/09/2026,MEM,Taylor Hendricks,PF
 04/09/2026,DEN,Jamal Murray,PG
 04/09/2026,DEN,Christian Braun,SG
@@ -12020,12 +12020,12 @@ Date,Team,Player,Pos
 04/09/2026,DEN,Cameron Johnson,PF
 04/09/2026,DEN,Nikola Jokic,C
 04/09/2026,POR,Jrue Holiday,PG
+04/09/2026,POR,Scoot Henderson,PG
 04/09/2026,POR,Toumani Camara,SF
 04/09/2026,POR,Deni Avdija,SF
-04/09/2026,POR,Kris Murray,PF
 04/09/2026,POR,Donovan Clingan,C
-04/09/2026,SAS,Dylan Harper,PG
 04/09/2026,SAS,De'Aaron Fox,PG
+04/09/2026,SAS,Dylan Harper,PG
 04/09/2026,SAS,Devin Vassell,SG
 04/09/2026,SAS,Julian Champagnie,SF
 04/09/2026,SAS,Luke Kornet,C
@@ -12041,10 +12041,10 @@ Date,Team,Player,Pos
 04/09/2026,LAC,Brook Lopez,C
 04/09/2026,DAL,Ryan Nembhard,PG
 04/09/2026,DAL,Max Christie,SG
-04/09/2026,DAL,Marvin Bagley III,PF
 04/09/2026,DAL,Cooper Flagg,PF
+04/09/2026,DAL,Marvin Bagley III,PF
 04/09/2026,DAL,Dwight Powell,C
-04/09/2026,PHO,Collin Gillespie,PG
+04/09/2026,PHO,Jordan Goodwin,PG
 04/09/2026,PHO,Jalen Green,SG
 04/09/2026,PHO,Devin Booker,SG
 04/09/2026,PHO,Dillon Brooks,SF
