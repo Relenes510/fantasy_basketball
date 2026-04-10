@@ -71,8 +71,8 @@ CHO,Antonio Reeves,SG
 CHO,Tosan Evbuomwan,SF
 CHI,Matas Buzelis,PF
 CHI,Patrick Williams,PF
-CHI,Isaac Okoro,SG
 CHI,Tre Jones,PG
+CHI,Isaac Okoro,SG
 CHI,Josh Giddey,PG
 CHI,Jalen Smith,C
 CHI,Lachlan Olbrich,C
@@ -159,10 +159,10 @@ DET,Wendell Moore Jr.,SG
 DET,Isaac Jones,PF
 GSW,Brandin Podziemski,SG
 GSW,Gary Payton II,SG
+GSW,Draymond Green,PF
 GSW,Quinten Post,PF
 GSW,Will Richard,SG
 GSW,Gui Santos,PF
-GSW,Draymond Green,PF
 GSW,Pat Spencer,PG
 GSW,Moses Moody,SG
 GSW,De'Anthony Melton,PG
@@ -201,8 +201,8 @@ IND,T.J. McConnell,PG
 IND,Quenton Jackson,PG
 IND,Aaron Nesmith,SF
 IND,Micah Potter,C
-IND,Johnny Furphy,SG
 IND,Taelon Peter,SG
+IND,Johnny Furphy,SG
 IND,Kam Jones,SG
 IND,Ethan Thompson,SG
 IND,Kobe Brown,PF
@@ -230,14 +230,14 @@ LAC,Sean Pedulla,PG
 LAC,Norchad Omier,PF
 LAL,Jake LaRavia,PF
 LAL,Deandre Ayton,C
-LAL,Jaxson Hayes,C
 LAL,Rui Hachimura,PF
+LAL,Jaxson Hayes,C
 LAL,Luka Doncic,PG
 LAL,Jarred Vanderbilt,PF
 LAL,Marcus Smart,SG
 LAL,LeBron James,SF
-LAL,Austin Reaves,SG
 LAL,Dalton Knecht,SF
+LAL,Austin Reaves,SG
 LAL,Maxi Kleber,PF
 LAL,Bronny James,SG
 LAL,Luke Kennard,SG
@@ -272,9 +272,9 @@ MIA,Kel'el Ware,C
 MIA,Jaime Jaquez Jr.,SF
 MIA,Bam Adebayo,C
 MIA,Dru Smith,SG
-MIA,Simone Fontecchio,SF
 MIA,Pelle Larsson,SG
 MIA,Davion Mitchell,PG
+MIA,Simone Fontecchio,SF
 MIA,Andrew Wiggins,SF
 MIA,Norman Powell,SG
 MIA,Kasparas Jakucionis,PG

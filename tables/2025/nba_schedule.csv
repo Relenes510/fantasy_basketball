@@ -1194,12 +1194,12 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-04-08,9:30p,Portland Trail Blazers,POR,101.0,San Antonio Spurs,SAS,112.0,0,Frost Bank Center,0,0,0,0,1
 2026-04-08,10:00p,Dallas Mavericks,DAL,107.0,Phoenix Suns,PHO,112.0,0,Mortgage Matchup Center,1,1,0,0,1
 2026-04-08,10:00p,Oklahoma City Thunder,OKC,128.0,Los Angeles Clippers,LAC,110.0,0,Intuit Dome,1,1,0,0,1
-2026-04-09,7:00p,Miami Heat,MIA,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,0,0
-2026-04-09,7:00p,Chicago Bulls,CHI,,Washington Wizards,WAS,,0,Capital One Arena,0,0,0,0,0
-2026-04-09,7:30p,Indiana Pacers,IND,,Brooklyn Nets,BRK,,0,Barclays Center,0,0,0,0,0
-2026-04-09,7:30p,Boston Celtics,BOS,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,0,0
-2026-04-09,8:00p,Philadelphia 76ers,PHI,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,0,0
-2026-04-09,10:00p,Los Angeles Lakers,LAL,,Golden State Warriors,GSW,,0,Chase Center,0,0,0,0,0
+2026-04-09,7:00p,Miami Heat,MIA,114.0,Toronto Raptors,TOR,128.0,0,Scotiabank Arena,0,0,0,0,1
+2026-04-09,7:00p,Chicago Bulls,CHI,119.0,Washington Wizards,WAS,108.0,0,Capital One Arena,0,0,0,0,1
+2026-04-09,7:30p,Indiana Pacers,IND,123.0,Brooklyn Nets,BRK,94.0,0,Barclays Center,0,0,0,0,1
+2026-04-09,7:30p,Boston Celtics,BOS,106.0,New York Knicks,NYK,112.0,0,Madison Square Garden (IV),0,0,0,0,1
+2026-04-09,8:00p,Philadelphia 76ers,PHI,102.0,Houston Rockets,HOU,113.0,0,Toyota Center,0,0,0,0,1
+2026-04-09,10:00p,Los Angeles Lakers,LAL,119.0,Golden State Warriors,GSW,103.0,0,Chase Center,0,0,0,0,1
 2026-04-10,7:00p,Miami Heat,MIA,,Washington Wizards,WAS,,0,Capital One Arena,1,1,0,0,0
 2026-04-10,7:00p,Detroit Pistons,DET,,Charlotte Hornets,CHO,,0,Spectrum Center,0,0,0,0,0
 2026-04-10,7:00p,Cleveland Cavaliers,CLE,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,0,0
