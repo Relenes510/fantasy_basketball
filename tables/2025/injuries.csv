@@ -10893,7 +10893,6 @@ Date,Team,Player,Status,Reason
 04/10/2026,PHI,Johni Broome,Out,Injury/Illness - Right Knee; Surgery Recovery
 04/10/2026,PHI,Joel Embiid,Out,Injury/Illness - N/a; Appendectomy Recovery
 04/10/2026,PHI,Cameron Payne,Out,Injury/Illness - Right Hamstring; Strain
-04/10/2026,IND,Kobe Brown,Questionable,Injury/Illness - Lumbar; Sprain
 04/10/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
 04/10/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
 04/10/2026,IND,T.J. McConnell,Out,Injury/Illness - Bilateral Hamstring; Injury Management
@@ -10901,8 +10900,8 @@ Date,Team,Player,Status,Reason
 04/10/2026,IND,Aaron Nesmith,Out,Injury/Illness - Cervical; Strain
 04/10/2026,IND,Ben Sheppard,Out,Injury/Illness - Right Hip; Sprain
 04/10/2026,IND,Pascal Siakam,Out,Injury/Illness - Left Ankle; Sprain
-04/10/2026,IND,Jarace Walker,Questionable,Injury/Illness - Sacral; Contusion
 04/10/2026,IND,Ivica Zubac,Out,Injury/Illness - Rib; Fracture
+04/10/2026,TOR,RJ Barrett,Out,Injury/Illness - Right Knee; Soreness
 04/10/2026,TOR,Chucky Hepburn,Out,Injury/Illness - Right Knee; Surgery Recovery
 04/10/2026,TOR,Trayce Jackson-Davis,Out,Injury/Illness - Illness; Illness
 04/10/2026,TOR,Tyreke Key,Out,Not With Team
@@ -10922,40 +10921,32 @@ Date,Team,Player,Status,Reason
 04/10/2026,BRK,Ziaire Williams,Out,Injury/Illness - Left Foot; Tenosynovitis / Bursitis
 04/10/2026,BRK,Danny Wolf,Out,Injury/Illness - Left Ankle; Sprain
 04/10/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Left Knee; Hyperextension; Bone Bruise
+04/10/2026,MIL,Gary Harris,Out,Injury/Illness - Right Groin; Tightness
 04/10/2026,MIL,Pete Nance,Out,Injury/Illness - Right Knee; Sprain
 04/10/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Right Knee; Surgery
 04/10/2026,MIL,Bobby Portis,Out,Injury/Illness - Left Wrist; Sprain
 04/10/2026,MIL,Ryan Rollins,Out,Injury/Illness - Right Hip; Strain
 04/10/2026,MIL,Gary Trent Jr.,Out,Injury/Illness - Oblique Muscle; Strain (internal)
-04/10/2026,DAL,Marvin Bagley III,Questionable,Injury/Illness - Left Shoulder; Impingement
-04/10/2026,DAL,Daniel Gafford,Doubtful,Rest
+04/10/2026,DAL,Daniel Gafford,Out,Rest
 04/10/2026,DAL,Kyrie Irving,Out,Injury/Illness - Left Knee; Surgery
 04/10/2026,DAL,Dereck Lively II,Out,Injury/Illness - Right Foot; Surgery
-04/10/2026,DAL,Naji Marshall,Doubtful,Injury/Illness - Left Hip; Contusion
-04/10/2026,DAL,Caleb Martin,Doubtful,Injury/Illness - Right Plantar Fascia; Strain
-04/10/2026,DAL,Dwight Powell,Questionable,Injury/Illness - Left Hip; Soreness
+04/10/2026,DAL,Naji Marshall,Out,Injury/Illness - Left Hip; Contusion
+04/10/2026,DAL,Caleb Martin,Out,Injury/Illness - Right Plantar Fascia; Strain
 04/10/2026,DAL,Klay Thompson,Out,Injury/Illness - Illness; Illness
-04/10/2026,DAL,P.J. Washington,Doubtful,Injury/Illness - Left Elbow; Sprain
-04/10/2026,DAL,Brandon Williams,Doubtful,Injury/Illness - Illness; Illness
-04/10/2026,SAS,Stephon Castle,Questionable,Injury/Illness - Left Foot; Soreness
-04/10/2026,SAS,Harrison Ingram,Questionable,G League - Two-Way
+04/10/2026,DAL,P.J. Washington,Out,Injury/Illness - Left Elbow; Sprain
+04/10/2026,DAL,Brandon Williams,Out,Injury/Illness - Illness; Illness
+04/10/2026,SAS,Stephon Castle,Out,Injury/Illness - Left Foot; Soreness
 04/10/2026,SAS,David Jones Garcia,Out,Injury/Illness - Right Ankle; Surgery
 04/10/2026,SAS,Emanuel Miller,Out,G League - Two-Way
-04/10/2026,SAS,Victor Wembanyama,Questionable,Injury/Illness - Left Rib; Contusion
 04/10/2026,ORL,Jett Howard,Out,Injury/Illness - Left Ankle; Sprain
 04/10/2026,ORL,Jonathan Isaac,Out,Injury/Illness - Left Knee; Sprain
-04/10/2026,CHI,Matas Buzelis,Questionable,Injury/Illness - N/a; Illness
 04/10/2026,CHI,Zach Collins,Out,Injury/Illness - Right 1st Toe; Sprain
 04/10/2026,CHI,Noa Essengue,Out,Injury/Illness - Left Shoulder; Surgery
 04/10/2026,CHI,Josh Giddey,Out,Injury/Illness - Left Hamstring; Strain; Injury Management
-04/10/2026,CHI,Leonard Miller,Probable,Injury/Illness - Right Hand; Sprain
-04/10/2026,CHI,Isaac Okoro,Doubtful,Injury/Illness - Left Quadricep; Contusion
-04/10/2026,CHI,Lachlan Olbrich,Probable,Injury/Illness - Bilateral Plantar Fascia; Fasciitis
+04/10/2026,CHI,Isaac Okoro,Out,Injury/Illness - Left Quadricep; Contusion
 04/10/2026,CHI,Nick Richards,Out,Injury/Illness - Right Elbow; Sprain
-04/10/2026,CHI,Collin Sexton,Probable,Injury/Illness - Right Finger; Mallet Finger
 04/10/2026,CHI,Anfernee Simons,Out,Injury/Illness - Left Ulnar Styloid; Fracture
 04/10/2026,CHI,Jalen Smith,Out,Injury/Illness - Right Calf; Sprain
-04/10/2026,CHI,Patrick Williams,Probable,Injury/Illness - Left Thumb; Sprain
 04/10/2026,CHI,Guerschon Yabusele,Out,Injury/Illness - Left Shoulder; Sprain; L Elbow Sprain
 04/10/2026,OKC,Alex Caruso,Out,Rest - Rest
 04/10/2026,OKC,Shai Gilgeous-Alexander,Out,Injury/Illness - Right Oblique; Injury Management
@@ -11003,7 +10994,7 @@ Date,Team,Player,Status,Reason
 04/10/2026,MIN,Bones Hyland,Out,Injury/Illness - Right Hip; Soreness
 04/10/2026,MIN,Joe Ingles,Out,Personal Reasons
 04/10/2026,MIN,Julius Randle,Out,Injury/Illness - Right Hand; Soreness
-04/10/2026,MIN,Naz Reid,Questionable,Injury/Illness - Right Shoulder; Injury Maintenance
+04/10/2026,MIN,Naz Reid,Out,Injury/Illness - Right Shoulder; Injury Maintenance
 04/10/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
 04/10/2026,HOU,Tari Eason,Questionable,Injury/Illness - N/a; Illness
 04/10/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
