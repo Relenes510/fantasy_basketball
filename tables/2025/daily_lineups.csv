@@ -12060,8 +12060,8 @@ Date,Team,Player,Pos
 04/10/2026,ATL,Jalen Johnson,PF
 04/10/2026,ATL,Onyeka Okongwu,C
 04/10/2026,MIA,Kasparas Jakucionis,PG
-04/10/2026,MIA,Andrew Wiggins,SF
 04/10/2026,MIA,Simone Fontecchio,SF
+04/10/2026,MIA,Andrew Wiggins,SF
 04/10/2026,MIA,Bam Adebayo,C
 04/10/2026,MIA,Kel'el Ware,C
 04/10/2026,WAS,Bub Carrington,PG
@@ -12069,16 +12069,6 @@ Date,Team,Player,Pos
 04/10/2026,WAS,Leaky Black,SF
 04/10/2026,WAS,Julian Reese,PF
 04/10/2026,WAS,Anthony Gill,PF
-04/10/2026,PHI,Tyrese Maxey,PG
-04/10/2026,PHI,VJ Edgecombe,SG
-04/10/2026,PHI,Paul George,SF
-04/10/2026,PHI,Kelly Oubre Jr.,SF
-04/10/2026,PHI,Adem Bona,C
-04/10/2026,IND,Ethan Thompson,SG
-04/10/2026,IND,Quenton Jackson,SG
-04/10/2026,IND,Kobe Brown,PF
-04/10/2026,IND,Jarace Walker,PF
-04/10/2026,IND,Micah Potter,PF
 04/10/2026,TOR,Jamal Shead,PG
 04/10/2026,TOR,Ja'Kobe Walter,SG
 04/10/2026,TOR,Scottie Barnes,SF
@@ -12089,6 +12079,16 @@ Date,Team,Player,Pos
 04/10/2026,NYK,Mikal Bridges,SF
 04/10/2026,NYK,Josh Hart,SF
 04/10/2026,NYK,Karl-Anthony Towns,PF
+04/10/2026,PHI,Tyrese Maxey,PG
+04/10/2026,PHI,VJ Edgecombe,SG
+04/10/2026,PHI,Paul George,SF
+04/10/2026,PHI,Kelly Oubre Jr.,SF
+04/10/2026,PHI,Adem Bona,C
+04/10/2026,IND,Ethan Thompson,SG
+04/10/2026,IND,Quenton Jackson,SG
+04/10/2026,IND,Kobe Brown,PF
+04/10/2026,IND,Jarace Walker,PF
+04/10/2026,IND,Micah Potter,PF
 04/10/2026,NOP,Jordan Poole,PG
 04/10/2026,NOP,Jeremiah Fears,PG
 04/10/2026,NOP,Micah Peavy,SF
@@ -12119,8 +12119,8 @@ Date,Team,Player,Pos
 04/10/2026,MIL,Taurean Prince,SF
 04/10/2026,MIL,Ousmane Dieng,SF
 04/10/2026,MIL,Myles Turner,C
-04/10/2026,ORL,Desmond Bane,SG
 04/10/2026,ORL,Jalen Suggs,SG
+04/10/2026,ORL,Desmond Bane,SG
 04/10/2026,ORL,Franz Wagner,SF
 04/10/2026,ORL,Paolo Banchero,PF
 04/10/2026,ORL,Wendell Carter Jr.,C
@@ -12139,6 +12139,16 @@ Date,Team,Player,Pos
 04/10/2026,DEN,Tim Hardaway Jr.,SF
 04/10/2026,DEN,Julian Strawther,SF
 04/10/2026,DEN,Jonas Valanciunas,C
+04/10/2026,MEM,Lucas Williamson,PG
+04/10/2026,MEM,Dariq Whitehead,SG
+04/10/2026,MEM,Adama Bal,SG
+04/10/2026,MEM,Toby Okani,SF
+04/10/2026,MEM,Jahmai Mashack,SF
+04/10/2026,UTA,Kennedy Chandler,PG
+04/10/2026,UTA,Blake Hinson,SF
+04/10/2026,UTA,Ace Bailey,SF
+04/10/2026,UTA,Cody Williams,SF
+04/10/2026,UTA,Oscar Tshiebwe,PF
 04/10/2026,MIN,Donte DiVincenzo,SG
 04/10/2026,MIN,Anthony Edwards,SG
 04/10/2026,MIN,Kyle Anderson,SF
@@ -12149,16 +12159,6 @@ Date,Team,Player,Pos
 04/10/2026,HOU,Kevin Durant,PF
 04/10/2026,HOU,Jabari Smith Jr.,PF
 04/10/2026,HOU,Alperen Sengun,C
-04/10/2026,MEM,Lucas Williamson,PG
-04/10/2026,MEM,Adama Bal,SG
-04/10/2026,MEM,Dariq Whitehead,SG
-04/10/2026,MEM,Jahmai Mashack,SF
-04/10/2026,MEM,Toby Okani,SF
-04/10/2026,UTA,Kennedy Chandler,PG
-04/10/2026,UTA,Blake Hinson,SF
-04/10/2026,UTA,Ace Bailey,SF
-04/10/2026,UTA,Cody Williams,SF
-04/10/2026,UTA,Oscar Tshiebwe,PF
 04/10/2026,LAC,Darius Garland,PG
 04/10/2026,LAC,Kris Dunn,PG
 04/10/2026,LAC,Derrick Jones Jr.,SF
@@ -12194,11 +12194,11 @@ Date,Team,Player,Pos
 04/11/2026,ORL,Jalen Suggs,SG
 04/11/2026,ORL,Paolo Banchero,PF
 04/11/2026,ORL,Wendell Carter Jr.,C
-04/11/2026,BOS,Derrick White,SG
-04/11/2026,BOS,Jaylen Brown,SG
+04/11/2026,BOS,Payton Pritchard,PG
+04/11/2026,BOS,Baylor Scheierman,SG
 04/11/2026,BOS,Sam Hauser,SF
-04/11/2026,BOS,Jayson Tatum,SF
-04/11/2026,BOS,Neemias Queta,C
+04/11/2026,BOS,Nikola Vucevic,C
+04/11/2026,BOS,Luka Garza,C
 04/11/2026,CHO,LaMelo Ball,PG
 04/11/2026,CHO,Kon Knueppel,SG
 04/11/2026,CHO,Brandon Miller,SF
@@ -12208,7 +12208,7 @@ Date,Team,Player,Pos
 04/11/2026,NYK,Josh Hart,SF
 04/11/2026,NYK,OG Anunoby,SF
 04/11/2026,NYK,Mikal Bridges,SF
-04/11/2026,NYK,Karl-Anthony Towns,PF
+04/11/2026,NYK,Mitchell Robinson,C
 04/11/2026,ATL,CJ McCollum,PG
 04/11/2026,ATL,Dyson Daniels,PG
 04/11/2026,ATL,Nickeil Alexander-Walker,SG
