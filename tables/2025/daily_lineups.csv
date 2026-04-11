@@ -12049,16 +12049,6 @@ Date,Team,Player,Pos
 04/10/2026,CHO,Brandon Miller,SF
 04/10/2026,CHO,Miles Bridges,SF
 04/10/2026,CHO,Moussa Diabate,PF
-04/10/2026,MIA,Kasparas Jakucionis,PG
-04/10/2026,MIA,Andrew Wiggins,SF
-04/10/2026,MIA,Simone Fontecchio,SF
-04/10/2026,MIA,Bam Adebayo,C
-04/10/2026,MIA,Kel'el Ware,C
-04/10/2026,WAS,Bub Carrington,PG
-04/10/2026,WAS,Bilal Coulibaly,SG
-04/10/2026,WAS,Leaky Black,SF
-04/10/2026,WAS,Julian Reese,PF
-04/10/2026,WAS,Anthony Gill,PF
 04/10/2026,CLE,James Harden,SG
 04/10/2026,CLE,Max Strus,SG
 04/10/2026,CLE,Jaylon Tyson,SF
@@ -12069,6 +12059,26 @@ Date,Team,Player,Pos
 04/10/2026,ATL,Nickeil Alexander-Walker,SG
 04/10/2026,ATL,Jalen Johnson,PF
 04/10/2026,ATL,Onyeka Okongwu,C
+04/10/2026,MIA,Kasparas Jakucionis,PG
+04/10/2026,MIA,Andrew Wiggins,SF
+04/10/2026,MIA,Simone Fontecchio,SF
+04/10/2026,MIA,Bam Adebayo,C
+04/10/2026,MIA,Kel'el Ware,C
+04/10/2026,WAS,Bub Carrington,PG
+04/10/2026,WAS,Bilal Coulibaly,SG
+04/10/2026,WAS,Leaky Black,SF
+04/10/2026,WAS,Julian Reese,PF
+04/10/2026,WAS,Anthony Gill,PF
+04/10/2026,PHI,Tyrese Maxey,PG
+04/10/2026,PHI,VJ Edgecombe,SG
+04/10/2026,PHI,Paul George,SF
+04/10/2026,PHI,Kelly Oubre Jr.,SF
+04/10/2026,PHI,Adem Bona,C
+04/10/2026,IND,Ethan Thompson,SG
+04/10/2026,IND,Quenton Jackson,SG
+04/10/2026,IND,Kobe Brown,PF
+04/10/2026,IND,Jarace Walker,PF
+04/10/2026,IND,Micah Potter,PF
 04/10/2026,TOR,Jamal Shead,PG
 04/10/2026,TOR,Ja'Kobe Walter,SG
 04/10/2026,TOR,Scottie Barnes,SF
@@ -12079,16 +12089,6 @@ Date,Team,Player,Pos
 04/10/2026,NYK,Mikal Bridges,SF
 04/10/2026,NYK,Josh Hart,SF
 04/10/2026,NYK,Karl-Anthony Towns,PF
-04/10/2026,PHI,Tyrese Maxey,PG
-04/10/2026,PHI,VJ Edgecombe,SG
-04/10/2026,PHI,Paul George,SF
-04/10/2026,PHI,Kelly Oubre Jr.,SF
-04/10/2026,PHI,Adem Bona,C
-04/10/2026,IND,Quenton Jackson,SG
-04/10/2026,IND,Ethan Thompson,SG
-04/10/2026,IND,Kobe Brown,PF
-04/10/2026,IND,Jarace Walker,PF
-04/10/2026,IND,Micah Potter,PF
 04/10/2026,NOP,Jordan Poole,PG
 04/10/2026,NOP,Jeremiah Fears,PG
 04/10/2026,NOP,Micah Peavy,SF
@@ -12109,16 +12109,6 @@ Date,Team,Player,Pos
 04/10/2026,SAS,Devin Vassell,SG
 04/10/2026,SAS,Julian Champagnie,SF
 04/10/2026,SAS,Victor Wembanyama,PF
-04/10/2026,ORL,Desmond Bane,SG
-04/10/2026,ORL,Jalen Suggs,SG
-04/10/2026,ORL,Franz Wagner,SF
-04/10/2026,ORL,Paolo Banchero,PF
-04/10/2026,ORL,Wendell Carter Jr.,C
-04/10/2026,CHI,Collin Sexton,PG
-04/10/2026,CHI,Tre Jones,PG
-04/10/2026,CHI,Matas Buzelis,SF
-04/10/2026,CHI,Leonard Miller,PF
-04/10/2026,CHI,Lachlan Olbrich,PF
 04/10/2026,BRK,Tyson Etienne,PG
 04/10/2026,BRK,Ben Saraf,PG
 04/10/2026,BRK,Malachi Smith,SG
@@ -12129,6 +12119,16 @@ Date,Team,Player,Pos
 04/10/2026,MIL,Taurean Prince,SF
 04/10/2026,MIL,Ousmane Dieng,SF
 04/10/2026,MIL,Myles Turner,C
+04/10/2026,ORL,Desmond Bane,SG
+04/10/2026,ORL,Jalen Suggs,SG
+04/10/2026,ORL,Franz Wagner,SF
+04/10/2026,ORL,Paolo Banchero,PF
+04/10/2026,ORL,Wendell Carter Jr.,C
+04/10/2026,CHI,Collin Sexton,PG
+04/10/2026,CHI,Tre Jones,PG
+04/10/2026,CHI,Matas Buzelis,SF
+04/10/2026,CHI,Leonard Miller,PF
+04/10/2026,CHI,Lachlan Olbrich,PF
 04/10/2026,OKC,Nikola Topic,PG
 04/10/2026,OKC,Jared McCain,PG
 04/10/2026,OKC,Aaron Wiggins,SG
@@ -12150,10 +12150,10 @@ Date,Team,Player,Pos
 04/10/2026,HOU,Jabari Smith Jr.,PF
 04/10/2026,HOU,Alperen Sengun,C
 04/10/2026,MEM,Lucas Williamson,PG
-04/10/2026,MEM,Dariq Whitehead,SG
 04/10/2026,MEM,Adama Bal,SG
-04/10/2026,MEM,Toby Okani,SF
+04/10/2026,MEM,Dariq Whitehead,SG
 04/10/2026,MEM,Jahmai Mashack,SF
+04/10/2026,MEM,Toby Okani,SF
 04/10/2026,UTA,Kennedy Chandler,PG
 04/10/2026,UTA,Blake Hinson,SF
 04/10/2026,UTA,Ace Bailey,SF
@@ -12209,6 +12209,16 @@ Date,Team,Player,Pos
 04/11/2026,NYK,OG Anunoby,SF
 04/11/2026,NYK,Mikal Bridges,SF
 04/11/2026,NYK,Karl-Anthony Towns,PF
+04/11/2026,ATL,CJ McCollum,PG
+04/11/2026,ATL,Dyson Daniels,PG
+04/11/2026,ATL,Nickeil Alexander-Walker,SG
+04/11/2026,ATL,Jalen Johnson,PF
+04/11/2026,ATL,Onyeka Okongwu,C
+04/11/2026,MIA,Davion Mitchell,PG
+04/11/2026,MIA,Tyler Herro,SG
+04/11/2026,MIA,Norman Powell,SG
+04/11/2026,MIA,Andrew Wiggins,SF
+04/11/2026,MIA,Bam Adebayo,C
 04/11/2026,DEN,Jamal Murray,PG
 04/11/2026,DEN,Christian Braun,SG
 04/11/2026,DEN,Cameron Johnson,PF
