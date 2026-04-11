@@ -10958,17 +10958,17 @@ Date,Team,Player,Status,Reason
 04/10/2026,OKC,Cason Wallace,Out,Injury/Illness - Left Great Toe; Soreness
 04/10/2026,OKC,Jalen Williams,Out,Injury/Illness - Right Hamstring; Injury Management
 04/10/2026,OKC,Jaylin Williams,Out,Injury/Illness - Right Achilles; Tendinitis
-04/10/2026,DEN,Christian Braun,Questionable,Injury/Illness - Left Ankle; Injury Management/Right Hip Flexor Strain
-04/10/2026,DEN,Aaron Gordon,Questionable,Injury/Illness - Right Hamstring; Injury Management
-04/10/2026,DEN,Cameron Johnson,Questionable,Injury/Illness - Right Ankle; Injury Management
-04/10/2026,DEN,Nikola Jokic,Questionable,Injury/Illness - Right Wrist; Injury Management
+04/10/2026,DEN,Christian Braun,Out,Injury/Illness - Left Ankle; Injury Management/Right Hip Flexor Strain
+04/10/2026,DEN,Aaron Gordon,Out,Injury/Illness - Right Hamstring; Injury Management
+04/10/2026,DEN,Cameron Johnson,Out,Injury/Illness - Right Ankle; Injury Management
+04/10/2026,DEN,Nikola Jokic,Out,Injury/Illness - Right Wrist; Injury Management
 04/10/2026,DEN,Spencer Jones,Out,Injury/Illness - Right Hamstring; Strain
-04/10/2026,DEN,Jamal Murray,Questionable,Injury/Illness - Right Shoulder; Impingement
+04/10/2026,DEN,Jamal Murray,Out,Injury/Illness - Right Shoulder; Impingement
 04/10/2026,DEN,Peyton Watson,Out,Injury/Illness - Right Hamstring; Strain
 04/10/2026,MEM,Santi Aldama,Out,Injury/Illness - Right Knee; Surgery Recovery
 04/10/2026,MEM,Kentavious Caldwell-Pope,Out,Injury/Illness - Right 5th Finger; Surgery Recovery
 04/10/2026,MEM,Brandon Clarke,Out,Injury/Illness - Right Calf; Strain
-04/10/2026,MEM,Walter Clayton Jr.,Questionable,Injury/Illness - Left Hip; Soreness
+04/10/2026,MEM,Walter Clayton Jr.,Out,Injury/Illness - Left Hip; Soreness
 04/10/2026,MEM,Cedric Coward,Out,Injury/Illness - Low Back; Soreness
 04/10/2026,MEM,Zach Edey,Out,Injury/Illness - Left Ankle and Elbow; Surgery Recovery
 04/10/2026,MEM,Taylor Hendricks,Out,Injury/Illness - Right Thumb; Sprain
@@ -10976,8 +10976,7 @@ Date,Team,Player,Status,Reason
 04/10/2026,MEM,Ty Jerome,Out,Injury/Illness - Left Ankle; Sprain
 04/10/2026,MEM,Ja Morant,Out,Injury/Illness - Left Elbow; UCL Sprain
 04/10/2026,MEM,Scotty Pippen Jr.,Out,Injury/Illness - Right Great Toe; Surgery Recovery
-04/10/2026,MEM,Olivier-Maxence Prosper,Doubtful,Injury/Illness - Right Ankle; Soreness
-04/10/2026,MEM,Javon Small,Questionable,Injury/Illness - Left Thigh; Contusion
+04/10/2026,MEM,Olivier-Maxence Prosper,Out,Injury/Illness - Right Ankle; Soreness
 04/10/2026,MEM,Cam Spencer,Out,Injury/Illness - Low Back; Soreness
 04/10/2026,MEM,Jaylen Wells,Out,Injury/Illness - Right Great Toe; Surgery Recovery
 04/10/2026,UTA,Isaiah Collier,Out,Injury/Illness - Left Hamstring; Strain
@@ -10989,25 +10988,18 @@ Date,Team,Player,Status,Reason
 04/10/2026,UTA,Lauri Markkanen,Out,Injury/Illness - Right Hip; Impingement
 04/10/2026,UTA,Jusuf Nurkic,Out,Injury/Illness - Nose; Injury recovery
 04/10/2026,UTA,Brice Sensabaugh,Out,Rest
-04/10/2026,MIN,Anthony Edwards,Questionable,Injury/Illness - Right Knee; Injury Maintenance
 04/10/2026,MIN,Rudy Gobert,Out,Rest
 04/10/2026,MIN,Bones Hyland,Out,Injury/Illness - Right Hip; Soreness
 04/10/2026,MIN,Joe Ingles,Out,Personal Reasons
 04/10/2026,MIN,Julius Randle,Out,Injury/Illness - Right Hand; Soreness
 04/10/2026,MIN,Naz Reid,Out,Injury/Illness - Right Shoulder; Injury Maintenance
 04/10/2026,HOU,Steven Adams,Out,Injury/Illness - Left Ankle; Surgery
-04/10/2026,HOU,Tari Eason,Questionable,Injury/Illness - N/a; Illness
 04/10/2026,HOU,Fred VanVleet,Out,Injury/Illness - Right Knee; ACL Repair
-04/10/2026,GSW,Charles Bassey,Probable,Injury/Illness - Left Ankle; Sprain
 04/10/2026,GSW,Jimmy Butler,Out,Injury/Illness - Right ACL; Surgery
 04/10/2026,GSW,LJ Cryer,Out,Injury/Illness - Right Ankle; Sprain
 04/10/2026,GSW,Seth Curry,Out,Injury/Illness - Left Adductor; Injury Management
-04/10/2026,GSW,Stephen Curry,Probable,Injury/Illness - Right Knee; Injury Management
 04/10/2026,GSW,Moses Moody,Out,Injury/Illness - Left Patellar Tendon; Surgery
-04/10/2026,GSW,Kristaps Porzingis,Probable,Injury/Illness - Right Knee; Injury Management
 04/10/2026,GSW,Quinten Post,Out,Injury/Illness - Right Foot; Injury Management
-04/10/2026,GSW,Will Richard,Questionable,Injury/Illness - Bilateral Low Back; Strain
-04/10/2026,GSW,Gui Santos,Questionable,Injury/Illness - Right Pelvic; Contusion
 04/10/2026,SAC,Patrick Baldwin Jr.,Out,G League - Two-Way
 04/10/2026,SAC,DeMar DeRozan,Out,Injury/Illness - Right Hamstring; Soreness
 04/10/2026,SAC,Drew Eubanks,Out,Injury/Illness - Left Thumb; UCL Repair
@@ -11018,14 +11010,12 @@ Date,Team,Player,Status,Reason
 04/10/2026,SAC,Isaiah Stevens,Out,G League - Two-Way
 04/10/2026,SAC,Russell Westbrook,Out,Injury/Illness - Right Toe; Injury Management
 04/10/2026,POR,Jerami Grant,Out,Injury/Illness - Right Calf; Strain
-04/10/2026,POR,Vit Krejci,Questionable,Injury/Illness - Left Calf; Contusion
+04/10/2026,POR,Vit Krejci,Out,Injury/Illness - Left Calf; Contusion
 04/10/2026,POR,Damian Lillard,Out,Injury/Illness - Left Achilles Tendon; Injury Management
-04/10/2026,POR,Shaedon Sharpe,Questionable,Injury/Illness - Left Fibula; Stress Reaction
 04/10/2026,PHO,Devin Booker,Out,Injury/Illness - Right Ankle; Injury Management
 04/10/2026,PHO,Jordan Goodwin,Out,Injury/Illness - Left Ankle; Sprain
-04/10/2026,PHO,Jalen Green,Questionable,Injury/Illness - Right Knee; Soreness
+04/10/2026,PHO,Jalen Green,Out,Injury/Illness - Right Knee; Soreness
 04/10/2026,PHO,Haywood Highsmith,Out,Injury/Illness - Right Knee; Injury Management
 04/10/2026,LAL,Luka Doncic,Out,Injury/Illness - Left Hamstring; Strain
 04/10/2026,LAL,Jaxson Hayes,Out,Injury/Illness - Left Foot; Injury Management
-04/10/2026,LAL,Luke Kennard,Questionable,Injury/Illness - Left Finger; Injury Management
 04/10/2026,LAL,Austin Reaves,Out,Injury/Illness - Left Oblique; Muscle Strain
