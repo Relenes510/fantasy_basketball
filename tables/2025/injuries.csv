@@ -11032,7 +11032,6 @@ Date,Team,Player,Status,Reason
 04/12/2026,MIA,Nikola Jovic,Out,Injury/Illness - Left Ankle; Sprain
 04/12/2026,MIA,Norman Powell,Questionable,Injury/Illness - Right Groin; Soreness
 04/12/2026,MIA,Dru Smith,Out,Injury/Illness - Right Big Toe; Sprain
-04/12/2026,BRK,Ochai Agbaji,Probable,Injury/Illness - Lower Back; Soreness
 04/12/2026,BRK,Nic Claxton,Out,Injury/Illness - Right Fifth Finger; Sprain
 04/12/2026,BRK,Noah Clowney,Out,Injury/Illness - Left Ankle; Injury Management
 04/12/2026,BRK,Egor Demin,Out,Injury/Illness - Left Plantar Fascia; Injury Management
@@ -11040,7 +11039,7 @@ Date,Team,Player,Status,Reason
 04/12/2026,BRK,Josh Minott,Out,Injury/Illness - Left Ankle; Injury Management
 04/12/2026,BRK,Michael Porter Jr.,Out,Injury/Illness - Left Hamstring; Strain
 04/12/2026,BRK,Day'Ron Sharpe,Out,Injury/Illness - Left Thumb; Surgery
-04/12/2026,BRK,Nolan Traore,Questionable,Injury/Illness - N/a; Illness
+04/12/2026,BRK,Nolan Traore,Doubtful,Injury/Illness - N/a; Illness
 04/12/2026,BRK,Ziaire Williams,Out,Injury/Illness - Left Foot; Tenosynovitis / Bursitis
 04/12/2026,BRK,Danny Wolf,Out,Injury/Illness - Left Ankle; Sprain
 04/12/2026,TOR,RJ Barrett,Questionable,Injury/Illness - Right Knee; Soreness
@@ -11056,6 +11055,7 @@ Date,Team,Player,Status,Reason
 04/12/2026,NYK,Josh Hart,Out,Injury/Illness - Right Ankle; Right Ankle Injury Management
 04/12/2026,NYK,Tyler Kolek,Out,Injury/Illness - Right Oblique; Right Oblique Strain
 04/12/2026,NYK,Mitchell Robinson,Out,Injury/Illness - Left Ankle; Left Ankle Injury Management
+04/12/2026,NYK,Landry Shamet,Out,Injury/Illness - Right Knee; Right Knee Injury Management
 04/12/2026,NYK,Karl-Anthony Towns,Out,Injury/Illness - Right Elbow; Right Elbow Injury Management
 04/12/2026,DET,Jalen Duren,Out,Injury/Illness - Right Knee; Injury Management
 04/12/2026,DET,Wendell Moore Jr.,Questionable,G League - Two-Way
@@ -11083,6 +11083,7 @@ Date,Team,Player,Status,Reason
 04/12/2026,ORL,Jett Howard,Questionable,Injury/Illness - Left Ankle; Sprain
 04/12/2026,ORL,Jonathan Isaac,Questionable,Injury/Illness - Left Knee; Sprain
 04/12/2026,BOS,Jaylen Brown,Out,Injury/Illness - Left Achilles; Tendinitis
+04/12/2026,BOS,Hugo Gonzalez,Questionable,Injury/Illness - Right Foot; Pain
 04/12/2026,BOS,Sam Hauser,Doubtful,Injury/Illness - Low Back; Spasm
 04/12/2026,BOS,Payton Pritchard,Doubtful,Injury/Illness - Left Foot; Plantar Fasciitis
 04/12/2026,BOS,Neemias Queta,Out,Injury/Illness - Right Toe; Sprain
