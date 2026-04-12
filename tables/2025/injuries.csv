@@ -11039,13 +11039,13 @@ Date,Team,Player,Status,Reason
 04/12/2026,BRK,Josh Minott,Out,Injury/Illness - Left Ankle; Injury Management
 04/12/2026,BRK,Michael Porter Jr.,Out,Injury/Illness - Left Hamstring; Strain
 04/12/2026,BRK,Day'Ron Sharpe,Out,Injury/Illness - Left Thumb; Surgery
-04/12/2026,BRK,Nolan Traore,Doubtful,Injury/Illness - N/a; Illness
+04/12/2026,BRK,Nolan Traore,Out,Injury/Illness - N/a; Illness
 04/12/2026,BRK,Ziaire Williams,Out,Injury/Illness - Left Foot; Tenosynovitis / Bursitis
 04/12/2026,BRK,Danny Wolf,Out,Injury/Illness - Left Ankle; Sprain
-04/12/2026,TOR,RJ Barrett,Questionable,Injury/Illness - Right Knee; Soreness
+04/12/2026,TOR,RJ Barrett,Probable,Injury/Illness - Right Knee; Soreness
 04/12/2026,TOR,Chucky Hepburn,Out,Injury/Illness - Right Knee; Surgery Recovery
-04/12/2026,TOR,Trayce Jackson-Davis,Questionable,Injury/Illness - Illness; Illness
-04/12/2026,TOR,Collin Murray-Boyles,Questionable,Injury/Illness - Neck; Sprain
+04/12/2026,TOR,Trayce Jackson-Davis,Probable,Injury/Illness - Illness; Illness
+04/12/2026,TOR,Collin Murray-Boyles,Probable,Injury/Illness - Neck; Sprain
 04/12/2026,CHO,Tosan Evbuomwan,Out,G League - Two-Way
 04/12/2026,CHO,PJ Hall,Out,Injury/Illness - Right Ankle; Surgery
 04/12/2026,CHO,Antonio Reeves,Out,G League - Two-Way
@@ -11058,20 +11058,19 @@ Date,Team,Player,Status,Reason
 04/12/2026,NYK,Karl-Anthony Towns,Out,Injury/Illness - Right Elbow; Right Elbow Injury Management
 04/12/2026,DET,Jalen Duren,Out,Injury/Illness - Right Knee; Injury Management
 04/12/2026,DET,Wendell Moore Jr.,Questionable,G League - Two-Way
-04/12/2026,IND,Kobe Brown,Questionable,Injury/Illness - Lumbar; Strain
 04/12/2026,IND,Johnny Furphy,Out,Injury/Illness - Right ACL; Tear
 04/12/2026,IND,Tyrese Haliburton,Out,Injury/Illness - Right Achilles Tendon; Tear
 04/12/2026,IND,T.J. McConnell,Out,Injury/Illness - Bilateral Hamstring; Injury Management
 04/12/2026,IND,Andrew Nembhard,Out,Injury/Illness - N/A; Thoracic and Lumbar Injury Management
 04/12/2026,IND,Aaron Nesmith,Out,Injury/Illness - Cervical; Strain
-04/12/2026,IND,Ben Sheppard,Questionable,Injury/Illness - Right Hip; Sprain
+04/12/2026,IND,Ben Sheppard,Out,Injury/Illness - Right Hip; Sprain
 04/12/2026,IND,Pascal Siakam,Out,Injury/Illness - Left Ankle; Sprain
-04/12/2026,IND,Jarace Walker,Questionable,Injury/Illness - Left Foot; Sprain
+04/12/2026,IND,Jarace Walker,Out,Injury/Illness - Left Foot; Sprain
 04/12/2026,IND,Ivica Zubac,Out,Injury/Illness - Rib; Fracture
 04/12/2026,MIL,Giannis Antetokounmpo,Out,Injury/Illness - Left Knee; Hyperextension; Bone Bruise
-04/12/2026,MIL,Gary Harris,Questionable,Injury/Illness - Right Groin; Tightness
+04/12/2026,MIL,Gary Harris,Out,Injury/Illness - Right Groin; Tightness
 04/12/2026,MIL,Kyle Kuzma,Out,Injury/Illness - Right Achilles; Tendonopathy
-04/12/2026,MIL,Pete Nance,Questionable,Injury/Illness - Right Knee; Sprain
+04/12/2026,MIL,Pete Nance,Out,Injury/Illness - Right Knee; Sprain
 04/12/2026,MIL,Kevin Porter Jr.,Out,Injury/Illness - Right Knee; Surgery
 04/12/2026,MIL,Bobby Portis,Out,Injury/Illness - Left Wrist; Sprain
 04/12/2026,MIL,Ryan Rollins,Out,Injury/Illness - Right Thumb; Sprain
@@ -11082,12 +11081,12 @@ Date,Team,Player,Status,Reason
 04/12/2026,ORL,Jett Howard,Out,Injury/Illness - Left Ankle; Sprain
 04/12/2026,ORL,Jonathan Isaac,Out,Injury/Illness - Left Knee; Sprain
 04/12/2026,BOS,Jaylen Brown,Out,Injury/Illness - Left Achilles; Tendinitis
-04/12/2026,BOS,Hugo Gonzalez,Questionable,Injury/Illness - Right Foot; Pain
-04/12/2026,BOS,Sam Hauser,Doubtful,Injury/Illness - Low Back; Spasm
-04/12/2026,BOS,Payton Pritchard,Doubtful,Injury/Illness - Left Foot; Plantar Fasciitis
+04/12/2026,BOS,Hugo Gonzalez,Out,Injury/Illness - Right Foot; Bone Bruise
+04/12/2026,BOS,Sam Hauser,Out,Injury/Illness - Low Back; Spasm
+04/12/2026,BOS,Payton Pritchard,Out,Injury/Illness - Left Foot; Plantar Fasciitis
 04/12/2026,BOS,Neemias Queta,Out,Injury/Illness - Right Toe; Sprain
 04/12/2026,BOS,Jayson Tatum,Out,Injury/Illness - Right Achilles; Repair Management
-04/12/2026,BOS,Nikola Vucevic,Doubtful,Injury/Illness - Right Ring Finger; Fracture Management
+04/12/2026,BOS,Nikola Vucevic,Out,Injury/Illness - Right Ring Finger; Fracture Management
 04/12/2026,BOS,Derrick White,Out,Injury/Illness - Right Knee; Contusion
 04/12/2026,WAS,Bilal Coulibaly,Out,Injury/Illness - Right Retrocalcaneal; Bursitis
 04/12/2026,WAS,Anthony Davis,Out,Injury/Illness - Left Finger; Sprain
