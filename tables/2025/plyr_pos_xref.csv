@@ -32,6 +32,7 @@ BOS,Jayson Tatum,PF
 BOS,Nikola Vucevic,C
 BOS,Max Shulga,SG
 BOS,John Tonje,SG
+BOS,Dalano Banton,PG
 BRK,Nic Claxton,C
 BRK,Noah Clowney,PF
 BRK,Terance Mann,SG
@@ -50,7 +51,6 @@ BRK,Ochai Agbaji,SG
 BRK,Chaney Johnson,SF
 BRK,Josh Minott,SF
 BRK,Malachi Smith,SG
-BRK,Tre Scott,PF
 CHO,Sion James,SG
 CHO,Kon Knueppel,SF
 CHO,Miles Bridges,PF
@@ -85,6 +85,7 @@ CHI,Yuki Kawamura,PG
 CHI,Zach Collins,C
 CHI,Mac McClung,SG
 CHI,Anfernee Simons,SG
+CHI,Mouhamadou Gueye,PF
 CHI,Noa Essengue,PF
 CLE,Donovan Mitchell,SG
 CLE,Jaylon Tyson,SG
@@ -244,7 +245,6 @@ LAL,Luke Kennard,SG
 LAL,Nick Smith Jr.,SG
 LAL,Drew Timme,PF
 LAL,Adou Thiero,SF
-LAL,Kobe Bufkin,SG
 LAL,Chris Manon,SG
 MEM,Cam Spencer,SG
 MEM,Jaylen Wells,SG
@@ -263,10 +263,6 @@ MEM,Ty Jerome,SG
 MEM,Zach Edey,C
 MEM,Scotty Pippen Jr.,PG
 MEM,Taj Gibson,C
-MEM,Adama-Alpha Bal,SG
-MEM,Lucas Williamson,SG
-MEM,Dariq Whitehead,SF
-MEM,Toby Okani,SG
 MEM,Brandon Clarke,PF
 MIA,Kel'el Ware,C
 MIA,Jaime Jaquez Jr.,SF
@@ -285,7 +281,6 @@ MIA,Keshad Johnson,SF
 MIA,Jahmir Young,PG
 MIA,Vladislav Goldin,C
 MIA,Trevor Keels,SG
-MIA,Terry Rozier,PG
 MIL,A.J. Green,SG
 MIL,Ryan Rollins,PG
 MIL,Myles Turner,C
@@ -404,7 +399,6 @@ PHI,Trendon Watford,PF
 PHI,Kelly Oubre Jr.,SF
 PHI,Joel Embiid,C
 PHI,Paul George,PF
-PHI,Cameron Payne,PG
 PHI,MarJon Beauchamp,SF
 PHI,Dalen Terry,SG
 PHI,Kyle Lowry,PG
@@ -499,7 +493,6 @@ TOR,Alijah Martin,SG
 TOR,Garrett Temple,SG
 TOR,Trayce Jackson-Davis,C
 TOR,Chucky Hepburn,PG
-TOR,Tyreke Key,G
 UTA,Kyle Filipowski,C
 UTA,Brice Sensabaugh,SF
 UTA,Ace Bailey,SF
@@ -515,9 +508,9 @@ UTA,Elijah Harkless,SG
 UTA,John Konchar,SG
 UTA,Bez Mbeng,SG
 UTA,Blake Hinson,SF
-UTA,Kennedy Chandler,PG
 UTA,Walker Kessler,C
 UTA,Jaren Jackson Jr.,C
+UTA,Hayden Gray,G
 WAS,Bub Carrington,PG
 WAS,Will Riley,SF
 WAS,Justin Champagnie,SF
