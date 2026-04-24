@@ -1252,9 +1252,9 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-04-21,10:30p,Houston Rockets,HOU,94.0,Los Angeles Lakers,LAL,101.0,0,Crypto.com Arena,0,0,0,1,1
 2026-04-22,7:00p,Orlando Magic,ORL,83.0,Detroit Pistons,DET,98.0,0,Little Caesars Arena,0,0,0,1,1
 2026-04-22,9:30p,Phoenix Suns,PHO,107.0,Oklahoma City Thunder,OKC,120.0,0,Paycom Center,0,0,0,1,1
-2026-04-23,7:00p,New York Knicks,NYK,,Atlanta Hawks,ATL,,0,State Farm Arena,0,0,0,1,0
-2026-04-23,8:00p,Cleveland Cavaliers,CLE,,Toronto Raptors,TOR,,0,Scotiabank Arena,0,0,0,1,0
-2026-04-23,9:30p,Denver Nuggets,DEN,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,1,0
+2026-04-23,7:00p,New York Knicks,NYK,108.0,Atlanta Hawks,ATL,109.0,0,State Farm Arena,0,0,0,1,1
+2026-04-23,8:00p,Cleveland Cavaliers,CLE,104.0,Toronto Raptors,TOR,126.0,0,Scotiabank Arena,0,0,0,1,1
+2026-04-23,9:30p,Denver Nuggets,DEN,96.0,Minnesota Timberwolves,MIN,113.0,0,Target Center,0,0,0,1,1
 2026-04-24,7:00p,Boston Celtics,BOS,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,1,0
 2026-04-24,8:00p,Los Angeles Lakers,LAL,,Houston Rockets,HOU,,0,Toyota Center,0,0,0,1,0
 2026-04-24,10:30p,San Antonio Spurs,SAS,,Portland Trail Blazers,POR,,0,Moda Center,0,0,0,1,0
