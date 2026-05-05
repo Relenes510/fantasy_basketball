@@ -1284,8 +1284,8 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-05-02,7:30p,Philadelphia 76ers,PHI,109.0,Boston Celtics,BOS,100.0,0,TD Garden,0,0,0,1,1
 2026-05-03,3:30p,Orlando Magic,ORL,94.0,Detroit Pistons,DET,116.0,0,Little Caesars Arena,0,0,0,1,1
 2026-05-03,7:30p,Toronto Raptors,TOR,102.0,Cleveland Cavaliers,CLE,114.0,0,Rocket Arena,0,0,0,1,1
-2026-05-04,8:00p,Philadelphia 76ers,PHI,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,1,0
-2026-05-04,9:30p,Minnesota Timberwolves,MIN,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,1,0
+2026-05-04,8:00p,Philadelphia 76ers,PHI,98.0,New York Knicks,NYK,137.0,0,Madison Square Garden (IV),0,0,0,1,1
+2026-05-04,9:30p,Minnesota Timberwolves,MIN,104.0,San Antonio Spurs,SAS,102.0,0,Frost Bank Center,0,0,0,1,1
 2026-05-05,7:00p,Cleveland Cavaliers,CLE,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,1,0
 2026-05-05,8:30p,Los Angeles Lakers,LAL,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,1,0
 2026-05-06,7:00p,Philadelphia 76ers,PHI,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,1,0
