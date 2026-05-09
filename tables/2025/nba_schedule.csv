@@ -1292,8 +1292,8 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-05-06,9:30p,Minnesota Timberwolves,MIN,95.0,San Antonio Spurs,SAS,133.0,0,Frost Bank Center,0,0,0,1,1
 2026-05-07,7:00p,Cleveland Cavaliers,CLE,97.0,Detroit Pistons,DET,107.0,0,Little Caesars Arena,0,0,0,1,1
 2026-05-07,9:30p,Los Angeles Lakers,LAL,107.0,Oklahoma City Thunder,OKC,125.0,0,Paycom Center,0,0,0,1,1
-2026-05-08,7:00p,New York Knicks,NYK,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,1,0
-2026-05-08,9:30p,San Antonio Spurs,SAS,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,1,0
+2026-05-08,7:00p,New York Knicks,NYK,108.0,Philadelphia 76ers,PHI,94.0,0,Xfinity Mobile Arena,0,0,0,1,1
+2026-05-08,9:30p,San Antonio Spurs,SAS,115.0,Minnesota Timberwolves,MIN,108.0,0,Target Center,0,0,0,1,1
 2026-05-09,3:00p,Detroit Pistons,DET,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,1,0
 2026-05-09,8:30p,Oklahoma City Thunder,OKC,,Los Angeles Lakers,LAL,,0,Crypto.com Arena,0,0,0,1,0
 2026-05-10,3:30p,New York Knicks,NYK,,Philadelphia 76ers,PHI,,0,Xfinity Mobile Arena,0,0,0,1,0
