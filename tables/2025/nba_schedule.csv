@@ -1301,7 +1301,7 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-05-11,8:00p,Detroit Pistons,DET,103.0,Cleveland Cavaliers,CLE,112.0,0,Rocket Arena,0,0,0,1,1
 2026-05-11,10:30p,Oklahoma City Thunder,OKC,115.0,Los Angeles Lakers,LAL,110.0,0,Crypto.com Arena,0,0,0,1,1
 2026-05-12,8:00p,Minnesota Timberwolves,MIN,97.0,San Antonio Spurs,SAS,126.0,0,Frost Bank Center,0,0,0,1,1
-2026-05-13,8:00p,Cleveland Cavaliers,CLE,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,1,0
+2026-05-13,8:00p,Cleveland Cavaliers,CLE,117.0,Detroit Pistons,DET,113.0,1,Little Caesars Arena,0,0,0,1,1
 2026-05-15,7:00p,Detroit Pistons,DET,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,1,0
 2026-05-15,9:30p,San Antonio Spurs,SAS,,Minnesota Timberwolves,MIN,,0,Target Center,0,0,0,1,0
 2026-05-17,,Cleveland Cavaliers,CLE,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,1,0
