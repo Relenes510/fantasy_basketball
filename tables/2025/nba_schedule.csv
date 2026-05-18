@@ -1304,11 +1304,18 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-05-13,8:00p,Cleveland Cavaliers,CLE,117.0,Detroit Pistons,DET,113.0,1,Little Caesars Arena,0,0,0,1,1
 2026-05-15,7:00p,Detroit Pistons,DET,115.0,Cleveland Cavaliers,CLE,94.0,0,Rocket Arena,0,0,0,1,1
 2026-05-15,9:30p,San Antonio Spurs,SAS,139.0,Minnesota Timberwolves,MIN,109.0,0,Target Center,0,0,0,1,1
-2026-05-17,8:00p,Cleveland Cavaliers,CLE,,Detroit Pistons,DET,,0,Little Caesars Arena,0,0,0,1,0
+2026-05-17,8:00p,Cleveland Cavaliers,CLE,125.0,Detroit Pistons,DET,94.0,0,Little Caesars Arena,0,0,0,1,1
 2026-05-18,8:30p,San Antonio Spurs,SAS,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,1,0
+2026-05-19,8:00p,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,1,0
 2026-05-20,8:30p,San Antonio Spurs,SAS,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,1,0
+2026-05-21,8:00p,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,1,0
 2026-05-22,8:30p,Oklahoma City Thunder,OKC,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,1,0
+2026-05-23,8:00p,New York Knicks,NYK,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,1,0
 2026-05-24,8:00p,Oklahoma City Thunder,OKC,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,1,0
+2026-05-25,8:00p,New York Knicks,NYK,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,1,0
 2026-05-26,,San Antonio Spurs,SAS,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,1,0
+2026-05-27,,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,1,0
 2026-05-28,,Oklahoma City Thunder,OKC,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,1,0
+2026-05-29,,New York Knicks,NYK,,Cleveland Cavaliers,CLE,,0,Rocket Arena,0,0,0,1,0
 2026-05-30,,San Antonio Spurs,SAS,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,1,0
+2026-05-31,,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,1,0
