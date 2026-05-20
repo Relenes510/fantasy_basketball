@@ -1306,7 +1306,7 @@ Date,StartTime_ET,AwayTeam,AwayABV,AwayPTS,HomeTeam,HomeABV,HomePTS,is_OT,Arena,
 2026-05-15,9:30p,San Antonio Spurs,SAS,139.0,Minnesota Timberwolves,MIN,109.0,0,Target Center,0,0,0,1,1
 2026-05-17,8:00p,Cleveland Cavaliers,CLE,125.0,Detroit Pistons,DET,94.0,0,Little Caesars Arena,0,0,0,1,1
 2026-05-18,8:30p,San Antonio Spurs,SAS,122.0,Oklahoma City Thunder,OKC,115.0,2,Paycom Center,0,0,0,1,1
-2026-05-19,8:00p,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,1,0
+2026-05-19,8:00p,Cleveland Cavaliers,CLE,104.0,New York Knicks,NYK,115.0,1,Madison Square Garden (IV),0,0,0,1,1
 2026-05-20,8:30p,San Antonio Spurs,SAS,,Oklahoma City Thunder,OKC,,0,Paycom Center,0,0,0,1,0
 2026-05-21,8:00p,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,0,Madison Square Garden (IV),0,0,0,1,0
 2026-05-22,8:30p,Oklahoma City Thunder,OKC,,San Antonio Spurs,SAS,,0,Frost Bank Center,0,0,0,1,0
